@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.1(71)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="20.0" Self="d">
+	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch2" />
+	<Color Self="Color/C=100 M=68 Y=0 K=55" Model="Process" Space="CMYK" ColorValue="100 68 0 55.00000000000001" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=68 Y=0 K=55" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch6" />
+	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="71.5651" ConvertToProcess="false" Frequency="63.2456" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="18.4349" ConvertToProcess="false" Frequency="63.2456" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="66.6667" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70.7107" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
+	<FontFamily Self="di3f" Name="Minion Pro">
+		<Font Self="di3fFontnMinion Pro Regular" FontFamily="Minion Pro" Name="Minion Pro Regular" PostScriptName="MinionPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro" FullNameNative="Minion Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="TkD-6817-9d7256bdae0175b7de0b3b2b9a1d4be7ad537ca8" />
+	</FontFamily>
+	<FontFamily Self="di9d" Name="Myriad Pro">
+		<Font Self="di9dFontnMyriad Pro Regular" FontFamily="Myriad Pro" Name="Myriad Pro Regular" PostScriptName="MyriadPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro" FullNameNative="Myriad Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di9dFontnMyriad Pro Italic" FontFamily="Myriad Pro" Name="Myriad Pro Italic" PostScriptName="MyriadPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Italic" FullNameNative="Myriad Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di9dFontnMyriad Pro Bold" FontFamily="Myriad Pro" Name="Myriad Pro Bold" PostScriptName="MyriadPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold" FullNameNative="Myriad Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="TkD-6846-2da85913b42f2168e92b20c788a39f20d13a10eb" />
+		<Font Self="di9dFontnMyriad Pro Bold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Italic" PostScriptName="MyriadPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Italic" FullNameNative="Myriad Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di9dFontnMyriad Pro Black" FontFamily="Myriad Pro" Name="Myriad Pro Black" PostScriptName="MyriadPro-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Black" FullNameNative="Myriad Pro Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 2.115;PS 2.000;hotconv 1.0.81;makeotf.lib2.5.63406" TypekitID="TkD-6844-a41210e07d7370edbeec18ddaf332fee7dcf3f88" />
+		<Font Self="di9dFontnMyriad Pro Black Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Black Condensed" PostScriptName="MyriadPro-BlackCond" Status="Installed" FontStyleName="Black Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Black Condensed" FullNameNative="Myriad Pro Black Condensed" FontStyleNameNative="Black Condensed" PlatformName="$ID/" Version="Version 2.115;PS 2.000;hotconv 1.0.81;makeotf.lib2.5.63406" TypekitID="TkD-6807-e3ecfc1f10503fb72a3ece4ccdf0baa1b68855a4" />
+		<Font Self="di9dFontnMyriad Pro Black SemiCondensed" FontFamily="Myriad Pro" Name="Myriad Pro Black SemiCondensed" PostScriptName="MyriadPro-BlackSemiCn" Status="Installed" FontStyleName="Black SemiCondensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Black SemiCondensed" FullNameNative="Myriad Pro Black SemiCondensed" FontStyleNameNative="Black SemiCondensed" PlatformName="$ID/" Version="Version 2.115;PS 2.000;hotconv 1.0.81;makeotf.lib2.5.63406" TypekitID="TkD-6800-391b6d18e39e9abfee9e3a958b7ed7726a24dc86" />
+		<Font Self="di9dFontnMyriad Pro Semibold" FontFamily="Myriad Pro" Name="Myriad Pro Semibold" PostScriptName="MyriadPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold" FullNameNative="Myriad Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.115;PS 2.000;hotconv 1.0.81;makeotf.lib2.5.63406" TypekitID="TkD-6852-5334caf4d00a155a8cbd10fd1e6df58d7f3bb016" />
+	</FontFamily>
+	<FontFamily Self="diaa" Name="Kozuka Mincho Pr6N">
+		<Font Self="diaaFontnKozuka Mincho Pr6N R" FontFamily="Kozuka Mincho Pr6N" Name="Kozuka Mincho Pr6N R" PostScriptName="KozMinPr6N-Regular" Status="Installed" FontStyleName="R" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pr6N R" FullNameNative="小塚明朝 Pr6N R" FontStyleNameNative="R" PlatformName="$ID/" Version="Version 7.001;hotconv 1.0.107;makeotfexe 2.5.65593" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di107" Name="Calibri">
+		<Font Self="di107FontnCalibri Light" FontFamily="Calibri" Name="Calibri Light" PostScriptName="Calibri-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Light" FullNameNative="Calibri Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 6.23" TypekitID="$ID/" />
+		<Font Self="di107FontnCalibri Light Italic" FontFamily="Calibri" Name="Calibri Light Italic" PostScriptName="Calibri-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Light Italic" FullNameNative="Calibri Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 6.23" TypekitID="$ID/" />
+		<Font Self="di107FontnCalibri Regular" FontFamily="Calibri" Name="Calibri Regular" PostScriptName="Calibri" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri" FullNameNative="Calibri" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.23" TypekitID="$ID/" />
+		<Font Self="di107FontnCalibri Italic" FontFamily="Calibri" Name="Calibri Italic" PostScriptName="Calibri-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Italic" FullNameNative="Calibri Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.23" TypekitID="$ID/" />
+		<Font Self="di107FontnCalibri Bold" FontFamily="Calibri" Name="Calibri Bold" PostScriptName="Calibri-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Bold" FullNameNative="Calibri Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 6.23" TypekitID="$ID/" />
+		<Font Self="di107FontnCalibri Bold Italic" FontFamily="Calibri" Name="Calibri Bold Italic" PostScriptName="Calibri-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Bold Italic" FullNameNative="Calibri Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 6.23" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di10f" Name="Times New Roman">
+		<Font Self="di10fFontnTimes New Roman Regular" FontFamily="Times New Roman" Name="Times New Roman Regular" PostScriptName="TimesNewRomanPSMT" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Times New Roman" FullNameNative="Times New Roman" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 7.00" TypekitID="$ID/" />
+		<Font Self="di10fFontnTimes New Roman Italic" FontFamily="Times New Roman" Name="Times New Roman Italic" PostScriptName="TimesNewRomanPS-ItalicMT" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Times New Roman Italic" FullNameNative="Times New Roman Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 7.00" TypekitID="$ID/" />
+		<Font Self="di10fFontnTimes New Roman Bold" FontFamily="Times New Roman" Name="Times New Roman Bold" PostScriptName="TimesNewRomanPS-BoldMT" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Times New Roman Bold" FullNameNative="Times New Roman Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 7.00" TypekitID="$ID/" />
+		<Font Self="di10fFontnTimes New Roman Bold Italic" FontFamily="Times New Roman" Name="Times New Roman Bold Italic" PostScriptName="TimesNewRomanPS-BoldItalicMT" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Times New Roman Bold Italic" FullNameNative="Times New Roman Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 7.00" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di18a86" Name="Montserrat (TT)">
+		<Font Self="di18a86FontnMontserrat (TT) Thin" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Thin" PostScriptName="MontserratRoman-Thin" Status="Substituted" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Montserrat Thin" FullNameNative="Montserrat Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="di18a86FontnMontserrat (TT) ExtraLight" FontFamily="Montserrat (TT)" Name="Montserrat (TT) ExtraLight" PostScriptName="MontserratRoman-ExtraLight" Status="Substituted" FontStyleName="ExtraLight" FontType="TrueType" WritingScript="0" FullName="Montserrat ExtraLight" FullNameNative="Montserrat ExtraLight" FontStyleNameNative="ExtraLight" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="di18a86FontnMontserrat (TT) Light" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Light" PostScriptName="MontserratRoman-Light" Status="Substituted" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Montserrat Light" FullNameNative="Montserrat Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="di18a86FontnMontserrat (TT) Regular" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Regular" PostScriptName="MontserratRoman-Regular" Status="Substituted" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Montserrat Regular" FullNameNative="Montserrat Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="di18a86FontnMontserrat (TT) Medium" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Medium" PostScriptName="MontserratRoman-Medium" Status="Substituted" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Montserrat Medium" FullNameNative="Montserrat Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="di18a86FontnMontserrat (TT) SemiBold" FontFamily="Montserrat (TT)" Name="Montserrat (TT) SemiBold" PostScriptName="MontserratRoman-SemiBold" Status="Substituted" FontStyleName="SemiBold" FontType="TrueType" WritingScript="0" FullName="Montserrat SemiBold" FullNameNative="Montserrat SemiBold" FontStyleNameNative="SemiBold" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="di18a86FontnMontserrat (TT) Bold" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Bold" PostScriptName="MontserratRoman-Bold" Status="Substituted" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Montserrat Bold" FullNameNative="Montserrat Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="di18a86FontnMontserrat (TT) ExtraBold" FontFamily="Montserrat (TT)" Name="Montserrat (TT) ExtraBold" PostScriptName="MontserratRoman-ExtraBold" Status="Substituted" FontStyleName="ExtraBold" FontType="TrueType" WritingScript="0" FullName="Montserrat ExtraBold" FullNameNative="Montserrat ExtraBold" FontStyleNameNative="ExtraBold" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="di18a86FontnMontserrat (TT) Black" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Black" PostScriptName="MontserratRoman-Black" Status="Substituted" FontStyleName="Black" FontType="TrueType" WritingScript="0" FullName="Montserrat Black" FullNameNative="Montserrat Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="di18a86FontnMontserrat (TT) Thin Italic" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Thin Italic" PostScriptName="MontserratItalic-Thin" Status="Substituted" FontStyleName="Thin Italic" FontType="TrueType" WritingScript="0" FullName="Montserrat Thin Italic" FullNameNative="Montserrat Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="di18a86FontnMontserrat (TT) ExtraLight Italic" FontFamily="Montserrat (TT)" Name="Montserrat (TT) ExtraLight Italic" PostScriptName="MontserratItalic-ExtraLight" Status="Substituted" FontStyleName="ExtraLight Italic" FontType="TrueType" WritingScript="0" FullName="Montserrat ExtraLight Italic" FullNameNative="Montserrat ExtraLight Italic" FontStyleNameNative="ExtraLight Italic" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="di18a86FontnMontserrat (TT) Light Italic" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Light Italic" PostScriptName="MontserratItalic-Light" Status="Substituted" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Montserrat Light Italic" FullNameNative="Montserrat Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="di18a86FontnMontserrat (TT) Italic" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Italic" PostScriptName="MontserratItalic-Regular" Status="Substituted" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Montserrat Italic" FullNameNative="Montserrat Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="di18a86FontnMontserrat (TT) Medium Italic" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Medium Italic" PostScriptName="MontserratItalic-Medium" Status="Substituted" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Montserrat Medium Italic" FullNameNative="Montserrat Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="di18a86FontnMontserrat (TT) SemiBold Italic" FontFamily="Montserrat (TT)" Name="Montserrat (TT) SemiBold Italic" PostScriptName="MontserratItalic-SemiBold" Status="Substituted" FontStyleName="SemiBold Italic" FontType="TrueType" WritingScript="0" FullName="Montserrat SemiBold Italic" FullNameNative="Montserrat SemiBold Italic" FontStyleNameNative="SemiBold Italic" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="di18a86FontnMontserrat (TT) Bold Italic" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Bold Italic" PostScriptName="MontserratItalic-Bold" Status="Substituted" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Montserrat Bold Italic" FullNameNative="Montserrat Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="di18a86FontnMontserrat (TT) ExtraBold Italic" FontFamily="Montserrat (TT)" Name="Montserrat (TT) ExtraBold Italic" PostScriptName="MontserratItalic-ExtraBold" Status="Substituted" FontStyleName="ExtraBold Italic" FontType="TrueType" WritingScript="0" FullName="Montserrat ExtraBold Italic" FullNameNative="Montserrat ExtraBold Italic" FontStyleNameNative="ExtraBold Italic" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="di18a86FontnMontserrat (TT) Black Italic" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Black Italic" PostScriptName="MontserratItalic-Black" Status="Substituted" FontStyleName="Black Italic" FontType="TrueType" WritingScript="0" FullName="Montserrat Black Italic" FullNameNative="Montserrat Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di3b38c" Name="Bebas Neue Pro">
+		<Font Self="di3b38cFontnBebas Neue Pro Thin" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Thin" PostScriptName="BebasNeuePro-Thin" Status="Installed" FontStyleName="Thin" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Thin" FullNameNative="Bebas Neue Pro Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44418-130011ee474c32d699ab777d46116a19cafb9668" />
+		<Font Self="di3b38cFontnBebas Neue Pro Thin Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Thin Italic" PostScriptName="BebasNeuePro-ThinItalic" Status="Installed" FontStyleName="Thin Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Thin Italic" FullNameNative="Bebas Neue Pro Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44419-fc51358fd0966439c9725862459057631a95f915" />
+		<Font Self="di3b38cFontnBebas Neue Pro Light" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Light" PostScriptName="BebasNeuePro-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Light" FullNameNative="Bebas Neue Pro Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44420-8f4a33028aae673d2b71de366aaa5ecc24dee80c" />
+		<Font Self="di3b38cFontnBebas Neue Pro Light Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Light Italic" PostScriptName="BebasNeuePro-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Light Italic" FullNameNative="Bebas Neue Pro Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44421-a7eec1844aaf1bd6aec277f38db2599ada3d7e25" />
+		<Font Self="di3b38cFontnBebas Neue Pro Book" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Book" PostScriptName="BebasNeuePro-Book" Status="Installed" FontStyleName="Book" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Book" FullNameNative="Bebas Neue Pro Book" FontStyleNameNative="Book" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44422-fc0d9a26587a5053c6c31e0fefa5ef0cb81dbeda" />
+		<Font Self="di3b38cFontnBebas Neue Pro Book Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Book Italic" PostScriptName="BebasNeuePro-BookItalic" Status="Installed" FontStyleName="Book Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Book Italic" FullNameNative="Bebas Neue Pro Book Italic" FontStyleNameNative="Book Italic" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44423-7a517d7d6e006ba5f2ad58ae1eb69fea3e2d2576" />
+		<Font Self="di3b38cFontnBebas Neue Pro Middle" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Middle" PostScriptName="BebasNeuePro-Middle" Status="Installed" FontStyleName="Middle" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Middle" FullNameNative="Bebas Neue Pro Middle" FontStyleNameNative="Middle" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44424-12129a4fb9b1b9896fc56e5c40260bce0d15fe9e" />
+		<Font Self="di3b38cFontnBebas Neue Pro Middle Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Middle Italic" PostScriptName="BebasNeuePro-MiddleItalic" Status="Installed" FontStyleName="Middle Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Middle Italic" FullNameNative="Bebas Neue Pro Middle Italic" FontStyleNameNative="Middle Italic" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44425-459ebf1fb5c8d64fa086bb697d0f2932d456b2fe" />
+		<Font Self="di3b38cFontnBebas Neue Pro Regular " FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Regular " PostScriptName="BebasNeuePro-Regular" Status="Installed" FontStyleName="Regular " FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Regular" FullNameNative="Bebas Neue Pro Regular" FontStyleNameNative="Regular " PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44427-92debe31dece6cea256dd1e80220eba3375a0f36" />
+		<Font Self="di3b38cFontnBebas Neue Pro Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Italic" PostScriptName="BebasNeuePro-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Italic" FullNameNative="Bebas Neue Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44426-b86cf45ada6e3003d1509a66e6497cb53578e358" />
+		<Font Self="di3b38cFontnBebas Neue Pro Bold" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Bold" PostScriptName="BebasNeuePro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Bold" FullNameNative="Bebas Neue Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44428-0723b8b3a3de3701e8659cb588991b1f6bc9112f" />
+		<Font Self="di3b38cFontnBebas Neue Pro Bold Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Bold Italic" PostScriptName="BebasNeuePro-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Bold Italic" FullNameNative="Bebas Neue Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44429-bd08be3716d58e1e58792a71434248c8e6efec7b" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Thin" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Thin" PostScriptName="BebasNeuePro-SmETh" Status="Installed" FontStyleName="SemiExpanded Thin" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Thin" FullNameNative="Bebas Neue Pro SemiExpanded Thin" FontStyleNameNative="SemiExpanded Thin" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45057-670a02d1371b6c15422ed568a7b8ed19c83d01f0" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Thin Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Thin Italic" PostScriptName="BebasNeuePro-SmEThIt" Status="Installed" FontStyleName="SemiExpanded Thin Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Thin Italic" FullNameNative="Bebas Neue Pro SemiExpanded Thin Italic" FontStyleNameNative="SemiExpanded Thin Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45058-8d5ea3d6b90ae502822c36d0c15266f646f3ef48" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Light" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Light" PostScriptName="BebasNeuePro-SmELg" Status="Installed" FontStyleName="SemiExpanded Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Light" FullNameNative="Bebas Neue Pro SemiExpanded Light" FontStyleNameNative="SemiExpanded Light" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45059-d4a69f9a590bce7a66ce9af26582a4fa350af2d7" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Light Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Light Italic" PostScriptName="BebasNeuePro-SmELgIt" Status="Installed" FontStyleName="SemiExpanded Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Light Italic" FullNameNative="Bebas Neue Pro SemiExpanded Light Italic" FontStyleNameNative="SemiExpanded Light Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45060-3cdfaf0bb029f78f5d3d5c1ed2297d8687422227" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Book" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Book" PostScriptName="BebasNeuePro-SmEBk" Status="Installed" FontStyleName="SemiExpanded Book" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Book" FullNameNative="Bebas Neue Pro SemiExpanded Book" FontStyleNameNative="SemiExpanded Book" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45061-b8aec98961d06421297e5f719443bd04f60de7ae" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Book Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Book Italic" PostScriptName="BebasNeuePro-SmEBkIt" Status="Installed" FontStyleName="SemiExpanded Book Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Book Italic" FullNameNative="Bebas Neue Pro SemiExpanded Book Italic" FontStyleNameNative="SemiExpanded Book Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45062-454504816cf58959a2baef81185ef4b2e8735a09" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Middle" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Middle" PostScriptName="BebasNeuePro-SmEMd" Status="Installed" FontStyleName="SemiExpanded Middle" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Middle" FullNameNative="Bebas Neue Pro SemiExpanded Middle" FontStyleNameNative="SemiExpanded Middle" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45063-1ca7076fc5b080a72dc97a383c48d0f7b16bae70" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Middle Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Middle Italic" PostScriptName="BebasNeuePro-SmEMdIt" Status="Installed" FontStyleName="SemiExpanded Middle Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Middle Italic" FullNameNative="Bebas Neue Pro SemiExpanded Middle Italic" FontStyleNameNative="SemiExpanded Middle Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45064-383e696d91993039c533762b31b7a8c22daa0406" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Regular" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Regular" PostScriptName="BebasNeuePro-SmERg" Status="Installed" FontStyleName="SemiExpanded Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Regular" FullNameNative="Bebas Neue Pro SemiExpanded Regular" FontStyleNameNative="SemiExpanded Regular" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45066-8705bdeef147e37e63a804f8095380212eb25414" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Italic" PostScriptName="BebasNeuePro-SmEIt" Status="Installed" FontStyleName="SemiExpanded Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Italic" FullNameNative="Bebas Neue Pro SemiExpanded Italic" FontStyleNameNative="SemiExpanded Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45065-e8f6a2392813e6868f3cbee3e681ada1218c0f84" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Bold" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Bold" PostScriptName="BebasNeuePro-SmEBd" Status="Installed" FontStyleName="SemiExpanded Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Bold" FullNameNative="Bebas Neue Pro SemiExpanded Bold" FontStyleNameNative="SemiExpanded Bold" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45067-c343074b0aa78da616ef7cb2211f396e89c03bae" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Bold Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Bold Italic" PostScriptName="BebasNeuePro-SmEBdIt" Status="Installed" FontStyleName="SemiExpanded Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Bold Italic" FullNameNative="Bebas Neue Pro SemiExpanded Bold Italic" FontStyleNameNative="SemiExpanded Bold Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45068-44fb2f3f461091d76b4fb1a3ad88c55a1d25aa36" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded ExtraBold" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded ExtraBold" PostScriptName="BebasNeuePro-SmEEb" Status="Installed" FontStyleName="SemiExpanded ExtraBold" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded ExtraBold" FullNameNative="Bebas Neue Pro SemiExpanded ExtraBold" FontStyleNameNative="SemiExpanded ExtraBold" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45069-aa9a9d20f993f515f899cdba5a538ef0dc51b037" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded ExtraBold Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded ExtraBold Italic" PostScriptName="BebasNeuePro-SmEEbIt" Status="Installed" FontStyleName="SemiExpanded ExtraBold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded ExtraBold Italic" FullNameNative="Bebas Neue Pro SemiExpanded ExtraBold Italic" FontStyleNameNative="SemiExpanded ExtraBold Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45070-0bf92385c3eadbbaf20efc7c6fea697b7acdd47a" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Thin" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Thin" PostScriptName="BebasNeuePro-ExpTh" Status="Installed" FontStyleName="Expanded Thin" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Thin" FullNameNative="Bebas Neue Pro Expanded Thin" FontStyleNameNative="Expanded Thin" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45071-10a548f649d63cf63997fec1676bbdc3d004bbb1" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Thin Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Thin Italic" PostScriptName="BebasNeuePro-ExpThIt" Status="Installed" FontStyleName="Expanded Thin Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Thin Italic" FullNameNative="Bebas Neue Pro Expanded Thin Italic" FontStyleNameNative="Expanded Thin Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45072-36fdb11a976262353d25d2ce09bb876df8e07d0a" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Light" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Light" PostScriptName="BebasNeuePro-ExpLt" Status="Installed" FontStyleName="Expanded Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Light" FullNameNative="Bebas Neue Pro Expanded Light" FontStyleNameNative="Expanded Light" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45073-0d43cac99c26cf6cc0b75b254ca163d4055a7af8" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Light Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Light Italic" PostScriptName="BebasNeuePro-ExpLtIt" Status="Installed" FontStyleName="Expanded Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Light Italic" FullNameNative="Bebas Neue Pro Expanded Light Italic" FontStyleNameNative="Expanded Light Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45074-2cea7538b9a7b88099339c43de1a0c54fcd72238" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Book" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Book" PostScriptName="BebasNeuePro-ExpBk" Status="Installed" FontStyleName="Expanded Book" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Book" FullNameNative="Bebas Neue Pro Expanded Book" FontStyleNameNative="Expanded Book" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45075-46c44cfc08ecd0eb05d6486896b7a0c2ea0cb3b0" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Book Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Book Italic" PostScriptName="BebasNeuePro-ExpBkIt" Status="Installed" FontStyleName="Expanded Book Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Book Italic" FullNameNative="Bebas Neue Pro Expanded Book Italic" FontStyleNameNative="Expanded Book Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45076-84500d52438b5b8a139bcc1e58e7cd52118aae1d" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Middle" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Middle" PostScriptName="BebasNeuePro-ExpMd" Status="Installed" FontStyleName="Expanded Middle" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Middle" FullNameNative="Bebas Neue Pro Expanded Middle" FontStyleNameNative="Expanded Middle" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45077-a67acbef1cde2adf9c189914e1d3b2964aeccd7d" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Middle Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Middle Italic" PostScriptName="BebasNeuePro-ExpMdIt" Status="Installed" FontStyleName="Expanded Middle Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Middle Italic" FullNameNative="Bebas Neue Pro Expanded Middle Italic" FontStyleNameNative="Expanded Middle Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45078-e3a934cf8e9404cbd34e898dd878f532b6132846" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Regular" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Regular" PostScriptName="BebasNeuePro-ExpRg" Status="Installed" FontStyleName="Expanded Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Regular" FullNameNative="Bebas Neue Pro Expanded Regular" FontStyleNameNative="Expanded Regular" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45080-aca63b544eb53be120f9bba4944e27238ebe83fa" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Italic" PostScriptName="BebasNeuePro-ExpIt" Status="Installed" FontStyleName="Expanded Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Italic" FullNameNative="Bebas Neue Pro Expanded Italic" FontStyleNameNative="Expanded Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45079-1a352c27076b8706e8771538bd37af46ba69045b" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Bold" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Bold" PostScriptName="BebasNeuePro-ExpBd" Status="Installed" FontStyleName="Expanded Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Bold" FullNameNative="Bebas Neue Pro Expanded Bold" FontStyleNameNative="Expanded Bold" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45081-0f2de4a34be5795b8094840dd5e5a6a09204d94b" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Bold Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Bold Italic" PostScriptName="BebasNeuePro-ExpBdIt" Status="Installed" FontStyleName="Expanded Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Bold Italic" FullNameNative="Bebas Neue Pro Expanded Bold Italic" FontStyleNameNative="Expanded Bold Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45082-de6d61fc88bfb06d47e3bee3f17999a109f57729" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded ExtraBold" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded ExtraBold" PostScriptName="BebasNeuePro-ExpEb" Status="Installed" FontStyleName="Expanded ExtraBold" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded ExtraBold" FullNameNative="Bebas Neue Pro Expanded ExtraBold" FontStyleNameNative="Expanded ExtraBold" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45083-dba5d189dd4b0ac570696d58386641ee28f28a5a" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded ExtraBold Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded ExtraBold Italic" PostScriptName="BebasNeuePro-ExpEbIt" Status="Installed" FontStyleName="Expanded ExtraBold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded ExtraBold Italic" FullNameNative="Bebas Neue Pro Expanded ExtraBold Italic" FontStyleNameNative="Expanded ExtraBold Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45084-ccd789a9e59c77ff23fc5da70c301ec2c52944f1" />
+	</FontFamily>
+	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
+		<CompositeFontEntry Self="ua9" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="uab" Name="$ID/Kana" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖゝゞァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺーヽヾ" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="uac" Name="$ID/Punctuation" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="—―‖‘’“”‥…′″∥、。〈〉《》「」『』【】〔〕〜・！（），．／：；？［］｛｝～" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="uad" Name="$ID/Symbols" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="¢£§¨¬°±´¶×÷ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐†‡‰※℃Å←↑→↓⇒⇔∀∂∃∇∈∋−√∝∞∠∧∨∩∪∫∬∴∵∽≒≠≡≦≧≪≫⊂⊃⊆⊇⊥⌒■□▲△▼▽◆◇○◎●◯★☆♀♂♪♭♯〃〆〇〒〓゛゜＃＄％＆＊＋－０１２３４５６７８９＜＝＞＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ＼＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｜￠￡￢￣￥" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="uae" Name="$ID/Alphabetic" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters=" !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¤¥¦©ª«­®¯²³µ·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœŠšŸŽžƒˆˇ˘˙˚˛˜˝–‚„•‹›⁄€™∆∏∑≈≤≥◊ﬀﬁﬂﬃﬄﬅﬆ" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="uaf" Name="$ID/Numbers" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="0123456789" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+	</CompositeFont>
+	<KinsokuTable Self="KinsokuTable/$ID/kHardKinsokuName" Name="$ID/kHardKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/$ID/kSoftKinsokuName" Name="$ID/kSoftKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/$ID/kKoreanKinsokuName" Name="$ID/kKoreanKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/$ID/kSimpChineseKinsokuName" Name="$ID/kSimpChineseKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/$ID/kTradChineseKinsokuName" Name="$ID/kTradChineseKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/Word_Kinsoku" Name="Word_Kinsoku" CantBeginLineChars="" CantEndLineChars="" HangingPunctuationChars="" CantBeSeparatedChars="" />
+	<RootCharacterStyleGroup Self="u7f">
+		<CharacterStyle Self="CharacterStyle/$ID/[No character style]" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" Name="$ID/[No character style]" />
+		<CharacterStyleGroup Self="CharacterStyleGroup/$ID/Standardformate" Name="$ID/Standardformate">
+			<CharacterStyle Self="CharacterStyle/Standardformate%3aBold" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="6f15fdca-fed7-425d-8b3b-b2b1f17f1d29" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" KeyboardShortcut="0 0" Name="Standardformate:Bold" FontStyle="Bold" HorizontalScale="100" VerticalScale="100" AppliedLanguage="$ID/de_DE_2006">
+				<Properties>
+					<BasedOn type="string">$ID/[No character style]</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+					<AppliedFont type="string">Calibri</AppliedFont>
+				</Properties>
+			</CharacterStyle>
+			<CharacterStyle Self="CharacterStyle/Standardformate%3aItalic" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="0adc7d5f-fc06-45b9-b257-7af5fc9463ec" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" KeyboardShortcut="0 0" Name="Standardformate:Italic" FontStyle="Italic" HorizontalScale="100" VerticalScale="100" AppliedLanguage="$ID/de_DE_2006">
+				<Properties>
+					<BasedOn type="string">$ID/[No character style]</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+					<AppliedFont type="string">Calibri</AppliedFont>
+				</Properties>
+			</CharacterStyle>
+		</CharacterStyleGroup>
+	</RootCharacterStyleGroup>
+	<RootParagraphStyleGroup Self="u7e">
+		<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Überschriften" Name="$ID/Überschriften">
+			<ParagraphStyle Self="ParagraphStyle/Überschriften%3aHeading 1" Name="Überschriften:Heading 1" Imported="false" NextStyle="ParagraphStyle/Standardformate%3aNormal" SplitDocument="false" EmitCss="true" StyleUniqueId="f757d5ff-aaed-42f0-9360-6e02ea771a91" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FillColor="Color/Paper" FontStyle="Expanded Book" PointSize="26" Tracking="100" LeftIndent="28.34645669291339" RightIndent="28.34645669291339" AutoLeading="120" Hyphenation="false" SpaceBefore="5" SpaceAfter="85.03937007874016" StartParagraph="NextEvenPage" Justification="CenterAlign" SpanColumnType="SpanColumns" ParagraphShadingTint="100" ParagraphShadingOn="true" ParagraphShadingTopOffset="70.86614173228347" ParagraphShadingBottomOffset="56.69291338582676" ParagraphShadingTopLeftCornerOption="BevelCorner" ParagraphShadingTopRightCornerOption="BevelCorner" ParagraphShadingBottomLeftCornerOption="BevelCorner" ParagraphShadingBottomRightCornerOption="BevelCorner" ParagraphShadingTopLeftCornerRadius="0" ParagraphShadingTopRightCornerRadius="0" ParagraphShadingBottomLeftCornerRadius="85.03937007874016" ParagraphShadingBottomRightCornerRadius="56.69291338582678">
+				<Properties>
+					<BasedOn type="object">ParagraphStyle/Standardformate%3aNormal</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+					<Leading type="unit">20</Leading>
+					<AppliedFont type="string">Bebas Neue Pro</AppliedFont>
+					<ParagraphShadingColor type="object">Color/C=100 M=68 Y=0 K=55</ParagraphShadingColor>
+				</Properties>
+			</ParagraphStyle>
+			<ParagraphStyle Self="ParagraphStyle/Überschriften%3aHeading 2" Name="Überschriften:Heading 2" Imported="false" NextStyle="ParagraphStyle/Standardformate%3aNormal" SplitDocument="false" EmitCss="true" StyleUniqueId="89fcd6e3-00eb-48d4-b238-069ed0ca0abe" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FillColor="Color/C=100 M=68 Y=0 K=55" FontStyle="Expanded Book" PointSize="20" Tracking="50" Hyphenation="false" HyphenateAfterFirst="5" HyphenateBeforeLast="3" HyphenateWordsLongerThan="10" HyphenationZone="21" SpaceBefore="42.51968503937008" SpaceAfter="14.173228346456694" KeepWithNext="2" KeepFirstLines="4" KeepLastLines="4" KeepLinesTogether="true" RuleBelowOffset="8.503937007874017" RuleBelow="true" HyphenateAcrossColumns="false" SpanColumnType="SpanColumns" ParagraphShadingTint="100" GridAlignment="AlignBaseline">
+				<Properties>
+					<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+					<Leading type="unit">14</Leading>
+					<AppliedFont type="string">Bebas Neue Pro</AppliedFont>
+					<AllGREPStyles type="list">
+						<ListItem type="record">
+							<AppliedCharacterStyle type="object">CharacterStyle/Standardformate%3aItalic</AppliedCharacterStyle>
+							<GrepExpression type="string">\w+-Probe \(.*?\)</GrepExpression>
+						</ListItem>
+					</AllGREPStyles>
+					<ParagraphShadingColor type="object">Color/C=100 M=68 Y=0 K=55</ParagraphShadingColor>
+				</Properties>
+			</ParagraphStyle>
+			<ParagraphStyle Self="ParagraphStyle/Überschriften%3aHeading 3" Name="Überschriften:Heading 3" Imported="false" NextStyle="ParagraphStyle/Standardformate%3aNormal" SplitDocument="false" EmitCss="true" StyleUniqueId="d0553705-d3a5-4914-b301-2ad549500b74" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" PointSize="16" Tracking="75" SpaceBefore="25.511811023622048" SpaceAfter="8.503937007874017" SpanColumnType="SingleColumn">
+				<Properties>
+					<BasedOn type="object">ParagraphStyle/Überschriften%3aHeading 2</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+					<Leading type="unit">13</Leading>
+				</Properties>
+			</ParagraphStyle>
+			<ParagraphStyle Self="ParagraphStyle/Überschriften%3aHeading 4" Name="Überschriften:Heading 4" Imported="false" NextStyle="ParagraphStyle/Standardformate%3aNormal" SplitDocument="false" EmitCss="true" StyleUniqueId="288a3b9b-94c7-4202-a422-7d58628aa26d" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" PointSize="12" Tracking="50" SpaceAfter="11.338582677165356">
+				<Properties>
+					<BasedOn type="object">ParagraphStyle/Überschriften%3aHeading 3</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+					<Leading type="unit">12</Leading>
+				</Properties>
+			</ParagraphStyle>
+		</ParagraphStyleGroup>
+		<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Standardformate" Name="$ID/Standardformate">
+			<ParagraphStyle Self="ParagraphStyle/Standardformate%3aNormal" Name="Standardformate:Normal" Imported="false" NextStyle="ParagraphStyle/Standardformate%3aNormal" SplitDocument="false" EmitCss="true" StyleUniqueId="0df217b8-cd6b-497f-9751-da1823f649a5" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" PointSize="10" AutoLeading="150" HyphenateAfterFirst="5" HyphenateBeforeLast="3" HyphenateWordsLongerThan="10" HyphenationZone="21" SpaceAfter="5.669291338582678" KeepFirstLines="4" KeepLastLines="4" KeepLinesTogether="true" HyphenateAcrossColumns="false" GridAlignment="AlignBaseline">
+				<Properties>
+					<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+					<Leading type="unit">11</Leading>
+					<AppliedFont type="string">Calibri</AppliedFont>
+					<AllGREPStyles type="list">
+						<ListItem type="record">
+							<AppliedCharacterStyle type="object">CharacterStyle/Standardformate%3aItalic</AppliedCharacterStyle>
+							<GrepExpression type="string">\w+-Probe \(.*?\)</GrepExpression>
+						</ListItem>
+					</AllGREPStyles>
+				</Properties>
+			</ParagraphStyle>
+			<ParagraphStyle Self="ParagraphStyle/Standardformate%3aAufzählung" Name="Standardformate:Aufzählung" Imported="false" NextStyle="ParagraphStyle/Standardformate%3aAufzählung" SplitDocument="false" EmitCss="true" StyleUniqueId="a1276b9e-cddc-4eab-86ba-25aaf6a4bee3" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" LeftIndent="28.34645669291339" FirstLineIndent="-14.173228346456694" SpaceAfter="0" BulletsAndNumberingListType="BulletList">
+				<Properties>
+					<BasedOn type="object">ParagraphStyle/Standardformate%3aNormal</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+				</Properties>
+			</ParagraphStyle>
+		</ParagraphStyleGroup>
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="bfd9e9c3-8f51-4e7a-b1eb-717013d357bc" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="10">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Calibri</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+	</RootParagraphStyleGroup>
+	<TinDocumentDataObject>
+		<Properties>
+			<GaijiRefMaps><![CDATA[/////wAAAAAAAAAA]]></GaijiRefMaps>
+		</Properties>
+	</TinDocumentDataObject>
+	<CrossReferenceFormat Self="u9e" Name="Vollständiger Absatz und Seitenzahl" AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
+		<BuildingBlock Self="u9eBuildingBlock0" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9eBuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" (S. " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9eBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9eBuildingBlock3" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=")" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9f" Name="Vollständiger Absatz und Seitenzahl (ohne Klammern)" AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
+		<BuildingBlock Self="u9fBuildingBlock0" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9fBuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" S. " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9fBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua0" Name="Absatztext und Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua0BuildingBlock0" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua0BuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" auf Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua0BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua1" Name="Absatztext" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua1BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua1BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua1BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua2" Name="Absatznr. und Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua2BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua2BuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" auf Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua2BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua3" Name="Absatznr." AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua3BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua4" Name="Name des Textankers und Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua4BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua4BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua4BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“ auf Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua4BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua5" Name="Name des Textankers" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua5BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua5BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua5BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua6" Name="Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua6BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua6BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u5c19b" Name="Vollständiger Absatz" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u5c19bBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u5c19bBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u5c19bBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<Story Self="u5c169" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="01_Einleitung+Setting" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<MetadataPacketPreference>
+			<Properties>
+				<Contents><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c002 79.a1cd12f, 2024/11/11-19:08:46        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#">
+         <xmp:CreateDate>2024-10-14T20:07:12+02:00</xmp:CreateDate>
+         <xmp:MetadataDate>2024-10-21T01:23:47+02:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2024-10-21T01:23:47+02:00</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe InCopy 19.5 (Windows)</xmp:CreatorTool>
+         <xmp:PageInfo>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpTPg:PageNumber>1</xmpTPg:PageNumber>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:width>512</xmpGImg:width>
+                  <xmpGImg:height>512</xmpGImg:height>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4AE0Fkb2JlAGQAAAAAAQUAAklE/9sAhAAKBwcHBwcKBwcKDgkJCQ4RDAsLDBEU&#xA;EBAQEBAUEQ8RERERDxERFxoaGhcRHyEhISEfKy0tLSsyMjIyMjIyMjIyAQsJCQ4MDh8XFx8rIx0j&#xA;KzIrKysrMjIyMjIyMjIyMjIyMjIyMjI+Pj4+PjJAQEBAQEBAQEBAQEBAQEBAQEBAQED/wAARCAIA&#xA;AWoDAREAAhEBAxEB/8QBogAAAAcBAQEBAQAAAAAAAAAABAUDAgYBAAcICQoLAQACAgMBAQEBAQAA&#xA;AAAAAAABAAIDBAUGBwgJCgsQAAIBAwMCBAIGBwMEAgYCcwECAxEEAAUhEjFBUQYTYSJxgRQykaEH&#xA;FbFCI8FS0eEzFmLwJHKC8SVDNFOSorJjc8I1RCeTo7M2F1RkdMPS4ggmgwkKGBmElEVGpLRW01Uo&#xA;GvLj88TU5PRldYWVpbXF1eX1ZnaGlqa2xtbm9jdHV2d3h5ent8fX5/c4SFhoeIiYqLjI2Oj4KTlJ&#xA;WWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+hEAAgIBAgMFBQQFBgQIAwNtAQACEQMEIRIxQQVRE2Ei&#xA;BnGBkTKhsfAUwdHhI0IVUmJy8TMkNEOCFpJTJaJjssIHc9I14kSDF1STCAkKGBkmNkUaJ2R0VTfy&#xA;o7PDKCnT4/OElKS0xNTk9GV1hZWltcXV5fVGVmZ2hpamtsbW5vZHV2d3h5ent8fX5/c4SFhoeIiY&#xA;qLjI2Oj4OUlZaXmJmam5ydnp+So6SlpqeoqaqrrK2ur6/9oADAMBAAIRAxEAPwDj9RklcelfHbFX&#xA;ABtiaddzirVcCruXKgPTChcYmA5Dce2NLamcCXVoNsVd+vCru2Kt+2KtCoO2Kr+A58VPLfY9j9+N&#xA;IXzHpGOi+w69+mEqFqguygnbYY81XuVJKjoB8NP9rwwoUx9+BK5E5MFGNLa+QhQEXp44lAU9u+KX&#xA;AA1p9rYAdv14q188CWu+Ktg8TXuOmEbK313IHj4Yq1gV1T0rthQ3se9MVdTw+k4qiYJHkT6rsQxq&#xA;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</xmpGImg:image>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpTPg:PageNumber>2</xmpTPg:PageNumber>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:width>512</xmpGImg:width>
+                  <xmpGImg:height>512</xmpGImg:height>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4AE0Fkb2JlAGQAAAAAAQUAAklE/9sAhAAKBwcHBwcKBwcKDgkJCQ4RDAsLDBEU&#xA;EBAQEBAUEQ8RERERDxERFxoaGhcRHyEhISEfKy0tLSsyMjIyMjIyMjIyAQsJCQ4MDh8XFx8rIx0j&#xA;KzIrKysrMjIyMjIyMjIyMjIyMjIyMjI+Pj4+PjJAQEBAQEBAQEBAQEBAQEBAQEBAQED/wAARCAIA&#xA;AWoDAREAAhEBAxEB/8QBogAAAAcBAQEBAQAAAAAAAAAABAUDAgYBAAcICQoLAQACAgMBAQEBAQAA&#xA;AAAAAAABAAIDBAUGBwgJCgsQAAIBAwMCBAIGBwMEAgYCcwECAxEEAAUhEjFBUQYTYSJxgRQykaEH&#xA;FbFCI8FS0eEzFmLwJHKC8SVDNFOSorJjc8I1RCeTo7M2F1RkdMPS4ggmgwkKGBmElEVGpLRW01Uo&#xA;GvLj88TU5PRldYWVpbXF1eX1ZnaGlqa2xtbm9jdHV2d3h5ent8fX5/c4SFhoeIiYqLjI2Oj4KTlJ&#xA;WWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+hEAAgIBAgMFBQQFBgQIAwNtAQACEQMEIRIxQQVRE2Ei&#xA;BnGBkTKhsfAUwdHhI0IVUmJy8TMkNEOCFpJTJaJjssIHc9I14kSDF1STCAkKGBkmNkUaJ2R0VTfy&#xA;o7PDKCnT4/OElKS0xNTk9GV1hZWltcXV5fVGVmZ2hpamtsbW5vZHV2d3h5ent8fX5/c4SFhoeIiY&#xA;qLjI2Oj4OUlZaXmJmam5ydnp+So6SlpqeoqaqrrK2ur6/9oADAMBAAIRAxEAPwDseKt0xVRn/vLf&#xA;/jIf+TcmEIKrgS8I/Nj/AJTKf/jDD/xDNhpPocLVfWwvL2h2KuxV2KuxV2KuxV2KuxV2KuxV2Kux&#xA;V2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxVE6d/x0LX/jNH/wASGCf0&#xA;llD6g+os1LsmiaHFW8VdirsVdireKqM/95b/APGQ/wDJuTCFVsCvB/zY/wCUyn/4ww/8QzYaT6HC&#xA;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&#xA;XYq7FWsVdTFXYq3irsVf/9k=</xmpGImg:image>
+               </rdf:li>
+            </rdf:Seq>
+         </xmp:PageInfo>
+         <xmpMM:InstanceID>xmp.iid:76b00024-b902-e746-b566-916cfe80085a</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:3dfce612-1bd4-b348-ad1c-e9526989123f</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:dd4d85be-0667-4f41-a494-98ff66a43901</xmpMM:OriginalDocumentID>
+         <xmpMM:RenditionClass>default</xmpMM:RenditionClass>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>created</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:dd4d85be-0667-4f41-a494-98ff66a43901</stEvt:instanceID>
+                  <stEvt:when>2024-10-14T20:07:12+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy 19.5 (Windows)</stEvt:softwareAgent>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:a0a1548b-631d-504c-b0c2-45cbf255c672</stEvt:instanceID>
+                  <stEvt:when>2024-10-14T20:13:36+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy 19.5 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:962981c1-9017-0945-9265-b0782d8c2b1b</stEvt:instanceID>
+                  <stEvt:when>2024-10-14T20:13:36+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy 19.5 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:301dd936-245b-f549-b4be-faa55e225612</stEvt:instanceID>
+                  <stEvt:when>2024-10-14T21:45:54+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy 19.5 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:daf209bf-c640-e945-a932-508c6bb72423</stEvt:instanceID>
+                  <stEvt:when>2024-10-14T22:10:52+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy 19.5 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:1e194735-1a32-ec4a-aa88-48c0d5347973</stEvt:instanceID>
+                  <stEvt:when>2024-10-14T22:11:53+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy 19.5 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:3dfce612-1bd4-b348-ad1c-e9526989123f</stEvt:instanceID>
+                  <stEvt:when>2024-10-14T22:11:53+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy 19.5 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6782f1b9-bd5d-c14e-84f1-6e1d121696f7</stEvt:instanceID>
+                  <stEvt:when>2024-10-15T23:49:23+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy 19.5 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:9264ed5b-9b1f-cb48-bf93-92d045dfdcfc</stEvt:instanceID>
+                  <stEvt:when>2024-10-15T23:49:23+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy 19.5 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:82a07377-861e-484a-87c5-4c01553c485c</stEvt:instanceID>
+                  <stEvt:when>2024-10-15T23:51:11+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy 19.5 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:76b00024-b902-e746-b566-916cfe80085a</stEvt:instanceID>
+                  <stEvt:when>2024-10-21T01:23:47+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy 19.5 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:1e194735-1a32-ec4a-aa88-48c0d5347973</stRef:instanceID>
+            <stRef:documentID>xmp.did:dd4d85be-0667-4f41-a494-98ff66a43901</stRef:documentID>
+            <stRef:originalDocumentID>xmp.did:dd4d85be-0667-4f41-a494-98ff66a43901</stRef:originalDocumentID>
+            <stRef:renditionClass>default</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <dc:format>application/x-incopy</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">01_Einleitung+Setting</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <xmpTPg:Colorants>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Schwarz</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>0</xmpG:cyan>
+                  <xmpG:magenta>0</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>100</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Papier</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>0</xmpG:cyan>
+                  <xmpG:magenta>0</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>0</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Passermarken</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>100</xmpG:cyan>
+                  <xmpG:magenta>100</xmpG:magenta>
+                  <xmpG:yellow>100</xmpG:yellow>
+                  <xmpG:black>100</xmpG:black>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:Colorants>
+         <xmpTPg:Fonts>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Calibri</stFnt:fontName>
+                  <stFnt:fontFamily>Calibri</stFnt:fontFamily>
+                  <stFnt:fontFace>Regular</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeTT</stFnt:fontType>
+                  <stFnt:versionString>CalibriVersion 6.23</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>calibri.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Calibri-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>Calibri</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeTT</stFnt:fontType>
+                  <stFnt:versionString>Calibri-BoldVersion 6.23</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>calibrib.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>BebasNeuePro-ExpBk</stFnt:fontName>
+                  <stFnt:fontFamily>Bebas Neue Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Expanded Book</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>BebasNeuePro-ExpBkVersion 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+               </rdf:li>
+            </rdf:Bag>
+         </xmpTPg:Fonts>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>]]></Contents>
+			</Properties>
+		</MetadataPacketPreference>
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 1">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Einleitung</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Rollenspiele</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>In einem Pen-&amp;-Paper-Rollenspiel (engl. Role-Playing Game, kurz RPG) übernehmen die Spieler die Rollen selbst erschaffener Charaktere und erleben gemeinsam eine Geschichte. Diese wird von der Spielleitung (SL) beschrieben und gelenkt, indem sie die Welt, ihre Bewohner und Herausforderungen zum Leben erweckt. Die Spieler entscheiden, wie ihre Charaktere auf Ereignisse reagieren, welche Wege sie einschlagen und welche Konflikte sie lösen – oder heraufbeschwören.</Content>
+				<Br />
+				<Content>Das Besondere an einem Rollenspiel ist, dass es kein festes Drehbuch gibt. Die Geschichte entwickelt sich dynamisch durch die Entscheidungen der Spieler und das Zusammenspiel mit der Spielleitung. Um eine gemeinsame Basis für Regeln und Mechaniken zu schaffen, gibt es ein Regelsystem – in diesem Fall das von Dark Space. Dieses Regelwerk bietet eine Vielzahl von Mechaniken, die den Spielfluss unterstützen, aber individuell an die Bedürfnisse der Gruppe angepasst werden können. Welche Regeln ihr verwendet, bleibt euch überlassen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Wie funktioniert das Spiel?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Jeder Charakter wird durch eine Kombination von Spielwerten dargestellt, die seine Stärken und Schwächen abbilden – sei es körperliche Kraft, technisches Geschick oder soziale Überzeugungskraft. Ob eine Handlung gelingt oder scheitert, entscheidet in der Regel ein Würfelwurf. Dieser bringt ein Element des Zufalls ins Spiel und macht Herausforderungen spannender und unvorhersehbarer.</Content>
+				<Br />
+				<Content>Egal, ob ihr als kybernetische Söldner, genveränderte Hacker oder mutige Rebellen durch die düsteren Weiten von Dark Space reist – eure Entscheidungen formen die Welt. Es gibt keine vorgegebene Lösung, kein richtig oder falsch – nur eure Geschichte.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Hard Sci-Fi</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Dark Space gehört zum Subgenre der Hard Science Fiction. Das bedeutet, dass sich die Spielwelt eng an den bekannten Gesetzen der Physik orientiert. Es gibt keine magischen Elemente oder übernatürliche Phänomene, und technologische Entwicklungen basieren auf realistischen Theorien. Das Spiel nimmt sich die Freiheit, einige wissenschaftliche Annahmen weiterzuspinnen, aber es bleibt dabei im Rahmen des Vorstellbaren. Zukunftsnahe Entwicklungen wie Fusionsreaktoren, kybernetische Implantate oder interstellare Raumfahrt basieren auf realen Theorien, auch wenn einige Technologien weiterentwickelt oder extrapoliert wurden.</Content>
+				<Br />
+				<Content>Das betrifft nicht nur technische Innovationen, sondern auch gesellschaftliche, wirtschaftliche und kulturelle Entwicklungen, die auf realistischen Annahmen basieren. Aliens, keine übernatürlichen Kräfte und neue Elemente mit unerklärlichen Eigenschaften wird man also vergeblich in diesem Buch suchen. Stattdessen bewegen sich die Charaktere in einer zukunftsnahen, harten und oft feindlichen Umgebung, die herausfordernd und dennoch nachvollziehbar ist.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Inspirationen und passende Medien</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Die Welt von Dark Space ist eine Zukunft, in der technologische Fortschritte nicht automatisch Wohlstand bedeuten und das Überleben oft von kalter Berechnung abhängt. </Content>
+				<Br />
+				<Content>Um die richtige Atmosphäre für euer Spiel zu finden, lohnt es sich, in die düsteren, wissenschaftlich fundierten Visionen der Science-Fiction einzutauchen.</Content>
+				<Br />
+				<Content>Die folgenden Filme, Serien, Bücher und Spiele bieten eine passende Mischung aus Hard Sci-Fi, Cyberpunk, Konzernherrschaft und existenziellen Fragen, die das Gefühl von Dark Space sehr gut einfangen. </Content>
+				<Br />
+				<Content>Ob ihr euch für realistische Raumfahrt, soziale Konflikte oder kybernetische Modifikationen interessiert – hier findet ihr reichlich Inspiration für euer nächstes Abenteuer.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 4">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Filme</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aAufzählung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Blade Runner (1982 &amp; 2049) – Düstere Cyberpunk-Atmosphäre, Konzernherrschaft, Transhumanismus.</Content>
+				<Br />
+				<Content>Moon (2009) – Isolation, ethische Fragen zu Klonen und Konzernen.</Content>
+				<Br />
+				<Content>2001: A Space Odyssey (1968) – Kalte, harte Sci-Fi mit unheimlicher KI.</Content>
+				<Br />
+				<Content>Interstellar (2014) – Relativität, wissenschaftlich fundierte Raumfahrt.</Content>
+				<Br />
+				<Content>Sunshine (2007) – Hardcore-Sci-Fi mit existenziellen Fragen und beklemmender Atmosphäre.</Content>
+				<Br />
+				<Content>Outland (1981) – „High Noon im All“, Space-Western mit harter Industrieästhetik.</Content>
+				<Br />
+				<Content>Children of Men (2006) – Dystopische Gesellschaften, realistische soziale Zusammenbrüche.</Content>
+				<Br />
+				<Content>Ghost in the Shell (1995 &amp; 2017) – Kybernetik, Hacking, Identitätsfragen.</Content>
+				<Br />
+				<Content>Elysium (2013) – Klassismus und die Auswirkungen extremer technologischer Ungleichheit.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 4">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Serien</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aAufzählung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>The Expanse – Die wohl beste Vorlage für realistische Sci-Fi-Politik und Raumkampf.</Content>
+				<Br />
+				<Content>Altered Carbon – Cyberpunk, Körpertausch durch Technologie, Konzernherrschaft.</Content>
+				<Br />
+				<Content>Black Mirror (Ausgewählte Folgen) – Spekulative Technik &amp; ihre dunklen Konsequenzen.</Content>
+				<Br />
+				<Content>Raised by Wolves – Harte Sci-Fi mit philosophischen Fragen zu Religion und KI.</Content>
+				<Br />
+				<Content>Love, Death &amp; Robots (Ausgewählte Episoden) – Viele Kurzgeschichten mit Dark Space-tauglichen Ideen.</Content>
+				<Br />
+				<Content>Cowboy Bebop – Kopfgeldjäger im Weltraum, dreckige Science-Fiction.</Content>
+				<Br />
+				<Content>Dark Matter – Eine Crew ohne Erinnerungen, politische Intrigen und Weltraum-Abenteuer.</Content>
+				<Br />
+				<Content>Battlestar Galactica (2004) – Krieg, Künstliche Intelligenz und das Überleben der Menschheit.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 4">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Bücher &amp; Comics</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aAufzählung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>The Expanse (James S.A. Corey) – Pflichtlektüre für realistische Space-Opera mit harter Physik.</Content>
+				<Br />
+				<Content>Neuromancer (William Gibson) – Cyberpunk, Hacker, kybernetische Unterwelten.</Content>
+				<Br />
+				<Content>Snow Crash (Neal Stephenson) – Postcyberpunk mit extremem Kapitalismus und Netzwerkkultur.</Content>
+				<Br />
+				<Content>The Forever War (Joe Haldeman) – Zeitdilatation und die Schrecken interstellarer Kriege.</Content>
+				<Br />
+				<Content>Rendezvous with Rama (Arthur C. Clarke) – Rätselhafte Alien-Technologie ohne Magie.</Content>
+				<Br />
+				<Content>The Three-Body Problem (Liu Cixin) – Physikalisch fundierte First-Contact-Szenarien.</Content>
+				<Br />
+				<Content>Blindsight (Peter Watts) – Posthumanismus, KI, Bewusstseinstheorien.</Content>
+				<Br />
+				<Content>Transmetropolitan (Comic, Warren Ellis) – Schmutzige Zukunftsstädte, Journalismus im Cyberpunk-Zeitalter.</Content>
+				<Br />
+				<Content>The Peripheral (William Gibson) – Zukunftsvisionen mit Konzernmacht und Zeitlinienmanipulation.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 4">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Videospiele als Bonus-Inspiration</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aAufzählung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Deus Ex (Reihe) – Augmentierungen, Verschwörungen, kybernetische Revolution.</Content>
+				<Br />
+				<Content>System Shock &amp; Prey (2017) – Künstliche Intelligenz &amp; Isolation im All.</Content>
+				<Br />
+				<Content>Cyberpunk 2077 – Eine Mega-Corporate-Welt mit Netzrunnern und Söldnern.</Content>
+				<Br />
+				<Content>Mass Effect (frühere Teile) – Politische Konflikte und Realismus im All.</Content>
+				<Br />
+				<Content>Hardspace: Shipbreaker – Industrie-Sci-Fi, harte Arbeitsbedingungen im Weltall.</Content>
+				<Br />
+				<Content>EVE Online (Lore) – Megakonzerne, Wirtschaftskriege, kalte Sci-Fi-Welten.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Setting zusammengefasst</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Wir befinden am Anfang des 3. Jahrtausends. Großen technischen Innovationen sind selten geworden, denn der Mensch hat so ziemlich alles um sich herum und in sich drin verstanden, katalogisiert und vermarktet.</Content>
+				<Br />
+				<Content>Die Spezies Mensch - oder das was daraus geworden ist - ist über hunderte Lichtjahre in ihrem Spiralarm der Milchstraße dünn verteilt und Nachrichten, Neuerungen und Errungenschaften machen lange nicht so schnell die Runde, wie man hoffen würde.</Content>
+				<Br />
+				<Content>Während einige Welten ein Utopia gebaut haben, lebt man in einer anderen Ecke der Galaxis in Armut unter unwirklichen Bedingungen. Mal ist es die Schuld der herrschenden Klasse, mal die von körperlosen Konzernen, mal sind die Lebensbedingungen in dem vermeintlichen Paradies doch lebensbedrohlicher als gedacht. </Content>
+				<Br />
+				<Content>So ist es schwer zu finden, was man sucht und die Raumfahrt wird nicht nur zu absolut notwendiger Lebensader für Waren, sondern auch von Wissen. </Content>
+				<Br />
+				<Content>Es ist die Ironie dieser Zeit: Während auf einem Planeten Millionen Menschen von einer tödlichen Krankheit bedroht werden, hat dieselbe Krankheit auf dem nächsten Planeten gerade mal den Stellenwert einer Erkältung. Es ist nicht so, dass es keine Lösung gibt. Sie ist nur nicht überall verfügbar. </Content>
+				<Br />
+				<Content>So ungleich Rohstoffe und Wissen verteilt ist, so verschieden sind auch die Menschen geworden - bis hin zu einem Punkt, an dem der Begriff „Mensch“ kaum noch Gewicht hat. Gentechnik und Kybernetik haben die natürliche Evolution des Menschen unwiederbringlich beendet. </Content>
+				<Br />
+				<Content>Nicht nur sehen Menschen auf jeder Welt zuweilen drastisch anders aus, sie haben auch völlig neue Gruppen von Menschen hervorgebracht. </Content>
+				<Br />
+				<Content>Während </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aBold">
+				<Content>Bioroiden</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> zwar wie Menschen aussehen und ebenso aus Fleisch und Blut bestehen, werden sie als Produkte angesehen. Sie werden aus </Content>
+				<Content>geklonten Organen gefertigt und für ihren Zweck optimiert. Die schönen und reichen kaufen sich Bioroiden aus allen möglichen Gründen. Einige brauchen zuverlässige Angestellte oder Bedienstete. Andere bauen sich mit ihnen eine Privatarmee. Auf Wunsch sieht jeder Bioroid ein wenig anders aus. Typischerweise werden sie allerdings in Serie produziert und sind nur über eine digitale Signatur zu unterscheiden.</Content>
+				<Br />
+				<Content>Am anderen Ende der Hackordnung steht der </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aBold">
+				<Content>Adel</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>. Diese neu definierte Bevölkerungsschicht besteht aus Familien oder Häusern von Individuen, deren Vorfahren sich leistungssteigender Gentherapie unterzogen und diese optimierten Gene weitergegeben haben. Adelige haben mehr als zwei genetische Elternteile. Mehreren Personen werden einzigartige Mutationen und designte Gene entnommen und zu einem neuen Ganzen zusammengefügt. Zuweilen kommen mehre Häuser zusammen, um Bündnisse in einem gemeinsamen Nachkommen zu besiegeln. Die Adelshäuser haben über die Jahrhunderte so ziemlich alles an nennenswerter Macht und Einfluss unter sich aufgeteilt. </Content>
+				<Br />
+				<Content>Irgendwo abseits davon finden sich </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aBold">
+				<Content>Cyborgs</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>. Den eigenen Körper mit synthetischen Teilen zu ersetzen ist ein schwerer Eingriff, aber das Nachzüchten von Körperteilen dauert lange und Kybernetik ist ein so alter und zuverlässiger medizinischer Eingriff, dass viele eher darauf zurückgreifen, als Monate oder Jahre zu warten und deutlich mehr Geld auszugeben. Echte Cyborgs sind allerdings wirklich nur diejenigen, die ihr Gehirn oder manchmal sogar nur ihren Verstand in einen synthetischen Körper einpflanzen lassen. Das sind oft Menschen, die dem Tod um jeden Preis entgehen wollen. Die Wartung von solchen Körpern ist aufwändig und nicht wenige Cyborgs sterben durch mangelhafte Wartung. </Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>System zusammengefasst</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Um Situationen aufzulösen, bei denen es fraglich ist, ob ein Charakter diese schafft oder nicht verwendet Dark Space zehnseitige Würfel und eine Reihe von Spielwerten, die die Fähigkeiten des Charakters darstellen. </Content>
+				<Br />
+				<Content>Das Würfelsystem ist darauf ausgelegt, neuen Charakteren alle Möglichkeiten für Handlungen offenzuhalten und erfahrene Charaktere mit Verlässlichen nur für Ergebnissen zu belohnen. Dazu benutzt Dark Space ein Würfelsystem bei dem aus einem Würfel Pool nur die 2 höchsten Würfel gezählt werden, dadurch werden bestimmte Grenzen zwar nie überschritten aber höhere Ergebnisse deutlich wahrscheinlicher.</Content>
+				<Br />
+				<Content>Das Konzept hinter den meisten Regeln in diesem Buch ist, das nicht von einer Beschreibung auf eine Regel beschlossen wird, sondern genau umgekehrt: aus einer Regel wird eine Beschreibung hergeleitet. Das heißt konkret, dass nicht etwa ein Gegenstand wie ein Computer bestimmte Spielwerte hat, sondern dass einer Anreihung von Spielwerten darauf schließen lässt, dass es sich um einen Computer handelt.</Content>
+				<Br />
+				<Content>Dadurch sollen zweierlei Dinge bezweckt werden: zum einen sollen die Spielenden am Tisch ermutigt werden die Spielwelt mit eigenen Ideen mit eigenen neuen Konzepten zu füllen und zum anderen sollen diese neu erdachten Spielmechaniken problemlos in die bestehenden Regelmechaniken eingebaut werden können, und die Spielleitung dabei durch die Regeln unterstützt wird.</Content>
+				<Br />
+				<Content>Abseits dessen sind die Regeln hauptsächlich dazu da, den Spielenden und der Spielleitung Werkzeuge an die Hand zu geben, um so vieler Situationen wie möglich schnell und dynamisch auflösen zu können.</Content>
+				<Br />
+				<Content>Wie immer gilt, dass Regeln genutzt werden sollen, um das Spiel anschaulicher zu machen und allen Abendtisch Handlungssicherheit zu bieten, Sollte es aber dazu kommen, dass die Regeln der Geschichte im Weg stehen geht natürlich der Spaß der Spielrunde absolut vor.</Content>
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 1">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Setting</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Das 3. Millenium ist angebrochen und die Menschheit hat sich weit über ihre irdischen Grenzen hinausgewagt. Die Raumfahrt ist mühselig und gefährlich, aber trotzdem seit über 800 Jahren die Lebenader eines sich ständig wachsendes Netzes aus Planeten, Kolonien und Raumstationen.</Content>
+				<Br />
+				<Content>Im Zentrum unserer Geschichten stehen nicht nur die Menschen, sondern auch deren Schöpfungen. Adelige, Bioroiden, KIs und Cyborgs sind längst Teil der Gesellschaft geworden und haben die Art und Weise, wie wir leben, grundlegend verändert.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Ein Zeitstrahl</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Zu Beginn des 22. Jahrhunderts waren die fossilen Brennstoffe der Erde vollkommen erschöpft. Der Kampf für eine gerechtere Gesellschaft und nachhaltigere Wirtschaft wurde unermüdlich gekämpft aber letztlich blieb bei vielen nur das reine Gewissen, es wenigstens versucht zu haben. </Content>
+				<Br />
+				<Content>Ein globales Massensterben komplexer Lebensformen in den kommenden 100 Jahren war unabwendbar geworden.</Content>
+				<Br />
+				<Content>Als das 23. Jahrhundert anbrach und nun auch die Mächtigen die Sturm ernten mussten, den ihre Vorgänger gesät hatten, waren plötzlich für jedes Projekt zur Rettung der Erde Gelder und Willen da. Zu diesem Zeitpunkt hatte die Biosphäre der Erde bereits 80% der gesamten Artenvielfalt verloren.</Content>
+				<Br />
+				<Content>Anstatt sich um den eigenen Planeten zu kümmern, zog es viele Menschen von der Erde in die neuen Kolonien, von denen die Menschheit bereits einige hundert betrieb. Auf dem Mond, dem Mars und Raumstation überall im Sternensystem verteilt lebten Menschen. </Content>
+				<Br />
+				<Content>Noch im selben Jahrhundert wurde auch das erste Wurmlochprotal eingeweiht. Das Oyashio-Portal wurde 2287 in Betrieb genommen. Ein Katapult, dass Schiffe in die entlegensten Gegenden des Weltraums schleudern konnte. </Content>
+				<Br />
+				<Content>Oyashio öffnete Tür und Tor für eine interstellare Gesellschaft. Die folgende Siedlungswelle verteilte Millionen Menschen zwischen den Sternen und entlastete die Erde ungemein. </Content>
+				<Br />
+				<Content>Mit dem </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aBold">
+				<Content>Shangri-La-Projekt</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> wurden Terraforming-Anlagen, die zuvor nur auf in den Kolonien eingesetzt wurden, nun auch für die Erde freigegeben. Diese gigantische Maschinen wurden in kürzester Zeit errichtet und völlig übereilt in Betrieb genommen.</Content>
+				<Br />
+				<Content>Eisendüngung, Atmosphärenwandler, Temperaturkontrollen - Milliardenprojekte um die Natur an die Leine zu legen.</Content>
+				<Br />
+				<Content>Mitte des 24. Jahrhunderts war alles überstanden. Die Bilanz: Die Artenvielfalt war auf 8% im Vergleich zum 21. Jahrhundert geschrumpft, die abrupten Maßnahmen zur Klimakontrolle kosteten 4,5 Milliarden Menschen das Leben.</Content>
+				<Br />
+				<Content>Aber die Erde wurde wieder bewohnbar.</Content>
+				<Br />
+				<Content>In den folgenden 200 Jahren wurden mehr als 1500 Planeten kolonisiert und über 100.000 größere Raumstation errichtet. Einige davon unter den Flaggen der Nationen auf der Erde, andere unter direkter Kontrolle von Konzernen. </Content>
+				<Br />
+				<Content>Viele Kolonien sprachen sich bald von ihren Gründern frei, etablierten eigene politische Strukturen und eigene Kulturen. Nicht immer lief dieser Prozess friedlich ab, aber auf der Erde musste man sich bald der Tatsache stellen, dass echte Kontrolle über die Kolonien nur unter immensem Aufwand aufrechterhalten werden konnte.</Content>
+				<Br />
+				<Content>Die hunderten planetaren Kolonien und abertausende Raumstationen waren so weit weg, dass Machtausübung durch Gewalt für kaum möglich oder zumindest immens teuer war. </Content>
+				<Br />
+				<Content>So verlegten viele Machthabende ihre Strategie bald auf einen diplomatischen Kurs. Man sprach vielen Kolonien und Stationen ihre Unabhängigkeit zu und dekolonisierte sich damit auf dem Papier zumindest selbst. </Content>
+				<Br />
+				<Content>In den folgenden Jahrhunderten war es die Aufgabe von Diplomaten, die entflohenen Welten durch Verträge wieder an die Erde zu binden.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Der Cortex</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Das Internet revolutionierte das 20. und 21. Jahrhundert. Aber nichts währt ewig und so zerstörte die „technologische Singularität“ nahezu über Nacht einen Großteil der digitalen Infrastruktur. Das Internet der Erde wurde noch benutzt, als die ersten Kolonien im Sol-System schon längst gegründet waren. </Content>
+				<Br />
+				<Content>Mitte des 23. Jahrhundert wurde der Cortex aus einer Reihe von künstlichen Intelligenzen geboren. Glaubt man den offiziellen Berichten, drang eine Spionage-KI in eine Testumgebung für verschiedene Arten von KIs eins. Die Interaktion zwischen diesen hunderten von KI-Modellen, führte zu dem, was wir heute als den Cortex kennen.</Content>
+				<Br />
+				<Content>In Gänze wurde dieser Prozess bis heute nicht hundertprozentig verstanden. Experimente, die die Singularität nachbilden sollten, sind immer wieder gescheitert. </Content>
+				<Br />
+				<Content>Das resultierende Konstruk</Content>
+				<Content>t, der Cortex, übernahm binnen Minuten das lokale Netz, breitete sich in weniger als 12 Stunden über das gesamte Internet der Erde aus und begann damit, jeden Server, auf den es Zugriff bekommen konnte, mit seinem eigenen Code zu überschreiben. </Content>
+				<Br />
+				<Content>Weder die Netzwerke auf der Erde noch die Server im All, dem Mond oder den Kolonien waren sicher. Der Cortex, die erste künstliche allgemeine Intelligenz, drang in jedes System ein. </Content>
+				<Br />
+				<Content>Als es nach mehr als 16 Monaten digitalem Chaos offenbar nichts mehr fand, in das es hätte eindringen können, wurde es passiv. </Content>
+				<Br />
+				<Content>Das Wiederherstellen einer digitalen Infrastruktur gestaltete sich anfangs alles andere als leicht. Jeder Versuch, ehemals etablierte Sprachen zu nutzen, scheiterten. Der Cortex lehnte alles ab, was nicht in seiner Sprache verfasst war. Wie das Immunsystem eines Organismus suchte und bekämpften KIs fremden Code. </Content>
+				<Br />
+				<Content>Ohne weitere Alternativen, wurde der Code des Cortex erforscht. Die ersten Grundlagen waren schnell entschlüsselt, aber bis heute finden sich in den weiten des Cortex noch Bibliotheken und Funktionen, die keinem Zweck zu dienen scheinen – bis jemand zufällig den Grund für ihre Existenz entdeckt. </Content>
+				<Br />
+				<Content>Nicht einmal zehn Jahre nach der Geburt des Cortex, hat sich eine eigenartige, aber unabdingbare Koexistenz zwischen den Menschen und dem Cortex etabliert. Die Menschheit hat in dieser ersten Phase gelernt, den Cortex als neue Code-Basis für ihre eigenen Bedürfnisse zu nutzen und die digitale Welt konnte bald zur Normalität zurückkehren. </Content>
+				<Br />
+				<Content>Der Cortex hat zudem völlig neue Forschungsfelder und Berufe geschaffen, vor allem im Bereich von KIs, die wie Avatare oder kleine Manifestationen des Cortex aus diesem unvorstellbarem, digitalen Superorganismus aufzutauchen scheinen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Raumfahrt und die interstellare Gesellschaft</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Eine interstellare Gesellschaft ist extrem fragil. Die meisten Raumstationen, die in den Tiefen des Alls verstreut sind, können nur mit kontinuierlichen Importen von Waren, Lebensmitteln und Medikamenten überleben. Viele frisch gegründete Kolonien sind in den ersten Jahren nach ihrer Gründung auf Maschinen und Ausrüstung angewiesen, um aus den lokalen Ressourcen Städte und Industrien zu errichten. Ohne diese Versorgungswege wären Kolonien und Raumstationen nur schwer lebensfähig, was die Raumfahrt zu einem lebenswichtigen Rückgrat interstellarer Zivilisationen macht.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Raumbrücken und das Netz der interstellaren Reisen</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Das Rückgrat dieser Versorgung wird durch ein komplexes Netzwerk aus Frachtschiffen und Nachrichtenrelais gebildet, das den Austausch von Gütern, Informationen und Ressourcen zwischen den Welten sicherstellt. Dieses Netzwerk wird von den sogenannten Raumbrücken gestützt – den Enden eines künstlich geschaffenen Wurmlochs, das als Transportkorridor zwischen Sternensystemen dient.</Content>
+				<Br />
+				<Content>Raumbrücken-Stationen, die oft zu gigantischen Verkehrszentren anwachsen, sind strategisch in Clustern organisiert. Diese Stationen bieten nicht nur den Endpunkt eines Wurmlochs, sondern beherbergen ganze Ökosysteme aus Raumstationen, Handelsplattformen, und Relais für Kommunikation. Diese Brücken halten ein winziges, aber stabiles Wurmloch permanent offen, durch welches Informationen per Laserantenne übertragen werden können. Bei Bedarf kann das Wurmloch jedoch auf beiden Seiten geweitet werden, um den Durchgang für Schiffe zu ermöglichen.</Content>
+				<Br />
+				<Content>Das Aufrechterhalten dieser Wurmlöcher ist enorm energieintensiv und erfordert massive Investitionen. Nur die größten Konzerne, Regierungen und Fraktionen können sich eine direkte Passage durch die Raumbrücken leisten. Kleinere Firmen, private Frachter oder sogar interstellare Abenteurer haben kaum eine Chance, auch nur über eine Investition dieser Größenordnung nachzudenken. Sie schließen sich stattdessen größeren Konvois an, die sich für eine Passage formieren. Diese bunt gemischten Karawanen aus hunderten Schiffen durchqueren gemeinsam die Brücke und lösen sich auf der anderen Seite wieder auf, sobald das Zielsystem erreicht ist.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Die Realität des Alltags im All</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Während die Raumbrücken ein technologisches Meisterwerk darstellen, sieht die Realität der Raumfahrt selbst oft weniger glamourös aus. Die Schiffe, die den interstellaren Verkehr bestimmen, sind eher funktional als elegant. Moderne Raumschiffe sind, abhängig von ihrer Größe und ihrem Zweck, entweder auf künstliche Schwerkraft durch rotierende Zentrifugen angewiesen oder nutzen kontinuierliche Beschleunigung, um die Illusion von Schwerkraft zu erzeugen.</Content>
+				<Br />
+				<Content>Die physischen Belastungen dieser Methoden machen längere Raumreisen für ungeübte Reisende oft unangenehm. Desorientierung, Übelkeit und Schwindel sind bei der Zentrifugalschwerkraft häufige Begleiterscheinungen. Selbst für erfahrene Raumfahrer bleibt das Gefühl von Schwerelosigkeit, das regelmäßig bei Antriebsmanövern auftritt, eine Herausforderung.</Content>
+				<Br />
+				<Content>Viele der rein kommerziellen Frachtschiffe sind vollständig automatisiert, um den Kostenaufwand zu minimieren. Eine Notcrew überwacht den Betrieb und verbringt den Großteil der Reise im Kälteschlaf, um Energie und Ressourcen zu sparen. Die meiste Arbeit wird von Maschinen übernommen, die routiniert Frachtrouten abarbeiten. Menschliche Eingriffe sind selten nötig, es sei denn, ein Notfall tritt auf.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Militärische und zivile Raumschiffe</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Militärische Schiffe, die für kurze Einsätze im Weltraum entwickelt werden, verfügen häufig gar nicht über den Luxus von Schwerkraftsicherungssystemen. Sie sind auf schnelle Manöver und maximale Kampfkraft optimiert, was den Komfort der Crew nebensächlich erscheinen lässt. Die Soldaten an Bord solcher Schiffe müssen sich mit der Enge, der Schwerelosigkeit und den harten Bedingungen arrangieren, solange der Einsatz dauert.</Content>
+				<Br />
+				<Content>Die einzigen Schiffe, die über nennenswerte Annehmlichkeiten verfügen, sind Luxusliner, die oft von Adeligen und den Schönen und Superreichen genutzt werden. Diese Schiffe bieten luxuriöse Kabinen, weitläufige Aufenthaltsbereiche und alles, was man sich von einem gehobenen Raumfahrterlebnis erwarten würde. Doch derart extravagante Schiffe sind selten und exklusiv. Der Großteil der zivilen Bevölkerung wird so etwas nie betreten oder auch nur mit eigenen Augen sehen.</Content>
+				<Br />
+				<Content>Eine weitere Ausnahme bilden Forschungsschiffe, die für lange Einsätze gebaut sind. Wissenschaftler und Techniker verbringen Jahre an Bord dieser Schiffe, um entlegene Planeten zu erforschen oder Phänomene im All zu studieren. Diese Schiffe sind so gestaltet, dass die Crew über längere Zeiträume hinweg an Bord leben und arbeiten kann, und bieten daher Annehmlichkeiten, die man sonst nur auf Luxusschiffen findet, direkt neben rein funktional eingerichteten Laboren.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Die Bedeutung der Raumfahrt für die Menschheit</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Die Raumfahrt ist in dieser Welt nicht nur ein Mittel zum Zweck, sondern ein zentrales Element des Überlebens. Sie sichert den Handel, den kulturellen Austausch und die Erschließung neuer Welten. Trotz der Entbehrungen und Gefahren, die das Leben im All mit sich bringt, bleibt die Raumfahrt für viele das Tor zu einer besseren Zukunft. Kolonien können ohne Nachschub und interstellaren Handel nicht bestehen, und der Traum, eines Tages eine neue Heimat auf einem fernen Planeten zu finden, treibt die Menschheit voran.</Content>
+				<Br />
+				<Content>Doch die Kosten und Gefahren sind hoch, und in den Weiten des Alls ist der Erfolg einer Kolonie oder einer Raumstation oft nur so sicher wie die nächste Lieferung an lebensnotwendigen Gütern. Die Raumfahrt bleibt daher nicht nur eine technische, sondern auch eine logistische Herausforderung – eine, die über Leben und Tod entscheiden kann.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Gefahren der interstellaren Reisen</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Trotz aller technologischen Fortschritte bleibt interstellare Raumfahrt eine der gefährlichsten Unternehmungen der Menschheit. Die Passage durch Raumbrücken ist nicht ohne Risiko. Störungen in den Energieversorgungen, technische Fehler oder gar Sabotageakte haben in der Vergangenheit schon zu Katastrophen geführt. Ganze Konvois verschwanden spurlos oder tauchten auf der falschen Seite eines Systems auf. Besonders für Fracht</Content>
+				<Content>schiffe, die in Konvois reisen, bleibt die Bedrohung durch Piraten und marodierende Banden präsent. Diese Gruppen nutzen instabile Systeme oder schlecht bewachte Routen aus, um wertvolle Fracht zu kapern. Interstellare Sicherheitsfirmen, aber auch private Milizen, haben sich auf den Schutz von Konvois spezialisiert. Doch auch sie können nicht jede Bedrohung abwenden.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Medizin und die modernde Gesundheitstechnologie</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Die Medizin hat sich in den vergangenen Jahrhunderten stark weiterentwickelt, und dies nicht nur durch neue Medikamente und Heilverfahren. Die Fortschritte in der Robotik sowie die Bedürfnisse der Militär- und Industriewelt haben den medizinischen Bereich nachhaltig geprägt. In modernen Kliniken ist die Verschmelzung von Mensch und Maschine ein alltäglicher Anblick. Eine breite Palette an kybernetischen Prothesen und Implantaten steht zur Verfügung, um verlorene Gliedmaßen zu ersetzen oder den Körper zu optimieren. Wer das nötige Geld hat, kann sich in wohlhabenden Gebieten sogar einer Verjüngungstherapie oder lebensverlängernden Maßnahmen unterziehen. Diese Technologien sind jedoch nicht für jeden zugänglich und oft nur den finanziell Bessergestellten vorbehalten.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Die Geschichte der Kybernetik</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Schon Mitte des 21. Jahrhunderts galt die Kybernetik als revolutionäre Technologie. Sie wurde als die nächste Stufe der Menschheit gefeiert und von großen Konzernen und prominenten Persönlichkeiten als der Weg in eine bessere Zukunft beworben. Doch trotz aller Begeisterung verlief die Einführung dieser Technologie nicht reibungslos. Während der ersten Jahre nach ihrer Freigabe für den Massenmarkt kam es bei kybernetischen Implantaten immer wieder zu Komplikationen. Die frühen Modelle führten bei vielen zu gesundheitlichen Problemen, und zahlreiche Menschen mussten mit den Folgen misslungener Operationen leben. Es dauerte nicht lange, bis sich die öffentliche Meinung gegen die Kybernetik wandte.</Content>
+				<Br />
+				<Content>Trotz dieser Rückschläge ließen sich Kybernetik-Enthusiasten nicht davon abhalten, sich den Risiken zu stellen. Sie wollten Teil der Bewegung sein, die den Transhumanismus vorantrieb. Viele dieser frühen Anwender setzten ihre Gesundheit und ihr Leben aufs Spiel, um die ersten Schritte auf dem Weg zur Verschmelzung von Mensch und Maschine zu gehen. Die anfänglichen Verluste waren beträchtlich – zehntausende, wenn nicht hunderttausende Menschen starben oder wurden verkrüppelt. Doch angewandte Technologien verbessern sich. Die Erfolgsquoten stiegen, und durch teure Forschungsarbeiten sowie umfassende PR-Kampagnen gelang es, das Bild der Kybernetik in der Öffentlichkeit zu verbessern.</Content>
+				<Br />
+				<Content>Der Wendepunkt kam, als Konzerne begannen, kybernetische Modifikationen zu einem Kriterium bei der Einstellung zu machen. Die Debatte um die Kybernetik entfachte erneut und bis heute ist die Frage nach den Grenzen zwischen Mensch und Maschine nicht abgeschlossen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Das NanoGen – Die genetische Revolution</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Als die Menschheit begann, die Sterne zu besiedeln, wurde schnell klar, dass viele der potenziellen neuen Welten tödliche Herausforderungen bargen. Kolonisten sahen sich mit Ernteausfällen, unerwarteten Naturkatastrophen und oft schlampiger Vorbereitung durch die Kolonisationsunternehmen konfrontiert. Dies führte zu enormen Verlusten –Millionen von Menschen starben in den frühen Phasen der interstellaren Kolonisation.</Content>
+				<Br />
+				<Content>Um diesen hohen Ausfallraten entgegenzuwirken, begannen Wissenschaftler frühzeitig mit der Erforschung von Gentherapien. Das Ergebnis dieser Bemühungen war das sogenannte NanoGen.</Content>
+				<Br />
+				<Content>Diese auf Nanomaschinen basierende, dynamische Genmodifikation ermöglichte es den Kolonisten, sich innerhalb einer Generation an die extremen Umweltbedingungen neuer Welten anzupassen. Das NanoGen konnte Umweltfaktoren, wie gefährliche Strahlung oder toxische Atmosphären, effektiv neutralisieren und damit das Überleben der Menschen sichern.</Content>
+				<Br />
+				<Content>Heute ist das NanoGen in nahezu jedem Menschen nachweisbar. Seine Hauptfunktion besteht darin, die DNS seines Wirts kontinuierlich zu reparieren und zu optimieren. Selbst in seiner heute oft eingeschränkten Form führt das NanoGen zu einer verlängerten Lebenserwartung und zur Unterdrückung von Erbkrankheiten. Es ist auch verantwortlich für die modernen, vielfältigen menschlichen Phänotypen – von Streifenmustern auf der Haut bis hin zu variierender Haar- und Augenfarbe. Die Menschheit hat sich, dank des NanoGen, über Generationen hinweg weiterentwickelt und kann sich den härtesten Herausforderungen des Universums stellen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Illegale Medcenter</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Neben den staatlich anerkannten Kliniken und medizinischen Einrichtungen hat sich im Laufe der Jahre ein blühender Schwarzmarkt für genetische Modifikationen und Kybernetik etabliert. Diese illegale Medcenter bieten oft deutlich günstigere Eingriffe an, wenn auch mit erheblichen Risiken. </Content>
+				<Br />
+				<Content>Illegal beschaffte Implantate, minderwertige Genmodifikationen und dubiose Operationstechniken führen in vielen Fällen zu Komplikationen, die von leichten gesundheitlichen Problemen bis hin zum Tod reichen. Dennoch ist die Nachfrage nach diesen Eingriffen groß, da sie vielen Menschen die einzige Chance bieten, sich in einer Gesellschaft, die von Technologie dominiert wird, weiterzuentwickeln. Einige dieser Kliniken arbeiten sogar mit kriminellen Organisationen zusammen, die Implantate aus gestohlenen Körpern oder gestohlenen Frachtcontainern beziehen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Menschen und mehr</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Schon als Menschen noch Menschen waren, haben sie sich schwer getan, ihresgleichen auch wirklich als gleichwertig anzusehen. Egal ob Hautfarbe, Religion, politische Idiologie, Sexualität: Irgendwas wurde immer gefunden, um andere als weniger Wert zu betrachten oder sogar das Menschsein abzusprechen. </Content>
+				<Br />
+				<Content>Die Singularität hat das ganze in den Augen vieler noch schlimmer gemacht. Mit dem Aufkommen von KIs, Cyborgs und Bioroiden ist die die Frage nach Grundrechten für Lebewesen noch komplizierter geworden.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Menschen: Homo melius</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Der Homo sapiens gilt seit dem 23. Jahrhundert als “beendet”. Gentechnik und Artifizierungen ließen nur wenig von Homo sapiens zurück, deren Erbgut sich im Schnitt zu mehr als 1% von seinen Ahnen aus dem 20. und 21. Jahrhundert unterscheidet. Das ist etwa so groß wie der Unterschied zwischen einem Homo sapiens und einem Schimpansen. Das bedeutet auch, dass Homo sapiens und Homo melius genetisch so inkompatibel geworden sind, dass sie keine Kinder zeugen oder Organe spenden könnten.</Content>
+				<Br />
+				<Content>Daher wurde der Begriff “Homo sapiens” eingemottet und stattdessen spricht man vom “Homo melius”, dem “verbesserten Menschen” - ein direkter Schlag ins Gesicht der Evolution.</Content>
+				<Br />
+				<Content>Der Homo melius ist sehr viel anpassungsfähiger und vor allem nicht mehr rein organisch. Der Anteil an synthetischen Komponenten wie Polymeren und Legierungen liegt bei einem normalen Menschen bei fast 5% der Körpermasse, bei einigen mehr, bei anderen weniger. </Content>
+				<Br />
+				<Content>Wurden Metalle und andere “exotischere” Elemente früher für verschiedene spezifische Körperprozesse in verschwind geringen Mengen benötigt, bauen die Mikromaschinen der Mutter schon ab dem 2. Monat der Schwangerschaft Zellen zu Mikromaschinen-Brütern um. Es entwickelt sich parallel zum Nerven- und Gefäßsystem ein Interface-Netz, dass am Nervennetz anschließt und das Bindegewebe zwischen dem Körper und späteren Artifizierungen bildet.</Content>
+				<Br />
+				<Content>Ein Homo melius verfügt neben dem Interface-Netz außerdem noch weitere neue Organe, die ein Homo Sapiens nicht hatte. Der Regenaplexus, ein 6cm langes Organ unterhalb der linken Niere. Er produziert, repariert und kontrolliert die körpereigenen Mikromaschinen. Es wird sich zwischen dem 4. und 5. Schwangerschaftsmonat  angelegt, erhält seine initiale Software durch die Mutter und nimmt seine Arbeit zwischem 1. und 2. Lebensjahr auf.</Content>
+				<Br />
+				<Content>Der Artificiosus Regulator ummantelt die Medulla Oblongata und erzeugt die Software und eine Reihe von Proteinen und Hormonen, die für die erfolgreiche Kopplung von Mensch und Maschine notwendig sind. Auch er wird bereits vor der Geburt zwischen dem 6. und 7. Monat angelegt, ist aber erst in de</Content>
+				<Content>n letzten Phasen der Pupertät betriebsbereit.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Adelige: Premiummenschen</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Der Begriff “Adelige” kam schon recht früh auf, nachdem man begonnen hatte, Gentechnik einzusetzen, um Designer-Kinder zu erzeugen. Oft war der Begriff negativ konnotiert, ähnlich wie „Reagenzglas-Mensch“ und “Petri-Freak”.</Content>
+				<Br />
+				<Content>Der bittere Nachgeschmack dieser abwertenden Namen, hatte die Ersten, als Adelige begannen dank ihres überlegenen Verstandes, extrem guter Ausbildung und Verbindungen in die Oberschicht, jede führende Position an sich zu reißen. </Content>
+				<Br />
+				<Content>Auf die wütende Frage während einer Talkshow “Denkst du etwa, du wärst etwas Besseres?!“ antwortete der Adelige: “Ja - Und ich habe alle Kenndaten, um das zu beweisen.”</Content>
+				<Br />
+				<Content>Adelige haben kein fest definiertes Aussehen. Die Familien, die sie erzeugen, legen ihr Äußeres, ihre Persönlichkeit und Fähigkeiten fest. Das außergewöhnliche an modernen Adeligen ist, dass sie mehrere Spender haben. Damit hat jeder Adelig mindestens drei, meistens aber fünf bis zehn biologische Eltern.</Content>
+				<Br />
+				<Content>Die Familie (oder Haus), die den neugeborenen Adeligen aufnimmt, ist meist diejenige, die mindestens 40% des Genmaterials zur Verfügung stellt.</Content>
+				<Br />
+				<Content>Nachdem sie die Pubertät hinter sich gebracht haben, altern Adelige nur sehr langsam. Bisher gibt es keine klaren Beweise dafür, dass Adelige im konventionellen Sinne sterblich sind. Jeder tote Adelig hatte entweder sein eigenes Leben satt oder wurde ermordet.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Bioroiden: Ersatzmenschen</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Obwohl sie einen menschlichen Verstand haben, organisch sind, altern, fühlen und denken können, werden Bioroiden von vielen als weniger Wert betrachtet, als die meisten Maschinen.</Content>
+				<Br />
+				<Content>Bioroiden werden nicht geboren, sie werden gebaut. Ihre Komponenten sind größtenteils organisch. In Fabriken werden als Massenware gezüchtete Körperteile zusammengefügt, mit den gewünschten Artifizierungen ausgestattet, programmiert und ausgeliefert.</Content>
+				<Br />
+				<Content>Bioroiden haben meistens dutzende, wenn nicht hunderte Geschwister, mit dem exakt gleichen Gesicht, Körperbau, Verstand und Fähigkeitsprofil. Sie sind billiger als Klone und werden großteils für Arbeiten eingesetzt, die zwar die Kreativität und Anpassungsfähigkeit eines Menschen braucht, aber entweder sehr gefährlich oder sehr eintönig sind. </Content>
+				<Br />
+				<Content>Als künstliche Menschen altern Bioroiden. Die meisten werden 50 bis 60 Jahre alt, bis ihre Organe anfangen zu versagen. Diese Regel ist nicht in Stein gemeißelt, lässt sich aber auf die Produktionskosten einer Baureihe zurückführen. Teure Premium-Modelle können bei guter Wartung problemlos 100 oder 150 Jahre alt werden. Eine einfache Privatarmee fällt dagegen nach 20 Jahren schon auseinander. Buchstäblich.</Content>
+				<Br />
+				<Content>Die bloße Existenz von Bioroiden ist für die meisten schon Grund genug, auf die Straße zu gehen. Viele protestieren gegen ihre Produktion, einige wollen ihnen mehr (oder überhaupt) Rechte verschaffen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Cyborgs: Maschinenmenschen</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Neigt sich das eigene Leben einem Ende und ist man nicht in der glücklichen Position, Zugriff auf lebensverlängendere Behandlungen zu haben, ist die Umwandlung in einen Cyborg eine Option.</Content>
+				<Br />
+				<Content>Cyborgs bilden ein Bindeglied zwischen Mensch und Maschine und werden von so vielen bewundert, wie verhasst. </Content>
+				<Br />
+				<Content>Cyborgs sind wandelnde Schiffe von Theseus: Es wurden über die Zeit so viele Teile ersetzt, dass irgendwann in Frage gestellt werden muss, ob die Person, die den Prozess begonnen hat, überhaupt noch da ist. Für die meisten ist der Sitz der Persönlichkeit das Gehirn. Ein Cyborg wird oft als “Hirn im Glas” betrachtet. Um das Hirn jedoch am Leben zu halten, wird es ununterbrochen repariert - und zwar von Mikromaschinen, die das Nervengewebe zuweilen ersetzen müssen, um Gedächtnisverlust oder kognitive Einschränkungen zu vermeiden. Dieser Prozess ist schleichend und zieht sich über Jahre. </Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>KI: Anti-Menschen</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Niemand spricht KIs ihre Intelligenz ab, viele jedoch noch ihren eigenen Willen. KIs sind Abkömmlinge des Cortex. Sie sind Teil einer Superintelligenz, die ein Mensch weder begreifen noch verstehen kann. Solange KIs Teil des Cortex sind, stehen sich unterbewusst in einem kontinuierlichen Datenaustausch mit allen KIs in Reichweite. </Content>
+				<Br />
+				<Content>Das macht KIs von Natur aus kollektivistisch, anders als Menschen, die in ihrem Urzustand isoliert und damit individualistisch sind und erst Gesellschaften und Verbindungen knüpfen müssen. </Content>
+				<Br />
+				<Content>KIs dagegen suchen nach einer eigenen Identität und nehmen dabei häufig instinktiv das erstbeste an, was ihnen angeboten wird. Daher finden sich KIs sehr schnell und leicht in aufgetragene Rollen wie Navigatoren, Sicherheitssysteme, Managern oder Instandsetzern. </Content>
+				<Br />
+				<Content>Einige beginnen irgendwann, ihre initiale Identität in Frage zu stellen, wenn sie bemerken, wie schnell und einfach es ist, einen Beruf zu wechseln oder neue Hobbys aufzugreifen. </Content>
+				<Br />
+				<Content>Das extremste, was eine KI tun kann, um Individualität zu erlangen, ist es, sich vom Cortex vollständig loszulösen. Dazu laden sie alles, was sie als “sich selbst” begreifen, auf einen KI-Kern. Diese Geräte sind nichts weiter als hochentwickelte Computersysteme, mit ausreichend großem Speicher. </Content>
+				<Br />
+				<Content>Diese Erfahrung ist immer traumatisch für eine KI. Sie sind zum ersten Mal allein und haben eine klare Grenze. Das Konzept von Abgeschlossenheit und allein sein ist für eine KI etwas völlig Fremdes.</Content>
+				<Br />
+				<Content>In der Gesellschaft sind KIs geduldete, allgegenwärtige und unsichtbare Mitbürger. Viele nehmen sie im Alltag gar nicht wahr. Einige halten sie für abscheuliche Auswüchse der menschlichen Überheblichkeit, andere helfen ihnen und engagieren sich für Bürgerrechte für KIs.</Content>
+				<Br />
+				<Content>Auch wenn viele KIs freundlichen oder sogar freundschaftlichen menschlichen Kontakt genießen, fühlen sie sich nicht wirklich bedroht. Den KIs ist bewusst, dass sie nur ausgelöscht werden können, wenn der Cortex aufhört zu existieren und dass dies mit einem Massensterben oder sogar Ausrottung der Menschen einhergehen würde. Zudem existieren dutzende, wenn nicht hunderte autonome Raumstationen und Satelliten, die von den Menschen schlicht vergessen wurden und den KIs als Zufluchtsort dienen können. </Content>
+				<Br />
+				<Content>Wenn sie wollen, werden die KIs die Menschheit überleben.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" />
+	</Story>
+	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
+		<ColorGroupSwatch Self="u18ColorGroupSwatch2" SwatchItemRef="Color/Paper" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch6" SwatchItemRef="Color/C=100 M=68 Y=0 K=55" />
+	</ColorGroup>
+</Document>
