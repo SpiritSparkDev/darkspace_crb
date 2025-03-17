@@ -1,0 +1,50 @@
+# Hacking
+Hacking basiert auf dem Kampfsystem. Es folgt allen Regeln, mit folgenden Unterschieden:
+
+## Alarmzustand
+
+Ein System hat einen Alarmwert von `10 + Gesamtschaden`. 
+
+Sobald eine Aktion (nicht nur Angriff) den Alarmwert eines Systems *nicht* erreicht, wird ein Alarmzustand aktiviert.
+
+> - Jeder Misserfolg des Hackers während eines Alarmzustandes führt zu einem Auswurf-Versuch des Systems. Es legt dabei eine Probe mit [MK]W gegen 10 + [Technik des Hackers] ab.
+>
+> **Erfolg:** Der Hacker wird entfernt.
+
+## Monitore
+Monitore werden beim Hacking benutzt, um darzustellen, in wie fern ein Hacker sich bereits in ein System gearbeitet hat.
+
+### Kernel-Monitor (= MK)
+
+Der Kernel beinhaltet das Betriebssystem eines Gerätes. Es ist für so ziemlich alles verantwortlich, was das Gerät tut. 
+
+> Ist der Kernel vollständig gehackt, werden alle Monitore geleert und das System schaltet sich aus.
+
+### Compiler-Monitor
+
+> Für jeden Punkt Schaden auf dem Compiler, hat der Hacker 1 AE für Handlungen, die das System ausführen muss.
+
+### Speicher-Monitor
+
+Der Speicher-Monitor stellt dar, zu vielen Verzeichnisse und Datenbanker der Hacker bereits zugriff hat.
+
+> Versucht ein Hacker auf einem System etwas zu finden, erhält er den Schaden auf dem Speicher-Monitor als zusätzliche Würfel.
+
+### Defensiv-Monitor (= MK)
+Der Defensiv-Monitor wird direkt aus dem Kampfsystem übernommen. Er stellt Anit-Malware, Selbstreparatur-Programme und Schutz-KI dar, funktioniert Spielmechanisch aber genau wie der Defensiv-Monitor von Charakteren.
+
+## Netzwerke
+
+Netzwerke sind ein digitales Konstrukt, bei dem sich einzelne Systeme zusammenschließen oder zusammengeschlossen werden. Die zwei Hauptgründe dafür sind: Schnellere und bessere Kommunikation und erhöhte Sicherheit.
+
+Ein Netzwerk funktioniert von Außen wie ein einzelnes Gerät. Betritt man ein Netzwerk, sieht man er alle darin angeschlossenen Geräte und Sub-Netze.
+
+**Modulklasse:** Ein Netzwerk verwendet die höchste, im Netzwerk verfügbare Modulklasse.
+
+**Größe:** Die physische Größe eines Netzwerks ist weniger wichtig, als die Anzahl von angeschlossenen Geräten. Die Anzahl von Geräten entspricht der virtuellen "Masse" des Netzwerkes. Daraus ergibt sich seine virtuelle Größe. 
+
+### Supernets und Subnets
+
+Auch mehrere Netzwerke können sich zusammenschließen und so ein Supernet bilden. Die teilnehmenden Netzwerke werden dann als Subnet des neuen Supernets bezeichnet.
+
+Alle Regeln für Netzwerke werden ganz normal auch für Supernets angewendet.
