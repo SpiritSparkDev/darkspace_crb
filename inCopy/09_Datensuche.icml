@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.1(71)" ?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.2(36)" ?>
 <?aid SnippetType="InCopyInterchange"?>
-<Document DOMVersion="20.0" Self="d">
+<Document DOMVersion="20.2" Self="d">
 	<Color Self="Color/C=100 M=68 Y=0 K=55" Model="Process" Space="CMYK" ColorValue="100 68 0 55.00000000000001" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=68 Y=0 K=55" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch6" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch3" />
 	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch2" />
@@ -474,7 +474,6 @@
 			<GaijiRefMaps><![CDATA[/////wAAAAAAAAAA]]></GaijiRefMaps>
 		</Properties>
 	</TinDocumentDataObject>
-	<TextVariable Self="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" VariableType="XrefPageNumberType" />
 	<CrossReferenceFormat Self="u9e" Name="Vollständiger Absatz und Seitenzahl" AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 		<BuildingBlock Self="u9eBuildingBlock0" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 		<BuildingBlock Self="u9eBuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" (S. " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
@@ -606,6 +605,10 @@
                   <stEvt:action>converted</stEvt:action>
                   <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <dc:format>application/x-incopy</dc:format>
@@ -673,15 +676,6 @@
                   <stFnt:versionString>Calibri-BoldVersion 6.23</stFnt:versionString>
                   <stFnt:composite>false</stFnt:composite>
                   <stFnt:fontFileName>calibrib.ttf</stFnt:fontFileName>
-               </rdf:li>
-               <rdf:li rdf:parseType="Resource">
-                  <stFnt:fontName>Calibri-Italic</stFnt:fontName>
-                  <stFnt:fontFamily>Calibri</stFnt:fontFamily>
-                  <stFnt:fontFace>Italic</stFnt:fontFace>
-                  <stFnt:fontType>OpenTypeTT</stFnt:fontType>
-                  <stFnt:versionString>Calibri-ItalicVersion 6.23</stFnt:versionString>
-                  <stFnt:composite>false</stFnt:composite>
-                  <stFnt:fontFileName>calibrii.ttf</stFnt:fontFileName>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stFnt:fontName>BebasNeuePro-ExpBk</stFnt:fontName>
@@ -1048,7 +1042,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Aktion: Wahrnehmung (Zielwert)</Content>
+				<Content>Aktion: Wahrnehmung (20-[Größe])</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1383,26 +1377,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Schwellen: Die Spielleitung kann die Tabelle „Schwellen von Kenntnissen“ nutzen, um festzulegen ab wann ein Charakter bestimmte Dinge in Erfahrung gebracht hat.</Content>
 				<Br />
-				<Content>Hacking und Nebenpaar: Das Nebenpaar kann mit Cortex verwendet werden, um gegebenenfalls gesperrte Informationen zu erhalten. Der Schwierigkeitsgrad für das Nebenpaar entspricht dann einem Firewall-Wert (siehe </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" />
-			<CrossReferenceSource Self="u5f1c8" AppliedFormat="u9f" Name="Hyperlink 57" Hidden="false" AppliedCharacterStyle="n">
-				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
-					<Content>Zielwerte S. </Content>
-				</CharacterStyleRange>
-				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="u6d022" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="133" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
-				</CharacterStyleRange>
-			</CrossReferenceSource>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>)</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
-				<Content> </Content>
+				<Content>Hacking und Nebenpaar: Das Nebenpaar kann mit Cortex verwendet werden, um gegebenenfalls gesperrte Informationen zu erhalten. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>der vom Spielleiter festgelegt werden kann. Vereinfacht kann aber von ein Firewall-Wert von 10 + 2 x Technologie-Kla</Content>
-				<Content>sse des aktuellen Gebietes ausgangen werden.</Content>
+				<Content>Vereinfacht kann aber von ein Firewall-Wert von 10 + 2 x Technologie-Klasse des aktuellen Gebietes ausgangen werden.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1421,7 +1399,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Bei einer einfachen Fertigkeitsprobe geht es dabei immer um einzelne Fakten und darum, ob der Charakter bereits irgendwann, irgendwo diese Information bereits aufgeschnappt hat. </Content>
+				<Content>Bei einer einfachen Fertigkeitsprobe geht es dabei immer</Content>
+				<Content> um einzelne Fakten und darum, ob der Charakter bereits irgendwann, irgendwo diese Information bereits aufgeschnappt hat. </Content>
 				<Br />
 				<Content>Umso umfangreicher und komplexer die Sachverhalte werden, desto wahrscheinlicher ist es, dass der Charaktere diese nicht zu einhundert Prozent aus dem Gedächtnis abrufen kann.</Content>
 				<Br />
@@ -1462,12 +1441,6 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 	</Story>
-	<Hyperlink Self="u5f1cd" Name="Querverweis 9" Source="u5f1c8" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="21535">
-		<Properties>
-			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">n</Destination>
-		</Properties>
-	</Hyperlink>
 	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
 		<ColorGroupSwatch Self="u18ColorGroupSwatch6" SwatchItemRef="Color/C=100 M=68 Y=0 K=55" />
 		<ColorGroupSwatch Self="u18ColorGroupSwatch3" SwatchItemRef="Color/Black" />

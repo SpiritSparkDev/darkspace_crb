@@ -20,11 +20,11 @@ Der Kernel beinhaltet das Betriebssystem eines Gerätes. Es ist für so ziemlich
 
 > Ist der Kernel vollständig gehackt, werden alle Monitore geleert und das System schaltet sich aus.
 
-### Compiler-Monitor
+### Compiler-Monitor (= MK)
 
 > Für jeden Punkt Schaden auf dem Compiler, hat der Hacker 1 AE für Handlungen, die das System ausführen muss.
 
-### Speicher-Monitor
+### Speicher-Monitor (= MK + Größe)
 
 Der Speicher-Monitor stellt dar, zu vielen Verzeichnisse und Datenbanker der Hacker bereits zugriff hat.
 
@@ -37,7 +37,8 @@ Der Defensiv-Monitor wird direkt aus dem Kampfsystem übernommen. Er stellt Anit
 
 Netzwerke sind ein digitales Konstrukt, bei dem sich einzelne Systeme zusammenschließen oder zusammengeschlossen werden. Die zwei Hauptgründe dafür sind: Schnellere und bessere Kommunikation und erhöhte Sicherheit.
 
-Ein Netzwerk funktioniert von Außen wie ein einzelnes Gerät. Betritt man ein Netzwerk, sieht man er alle darin angeschlossenen Geräte und Sub-Netze.
+Ein Netzwerk funktioniert von Außen wie ein einzelnes Gerät. In einem Netzwerk organisierte System und andere Subnets sind von außen unsichtbar und nicht ansprechbar.
+Betritt man ein Netzwerk, sieht man er alle darin angeschlossenen Geräte und Sub-Netze.
 
 **Modulklasse:** Ein Netzwerk verwendet die höchste, im Netzwerk verfügbare Modulklasse.
 
@@ -48,3 +49,10 @@ Ein Netzwerk funktioniert von Außen wie ein einzelnes Gerät. Betritt man ein N
 Auch mehrere Netzwerke können sich zusammenschließen und so ein Supernet bilden. Die teilnehmenden Netzwerke werden dann als Subnet des neuen Supernets bezeichnet.
 
 Alle Regeln für Netzwerke werden ganz normal auch für Supernets angewendet.
+
+### Netzwerk-Monitor (= MK + Größe)
+
+Geräte in einem Netzwerk erhalten einen zusätzlichen Netzwerk-Monitor. jedes System im Netzwerk hat einen eigenen Netzwerk-Monitor, welcher beschreibt, wie stabil die Verbindung zum Netzwerkes ist.
+
+> - Sobald der Netzwerk-Monitor mindestens einen Schaden erlitten hat, kann ein Hacker Verbindungen abhören, die das System hält.
+> - Ist der Netzwerk-Monitor gefüllt, bricht die Verbindung vom System zum restlichen Netzwerk ab.

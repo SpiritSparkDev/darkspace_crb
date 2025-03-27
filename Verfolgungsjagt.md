@@ -20,6 +20,7 @@ Streckenwert|Boden|Luftraum|Weltraum
 ## Ausgangslage
 
 - Eine Verfolgungsjagt fängt einem Flüchtigen und einem Verfolger (oder jeweils mehreren) an
+- Die SL legt eine Technologie-Klasse der Umgebung fest.
 - Flüchtiger und Verfolger müssen Hindernisse überwinden, um zu entkommen bzw. die Flüchtigen einzuholen
 - Charaktere (inklusive der Fahrer und Piloten) können durch Handlungen Hindernisse erzeugen oder aus dem Weg räumen
 - Neu auftretende Hindernisse erzwingen eine Unterbrechung: Manövrieren (Streckenwert + Hindernis)

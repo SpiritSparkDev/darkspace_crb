@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.1(71)" ?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.2(36)" ?>
 <?aid SnippetType="InCopyInterchange"?>
-<Document DOMVersion="20.0" Self="d">
+<Document DOMVersion="20.2" Self="d">
 	<Color Self="Color/OptionaleRegeln" Model="Process" Space="CMYK" ColorValue="0 56.00000000000001 100 50" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="OptionaleRegeln" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatchd" />
 	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch2" />
 	<Color Self="Color/C=100 M=68 Y=0 K=55" Model="Process" Space="CMYK" ColorValue="100 68 0 55.00000000000001" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=68 Y=0 K=55" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch6" />
@@ -364,7 +364,7 @@
 					<ParagraphShadingColor type="object">Color/C=70 M=62 Y=0 K=39</ParagraphShadingColor>
 				</Properties>
 			</ParagraphStyle>
-			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aRegelFeldHead" Name="Regeltexte:RegelFeldHead" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aRegelfeld" SplitDocument="false" EmitCss="true" StyleUniqueId="b224919e-3596-4007-b50b-5841f7bc974a" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FillColor="Color/Paper" FontStyle="Bold" PointSize="11" HyphenateAfterFirst="3" SpaceAfter="0" HyphenWeight="10" IgnoreEdgeAlignment="true" ParagraphShadingTint="100" ParagraphShadingBottomOffset="17.007874015748033" ParagraphBorderOn="false">
+			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aRegelFeldHead" Name="Regeltexte:RegelFeldHead" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aRegelfeld" SplitDocument="false" EmitCss="true" StyleUniqueId="c5c9d5cb-26dd-4fb8-869d-9e460ff47e54" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FillColor="Color/Paper" FontStyle="Bold" PointSize="11" HyphenateAfterFirst="3" SpaceAfter="0" KeepWithNext="1" HyphenWeight="10" IgnoreEdgeAlignment="true" ParagraphShadingTint="100" ParagraphShadingBottomOffset="17.007874015748033" ParagraphBorderOn="false">
 				<Properties>
 					<BasedOn type="object">ParagraphStyle/Regeltexte%3aRegelfeld</BasedOn>
 					<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -623,6 +623,10 @@
                   <stEvt:when>2024-10-16T16:09:31+02:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe InCopy 19.5 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>converted</stEvt:action>

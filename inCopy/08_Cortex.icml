@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.1(71)" ?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.2(36)" ?>
 <?aid SnippetType="InCopyInterchange"?>
-<Document DOMVersion="20.0" Self="d">
+<Document DOMVersion="20.2" Self="d">
 	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch2" />
 	<Color Self="Color/C=100 M=68 Y=0 K=55" Model="Process" Space="CMYK" ColorValue="100 68 0 55.00000000000001" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=68 Y=0 K=55" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch6" />
 	<Color Self="Color/C=49 M=27 Y=0 K=38" Model="Process" Space="CMYK" ColorValue="49 27 0 38" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=49 M=27 Y=0 K=38" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch4" />
@@ -1081,7 +1081,7 @@
 					<Content>Manipulierte Geräte (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="u5ec9e" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="109" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="u5ec9e" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="107" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -1343,7 +1343,7 @@
 					<Content>Symbiose (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="u6abcf" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="113" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="u6abcf" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="111" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -1438,25 +1438,9 @@
 				<Br />
 				<Content>Kaninchenbau: Auch wenn der Charakter nicht genau die richtige Information erfährt, kann er Informationen zum fraglichen Thema erhalten, für alle Schwellen, die er erreicht hat.</Content>
 				<Br />
-				<Content>String-Suche: Sucht der Charakter spezifische Phrasen wie Namen und Passwörter oder eine bestimmte Datei, kann anstatt einer Schwelle der Firewall (siehe dazu auch </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" />
-			<CrossReferenceSource Self="u5ecb8" AppliedFormat="u9f" Name="Hyperlink 246" Hidden="false" AppliedCharacterStyle="n">
-				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
-					<Content>Zielwerte S. </Content>
-				</CharacterStyleRange>
-				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="u6a675" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="133" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
-				</CharacterStyleRange>
-			</CrossReferenceSource>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>)</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
-				<Content> </Content>
+				<Content>String-Suche: Sucht der Charakter spezifische Phrasen wie Namen und Passwörter oder eine bestimmte Datei, kann anstatt einer Schwelle [...]</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>verwendet werden.</Content>
 				<Br />
 				<Content>Netzwerksuche: Um ein verborgenes Netzwerk wahrzunehmen, muss eine Datensuche gegen den Firewall-Wert des Netzwerkes durchgeführt werden.</Content>
 				<Br />
@@ -1468,7 +1452,7 @@
 					<Content>Abwehren im Cortex (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="u6ab92" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="138" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="u6ab92" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="137" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -1638,7 +1622,7 @@
 					<Content>Manipulierte Geräte (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="u5eccf" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="109" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="u5eccf" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="107" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -1665,14 +1649,14 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Privatsphäre ist eine Illusion geworden. Das heißt aber nicht, dass man einfach mit seinem privaten Netzwerk auf voller Sendeleistung durch einen Megaplex spazieren sollte. Selbst normale Anwender bevorzugen es, ihr Netzwerk und dessen Inhalt zu verbergen. Das ist für Hacker keine echte Hürde, aber zumindest nützlich </Content>
-				<Content>genug um Skript-Kiddies auf Abstand zu halten.</Content>
+				<Content>Privatsphäre ist eine Illusion geworden. Das heißt aber nicht, dass man einfach mit seinem privaten Netzwerk auf voller Sendeleistung durch einen Megaplex spazieren sollte. Selbst normale Anwender bevorzugen es, ihr Netzwerk und dessen Inhalt zu verbergen. Das ist für Hacker keine echte Hürde, aber zumindest nützlich genug um Skript-Kiddies auf Abstand zu halten.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Unberührbar: Solange das Netzwerk bzw. Systeme darin verborgen sind, können sie nicht Ziel von Cortex-Handlungen außer Datensuche werden.</Content>
+				<Content>Unberührbar</Content>
+				<Content>: Solange das Netzwerk bzw. Systeme darin verborgen sind, können sie nicht Ziel von Cortex-Handlungen außer Datensuche werden.</Content>
 				<Br />
 				<Content>Hinter der Mauer: Der Schwierigkeitsgrad, ein verborgenes Netzwerk oder System mit der Aktion </Content>
 			</CharacterStyleRange>
@@ -1682,7 +1666,7 @@
 					<Content>Datensuche (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="u5ecd1" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="110" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="u5ecd1" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="108" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -1743,7 +1727,7 @@
 					<Content>Erschwerte Proben S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="u6a174" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="82" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="u6a174" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="80" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 			</CrossReferenceSource>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -1780,7 +1764,7 @@
 					<Content>Kontrollknoten (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="u5ecda" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="78" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="u5ecda" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="76" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -1797,7 +1781,7 @@
 					<Content>Symbiose (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="u6ac0c" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="113" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="u6ac0c" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="111" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -2027,7 +2011,7 @@
 					<Content>Datensuche (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="u5ece3" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="110" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="u5ece3" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="108" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -2038,8 +2022,8 @@
 				<Br />
 				<Content>Dieser Prozess kann übers Ziel hinaus schießen und traumatische Erinnerungsdaten laden. </Content>
 				<Br />
-				<Content>Gleichfalls können Erinnerungsdaten aus der Kybernetik des Charakters geändert werden. Dies ist ein von „echten“ Erinnerungen unabhängige Speicher. Wird er verändert, kommt es zu widersprüchlichen Erinnerungen. In milden Fällen gleicht dies eine</Content>
-				<Content>r Deja Vu, schlimmstenfall kommt es zu psychotischen Episoden.</Content>
+				<Content>Gleichfalls können Erinnerungsdaten aus der Kybernetik des Charakters geändert werden. Dies ist ein von „echten“ Erinnerungen unabhängige Speicher. Wird er verändert, kommt es zu widersprüchlichen Erinnerungen. In milden Fällen gleicht dies einer Deja Vu, schlimmstenfall kommt es zu psychotischen Episo</Content>
+				<Content>den.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2113,7 +2097,7 @@
 					<Content>Abhören (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="u5ece7" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="110" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="u5ece7" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="108" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -2128,7 +2112,7 @@
 					<Content>Datensuche (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="u5ece9" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="110" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="u5ece9" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="108" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -2192,12 +2176,6 @@
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">ParagraphDestination/Anker 53</Destination>
-		</Properties>
-	</Hyperlink>
-	<Hyperlink Self="u5ecf1" Name="Querverweis 46" Source="u5ecb8" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="21535">
-		<Properties>
-			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">n</Destination>
 		</Properties>
 	</Hyperlink>
 	<Hyperlink Self="u5ecf4" Name="Querverweis 73" Source="u5ecbc" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="21536">
