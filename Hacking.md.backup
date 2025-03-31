@@ -37,7 +37,8 @@ Der Defensiv-Monitor wird direkt aus dem Kampfsystem übernommen. Er stellt Anit
 
 Netzwerke sind ein digitales Konstrukt, bei dem sich einzelne Systeme zusammenschließen oder zusammengeschlossen werden. Die zwei Hauptgründe dafür sind: Schnellere und bessere Kommunikation und erhöhte Sicherheit.
 
-Ein Netzwerk funktioniert von Außen wie ein einzelnes Gerät. Betritt man ein Netzwerk, sieht man er alle darin angeschlossenen Geräte und Sub-Netze.
+Ein Netzwerk funktioniert von Außen wie ein einzelnes Gerät. In einem Netzwerk organisierte System und andere Subnets sind von außen unsichtbar und nicht ansprechbar.
+Betritt man ein Netzwerk, sieht man er alle darin angeschlossenen Geräte und Sub-Netze.
 
 **Modulklasse:** Ein Netzwerk verwendet die höchste, im Netzwerk verfügbare Modulklasse.
 

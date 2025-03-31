@@ -40,6 +40,8 @@ Netzwerke sind ein digitales Konstrukt, bei dem sich einzelne Systeme zusammensc
 Ein Netzwerk funktioniert von Außen wie ein einzelnes Gerät. In einem Netzwerk organisierte System und andere Subnets sind von außen unsichtbar und nicht ansprechbar.
 Betritt man ein Netzwerk, sieht man er alle darin angeschlossenen Geräte und Sub-Netze.
 
+Das ist ein Beispiel
+
 **Modulklasse:** Ein Netzwerk verwendet die höchste, im Netzwerk verfügbare Modulklasse.
 
 **Größe:** Die physische Größe eines Netzwerks ist weniger wichtig, als die Anzahl von angeschlossenen Geräten. Die Anzahl von Geräten entspricht der virtuellen "Masse" des Netzwerkes. Daraus ergibt sich seine virtuelle Größe. 
