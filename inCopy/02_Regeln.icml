@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.2(36)" ?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.4(4)" ?>
 <?aid SnippetType="InCopyInterchange"?>
-<Document DOMVersion="20.2" Self="d">
+<Document DOMVersion="20.4" Self="d">
 	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch2" />
 	<Color Self="Color/C=100 M=68 Y=0 K=55" Model="Process" Space="CMYK" ColorValue="100 68 0 55.00000000000001" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=68 Y=0 K=55" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch6" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch3" />
@@ -347,7 +347,7 @@
 					<SameParaStyleSpacing type="unit">5.669291338582678</SameParaStyleSpacing>
 				</Properties>
 			</ParagraphStyle>
-			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung" Name="Regeltexte:RegelfeldAufzählung" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung" SplitDocument="false" EmitCss="true" StyleUniqueId="29524df9-89ed-4b08-b0ab-127a5b0353d0" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" LeftIndent="22.67716535433071" FirstLineIndent="-11.338582677165356" SpaceAfter="11.338582677165356" BulletsAndNumberingListType="BulletList">
+			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung" Name="Regeltexte:RegelfeldAufzählung" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung" SplitDocument="false" EmitCss="true" StyleUniqueId="2ebedb4a-3f46-4261-9056-a16b597ebb9b" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" LeftIndent="22.67716535433071" FirstLineIndent="-11.338582677165356" SpaceBefore="0" BulletsAndNumberingListType="BulletList">
 				<Properties>
 					<BasedOn type="object">ParagraphStyle/Regeltexte%3aRegelfeld</BasedOn>
 					<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -401,19 +401,6 @@
 				</Properties>
 			</ParagraphStyle>
 		</ParagraphStyleGroup>
-		<ParagraphStyle Self="ParagraphStyle/Beispiel" Name="Beispiel" Imported="false" NextStyle="ParagraphStyle/Beispiel" SplitDocument="false" EmitCss="true" StyleUniqueId="6e573274-16d1-4435-8389-3d9723593520" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FillColor="Color/C=100 M=68 Y=0 K=55" FontStyle="Italic" LeftIndent="14.173228346456694" RightIndent="11.338582677165356" AutoLeading="120" SpaceBefore="2.834645669291339" KeepAllLinesTogether="true" ParagraphShadingOn="true" ParagraphShadingTopOffset="17.007874015748033" ParagraphShadingBottomOffset="19.84251968503937" ParagraphShadingTopLeftCornerOption="BevelCorner" ParagraphShadingTopRightCornerOption="BevelCorner" ParagraphShadingBottomLeftCornerOption="BevelCorner" ParagraphShadingBottomRightCornerOption="BevelCorner" ParagraphShadingTopLeftCornerRadius="11.338582677165356" ParagraphShadingTopRightCornerRadius="11.338582677165356" ParagraphShadingBottomLeftCornerRadius="11.338582677165356" ParagraphShadingBottomRightCornerRadius="11.338582677165356">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/Standardformate%3aNormal</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AllGREPStyles type="list">
-					<ListItem type="record">
-						<AppliedCharacterStyle type="object">CharacterStyle/Standardformate%3aBold</AppliedCharacterStyle>
-						<GrepExpression type="string">^[^:]+:</GrepExpression>
-					</ListItem>
-				</AllGREPStyles>
-				<ParagraphShadingColor type="object">Color/C=49 M=27 Y=0 K=38</ParagraphShadingColor>
-			</Properties>
-		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/Aufzählung" Name="Aufzählung" Imported="false" NextStyle="ParagraphStyle/Aufzählung" SplitDocument="false" EmitCss="true" StyleUniqueId="b009607f-fa51-457d-9f04-0ffe0ef2c6dc" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" PointSize="10" LeftIndent="28.34645669291339" FirstLineIndent="-14.173228346456694" AutoLeading="150" HyphenateAfterFirst="5" HyphenateBeforeLast="3" HyphenateWordsLongerThan="10" HyphenationZone="21" SpaceAfter="5.669291338582678" KeepFirstLines="4" KeepLastLines="4" KeepLinesTogether="true" HyphenateAcrossColumns="false" GridAlignment="AlignBaseline" BulletsAndNumberingListType="BulletList">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
@@ -439,6 +426,19 @@
 					</ListItem>
 				</AllGREPStyles>
 				<SameParaStyleSpacing type="unit">0</SameParaStyleSpacing>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Beispiel" Name="Beispiel" Imported="false" NextStyle="ParagraphStyle/Beispiel" SplitDocument="false" EmitCss="true" StyleUniqueId="03c9c74f-b9ce-457a-92af-d53b3516c74b" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FillColor="Color/C=100 M=68 Y=0 K=55" FontStyle="Italic" LeftIndent="14.173228346456694" RightIndent="11.338582677165356" AutoLeading="120" SpaceBefore="11.338582677165356" SpaceAfter="11.338582677165356" KeepAllLinesTogether="true" ParagraphShadingOn="true" ParagraphShadingTopOffset="17.007874015748033" ParagraphShadingBottomOffset="19.84251968503937" ParagraphShadingTopLeftCornerOption="BevelCorner" ParagraphShadingTopRightCornerOption="BevelCorner" ParagraphShadingBottomLeftCornerOption="BevelCorner" ParagraphShadingBottomRightCornerOption="BevelCorner" ParagraphShadingTopLeftCornerRadius="11.338582677165356" ParagraphShadingTopRightCornerRadius="11.338582677165356" ParagraphShadingBottomLeftCornerRadius="11.338582677165356" ParagraphShadingBottomRightCornerRadius="11.338582677165356">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/Standardformate%3aNormal</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AllGREPStyles type="list">
+					<ListItem type="record">
+						<AppliedCharacterStyle type="object">CharacterStyle/Standardformate%3aBold</AppliedCharacterStyle>
+						<GrepExpression type="string">^[^:]+:</GrepExpression>
+					</ListItem>
+				</AllGREPStyles>
+				<ParagraphShadingColor type="object">Color/C=49 M=27 Y=0 K=38</ParagraphShadingColor>
 			</Properties>
 		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[No paragraph style]" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" FillColor="Color/Black" FontStyle="Regular" PointSize="12" HorizontalScale="100" KerningMethod="$ID/Metrics" Ligatures="true" PageNumberType="AutoPageNumber" StrokeWeight="1" Tracking="0" Composer="HL Composer" DropCapCharacters="0" DropCapLines="0" BaselineShift="0" Capitalization="Normal" StrokeColor="Swatch/None" HyphenateLadderLimit="3" VerticalScale="100" LeftIndent="0" RightIndent="0" FirstLineIndent="0" AutoLeading="120" AppliedLanguage="$ID/de_DE_2006" Hyphenation="true" HyphenateAfterFirst="2" HyphenateBeforeLast="2" HyphenateCapitalizedWords="true" HyphenateWordsLongerThan="5" NoBreak="false" HyphenationZone="36" SpaceBefore="0" SpaceAfter="0" Underline="false" OTFFigureStyle="Default" DesiredWordSpacing="100" MaximumWordSpacing="133" MinimumWordSpacing="80" DesiredLetterSpacing="0" MaximumLetterSpacing="0" MinimumLetterSpacing="0" DesiredGlyphScaling="100" MaximumGlyphScaling="100" MinimumGlyphScaling="100" StartParagraph="Anywhere" KeepAllLinesTogether="false" KeepWithNext="0" KeepFirstLines="2" KeepLastLines="2" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" KeepLinesTogether="false" StrokeTint="-1" FillTint="-1" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" RuleAboveLineWeight="1" RuleAboveTint="-1" RuleAboveOffset="0" RuleAboveLeftIndent="0" RuleAboveRightIndent="0" RuleAboveWidth="ColumnWidth" RuleBelowLineWeight="1" RuleBelowTint="-1" RuleBelowOffset="0" RuleBelowLeftIndent="0" RuleBelowRightIndent="0" RuleBelowWidth="ColumnWidth" RuleAboveOverprint="false" RuleBelowOverprint="false" RuleAbove="false" RuleBelow="false" LastLineIndent="0" HyphenateLastWord="true" ParagraphBreakType="Anywhere" SingleWordJustification="FullyJustified" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" RuleAboveGapTint="-1" RuleAboveGapOverprint="false" RuleBelowGapTint="-1" RuleBelowGapOverprint="false" Justification="LeftAlign" DropcapDetail="1" PositionalForm="None" OTFMark="true" HyphenWeight="5" OTFLocale="true" HyphenateAcrossColumns="true" KeepRuleAboveInFrame="false" IgnoreEdgeAlignment="false" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" SpanColumnType="SingleColumn" SplitColumnInsideGutter="6" SplitColumnOutsideGutter="0" KeepWithPrevious="false" SpanColumnMinSpaceBefore="0" SpanColumnMinSpaceAfter="0" OTFSwash="false" ParagraphShadingTint="20" ParagraphShadingOverprint="false" ParagraphShadingWidth="ColumnWidth" ParagraphShadingOn="false" ParagraphShadingClipToFrame="false" ParagraphShadingSuppressPrinting="false" ParagraphShadingLeftOffset="0" ParagraphShadingRightOffset="0" ParagraphShadingTopOffset="0" ParagraphShadingBottomOffset="0" ParagraphShadingTopOrigin="AscentTopOrigin" ParagraphShadingBottomOrigin="DescentBottomOrigin" ParagraphBorderTint="-1" ParagraphBorderOverprint="false" ParagraphBorderOn="false" ParagraphBorderGapTint="-1" ParagraphBorderGapOverprint="false" Tsume="0" LeadingAki="-1" TrailingAki="-1" KinsokuType="KinsokuPushInFirst" KinsokuHangType="None" BunriKinshi="true" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" AutoTcy="0" AutoTcyIncludeRoman="false" Jidori="0" GridGyoudori="0" GridAlignFirstLineOnly="false" GridAlignment="None" CharacterRotation="0" RotateSingleByteCharacters="false" Rensuuji="true" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" LeadingModel="LeadingModelAkiBelow" ScaleAffectsLineHeight="false" ParagraphGyoudori="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" TreatIdeographicSpaceAsSpace="true" AllowArbitraryHyphenation="false" BulletsAndNumberingListType="NoList" NumberingStartAt="1" NumberingLevel="1" NumberingContinue="true" NumberingApplyRestartPolicy="true" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" NumberingExpression="^#.^t" BulletsTextAfter="^t" ParagraphBorderLeftOffset="0" ParagraphBorderRightOffset="0" ParagraphBorderTopOffset="0" ParagraphBorderBottomOffset="0" ParagraphBorderStrokeEndJoin="MiterEndJoin" ParagraphBorderTopLeftCornerOption="None" ParagraphBorderTopRightCornerOption="None" ParagraphBorderBottomLeftCornerOption="None" ParagraphBorderBottomRightCornerOption="None" ParagraphBorderTopLeftCornerRadius="12" ParagraphBorderTopRightCornerRadius="12" ParagraphBorderBottomLeftCornerRadius="12" ParagraphBorderBottomRightCornerRadius="12" ParagraphShadingTopLeftCornerOption="None" ParagraphShadingTopRightCornerOption="None" ParagraphShadingBottomLeftCornerOption="None" ParagraphShadingBottomRightCornerOption="None" ParagraphShadingTopLeftCornerRadius="12" ParagraphShadingTopRightCornerRadius="12" ParagraphShadingBottomLeftCornerRadius="12" ParagraphShadingBottomRightCornerRadius="12" ParagraphBorderStrokeEndCap="ButtEndCap" ParagraphBorderWidth="ColumnWidth" ParagraphBorderTopOrigin="AscentTopOrigin" ParagraphBorderBottomOrigin="DescentBottomOrigin" ParagraphBorderTopLineWeight="1" ParagraphBorderBottomLineWeight="1" ParagraphBorderLeftLineWeight="1" ParagraphBorderRightLineWeight="1" ParagraphBorderDisplayIfSplits="false" MergeConsecutiveParaBorders="true" ProviderHyphenationStyle="HyphAll" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePositionFromBaseline" CharacterDirection="DefaultDirection" ParagraphDirection="LeftToRightDirection" ParagraphJustification="DefaultJustification" ParagraphKashidaWidth="2" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false" KeyboardDirection="DefaultDirection">
@@ -512,6 +512,7 @@
 			<GaijiRefMaps><![CDATA[/////wAAAAAAAAAA]]></GaijiRefMaps>
 		</Properties>
 	</TinDocumentDataObject>
+	<TextVariable Self="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" VariableType="XrefPageNumberType" />
 	<CrossReferenceFormat Self="u9e" Name="Vollständiger Absatz und Seitenzahl" AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 		<BuildingBlock Self="u9eBuildingBlock0" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 		<BuildingBlock Self="u9eBuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" (S. " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
@@ -566,7 +567,7 @@
 		<MetadataPacketPreference>
 			<Properties>
 				<Contents><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c002 79.a1cd12f, 2024/11/11-19:08:46        ">
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c003 79.9690a87, 2025/03/06-19:12:03        ">
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
       <rdf:Description rdf:about=""
             xmlns:xmp="http://ns.adobe.com/xap/1.0/"
@@ -637,6 +638,14 @@
                   <stEvt:when>2024-12-10T21:49:29+01:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe InCopy 20.0 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>converted</stEvt:action>
@@ -916,7 +925,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Ist eine Probe ein Erfolg, Misserfolg, kritischer Erfolg oder Patzer, spricht man vom Resultat einer Probe. Es ist das Resultat aus dem Vergleich des Ergebnis mit dem Schwierigkeitsgrad.</Content>
+				<Content>Ist eine Probe ein Erfolg, Misserfolg, kritischer Erfolg oder Kollaps, spricht man vom Resultat einer Probe. Es ist das Resultat aus dem Vergleich des Ergebnis mit dem Schwierigkeitsgrad.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1037,8 +1046,8 @@
 				<Br />
 				<Content>Schritt 2 - Schwierigkeit: Jede Probe hat eine Schwierigkeit, die von der Spielleitung festgelegt wird. Diese Schwierigkeit liegt typischerweise zwischen 10 (leicht) und 20 (extrem schwierig).</Content>
 				<Br />
-				<Content>Schritt</Content>
-				<Content> 3 - Würfeln: Der Spieler würfelt die Anzahl an Würfeln entsprechend seines Würfelpools. Anschließend werden die</Content>
+				<Content>Schrit</Content>
+				<Content>t 3 - Würfeln: Der Spieler würfelt die Anzahl an Würfeln entsprechend seines Würfelpools. Anschließend werden die</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalicBold">
 				<Content> beiden höchsten Würfelergebnisse </Content>
@@ -1094,7 +1103,23 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelFeldHead">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Proben als Prozesse fortsetzen</Content>
+				<Content>Proben als Prozesse fortsetzen </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
+				<Content>(</Content>
+			</CharacterStyleRange>
+			<CrossReferenceSource Self="u77a89" AppliedFormat="ua6" Name="Hyperlink 56" Hidden="false" AppliedCharacterStyle="n">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
+					<Content>Seite </Content>
+				</CharacterStyleRange>
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
+					<TextVariableInstance Self="u77a8e" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="32" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+				</CharacterStyleRange>
+			</CrossReferenceSource>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
+				<Content>)</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1550,16 +1575,11 @@
 				<Content>Manchmal muss der Charakter gegen seinen eigenen Körper oder Ausrüstung arbeiten. Dann wird der Widerstand aus Spielwerten des Charakters bestimmt. Verletzungen, die Größe von Ausrüstung beim Tragen und Stemmen, die Modulklasse komplexer Geräte, die sich nicht ganz einfach bedienen lassen, sind Beispiel für Spielwerte des Charakters, die einen Widerstand erzeugen können.</Content>
 				<Br />
 				<Content>Jede andere Form von Einfluss wird durch Modifikatoren an den Würfeln, anstatt der Schwierigkeit dargestellt.</Content>
-				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Beispiel">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Angriffe treffen: Noris versucht eine Sicherheitsdrohne unter Beschuss zu nehmen. Die Drohne bietet einen Widerstand mit Sensoren (3) gegen Noris‘ Körperbeherrschung-Fertigkeit von 3. Damit ist Noris ganz knapp im Vorteil und die Probe wird bei einem Erfolg 3fach (Körperbeherrschung-Fertigkeit) gewertet.</Content>
-				<Br />
-				<Content>Basteln: Anji versucht ihr Terminal mit neuer Hardware zu verbessern. In seiner aktuellen Form, bietet das Terminal einen Widerstand mit Modulklasse (2). Anji hat eine Technik-Fertigkeit von 3 und ist damit über der Modulklasse der Hardware. Die Schwierigkeit, es umzubauen ist daher zwischen 14 und 16. Die Spielleitung entscheidet auf eine Schwierigkeit von 14.</Content>
-				<Br />
-				<Content>Lügen: Um an Geld die benötigten Komponenten zu kommen, versucht Anji ihrem Schichtleiter einen Vorschuss auf ihr Gehalt abzuquatschen. Anji hat eine Überzeugen-Fertigkeit von 3 , der Schichtleiter bietet dabei einen Widerstand mit Intuition (4). Daher ist die Schwierigkeit zwischen 16 und 18 und die Spielleitung legt die Schwierigkeit auf 17 fest.</Content>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=100 M=68 Y=0 K=55" FontStyle="Italic">
+				<Properties>
+					<Leading type="unit">11</Leading>
+				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1575,15 +1595,21 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aSpecial-Feld">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelFeldHead">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>10 + [Widerstände]</Content>
+				<Content>Schwierigkeit = 10 + [Widerstände]</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Diese Formel benutzt eine Grundschwierigkeit von 10 und addiert zwei oder mehr Widerstände. Der Spielleitung steht es natürlich frei, den Schwierigkeitsgrad weiter anzupassen.</Content>
+				<Content>Diese Formel benutzt eine Grundschwierigkeit von 10 und addiert </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aBold">
+				<Content>zwei oder mehr Widerstände</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>. Der Spielleitung steht es natürlich frei, den Schwierigkeitsgrad weiter anzupassen.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1606,7 +1632,13 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Patzerschwelle: Der aktuelle Stress gibt an, bis wohin eine Probe als Patzer gewertet wird. Jedes Würfelergebnis dass gleich oder niedriger ausfällt, als der aktuelle Stress, ist ein </Content>
+				<Content>Kollabieren: Der aktuelle Stress gibt an, bis wohin eine Probe als </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Erfolgsformate%3aPatzer">
+				<Content>Kollaps</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> gewertet wird. Jedes Würfelergebnis dass gleich oder niedriger ausfällt, als der aktuelle Stress, ist ein </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Erfolgsformate%3aPatzer">
 				<Content>Kollaps</Content>
@@ -1752,8 +1784,7 @@
 				<Br />
 				<Content>Verlust eines Verbündeten: Der Tod oder die Verletzung eines engen Freundes oder Verbündeten.</Content>
 				<Br />
-				<Content>Zeitdruck: Eine Mission muss unter extremem Zeitdruck abgeschlossen werden, und der Cha</Content>
-				<Content>rakter fühlt sich überfordert.</Content>
+				<Content>Zeitdruck: Eine Mission muss unter extremem Zeitdruck abgeschlossen werden, und der Charakter fühlt sich überfordert.</Content>
 				<Br />
 				<Content>Isolation: Der Charakter verbringt eine längere Zeit alleine in einer gefährlichen oder unheimlichen Umgebung.</Content>
 				<Br />
@@ -1783,7 +1814,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Das Gestalten von Proben wird als Spielleitung mit der Zeit ein intuitiver Prozess, kann am Anfang aber noch etwas verwirrend oder mühselig von der Hand gehen, wenn die Spielrunde das System noch nicht oft gespielt hat und noch kein Gefühl für die Abstufungen des Schwierigkeitsgrades da ist. Das ist nur normal! </Content>
+				<Content>Das Gestalten von </Content>
+				<Content>Proben wird als Spielleitung mit der Zeit ein intuitiver Prozess, kann am Anfang aber noch etwas verwirrend oder mühselig von der Hand gehen, wenn die Spielrunde das System noch nicht oft gespielt hat und noch kein Gefühl für die Abstufungen des Schwierigkeitsgrades da ist. Das ist nur normal! </Content>
 				<Br />
 				<Content>Der Spielende beschreibt, was der Charakter tun soll und was das gewünschte Ergebnis ist. Die Spielleitung legt darauf hin einen Widerstand fest. Hinweise auf Widerstände finden sich in den Regeln in diesem Buch. Ab einem Punkt kann die Spielleitung Widerstände einfach nach Gefühl festlegen, sollte aber trotzdem die Maßgaben nicht aus den Augen verlieren. </Content>
 				<Br />
@@ -1881,8 +1913,20 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" />
+			<CrossReferenceSource Self="u77b8f" AppliedFormat="u9e" Name="Hyperlink 57" Hidden="false" AppliedCharacterStyle="n">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
+					<Content>Prozesse (S. </Content>
+				</CharacterStyleRange>
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
+					<TextVariableInstance Self="u77b92" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="32" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+				</CharacterStyleRange>
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
+					<Content>)</Content>
+				</CharacterStyleRange>
+			</CrossReferenceSource>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Prozesse beinhalten komplexe Abläufe, Aufgaben und berücksichtigen, dass man sich bei einem Problem schon mal zurücklehnen und darüber nachdenken muss. Prozesse werden im Alltag aufgelöst. Eine Handlung, die droht in einen Prozess auszuarten wird pausiert (wenn möglich), bis sie als Prozess wieder aufgenommen werden kann. Der Widerstand eines Prozesses kann aus mehreren Spielwerten bestehen oder einfach festgelegt werden.</Content>
+				<Content> beinhalten komplexe Abläufe, Aufgaben und berücksichtigen, dass man sich bei einem Problem schon mal zurücklehnen und darüber nachdenken muss. Prozesse werden im Alltag aufgelöst. Eine Handlung, die droht in einen Prozess auszuarten wird pausiert (wenn möglich), bis sie als Prozess wieder aufgenommen werden kann. Der Widerstand eines Prozesses kann aus mehreren Spielwerten bestehen oder einfach festgelegt werden.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Italic">
 				<Br />
@@ -1898,11 +1942,11 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Das Resultat einer Probe ist dass, was die Spielleitung der Spielrunde nach einer Probe beschreibt. Wie extrem ein Resultat ausfällt hängt meistens damit zusammen, was die Spielrunde vor hatte und was sie aufs Spiel gesetzt hat.</Content>
 				<Br />
-				<Content>Dabei ist es oft wichtiger einen Misserfolg definieren zu können als einen Erfolg. Ein Erfolg bedeutet schlicht, dass die Geschichte weitergeht, wie geplant. Misserfolge und Patzer dagegen werfen den Charakteren Steine in den Weg. </Content>
+				<Content>Dabei ist es oft wichtiger einen Misserfolg definieren zu können als einen Erfolg. Ein Erfolg bedeutet schlicht, dass die Geschichte weitergeht, wie geplant. Misserfolge und Kollaps dagegen werfen den Charakteren Steine in den Weg. </Content>
 				<Br />
 				<Content>Erst wenn klar ist, dass es einen sinnvollen „Fehlerzustand“ gibt, braucht man sich überhaupt mit einer Probe befassen. Hat ein Misserfolg keine Konsequenzen, die die Geschichte umlenken können, kann die Spielleitung auch auf eine Probe schlicht verzichten und sich nach der Begabungs- oder Fertigkeitstufe richten, um abzuwägen, wie der Charakter mit der Situation zurecht kommt. Für ahnungslose Charaktere gibt es gar nicht erst einen Anhaltspunkt, Charaktere mit Grundkenntnisse gelingt ein holpriger Versuch und Experten schaffen in der Regel solche „bedeutgungslosen“ Handlungen.</Content>
 				<Br />
-				<Content>Bei einer Probe kann es dazu kommen, dass verschiedene Resultate überlappen. Ein Erfolg und kritischer Erfolg können getrennt voneinander auftreten, Patzer und Erfolg können gleichzeitig bestimmt werden. Es gilt daher, dass alle Ergebnisse, falls möglich auch gleichzeitig zu tragen kommen. </Content>
+				<Content>Bei einer Probe kann es dazu kommen, dass verschiedene Resultate überlappen. Ein Erfolg und kritischer Erfolg können getrennt voneinander auftreten, Kollaps und Erfolg können gleichzeitig bestimmt werden. Es gilt daher, dass alle Ergebnisse, falls möglich auch gleichzeitig zu tragen kommen. </Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1956,7 +2000,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelFeldHead">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Was passiert, wenn die Probe überragend abgeschlossen wird.</Content>
+				<Content>Was passiert, wenn die Probe kritisch abgeschlossen wird?</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1968,11 +2012,56 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Zeit: Zeit ist wichtig: Dauer der Probe verkürzen. AE bzw. die Zeitstufe kann um 1 gesenkt werden.</Content>
+				<Content>Zeit ist wichtig: Dauer der Probe verkürzen. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" />
+			<CrossReferenceSource Self="u77d42" AppliedFormat="u9e" Name="Hyperlink 64" Hidden="false" AppliedCharacterStyle="n">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
+					<Content>Aktionseinheiten (S. </Content>
+				</CharacterStyleRange>
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
+					<TextVariableInstance Self="u77d44" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="129" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+				</CharacterStyleRange>
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
+					<Content>)</Content>
+				</CharacterStyleRange>
+			</CrossReferenceSource>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> werden halbiert bzw. die </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" />
+			<CrossReferenceSource Self="u77cc6" AppliedFormat="u9e" Name="Hyperlink 63" Hidden="false" AppliedCharacterStyle="n">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
+					<Content>Zeitstufe (S. </Content>
+				</CharacterStyleRange>
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
+					<TextVariableInstance Self="u77cca" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="32" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+				</CharacterStyleRange>
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
+					<Content>)</Content>
+				</CharacterStyleRange>
+			</CrossReferenceSource>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> um 1 gesenkt.</Content>
 				<Br />
-				<Content>Ressourcen: Material wird verbraucht: Es wird ein Material wird für die Probe weniger verwendet.</Content>
+				<Content>Material wird verbraucht: Es wird ein </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" />
+			<CrossReferenceSource Self="u77c35" AppliedFormat="u9e" Name="Hyperlink 62" Hidden="false" AppliedCharacterStyle="n">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
+					<Content>Materialien (S. </Content>
+				</CharacterStyleRange>
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
+					<TextVariableInstance Self="u77c39" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="69" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+				</CharacterStyleRange>
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
+					<Content>)</Content>
+				</CharacterStyleRange>
+			</CrossReferenceSource>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> wird für die Probe weniger verwendet.</Content>
 				<Br />
-				<Content>Effekt: Resultat der Probe ist wichtig: Das Resultat wird verstärkt.</Content>
+				<Content>Resultat der Probe ist wichtig: Was auch immer der Charakter bezwecken wollte, er bekommt mehr davon.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2008,16 +2097,30 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Bei einem Misserfolg wird der geplante Weg versperrt oder umgeleitet. Wenn eine Tür nicht aufgebrochen werden k</Content>
-				<Content>ann, müssen die Charaktere einen anderen Weg wählen. Misserfolge sollten nicht allzu dramatisch sein und lediglich zu neuen Anreizen einladen.</Content>
+				<Content>Bei einem Misserfolg wird der geplante Weg versperrt oder umgeleitet. Wenn eine Tür nicht aufgebrochen werden kann, müssen die Charaktere einen anderen Weg wählen. Misserfolge sollten nicht allzu dramatisch sein und lediglich zu neuen Anreizen einladen.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Neu versuchen: In einigen Fällen kann der Charakter misslungene Proben einfach wiederholen. Das ist vor allem in Konfrontationen wie Kämpfen oder Hacking sinnvoll. Hat der Charakter keinen Zeitdruck, ist sollte eher die Mechanik „Weiterversuchen“ verwendet werden.</Content>
+				<Content>Wiederholung: In einigen Fällen kann der Charakter misslungene Proben wiederholen. Wiederholen bedeutet hierbei, dass der Charakter unter den exakt gleichen Umständen diesselbe Probe ablegt. Konfrontationen sind davon ausgenommen, da sich dort die Situation ständig ändert. Für eine Wiederholung nimt der Charakter 1 Punkt </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" />
+			<CrossReferenceSource Self="u78705" AppliedFormat="u9e" Name="Hyperlink 65" Hidden="false" AppliedCharacterStyle="n">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
+					<Content>Stress (S. </Content>
+				</CharacterStyleRange>
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
+					<TextVariableInstance Self="u78707" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="28" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+				</CharacterStyleRange>
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
+					<Content>)</Content>
+				</CharacterStyleRange>
+			</CrossReferenceSource>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> auf sich und führt dann die Probe erneut durch.</Content>
 				<Br />
-				<Content>Weiterversuchen: Der Charakter kann die Probe in einen Prozess umwandeln. Er scheitert vorerst, nimmt sich aber später Zeit, um zu reflektieren und die Aufgabe in Ruhe zu bewältigen.</Content>
+				<Content>Prozess: Der Charakter kann die Probe in einen Prozess umwandeln. Er scheitert vorerst, nimmt sich aber später Zeit, um zu reflektieren und die Aufgabe in Ruhe zu bewältigen.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2054,17 +2157,16 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Ein Zusammenbruch lässt den Plan das Charakter metaphorisch (und manchmal buchstäblich) in Flammen aufgehen. Ein Kollaps impliziert, dass der Charakter von seiner eigenen Psyche übermannt wurde und schlicht aufhört zu funktionieren. </Content>
+				<Content>Ein Kollaps lässt den Plan das Charakter metaphorisch (und manc</Content>
+				<Content>hmal buchstäblich) in Flammen aufgehen. Ein Kollaps impliziert, dass der Charakter von seiner eigenen Psyche übermannt wurde und schlicht aufhört zu funktionieren. </Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Teurer Fehler: Der Charakter muss Vorteile ausgeben, um einen Patzer zumindest zu seinem Misserfolg zu verwandel. Was das genau für Vorteile sind, entscheidet die Spielleitung anhand der Umstände. Solange die Vorteile nicht ausgegegeben worden, verbleibt der angerichtete Schaden. Der Charakter ist dabei nicht gezwungen sein Versagen zu korrigieren, sondern kann auch einfach mit den Konsequenzen leben.</Content>
+				<Content>Materialverlust: Der Charakter gibt Material aus, wenn er etwas in einem Wutanfall beschädigt hat.</Content>
 				<Br />
-				<Content>Material: Der Charakter gibt Material in höhe des Widerstandes aus, wenn er etwas in einem Wutanfall beschädigt hat.</Content>
-				<Br />
-				<Content>Gefallen: Es müssen Gefallen gleich dem Widerstand ausgegeben werden , wenn der Charakter die Fassung gegenüber einem Verhandlungspartner verloren hat.</Content>
+				<Content>Verzeihen: Es müssen Gefallen ausgegeben werden, wenn der Charakter die Fassung gegenüber einem Verhandlungspartner verloren hat.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2215,6 +2317,7 @@
 					<Cell Self="u5c330i5c61ci14" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" ClipContentToCell="false" RightEdgeStrokePriority="80">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<ParagraphDestination Self="ParagraphDestination/Anker 54" Name="Anker 54" Hidden="false" DestinationUniqueKey="21891" />
 								<Content>Zeitstufe</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
@@ -2487,8 +2590,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Eine Probe ist verzweifelt, wenn der Würfelpool auf 0 sinken würde oder die Spielleitung die Erfolgschancen als so schlecht bewertet, dass selbst eine erschwerte Probe der Situation nicht gerrecht wird. Eine verzweifelte Probe kann auch verlangt werden, wenn eine Probe durch mehrere Umstände erschwert werden</Content>
-				<Content> würde.</Content>
+				<Content>Eine Probe ist verzweifelt, wenn der Würfelpool auf 0 sinken würde oder die Spielleitung die Erfolgschancen als so schlecht bewertet, dass selbst eine erschwerte Probe der Situation nicht gerrecht wird. Eine verzweifelte Probe kann auch verlangt werden, wenn eine Probe durch mehrere Umstände erschwert werden würde.</Content>
 				<Br />
 				<Content>Proben können aber selbst dann noch erfolgreich sein. Durch die Regel der 10 und Wiederholungen durch Fertigkeiten kann die Probe mit viel Glück geschafft werden.</Content>
 				<Br />
@@ -2496,7 +2598,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelFeldHead">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Verzweifelte Proben kurz gefassen</Content>
+				<Content>Verzweifelte Proben kurzgefassen</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2508,6 +2610,42 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 	</Story>
+	<Hyperlink Self="u77a8c" Name="Querverweis 12" Source="u77a89" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="18668">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">ParagraphDestination/Anker 198</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u77b90" Name="Prozesse" Source="u77b8f" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="18668">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">ParagraphDestination/Anker 198</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u77d43" Name="AE" Source="u77d42" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="18585">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">n</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u77cc7" Name="Querverweis 13" Source="u77cc6" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="21891">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">ParagraphDestination/Anker 54</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u77c36" Name="Material" Source="u77c35" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="21890">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">n</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u78706" Name="Stress" Source="u78705" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="21533">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">ParagraphDestination/Anker 50</Destination>
+		</Properties>
+	</Hyperlink>
 	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
 		<ColorGroupSwatch Self="u18ColorGroupSwatch2" SwatchItemRef="Color/Paper" />
 		<ColorGroupSwatch Self="u18ColorGroupSwatch6" SwatchItemRef="Color/C=100 M=68 Y=0 K=55" />

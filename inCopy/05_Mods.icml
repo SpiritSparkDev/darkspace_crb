@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.2(36)" ?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.4(4)" ?>
 <?aid SnippetType="InCopyInterchange"?>
-<Document DOMVersion="20.2" Self="d">
+<Document DOMVersion="20.4" Self="d">
 	<Color Self="Color/C=100 M=68 Y=0 K=55" Model="Process" Space="CMYK" ColorValue="100 68 0 55.00000000000001" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=68 Y=0 K=55" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch6" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch3" />
 	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch2" />
@@ -416,7 +416,7 @@
 		<MetadataPacketPreference>
 			<Properties>
 				<Contents><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c002 79.a1cd12f, 2024/11/11-19:08:46        ">
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c003 79.9690a87, 2025/03/06-19:12:03        ">
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
       <rdf:Description rdf:about=""
             xmlns:xmp="http://ns.adobe.com/xap/1.0/"
@@ -559,6 +559,10 @@
                   <stEvt:when>2024-12-10T21:49:53+01:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe InCopy 20.0 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>converted</stEvt:action>
@@ -886,9 +890,9 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aEigenschaftText">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Durch eine Aktivierung kann der Charakter eine Automation, die gegen ihn gerichtet ist, zu einer Aktion umwandeln. Die Spielleitung legt dann eine Fertigkeit und einen Schwierigkeitsgrad fest.</Content>
+				<Content>Durch eine Aktivierung setzt der Charakter jeden Schwierigkeitsgrad für Aktionen, die gegen ihn gerichtet sind auf 10 + Aktivierung x 2.</Content>
 				<Br />
-				<Content>Jede weitere Aktivierung erhöht den Schwierigkeitsgrad um 1.</Content>
+				<Content>Routinen, die gegen den Charakter gerichtet sind, werden als verzweifelte Proben durchgeführt mit demselben Schwierigkeitsgrad durchgeführt.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -900,13 +904,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aEigenschaftText">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Der Charakter erhält bei einer Prozess-Probe +1 pro Aktivieriung pro Zeitstufe der Ruhephase auf seine Probe.</Content>
-				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
-				<Content>Beispiel: Ein Prozess der insgesamt 3 Zeitstufen dauert, verschafft dem Charakter daher +[Aktivierungen]x3 auf seine Probe.</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Der Charakter darf sich für eine Aktivierung dafür entscheiden, einen erfolgreich beendeten Prozess erst am Ende der nächsten Ruhephase abzuschließen. Er muss keine weitere Probe ablegen und erhöht das Ergebnis seiner Probe um +5.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -918,9 +916,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aEigenschaftText">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Pro Aktivierung wird für eine Handlung eine Unterbrechungen des Ziels blockiert. </Content>
-				<Br />
-				<Content>Weitere Aktivieriung blockieren weitere Unterbrechungen.</Content>
+				<Content>Der Charakter ignoriert 1 Unterbrechung pro Aktivierung.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -956,7 +952,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aEigenschaftText">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Führt ein Gegner eine Aktion gegen den Charakter durch, darf das Ergebnis der gegnerischen Proben um 1 pro Aktivierung verringert werden.</Content>
+				<Content>Führt ein Gegner eine Aktion gegen den Charakter durch, darf das Ergebnis der gegnerischen Proben um 2 pro Aktivierung verringert werden.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -968,7 +964,9 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aEigenschaftText">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Dem Würfelwurf wird pro Aktivierung ein Würfel hinzugefügt.</Content>
+				<Content>Das Würfelergebnis darf für 1 Aktivierung auf ein Ergebnis von 10 + [Begabung] + [Fertigkeit] gesetzt werden.</Content>
+				<Br />
+				<Content>Jede weitere Aktivierung erhöht das Ergebnis um 1.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1082,7 +1080,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Nachdem alle Würfel sortiert wurden, kann durch eine Aktivierung die Modulklasse des Gegenstandes auf einen beliebigen Würfel addiert werden, bis zu einem Maximum von 10. </Content>
 				<Br />
-				<Content>Für jede weitere Aktivierung kann die Modulklasse auf einen anderen Würfel addiert werden.</Content>
+				<Content>Für jede weitere Aktivierung kann die Modulklasse a</Content>
+				<Content>uf einen anderen Würfel addiert werden.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1635,14 +1634,14 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicap">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Nicht-Tödlich</Content>
+				<Content>Nicht-Tödl</Content>
+				<Content>ich</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicapText">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Ein Angriff mit der Waffe kann keine</Content>
-				<Content> Panzerung durchdringen.</Content>
+				<Content>Ein Angriff mit der Waffe kann keine Panzerung durchdringen.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
