@@ -1386,21 +1386,9 @@
 				<Br />
 				<Content>Netzwerke und Handlungen: Netzwerke können selbst keine Handlungen durchführen.</Content>
 				<Br />
-				<Content>Netzwerk-Firewall: Der Firewall-Wert eines Netzwerkes entspricht 10 + Modulklasse + Größe, welche anstatt der Firewall eines Gerätes im Netzwerk benutzt wird, falls diese niedriger ist.</Content>
+				<Content>Netzwerke und Schaden: Netzwerke können selbst keinen Schaden erleiden. Um ein Netzwerk komplett zu zerstören, müssen alle beteiligten Geräte vom Netzwerk getrennt werden. Erst wenn kein Gerät mehr aktiv ist, ist das Netzwerk vollständig gelöscht.</Content>
 				<Br />
-				<Content>Netzwerk-Schutz: Netzwerke erhöhen die Firewall eines Gerätes um ihre Netzwerk-MK. </Content>
-				<Br />
-				<Content>Partitionen: Wird ein Gerät im Netzwerk </Content>
-				<HyperlinkTextSource Self="u5eca6" Name="Hyperlink 251" Hidden="false" AppliedCharacterStyle="n">
-					<Content>manipuliert</Content>
-				</HyperlinkTextSource>
-				<Content>, gilt nur das eine Gerät als manipuliert.</Content>
-				<Br />
-				<Content>Netz-Sicherheit: Wird auf einem Gerät im Netzwerk </Content>
-				<HyperlinkTextSource Self="u5eca7" Name="Hyperlink 253" Hidden="false" AppliedCharacterStyle="n">
-					<Content>Alarm</Content>
-				</HyperlinkTextSource>
-				<Content> ausgelöst, verliert der Hacker 1W im gesamten Netzwerk. </Content>
+				<Content>Netzwerk-Sicherheit: Teil eines Netzwerkes zu sein bedeutet für einen Hacker, erst mehrere Netzwerke durchdringen zu müssen, bis er am Ziel ist. Jedes Gerät in einem Netzwerk erhält den Tiefen-Wert seines Netzwerkes als Bonus auf seine Firewall.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1437,9 +1425,7 @@
 					</Cell>
 					<Cell Self="u5dd01i80806i2" Name="2:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf">
-							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Masse</Content>
-							</CharacterStyleRange>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" />
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dd01i80806i3" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
@@ -1697,8 +1683,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Erfolg: Der Charakter darf sich bis zu [Modulklasse] Systeme aus dem Netzwerk aussuchen, deren Kommunikation er in Echtzeit abhören kann. Er kann diese Datenströme mitschneiden und speichern.</Content>
 				<Br />
-				<Content>Misserfolg: Der Charakter s</Content>
-				<Content>cheitert an den Firewalls, die die Kommunikationswege schützen.</Content>
+				<Content>Misserfolg</Content>
+				<Content>: Der Charakter scheitert an den Firewalls, die die Kommunikationswege schützen.</Content>
 				<Br />
 				<Content>Kollaps: Das System registriert einen unbefugten Zugriff uns wird als „Manipuliert“ markiert.</Content>
 				<Br />
@@ -1771,7 +1757,7 @@
 					<Content>Abwehren im Cortex (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="u6ab92" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="141" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="u6ab92" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="140" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -2217,8 +2203,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Das Gefühl, gehackt zu werden, ist befremdlich und für einige auch traumatisierend. Zurecht wird es auf vielen Welten mit schweren Sexualstraftaten und Missbrauch rechtlich gleichgesetzt.</Content>
 				<Br />
-				<Content>Daher werden aber auch vielerorts Kurse und Schulungen angeboten, in denen ein neuer Refle</Content>
-				<Content>x antrainiert wird. Diese erlernbare Suggestion führt dazu, das bei einem Hacking-Versuch gegen die Person, die kybernetischen Organe des Opfers in eine Alarmbereitschaft versetzt werden. </Content>
+				<Content>Daher werden aber auch vielerorts Kurse und Schulungen angeboten, in dene</Content>
+				<Content>n ein neuer Reflex antrainiert wird. Diese erlernbare Suggestion führt dazu, das bei einem Hacking-Versuch gegen die Person, die kybernetischen Organe des Opfers in eine Alarmbereitschaft versetzt werden. </Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>

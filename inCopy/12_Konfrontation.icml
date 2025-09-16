@@ -742,6 +742,10 @@
                   <stEvt:action>converted</stEvt:action>
                   <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <dc:format>application/x-incopy</dc:format>
@@ -1790,7 +1794,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Monitor bestimmen: Die Angriffsprobe bestimmt, welcher Monitor durch den Angriff getroffen wird.</Content>
+				<Content>Monitor bestimmen: Die Angriffsprobe bestimmt, welcher Monitor durch den Angriff getroffen wird. Hacking-Angriffe folgenden eigenen Cortex-Trefferschwellen. </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Black">
 				<Br />
@@ -1804,7 +1808,7 @@
 					<Content>Durchschlag (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="u82913" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="137" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="u82913" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="136" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -1830,8 +1834,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Waffen, egal ob natürlich, mechanisch oder digital, richten Schaden in Höhe ihrer halben Größe (aufrunden) an. Wenn ein Charakter, Maschine oder System Schaden erleidet, werden eine Anzahl Kästchen entsprec</Content>
-				<Content>hend der halben Größe (aufrunden) der Waffe abgestrichen.</Content>
+				<Content>Waffen, egal ob natürlich, mechanisch oder digital, richten Schaden in Höhe ihrer halben Größe (aufrunden) an. Wenn ein Charakter, Maschine oder </Content>
+				<Content>System Schaden erleidet, werden eine Anzahl Kästchen entsprechend der halben Größe (aufrunden) der Waffe abgestrichen.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1987,6 +1991,12 @@
 				<Content>Monitore sagen aus, wie schwer es ist, einer Entität ihre Fähigkeiten zu nehmen, ohne dabei strukturellen/vitalen Schaden anzurichten.</Content>
 				<Br />
 				<Content>Wie viele Kästchen die Monitore von Charakteren, Handlangern, Maschinen und Systemen haben, hängt von verschiedenen Spielwerten ab. Charaktere benutzen Konstitution und Geschick, um die Größe ihrer Monitore zu ermitteln. Handlanger ermitteln ihre Monitore größtenteils durch ihre Kompetenz, Maschinen durch ihre eigene Größe oder Modulklasse.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=100 M=68 Y=0 K=55" FontStyle="Expanded Book" PointSize="16" Tracking="75">
+				<Properties>
+					<Leading type="unit">13</Leading>
+					<AppliedFont type="string">Bebas Neue Pro</AppliedFont>
+				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1998,17 +2008,16 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabelle Span">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Table Self="u5e54fi7e308" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="4" ColumnCount="5" AppliedTableStyle="TableStyle/Standardtabelle" TableDirection="LeftToRightDirection">
+				<Table Self="u5e54fi7e308" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="4" ColumnCount="4" AppliedTableStyle="TableStyle/Standardtabelle" TableDirection="LeftToRightDirection">
 					<Row Self="u5e54fi7e308Row0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleRowHeight="18.838582677165356" />
 					<Row Self="u5e54fi7e308Row1" Name="1" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="15.5" />
 					<Row Self="u5e54fi7e308Row2" Name="2" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="15.5" />
 					<Row Self="u5e54fi7e308Row3" Name="3" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="15.5" />
 					<Row Self="u5e54fi7e308Row4" Name="4" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="15.5" />
-					<Column Self="u5e54fi7e308Column0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="96.37795275586933" />
-					<Column Self="u5e54fi7e308Column1" Name="1" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="96.37795275586933" />
-					<Column Self="u5e54fi7e308Column2" Name="2" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="96.37795275586933" />
-					<Column Self="u5e54fi7e308Column3" Name="3" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="96.37795275586942" />
-					<Column Self="u5e54fi7e308Column4" Name="4" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="96.37795275586933" />
+					<Column Self="u5e54fi7e308Column0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="120.47244094483662" />
+					<Column Self="u5e54fi7e308Column1" Name="1" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="120.47244094483662" />
+					<Column Self="u5e54fi7e308Column2" Name="2" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="120.47244094483662" />
+					<Column Self="u5e54fi7e308Column3" Name="3" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="120.47244094483672" />
 					<Cell Self="u5e54fi7e308i0" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -2034,13 +2043,6 @@
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 								<Content>Maschinen</Content>
-							</CharacterStyleRange>
-						</ParagraphStyleRange>
-					</Cell>
-					<Cell Self="u5e54fi7e308i14" Name="4:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf">
-							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Systeme</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -2072,13 +2074,6 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u5e54fi7e308i15" Name="4:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
-							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>MK</Content>
-							</CharacterStyleRange>
-						</ParagraphStyleRange>
-					</Cell>
 					<Cell Self="u5e54fi7e308i8" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -2104,13 +2099,6 @@
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 								<Content>Servos</Content>
-							</CharacterStyleRange>
-						</ParagraphStyleRange>
-					</Cell>
-					<Cell Self="u5e54fi7e308i16" Name="4:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
-							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>MK</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -2142,13 +2130,6 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
-					<Cell Self="u5e54fi7e308i17" Name="4:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
-							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>MK</Content>
-							</CharacterStyleRange>
-						</ParagraphStyleRange>
-					</Cell>
 					<Cell Self="u5e54fi7e308i10" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -2174,13 +2155,6 @@
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 								<Content>Größe</Content>
-							</CharacterStyleRange>
-						</ParagraphStyleRange>
-					</Cell>
-					<Cell Self="u5e54fi7e308i18" Name="4:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
-							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>MK</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -2335,6 +2309,213 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Trefferpunkte und Monitore im Cortex</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenüberschrift">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Werte von Cortex-Monitoren ermitteln</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabelle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Table Self="u5e54fi82d2d" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="4" ColumnCount="3" AppliedTableStyle="TableStyle/Standardtabelle" TableDirection="LeftToRightDirection">
+					<Row Self="u5e54fi82d2dRow0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleRowHeight="18.838582677165356" />
+					<Row Self="u5e54fi82d2dRow1" Name="1" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="15.5" />
+					<Row Self="u5e54fi82d2dRow2" Name="2" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="15.5" />
+					<Row Self="u5e54fi82d2dRow3" Name="3" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="15.5" />
+					<Row Self="u5e54fi82d2dRow4" Name="4" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="15.5" />
+					<Column Self="u5e54fi82d2dColumn0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="68.03149606281096" />
+					<Column Self="u5e54fi82d2dColumn1" Name="1" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="113.38582677165357" />
+					<Column Self="u5e54fi82d2dColumn2" Name="2" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="53.52755905520877" />
+					<Cell Self="u5e54fi82d2di13" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Ergebnis</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u5e54fi82d2di0" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Monitor</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u5e54fi82d2di1" Name="2:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Wert</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u5e54fi82d2di12" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>20+</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u5e54fi82d2di4" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Zugriff</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u5e54fi82d2di5" Name="2:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>MK</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u5e54fi82d2dif" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>19</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u5e54fi82d2di8" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Arbeitsspeicher</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u5e54fi82d2di9" Name="2:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>MK</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u5e54fi82d2die" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>18</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u5e54fi82d2dic" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Verbindungen</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u5e54fi82d2did" Name="2:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>MK</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u5e54fi82d2dib" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>1 - 3 x MK</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u5e54fi82d2di10" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Firewall</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u5e54fi82d2di11" Name="2:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>MK</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+				</Table>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Zugriff</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Sich Zugriffsrechte zu verschaffen ist in den allermeisten Fällen, das erklärte Ziel eines Hackers. Diese Zugriffsrechte können von einfachen Benutzern bis hin zu Admins reichen.</Content>
+				<Br />
+				<Content>Für jeder Schaden auf diesem Monitor erhält der Hacker +1W für alle Aktionen gegen das System. Jeder Schaden stellt Passwörter dar, die er erbeutet hat oder ganze Benutzerprofile, die er gekapert hat.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Arbeitsspeicher</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Hacker können durch Angriffe kurzzeitig Befehle in den Arbeitsspeicher eines Systems pflanzen und damit beeinflussen, was das System als nächstes macht.</Content>
+				<Br />
+				<Content>Für jeden Schaden auf diesem Monitor erhält der Hacker, der ihn verursacht hat, 1 zusätzlichen AE am Ende seiner Handlungsphase, mit denen er ausschließlich Handlungen als das System durchführen darf. Unterbrechungen sind davon ausgeschlossen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Verbindungen</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Zu kontrollieren wer mit wem redet, kann nicht nur unglaublich praktisch, sondern auch das Ziel eines Hackingangriffs sein, in dem es um Informationsbeschaffung geht. Haben sich Spione in alten Zeiten noch mit Klemmen an Telefonkabel hängen müssen, können Hacker die virtuellen Ports eines Systems mit Spyware infizieren, um jede Kommunikation darüber in Echtzeit mitzuhören.</Content>
+				<Br />
+				<Content>Jeder Schaden auf dem Verbindungen-Monitor gibt dem Hacker 1 Zeitstufe, in der er alle Verbindungen auf dem S</Content>
+				<Content>ystem abhören kann. Außerdem darf er pro Schaden alle Schwierigkeiten eine Verbindung zum System herzustellen, zu trennen, offen zu halten oder abzuwehren um 2 verschieben.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Firewall</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Der Firewall-Monitor funktioniert anders als alle anderen Monitore. Wird der Firewall-Monitor bei einem besonders schlechten Angriffswurf getroffen, wird ein Alarmzustand im System ausgelöst. Der Alarmzustand sorgt sofort dafür, dass die Firewall nochmals um die Modulklasse des Systems erhöh wird. Wird nochmal der Firewall-Zustand getroffen, hat das System den Eindringling gefunden und wird versuchen, ihn loszuwerden.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 4">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Firewall brechen</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Wird der Firewall-Monitor getroffen, erleidet er, wie andere Monitore auch, Schaden. </Content>
+				<Br />
+				<Content>Ist der Firewall-Monitor voll, bevor das System den Hacker rauswerfen konnte, bricht der Alarm ab und der Hacker bringt die Sicherheitssoftware zum Absturz. Der Alarmzustand bleibt bestehen, aber das System kann keinerlei Unterbrechungen oder Angriffe mehr durchführen.</Content>
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Unterbrechungen</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -2386,8 +2567,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content> des Charakters gesetzt.</Content>
 				<Br />
-				<Content>Routinen blockieren: Routinen werden in passende Probe nach Maßgabe der Spielleitung umgewandelt. Phyissche Rout</Content>
-				<Content>inen erhalten eine Schwierigkeit von 10 + Geschick + Konstitution. </Content>
+				<Content>Routinen blockieren: Routinen werden in passende Probe nach Maßgabe der Spielleitung umgewandelt. Phyissche Routinen erhalten eine Schwierigkeit von 10 + Geschick + Konstitution. </Content>
 				<Br />
 				<Content>Alternative Schwierigkeiten können von der Spielleitung festgelegt werden. Unter „Abwehren im Fernkampf“, „Abwehren im Cortex“ oder „Abwehren von Bewegungen“ werden dazu Hinweise gegeben.</Content>
 				<Br />
@@ -2484,7 +2664,7 @@
 					<Content>Rammen S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="u800e1" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="129" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="u800e1" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="127" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 			</CrossReferenceSource>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -2638,7 +2818,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Es kommt vor, dass Schaden nicht von einem Angriff stammt, sondern weil etwas Schweres auf den Charakter herunterfällt, der Charakter ein Stromkabel anfasst, Feuer fängt oder auf andere Weise droht, sich zu verletzen. Daher folgt eine Tabelle für die Spielleitung mit Beispielen für Schadenswerten.</Content>
+				<Content>Es kommt vor, dass Schaden nicht von einem Angriff stammt, sondern weil etwas Schweres auf den Charakter herunterfällt, der Charakter ein Stromkabel anfasst, Feuer fängt oder auf andere Weise droht, sich zu verletzen. Daher folgt eine Tabell</Content>
+				<Content>e für die Spielleitung mit Beispielen für Schadenswerten.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2831,8 +3012,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabelle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Die entlegenen Raumstatione</Content>
-				<Content>n und Straßenschluchten der Megaplexe sind voller instabiler Plattformen, schwindelerregender Abgründe und fehlender Schwerkraft.</Content>
+				<Content>Die entlegenen Raumstationen und Straßenschluchten der Megaplexe sind voller instabiler Plattformen, schwindelerregender Abgründe und fehlender Schwerkraft.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -3422,7 +3602,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Der Streckenwert gibt an, wie schwierig das Gelände und wie viele Hindernisse auf dem Streckenabschnitt sind, auf dem sich die Maschine gerade befindet. Dies umfasst Verkehr, Trümmer, dicht bebautes Gelände, wie auch steinige Ebene und enge Korridore auf einem Planeten oder im Weltraum.</Content>
+				<Content>Der Streckenwert gibt an, wie schwierig das Gelände und wie viele Hindernisse auf dem Streckenabschnitt sind, auf dem sich die Maschin</Content>
+				<Content>e gerade befindet. Dies umfasst Verkehr, Trümmer, dicht bebautes Gelände, wie auch steinige Ebene und enge Korridore auf einem Planeten oder im Weltraum.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=100 M=68 Y=0 K=55">
 				<Br />
@@ -3640,8 +3821,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Zum Entern müssen beide Maschinen sehr eng beieinnader sein. Das gilt für Verfolgungsjagten von Bodenfahrzeugen, in denen Insassen von einem Fahrzeug zum anderen Springen, wie auch für Raumschiffe, die praktisch aneina</Content>
-				<Content>nder andocken müssen.</Content>
+				<Content>Zum Entern müssen beide Maschinen sehr eng beieinnader sein. Das gilt für Verfolgungsjagten von Bodenfahrzeugen, in denen Insassen von einem Fahrzeug zum anderen Springen, wie auch für Raumschiffe, die praktisch aneinander andocken müssen.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -3659,7 +3839,7 @@
 					<Content>Abwehren (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="u69f7b" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="140" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="u69f7b" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="139" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -3887,7 +4067,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Den Infiltratoren steht es im Großen und Ganzen frei, wie sie in eine Einrichtung oder ein Gebiet eindringen wollen. Die drei wahrscheinlichsten Varianten sind allerdings das Schleichen, bei dem sich die Infiltratoren versuchen vor Augen und Kameras zu verbergen und so völlig ungesehen ans Ziel zu kommen, das Unterwandern, wobei die Infiltratoren sich an Wachen und Checkpoints vorbeireden und das Einbrechen, bei dem sich physischer und digitaler Zugang zum Ziel verschafft wird. </Content>
 				<Br />
-				<Content>Während einer Infiltration muss auch nicht an einer einzigen Methode festgehalten werden. Die Spielleitung kann sogar einzelne Wege für einen bestimmten Ansatz freigeben oder sperren, sodass die Gruppe entscheiden muss, was für ein Weg gegangen werden soll.</Content>
+				<Content>Während einer Infiltration muss auch nicht an einer einzigen Methode festgehalten werden. Die Spielleitung kann sogar einzelne Wege für einen bestimmten Ansatz freigeben oder sperren, sodass die Gruppe entscheiden muss, was für ein Weg gegangen werde</Content>
+				<Content>n soll.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -4260,8 +4441,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Nebenprobe: Der Charakter benutzt Glück für die Nebenprobe auf Heimlichkeit.</Content>
 				<Br />
-				<Content>Zum Ziel: Die Spiel</Content>
-				<Content>leitung legt fest, wie groß der Raum oder wie lang der Gang ist, den der Cha-rakter überwinden will. Diese Räume haben eine Größe von 8 bis 10.</Content>
+				<Content>Zum Ziel: Die Spielleitung legt fest, wie groß der Raum oder wie lang der Gang ist, den der Cha-rakter überwinden will. Diese Räume haben eine Größe von 8 bis 10.</Content>
 				<Br />
 				<Content>Erfolg: Infiltratoren erhalten die halbe Größe des Raums als SE.</Content>
 				<Br />
