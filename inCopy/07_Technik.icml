@@ -379,6 +379,13 @@
 					<SameParaStyleSpacing type="unit">0</SameParaStyleSpacing>
 				</Properties>
 			</ParagraphStyle>
+			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aSpecial-Feld" Name="Regeltexte:Special-Feld" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aSpecial-Feld" SplitDocument="false" EmitCss="true" StyleUniqueId="d876a42a-f8ae-40f7-add0-e2bd77969894" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" PointSize="12" LeftIndent="0" RightIndent="2.834645669291339" SpaceBefore="17.007874015748033" SpaceAfter="17.007874015748033" Justification="CenterAlign" ParagraphShadingBottomOffset="8.503937007874017">
+				<Properties>
+					<BasedOn type="object">ParagraphStyle/Regeltexte%3aRegelFeldHead</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+					<SameParaStyleSpacing type="unit">0</SameParaStyleSpacing>
+				</Properties>
+			</ParagraphStyle>
 			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aRegelFeldHead" Name="Regeltexte:RegelFeldHead" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aRegelfeld" SplitDocument="false" EmitCss="true" StyleUniqueId="c5c9d5cb-26dd-4fb8-869d-9e460ff47e54" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FillColor="Color/Paper" FontStyle="Bold" PointSize="11" HyphenateAfterFirst="3" SpaceAfter="0" KeepWithNext="1" HyphenWeight="10" IgnoreEdgeAlignment="true" ParagraphShadingTint="100" ParagraphShadingBottomOffset="17.007874015748033" ParagraphBorderOn="false">
 				<Properties>
 					<BasedOn type="object">ParagraphStyle/Regeltexte%3aRegelfeld</BasedOn>
@@ -393,13 +400,6 @@
 							<GrepExpression type="string">^[^:]+:</GrepExpression>
 						</ListItem>
 					</AllGREPStyles>
-				</Properties>
-			</ParagraphStyle>
-			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aSpecial-Feld" Name="Regeltexte:Special-Feld" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aSpecial-Feld" SplitDocument="false" EmitCss="true" StyleUniqueId="d876a42a-f8ae-40f7-add0-e2bd77969894" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" PointSize="12" LeftIndent="0" RightIndent="2.834645669291339" SpaceBefore="17.007874015748033" SpaceAfter="17.007874015748033" Justification="CenterAlign" ParagraphShadingBottomOffset="8.503937007874017">
-				<Properties>
-					<BasedOn type="object">ParagraphStyle/Regeltexte%3aRegelFeldHead</BasedOn>
-					<PreviewColor type="enumeration">Nothing</PreviewColor>
-					<SameParaStyleSpacing type="unit">0</SameParaStyleSpacing>
 				</Properties>
 			</ParagraphStyle>
 			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aHandlungsHeader" Name="Regeltexte:HandlungsHeader" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld" SplitDocument="false" EmitCss="true" StyleUniqueId="18e4dae3-e440-4703-9754-0331506ba54d" IncludeClass="true" ExtendedKeyboardShortcut="1 60 1" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FontStyle="Expanded Book" PointSize="14" SpaceBefore="28.34645669291339" SpaceAfter="0" KeepWithPrevious="false">
@@ -526,97 +526,12 @@
 			</Properties>
 		</TableStyle>
 	</RootTableStyleGroup>
-	<RootObjectStyleGroup Self="u99">
-		<ObjectStyle Self="ObjectStyle/$ID/[None]" EmitCss="true" IncludeClass="true" Name="$ID/[None]" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" CornerRadius="12" FillColor="Swatch/None" FillTint="-1" StrokeWeight="0" MiterLimit="4" EndCap="ButtEndCap" EndJoin="MiterEndJoin" StrokeType="StrokeStyle/$ID/Solid" LeftLineEnd="None" RightLineEnd="None" StrokeColor="Swatch/None" StrokeTint="-1" GapColor="Swatch/None" GapTint="-1" StrokeAlignment="CenterAlignment" Nonprinting="false" GradientFillAngle="0" GradientStrokeAngle="0" AppliedNamedGrid="n" TopLeftCornerOption="None" TopRightCornerOption="None" BottomLeftCornerOption="None" BottomRightCornerOption="None" TopLeftCornerRadius="12" TopRightCornerRadius="12" BottomLeftCornerRadius="12" BottomRightCornerRadius="12" CornerOption="None" ArrowHeadAlignment="InsidePath" LeftArrowHeadScale="100" RightArrowHeadScale="100">
-			<TransformAttributeOption TransformAttrLeftReference="PageEdgeReference" TransformAttrTopReference="PageEdgeReference" TransformAttrRefAnchorPoint="TopLeftAnchor" />
-			<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
-				<Properties>
-					<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
-					<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
-				</Properties>
-			</ObjectExportOption>
-			<TextFramePreference TextColumnCount="1" TextColumnGutter="12" TextColumnFixedWidth="144" UseFixedColumnWidth="false" FirstBaselineOffset="AscentOffset" MinimumFirstBaselineOffset="0" VerticalJustification="TopAlign" VerticalThreshold="0" IgnoreWrap="false" UseFlexibleColumnWidth="false" TextColumnMaxWidth="0" AutoSizingType="Off" AutoSizingReferencePoint="CenterPoint" UseMinimumHeightForAutoSizing="false" MinimumHeightForAutoSizing="0" UseMinimumWidthForAutoSizing="false" MinimumWidthForAutoSizing="0" UseNoLineBreaksForAutoSizing="false" ColumnRuleOverride="false" ColumnRuleOffset="0" ColumnRuleTopInset="0" ColumnRuleInsetChainOverride="true" ColumnRuleBottomInset="0" ColumnRuleStrokeWidth="1" ColumnRuleStrokeColor="Color/Black" ColumnRuleStrokeType="StrokeStyle/$ID/Solid" ColumnRuleStrokeTint="100" ColumnRuleOverprintOverride="false" FootnotesEnableOverrides="false" FootnotesSpanAcrossColumns="false" FootnotesMinimumSpacing="12" FootnotesSpaceBetween="6" VerticalBalanceColumns="false">
-				<Properties>
-					<InsetSpacing type="list">
-						<ListItem type="unit">0</ListItem>
-						<ListItem type="unit">0</ListItem>
-						<ListItem type="unit">0</ListItem>
-						<ListItem type="unit">0</ListItem>
-					</InsetSpacing>
-				</Properties>
-			</TextFramePreference>
-			<BaselineFrameGridOption UseCustomBaselineFrameGrid="false" StartingOffsetForBaselineFrameGrid="0" BaselineFrameGridRelativeOption="TopOfInset" BaselineFrameGridIncrement="12">
-				<Properties>
-					<BaselineFrameGridColor type="enumeration">LightBlue</BaselineFrameGridColor>
-				</Properties>
-			</BaselineFrameGridOption>
-			<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="BottomAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="0" AnchorSpaceAbove="0" />
-			<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
-				<Properties>
-					<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
-				</Properties>
-				<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
-			</TextWrapPreference>
-			<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
-			<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="0" RightCrop="0" BottomCrop="0" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
-			<TextFrameFootnoteOptionsObject EnableOverrides="false" SpanFootnotesAcross="false" MinimumSpacingOption="12" SpaceBetweenFootnotes="6" />
-		</ObjectStyle>
-	</RootObjectStyleGroup>
 	<TinDocumentDataObject>
 		<Properties>
 			<GaijiRefMaps><![CDATA[/////wAAAAAAAAAA]]></GaijiRefMaps>
 		</Properties>
 	</TinDocumentDataObject>
-	<TransparencyDefaultContainerObject>
-		<TransparencySetting>
-			<BlendingSetting BlendMode="Normal" Opacity="100" KnockoutGroup="false" IsolateBlending="false" />
-			<DropShadowSetting Mode="None" BlendMode="Multiply" Opacity="75" XOffset="7" YOffset="7" Size="5" EffectColor="n" Noise="0" Spread="0" UseGlobalLight="false" KnockedOut="true" HonorOtherEffects="false" />
-			<FeatherSetting Mode="None" Width="9" CornerType="Diffusion" Noise="0" ChokeAmount="0" />
-			<InnerShadowSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="75" Angle="120" Distance="7" UseGlobalLight="false" ChokeAmount="0" Size="7" Noise="0" />
-			<OuterGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" />
-			<InnerGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" Source="EdgeSourced" />
-			<BevelAndEmbossSetting Applied="false" Style="InnerBevel" Technique="SmoothContour" Depth="100" Direction="Up" Size="7" Soften="0" Angle="120" Altitude="30" UseGlobalLight="false" HighlightColor="n" HighlightBlendMode="Screen" HighlightOpacity="75" ShadowColor="n" ShadowBlendMode="Multiply" ShadowOpacity="75" />
-			<SatinSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="50" Angle="120" Distance="7" Size="7" InvertEffect="false" />
-			<DirectionalFeatherSetting Applied="false" LeftWidth="0" RightWidth="0" TopWidth="0" BottomWidth="0" ChokeAmount="0" Angle="0" FollowShapeMode="LeadingEdge" Noise="0" />
-			<GradientFeatherSetting Applied="false" Type="Linear" Angle="0" Length="0" GradientStart="0 0" HiliteAngle="0" HiliteLength="0" />
-		</TransparencySetting>
-		<StrokeTransparencySetting>
-			<BlendingSetting BlendMode="Normal" Opacity="100" KnockoutGroup="false" IsolateBlending="false" />
-			<DropShadowSetting Mode="None" BlendMode="Multiply" Opacity="75" XOffset="7" YOffset="7" Size="5" EffectColor="n" Noise="0" Spread="0" UseGlobalLight="false" KnockedOut="true" HonorOtherEffects="false" />
-			<FeatherSetting Mode="None" Width="9" CornerType="Diffusion" Noise="0" ChokeAmount="0" />
-			<InnerShadowSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="75" Angle="120" Distance="7" UseGlobalLight="false" ChokeAmount="0" Size="7" Noise="0" />
-			<OuterGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" />
-			<InnerGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" Source="EdgeSourced" />
-			<BevelAndEmbossSetting Applied="false" Style="InnerBevel" Technique="SmoothContour" Depth="100" Direction="Up" Size="7" Soften="0" Angle="120" Altitude="30" UseGlobalLight="false" HighlightColor="n" HighlightBlendMode="Screen" HighlightOpacity="75" ShadowColor="n" ShadowBlendMode="Multiply" ShadowOpacity="75" />
-			<SatinSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="50" Angle="120" Distance="7" Size="7" InvertEffect="false" />
-			<DirectionalFeatherSetting Applied="false" LeftWidth="0" RightWidth="0" TopWidth="0" BottomWidth="0" ChokeAmount="0" Angle="0" FollowShapeMode="LeadingEdge" Noise="0" />
-			<GradientFeatherSetting Applied="false" Type="Linear" Angle="0" Length="0" GradientStart="0 0" HiliteAngle="0" HiliteLength="0" />
-		</StrokeTransparencySetting>
-		<FillTransparencySetting>
-			<BlendingSetting BlendMode="Normal" Opacity="100" KnockoutGroup="false" IsolateBlending="false" />
-			<DropShadowSetting Mode="None" BlendMode="Multiply" Opacity="75" XOffset="7" YOffset="7" Size="5" EffectColor="n" Noise="0" Spread="0" UseGlobalLight="false" KnockedOut="true" HonorOtherEffects="false" />
-			<FeatherSetting Mode="None" Width="9" CornerType="Diffusion" Noise="0" ChokeAmount="0" />
-			<InnerShadowSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="75" Angle="120" Distance="7" UseGlobalLight="false" ChokeAmount="0" Size="7" Noise="0" />
-			<OuterGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" />
-			<InnerGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" Source="EdgeSourced" />
-			<BevelAndEmbossSetting Applied="false" Style="InnerBevel" Technique="SmoothContour" Depth="100" Direction="Up" Size="7" Soften="0" Angle="120" Altitude="30" UseGlobalLight="false" HighlightColor="n" HighlightBlendMode="Screen" HighlightOpacity="75" ShadowColor="n" ShadowBlendMode="Multiply" ShadowOpacity="75" />
-			<SatinSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="50" Angle="120" Distance="7" Size="7" InvertEffect="false" />
-			<DirectionalFeatherSetting Applied="false" LeftWidth="0" RightWidth="0" TopWidth="0" BottomWidth="0" ChokeAmount="0" Angle="0" FollowShapeMode="LeadingEdge" Noise="0" />
-			<GradientFeatherSetting Applied="false" Type="Linear" Angle="0" Length="0" GradientStart="0 0" HiliteAngle="0" HiliteLength="0" />
-		</FillTransparencySetting>
-		<ContentTransparencySetting>
-			<BlendingSetting BlendMode="Normal" Opacity="100" KnockoutGroup="false" IsolateBlending="false" />
-			<DropShadowSetting Mode="None" BlendMode="Multiply" Opacity="75" XOffset="7" YOffset="7" Size="5" EffectColor="n" Noise="0" Spread="0" UseGlobalLight="false" KnockedOut="true" HonorOtherEffects="false" />
-			<FeatherSetting Mode="None" Width="9" CornerType="Diffusion" Noise="0" ChokeAmount="0" />
-			<InnerShadowSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="75" Angle="120" Distance="7" UseGlobalLight="false" ChokeAmount="0" Size="7" Noise="0" />
-			<OuterGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" />
-			<InnerGlowSetting Applied="false" BlendMode="Screen" Opacity="75" Noise="0" EffectColor="n" Technique="Softer" Spread="0" Size="7" Source="EdgeSourced" />
-			<BevelAndEmbossSetting Applied="false" Style="InnerBevel" Technique="SmoothContour" Depth="100" Direction="Up" Size="7" Soften="0" Angle="120" Altitude="30" UseGlobalLight="false" HighlightColor="n" HighlightBlendMode="Screen" HighlightOpacity="75" ShadowColor="n" ShadowBlendMode="Multiply" ShadowOpacity="75" />
-			<SatinSetting Applied="false" EffectColor="n" BlendMode="Multiply" Opacity="50" Angle="120" Distance="7" Size="7" InvertEffect="false" />
-			<DirectionalFeatherSetting Applied="false" LeftWidth="0" RightWidth="0" TopWidth="0" BottomWidth="0" ChokeAmount="0" Angle="0" FollowShapeMode="LeadingEdge" Noise="0" />
-			<GradientFeatherSetting Applied="false" Type="Linear" Angle="0" Length="0" GradientStart="0 0" HiliteAngle="0" HiliteLength="0" />
-		</ContentTransparencySetting>
-	</TransparencyDefaultContainerObject>
+	<TextVariable Self="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" VariableType="XrefPageNumberType" />
 	<CrossReferenceFormat Self="u9e" Name="Vollständiger Absatz und Seitenzahl" AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 		<BuildingBlock Self="u9eBuildingBlock0" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
 		<BuildingBlock Self="u9eBuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" (S. " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
@@ -779,6 +694,18 @@
                   <stEvt:when>2024-12-10T23:42:45+01:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe InCopy 20.0 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>converted</stEvt:action>
@@ -1885,6 +1812,53 @@
 						</ParagraphStyleRange>
 					</Cell>
 				</Table>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" ParagraphBreakType="NextColumn">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Schwachstellen</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Egal wie groß etwas ist, sobald es funktionale Komponenten, Computer, Motoren, Maschinenteile oder irgendetwas hat, dass nicht Panzerung ist, hat es mindestens eine Schwachstelle.</Content>
+				<Br />
+				<Br />
+				<Content>Schachstellen stellen verwundbare Punkte an einem ansonsten sehr viel größeren Ziel dar. Dieses Konzept gilt für Gegenstände, wie auch für Personen oder Cortex-Systeme. Alles, was es wert ist, angegriffen zu werden, hat Schwachstellen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Verwundbar: Ein Ziel hat Schwachstellen, wenn eine Schwachstelle mindestens eine Größe von 0 hat.</Content>
+				<Br />
+				<Content>Größe: Eine Größe einer Schwachstelle muss mindestens um 5 niedriger sein, als das eigentliche Objekt. Das bedeutet, ein Fahrzeug mit Größe 6 hat Schwachstellen mit einer Größe 1. Ein Mensch hat Schwachstellen mit einer Größe 0.</Content>
+				<Br />
+				<Content>Anzahl: Die Anzahl der Schwachstellen entspricht der halben Größe.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Schwachstellen ausnutzen</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Das Zerstören eines kritischen Kühlsystems, das ausnutzen einer virtuellen Hintertür oder Schlag auf die Halsschlagader sind alles Beispiel für das erfolgreiche ausnutzen einer Schwachstelle.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Jetzt oder nie: Jede Schwachstelle kann nur einmal erfolgreich ausgenutzt werden. Wurde eine Schwachstelle angegriffen, getroffen und zerstört, ist sie weg.</Content>
+				<Br />
+				<Content>Wirkung: Wird eine Schachstelle getroffen, wird der potentielle Schaden verdoppelt und auf dem Monitor des Objektes nach den normalen Regeln abgewickelt.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2002,7 +1976,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Schritt 2: Größe und Modulklasse</Content>
+				<Content>Schritt 2: G</Content>
+				<Content>röße und Modulklasse</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2052,41 +2027,13 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Mathematisch genau: Die exk</Content>
-				<Content>te Formel zum berechnen von KP lautet: </Content>
+				<Content>Mathematisch genau: Die exkte Formel zum berechnen von KP lautet:</Content>
 				<Br />
-				<Rectangle Self="u69a32" ContentType="Unassigned" StoryTitle="$ID/" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 29.125" GradientFillLength="284.078125" GradientFillAngle="0" GradientStrokeStart="0 29.125" GradientStrokeLength="284.078125" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[None]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 0 -25.35180284145322">
-					<Properties>
-						<PathGeometry>
-							<GeometryPathType PathOpen="false">
-								<PathPointArray>
-									<PathPointType Anchor="-6.59971702764966 4.022718756275214" LeftDirection="-6.59971702764966 4.022718756275214" RightDirection="-6.59971702764966 4.022718756275214" />
-									<PathPointType Anchor="-6.59971702764966 25.102281243733096" LeftDirection="-6.59971702764966 25.102281243733096" RightDirection="-6.59971702764966 25.102281243733096" />
-									<PathPointType Anchor="211.9042199803149 25.102281243733096" LeftDirection="211.9042199803149 25.102281243733096" RightDirection="211.9042199803149 25.102281243733096" />
-									<PathPointType Anchor="211.9042199803149 4.022718756275214" LeftDirection="211.9042199803149 4.022718756275214" RightDirection="211.9042199803149 4.022718756275214" />
-								</PathPointArray>
-							</GeometryPathType>
-						</PathGeometry>
-					</Properties>
-					<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
-						<Properties>
-							<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
-						</Properties>
-						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
-					</TextWrapPreference>
-					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-					<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
-						<Properties>
-							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
-							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
-						</Properties>
-					</ObjectExportOption>
-					<MathObject Self="u69a33" AppliedMathMLFontSize="7.23778" AppliedMathMLRgbColor="0 0 0" TintValue="100" IsMathMLObject="true" MathMLDescription="&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot; mathsize=&quot;7.23778pt&quot; mathcolor=&quot;#000000&quot; id=&quot;1dddfa26-cf5c-4078-8f66-36e938298916&quot;&gt;&#xa;    &lt;mrow&gt;&#xa;        &lt;mrow&gt;&#xa;            &lt;mn id=&quot;f2056020-8f3b-4ac3-b393-2ad592cb088f&quot;&gt;5&lt;/mn&gt;&#xa;            &lt;mo id=&quot;35214687-7413-4104-b8d2-ad9e8d35501a&quot;&gt;*&lt;/mo&gt;&#xa;            &lt;mo id=&quot;9e65a1a1-5b77-4db0-a1c4-747ef357152d&quot;&gt;(&lt;/mo&gt;&#xa;            &lt;mfrac linethickness=&quot;1&quot; id=&quot;879b2a79-6bae-4074-9c5d-28c5b3ec5dca&quot;&gt;&#xa;                &lt;mrow&gt;&#xa;                    &lt;mi id=&quot;7fb42d85-9bb2-480c-9fe6-4ec4b16a9136&quot;&gt;MK&lt;/mi&gt;&#xa;                    &lt;mo id=&quot;9c12657d-279d-4b18-af1f-d19c9d8a5dad&quot;&gt;*&lt;/mo&gt;&#xa;                    &lt;mrow&gt;&#xa;                        &lt;mo id=&quot;ed333eb5-d5fb-4d1e-bb06-f8307035f34d&quot;&gt;(&lt;/mo&gt;&#xa;                        &lt;mi id=&quot;fdfdc00e-8528-4ad5-b889-28910af1d805&quot;&gt;MK&lt;/mi&gt;&#xa;                        &lt;mo id=&quot;0cca1737-e22a-4fdd-bec4-1a7e7779b34e&quot;&gt;+&lt;/mo&gt;&#xa;                        &lt;mn id=&quot;80a94655-005f-4ec4-850e-0b66152f17e6&quot;&gt;1&lt;/mn&gt;&#xa;                        &lt;mo id=&quot;db96f2ef-9e6b-4ad6-a416-9e02c1f5d1dd&quot;&gt;)&lt;/mo&gt;&#xa;                    &lt;/mrow&gt;&#xa;                    &lt;mo id=&quot;86242885-b5ea-4651-8cc6-c17cddbd16cc&quot;&gt;*&lt;/mo&gt;&#xa;                    &lt;mrow&gt;&#xa;                        &lt;mo id=&quot;3b433579-a4af-426a-9d2b-503c54343fd1&quot;&gt;(&lt;/mo&gt;&#xa;                        &lt;mn id=&quot;53e1e6d2-6ab2-471f-86ff-a098adb7de8f&quot;&gt;2&lt;/mn&gt;&#xa;                        &lt;mo id=&quot;945953da-bc75-47e4-aed3-af8fb0baa6c9&quot;&gt;*&lt;/mo&gt;&#xa;                        &lt;mi id=&quot;51d25229-6ac4-4c99-9b59-2fb02ffba728&quot;&gt;MK&lt;/mi&gt;&#xa;                        &lt;mo id=&quot;fc7e26a1-5b2b-40e5-ad94-e5da77c71a39&quot;&gt;+&lt;/mo&gt;&#xa;                        &lt;mn id=&quot;195f4a57-0e6e-45d0-ab7c-1559185637ed&quot;&gt;1&lt;/mn&gt;&#xa;                        &lt;mo id=&quot;88055190-fab0-4db0-8c5b-c6dd0a6b81db&quot;&gt;)&lt;/mo&gt;&#xa;                    &lt;/mrow&gt;&#xa;                &lt;/mrow&gt;&#xa;                &lt;mrow&gt;&#xa;                    &lt;mn id=&quot;e7c7894e-98cc-4a66-ab69-e0276809e24c&quot;&gt;6&lt;/mn&gt;&#xa;                &lt;/mrow&gt;&#xa;            &lt;/mfrac&gt;&#xa;        &lt;/mrow&gt;&#xa;        &lt;mo id=&quot;fba41dce-a224-4dbf-8e42-d275b5c5584b&quot;&gt;)&lt;/mo&gt;&#xa;        &lt;mo id=&quot;e42f2de2-5633-4693-9195-2030a5f9c112&quot;&gt;+&lt;/mo&gt;&#xa;        &lt;mrow&gt;&#xa;            &lt;mn id=&quot;24f636c1-f165-4bed-ae77-06e1f3e8d8b5&quot;&gt;5&lt;/mn&gt;&#xa;            &lt;mo id=&quot;3ef66517-296e-4d75-a450-be6206aac4b6&quot;&gt;*&lt;/mo&gt;&#xa;            &lt;mrow&gt;&#xa;                &lt;mo id=&quot;214b1dc2-fbae-4bbd-9548-c1e6c10bbf82&quot;&gt;(&lt;/mo&gt;&#xa;                &lt;mn id=&quot;132e92f2-fab7-4fe0-923b-22d8599ed39c&quot;&gt;-1&lt;/mn&gt;&#xa;                &lt;mo id=&quot;36e88f58-4d64-4d4f-a0b0-4108c56fce9c&quot;&gt;+&lt;/mo&gt;&#xa;                &lt;msup id=&quot;5c78c092-7973-41dd-a69f-ff7e1d9f9983&quot;&gt;&#xa;                    &lt;mrow&gt;&#xa;                        &lt;mn id=&quot;425c9b4e-40c0-4d47-933a-ec9e6790c895&quot;&gt;2&lt;/mn&gt;&#xa;                    &lt;/mrow&gt;&#xa;                    &lt;mrow&gt;&#xa;                        &lt;mi id=&quot;f3d1f27b-706e-4ab5-8394-f18550031d6e&quot;&gt;Masse&lt;/mi&gt;&#xa;                    &lt;/mrow&gt;&#xa;                &lt;/msup&gt;&#xa;                &lt;mo id=&quot;9cca3517-33b5-491b-9684-51bc0ff223e2&quot;&gt;)&lt;/mo&gt;&#xa;            &lt;/mrow&gt;&#xa;        &lt;/mrow&gt;&#xa;    &lt;/mrow&gt;&#xa;    &lt;!-- Erster Teil der Formel --&gt;&#xa;    &lt;!-- Zweiter Teil der Formel --&gt;&#xa;&lt;/math&gt;&#xa;" MathmlSvgData="{&quot;height&quot;:21.578125,&quot;svg_str&quot;:&quot;&lt;svg xmlns=\&quot;http://www.w3.org/2000/svg\&quot; width=\&quot;31.256ex\&quot; height=\&quot;3.016ex\&quot; role=\&quot;img\&quot; focusable=\&quot;false\&quot; viewBox=\&quot;0 -851.7 13815.1 1332.9\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; aria-hidden=\&quot;true\&quot; style=\&quot;vertical-align: -1.089ex;\&quot;&gt;&lt;defs&gt;&lt;path id=\&quot;MJX-14-TEX-N-35\&quot; d=\&quot;M164 157Q164 133 148 117T109 101H102Q148 22 224 22Q294 22 326 82Q345 115 345 210Q345 313 318 349Q292 382 260 382H254Q176 382 136 314Q132 307 129 306T114 304Q97 304 95 310Q93 314 93 485V614Q93 664 98 664Q100 666 102 666Q103 666 123 658T178 642T253 634Q324 634 389 662Q397 666 402 666Q410 666 410 648V635Q328 538 205 538Q174 538 149 544L139 546V374Q158 388 169 396T205 412T256 420Q337 420 393 355T449 201Q449 109 385 44T229 -22Q148 -22 99 32T50 154Q50 178 61 192T84 210T107 214Q132 214 148 197T164 157Z\&quot;/&gt;&lt;path id=\&quot;MJX-14-TEX-N-2A\&quot; d=\&quot;M215 721Q216 732 225 741T248 750Q263 750 273 742T284 721L270 571L327 613Q383 654 388 657T399 660Q412 660 423 650T435 624T424 600T376 575Q363 569 355 566L289 534L355 504L424 470Q435 462 435 447Q435 431 424 420T399 409Q393 409 388 412T327 456L270 498L277 423L284 348Q280 320 250 320T215 348L229 498L172 456Q116 415 111 412T100 409Q87 409 76 420T64 447Q64 461 75 470L144 504L210 534L144 566Q136 570 122 576Q83 593 74 600T64 624Q64 639 75 649T100 660Q106 660 111 657T172 613L229 571Q229 578 222 643T215 721Z\&quot;/&gt;&lt;path id=\&quot;MJX-14-TEX-LO-28\&quot; d=\&quot;M180 96T180 250T205 541T266 770T353 944T444 1069T527 1150H555Q561 1144 561 1141Q561 1137 545 1120T504 1072T447 995T386 878T330 721T288 513T272 251Q272 133 280 56Q293 -87 326 -209T399 -405T475 -531T536 -609T561 -640Q561 -643 555 -649H527Q483 -612 443 -568T353 -443T266 -270T205 -41Z\&quot;/&gt;&lt;path id=\&quot;MJX-14-TEX-N-4D\&quot; d=\&quot;M132 622Q125 629 121 631T105 634T62 637H29V683H135Q221 683 232 682T249 675Q250 674 354 398L458 124L562 398Q666 674 668 675Q671 681 683 682T781 683H887V637H854Q814 636 803 634T785 622V61Q791 51 802 49T854 46H887V0H876Q855 3 736 3Q605 3 596 0H585V46H618Q660 47 669 49T688 61V347Q688 424 688 461T688 546T688 613L687 632Q454 14 450 7Q446 1 430 1T410 7Q409 9 292 316L176 624V606Q175 588 175 543T175 463T175 356L176 86Q187 50 261 46H278V0H269Q254 3 154 3Q52 3 37 0H29V46H46Q78 48 98 56T122 69T132 86V622Z\&quot;/&gt;&lt;path id=\&quot;MJX-14-TEX-N-4B\&quot; d=\&quot;M128 622Q121 629 117 631T101 634T58 637H25V683H36Q57 680 180 680Q315 680 324 683H335V637H313Q235 637 233 620Q232 618 232 462L233 307L379 449Q425 494 479 546Q518 584 524 591T531 607V608Q531 630 503 636Q501 636 498 636T493 637H489V683H499Q517 680 630 680Q704 680 716 683H722V637H708Q633 633 589 597Q584 592 495 506T406 419T515 254T631 80Q644 60 662 54T715 46H736V0H728Q719 3 615 3Q493 3 472 0H461V46H469Q515 46 515 72Q515 78 512 84L336 351Q332 348 278 296L232 251V156Q232 62 235 58Q243 47 302 46H335V0H324Q303 3 180 3Q45 3 36 0H25V46H58Q100 47 109 49T128 61V622Z\&quot;/&gt;&lt;path id=\&quot;MJX-14-TEX-N-28\&quot; d=\&quot;M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z\&quot;/&gt;&lt;path id=\&quot;MJX-14-TEX-N-2B\&quot; d=\&quot;M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z\&quot;/&gt;&lt;path id=\&quot;MJX-14-TEX-N-31\&quot; d=\&quot;M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z\&quot;/&gt;&lt;path id=\&quot;MJX-14-TEX-N-29\&quot; d=\&quot;M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z\&quot;/&gt;&lt;path id=\&quot;MJX-14-TEX-N-32\&quot; d=\&quot;M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z\&quot;/&gt;&lt;path id=\&quot;MJX-14-TEX-N-36\&quot; d=\&quot;M42 313Q42 476 123 571T303 666Q372 666 402 630T432 550Q432 525 418 510T379 495Q356 495 341 509T326 548Q326 592 373 601Q351 623 311 626Q240 626 194 566Q147 500 147 364L148 360Q153 366 156 373Q197 433 263 433H267Q313 433 348 414Q372 400 396 374T435 317Q456 268 456 210V192Q456 169 451 149Q440 90 387 34T253 -22Q225 -22 199 -14T143 16T92 75T56 172T42 313ZM257 397Q227 397 205 380T171 335T154 278T148 216Q148 133 160 97T198 39Q222 21 251 21Q302 21 329 59Q342 77 347 104T352 209Q352 289 347 316T329 361Q302 397 257 397Z\&quot;/&gt;&lt;path id=\&quot;MJX-14-TEX-LO-29\&quot; d=\&quot;M35 1138Q35 1150 51 1150H56H69Q113 1113 153 1069T243 944T330 771T391 541T416 250T391 -40T330 -270T243 -443T152 -568T69 -649H56Q43 -649 39 -647T35 -637Q65 -607 110 -548Q283 -316 316 56Q324 133 324 251Q324 368 316 445Q278 877 48 1123Q36 1137 35 1138Z\&quot;/&gt;&lt;path id=\&quot;MJX-14-TEX-SO-28\&quot; d=\&quot;M152 251Q152 646 388 850H416Q422 844 422 841Q422 837 403 816T357 753T302 649T255 482T236 250Q236 124 255 19T301 -147T356 -251T403 -315T422 -340Q422 -343 416 -349H388Q359 -325 332 -296T271 -213T212 -97T170 56T152 251Z\&quot;/&gt;&lt;path id=\&quot;MJX-14-TEX-N-2212\&quot; d=\&quot;M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z\&quot;/&gt;&lt;path id=\&quot;MJX-14-TEX-N-61\&quot; d=\&quot;M137 305T115 305T78 320T63 359Q63 394 97 421T218 448Q291 448 336 416T396 340Q401 326 401 309T402 194V124Q402 76 407 58T428 40Q443 40 448 56T453 109V145H493V106Q492 66 490 59Q481 29 455 12T400 -6T353 12T329 54V58L327 55Q325 52 322 49T314 40T302 29T287 17T269 6T247 -2T221 -8T190 -11Q130 -11 82 20T34 107Q34 128 41 147T68 188T116 225T194 253T304 268H318V290Q318 324 312 340Q290 411 215 411Q197 411 181 410T156 406T148 403Q170 388 170 359Q170 334 154 320ZM126 106Q126 75 150 51T209 26Q247 26 276 49T315 109Q317 116 318 175Q318 233 317 233Q309 233 296 232T251 223T193 203T147 166T126 106Z\&quot;/&gt;&lt;path id=\&quot;MJX-14-TEX-N-73\&quot; d=\&quot;M295 316Q295 356 268 385T190 414Q154 414 128 401Q98 382 98 349Q97 344 98 336T114 312T157 287Q175 282 201 278T245 269T277 256Q294 248 310 236T342 195T359 133Q359 71 321 31T198 -10H190Q138 -10 94 26L86 19L77 10Q71 4 65 -1L54 -11H46H42Q39 -11 33 -5V74V132Q33 153 35 157T45 162H54Q66 162 70 158T75 146T82 119T101 77Q136 26 198 26Q295 26 295 104Q295 133 277 151Q257 175 194 187T111 210Q75 227 54 256T33 318Q33 357 50 384T93 424T143 442T187 447H198Q238 447 268 432L283 424L292 431Q302 440 314 448H322H326Q329 448 335 442V310L329 304H301Q295 310 295 316Z\&quot;/&gt;&lt;path id=\&quot;MJX-14-TEX-N-65\&quot; d=\&quot;M28 218Q28 273 48 318T98 391T163 433T229 448Q282 448 320 430T378 380T406 316T415 245Q415 238 408 231H126V216Q126 68 226 36Q246 30 270 30Q312 30 342 62Q359 79 369 104L379 128Q382 131 395 131H398Q415 131 415 121Q415 117 412 108Q393 53 349 21T250 -11Q155 -11 92 58T28 218ZM333 275Q322 403 238 411H236Q228 411 220 410T195 402T166 381T143 340T127 274V267H333V275Z\&quot;/&gt;&lt;path id=\&quot;MJX-14-TEX-SO-29\&quot; d=\&quot;M305 251Q305 -145 69 -349H56Q43 -349 39 -347T35 -338Q37 -333 60 -307T108 -239T160 -136T204 27T221 250T204 473T160 636T108 740T60 807T35 839Q35 850 50 850H56H69Q197 743 256 566Q305 425 305 251Z\&quot;/&gt;&lt;/defs&gt;&lt;g stroke=\&quot;currentColor\&quot; fill=\&quot;currentColor\&quot; stroke-width=\&quot;0\&quot; transform=\&quot;scale(1,-1)\&quot;&gt;&lt;g data-mml-node=\&quot;math\&quot; fill=\&quot;#000000\&quot; stroke=\&quot;#000000\&quot; id=\&quot;1dddfa26-cf5c-4078-8f66-36e938298916\&quot;&gt;&lt;g data-mml-node=\&quot;mrow\&quot; transform=\&quot;scale(0.741)\&quot;&gt;&lt;g data-mml-node=\&quot;mrow\&quot;&gt;&lt;g data-mml-node=\&quot;mn\&quot; id=\&quot;f2056020-8f3b-4ac3-b393-2ad592cb088f\&quot;&gt;&lt;use data-c=\&quot;35\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-35\&quot;/&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mo\&quot; id=\&quot;35214687-7413-4104-b8d2-ad9e8d35501a\&quot; transform=\&quot;translate(500,750)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-750)\&quot;&gt;&lt;use data-c=\&quot;2A\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-2A\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mo\&quot; id=\&quot;9e65a1a1-5b77-4db0-a1c4-747ef357152d\&quot; transform=\&quot;translate(1000,1149.5) translate(0 -0.5)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-1149.5)\&quot;&gt;&lt;use data-c=\&quot;28\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-LO-28\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mfrac\&quot; id=\&quot;879b2a79-6bae-4074-9c5d-28c5b3ec5dca\&quot; transform=\&quot;translate(1597,1047.1)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-1047.1)\&quot;&gt;&lt;g data-mml-node=\&quot;mrow\&quot; transform=\&quot;translate(220,516.8) scale(0.707)\&quot;&gt;&lt;g data-mml-node=\&quot;mi\&quot; id=\&quot;7fb42d85-9bb2-480c-9fe6-4ec4b16a9136\&quot;&gt;&lt;use data-c=\&quot;4D\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-4D\&quot;/&gt;&lt;use data-c=\&quot;4B\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-4B\&quot; transform=\&quot;translate(917,0)\&quot;/&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mo\&quot; id=\&quot;9c12657d-279d-4b18-af1f-d19c9d8a5dad\&quot; transform=\&quot;translate(1695,750)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-750)\&quot;&gt;&lt;use data-c=\&quot;2A\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-2A\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mrow\&quot; transform=\&quot;translate(2195,0)\&quot;&gt;&lt;g data-mml-node=\&quot;mo\&quot; id=\&quot;ed333eb5-d5fb-4d1e-bb06-f8307035f34d\&quot;&gt;&lt;use data-c=\&quot;28\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-28\&quot;/&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mi\&quot; id=\&quot;fdfdc00e-8528-4ad5-b889-28910af1d805\&quot; transform=\&quot;translate(389,683)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-683)\&quot;&gt;&lt;use data-c=\&quot;4D\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-4D\&quot;/&gt;&lt;use data-c=\&quot;4B\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-4B\&quot; transform=\&quot;translate(917,0)\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mo\&quot; id=\&quot;0cca1737-e22a-4fdd-bec4-1a7e7779b34e\&quot; transform=\&quot;translate(2084,583)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-583)\&quot;&gt;&lt;use data-c=\&quot;2B\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-2B\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mn\&quot; id=\&quot;80a94655-005f-4ec4-850e-0b66152f17e6\&quot; transform=\&quot;translate(2862,666)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-666)\&quot;&gt;&lt;use data-c=\&quot;31\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-31\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mo\&quot; id=\&quot;db96f2ef-9e6b-4ad6-a416-9e02c1f5d1dd\&quot; transform=\&quot;translate(3362,750)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-750)\&quot;&gt;&lt;use data-c=\&quot;29\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-29\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mo\&quot; id=\&quot;86242885-b5ea-4651-8cc6-c17cddbd16cc\&quot; transform=\&quot;translate(5946,750)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-750)\&quot;&gt;&lt;use data-c=\&quot;2A\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-2A\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mrow\&quot; transform=\&quot;translate(6446,0)\&quot;&gt;&lt;g data-mml-node=\&quot;mo\&quot; id=\&quot;3b433579-a4af-426a-9d2b-503c54343fd1\&quot;&gt;&lt;use data-c=\&quot;28\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-28\&quot;/&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mn\&quot; id=\&quot;53e1e6d2-6ab2-471f-86ff-a098adb7de8f\&quot; transform=\&quot;translate(389,666)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-666)\&quot;&gt;&lt;use data-c=\&quot;32\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-32\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mo\&quot; id=\&quot;945953da-bc75-47e4-aed3-af8fb0baa6c9\&quot; transform=\&quot;translate(889,750)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-750)\&quot;&gt;&lt;use data-c=\&quot;2A\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-2A\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mi\&quot; id=\&quot;51d25229-6ac4-4c99-9b59-2fb02ffba728\&quot; transform=\&quot;translate(1389,683)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-683)\&quot;&gt;&lt;use data-c=\&quot;4D\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-4D\&quot;/&gt;&lt;use data-c=\&quot;4B\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-4B\&quot; transform=\&quot;translate(917,0)\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mo\&quot; id=\&quot;fc7e26a1-5b2b-40e5-ad94-e5da77c71a39\&quot; transform=\&quot;translate(3084,583)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-583)\&quot;&gt;&lt;use data-c=\&quot;2B\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-2B\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mn\&quot; id=\&quot;195f4a57-0e6e-45d0-ab7c-1559185637ed\&quot; transform=\&quot;translate(3862,666)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-666)\&quot;&gt;&lt;use data-c=\&quot;31\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-31\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mo\&quot; id=\&quot;88055190-fab0-4db0-8c5b-c6dd0a6b81db\&quot; transform=\&quot;translate(4362,750)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-750)\&quot;&gt;&lt;use data-c=\&quot;29\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-29\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mrow\&quot; transform=\&quot;translate(4002,-345) scale(0.707)\&quot;&gt;&lt;g data-mml-node=\&quot;mn\&quot; id=\&quot;e7c7894e-98cc-4a66-ab69-e0276809e24c\&quot;&gt;&lt;use data-c=\&quot;36\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-36\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;rect width=\&quot;8117.5\&quot; height=\&quot;60\&quot; x=\&quot;120\&quot; y=\&quot;220\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mo\&quot; id=\&quot;fba41dce-a224-4dbf-8e42-d275b5c5584b\&quot; transform=\&quot;translate(9954.5,1149.5) translate(0 -0.5)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-1149.5)\&quot;&gt;&lt;use data-c=\&quot;29\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-LO-29\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mo\&quot; id=\&quot;e42f2de2-5633-4693-9195-2030a5f9c112\&quot; transform=\&quot;translate(10773.7,583)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-583)\&quot;&gt;&lt;use data-c=\&quot;2B\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-2B\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mrow\&quot; transform=\&quot;translate(11773.9,0)\&quot;&gt;&lt;g data-mml-node=\&quot;mn\&quot; id=\&quot;24f636c1-f165-4bed-ae77-06e1f3e8d8b5\&quot;&gt;&lt;use data-c=\&quot;35\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-35\&quot;/&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mo\&quot; id=\&quot;3ef66517-296e-4d75-a450-be6206aac4b6\&quot; transform=\&quot;translate(500,750)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-750)\&quot;&gt;&lt;use data-c=\&quot;2A\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-2A\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mrow\&quot; transform=\&quot;translate(1000,0)\&quot;&gt;&lt;g data-mml-node=\&quot;mo\&quot; id=\&quot;214b1dc2-fbae-4bbd-9548-c1e6c10bbf82\&quot; transform=\&quot;translate(0 -0.5)\&quot;&gt;&lt;use data-c=\&quot;28\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-SO-28\&quot;/&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mn\&quot; id=\&quot;132e92f2-fab7-4fe0-923b-22d8599ed39c\&quot; transform=\&quot;translate(458,666)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-666)\&quot;&gt;&lt;use data-c=\&quot;2212\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-2212\&quot;/&gt;&lt;use data-c=\&quot;31\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-31\&quot; transform=\&quot;translate(778,0)\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mo\&quot; id=\&quot;36e88f58-4d64-4d4f-a0b0-4108c56fce9c\&quot; transform=\&quot;translate(1958.2,583)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-583)\&quot;&gt;&lt;use data-c=\&quot;2B\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-2B\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;msup\&quot; id=\&quot;5c78c092-7973-41dd-a69f-ff7e1d9f9983\&quot; transform=\&quot;translate(2958.4,846)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-846)\&quot;&gt;&lt;g data-mml-node=\&quot;mrow\&quot;&gt;&lt;g data-mml-node=\&quot;mn\&quot; id=\&quot;425c9b4e-40c0-4d47-933a-ec9e6790c895\&quot;&gt;&lt;use data-c=\&quot;32\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-32\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mrow\&quot; transform=\&quot;translate(533,363) scale(0.707)\&quot;&gt;&lt;g data-mml-node=\&quot;mi\&quot; id=\&quot;f3d1f27b-706e-4ab5-8394-f18550031d6e\&quot;&gt;&lt;use data-c=\&quot;4D\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-4D\&quot;/&gt;&lt;use data-c=\&quot;61\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-61\&quot; transform=\&quot;translate(917,0)\&quot;/&gt;&lt;use data-c=\&quot;73\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-73\&quot; transform=\&quot;translate(1417,0)\&quot;/&gt;&lt;use data-c=\&quot;73\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-73\&quot; transform=\&quot;translate(1811,0)\&quot;/&gt;&lt;use data-c=\&quot;65\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-N-65\&quot; transform=\&quot;translate(2205,0)\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;g data-mml-node=\&quot;mo\&quot; id=\&quot;9cca3517-33b5-491b-9684-51bc0ff223e2\&quot; transform=\&quot;translate(5414.6,849.5) translate(0 -0.5)\&quot;&gt;&lt;text data-id-align=\&quot;true\&quot;&gt;&lt;/text&gt;&lt;g data-idbox=\&quot;true\&quot; transform=\&quot;translate(0,-849.5)\&quot;&gt;&lt;use data-c=\&quot;29\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; xlink:href=\&quot;#MJX-14-TEX-SO-29\&quot;/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&quot;,&quot;width&quot;:223.671875}">
-						<Properties>
-							<AppliedMathMLSwatch type="enumeration">Nothing</AppliedMathMLSwatch>
-						</Properties>
-					</MathObject>
-				</Rectangle>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aSpecial-Feld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>5 x ( MK×(MK+1)×(2×MK+1) / 6 ) + Masse x 10</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2179,35 +2126,35 @@
 					<Cell Self="u5dc50i68f8ei1" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>10 KP</Content>
+								<Content>15 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei2" Name="2:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>30 KP</Content>
+								<Content>35 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei3" Name="3:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>75 KP</Content>
+								<Content>80 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei4" Name="4:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>155 KP</Content>
+								<Content>160 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei5" Name="5:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>280 KP</Content>
+								<Content>285 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -2221,35 +2168,35 @@
 					<Cell Self="u5dc50i68f8ei7" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>20 KP</Content>
+								<Content>25 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei8" Name="2:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>40 KP</Content>
+								<Content>45 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei9" Name="3:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>85 KP</Content>
+								<Content>90 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8eia" Name="4:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>165 KP</Content>
+								<Content>170 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8eib" Name="5:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>290 KP</Content>
+								<Content>295 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -2263,35 +2210,35 @@
 					<Cell Self="u5dc50i68f8eid" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>40 KP</Content>
+								<Content>45 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8eie" Name="2:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>60 KP</Content>
+								<Content>65 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8eif" Name="3:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>105 KP</Content>
+								<Content>110 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei10" Name="4:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>185 KP</Content>
+								<Content>190 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei11" Name="5:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>310 KP</Content>
+								<Content>315 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -2305,35 +2252,35 @@
 					<Cell Self="u5dc50i68f8ei13" Name="1:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>80 KP</Content>
+								<Content>85 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei14" Name="2:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>100 KP</Content>
+								<Content>105 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei15" Name="3:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>145 KP</Content>
+								<Content>150 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei16" Name="4:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>225 KP</Content>
+								<Content>230 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei17" Name="5:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>350 KP</Content>
+								<Content>355 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -2347,35 +2294,35 @@
 					<Cell Self="u5dc50i68f8ei19" Name="1:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>160 KP</Content>
+								<Content>165 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei1a" Name="2:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>180 KP</Content>
+								<Content>185 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei1b" Name="3:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>225 KP</Content>
+								<Content>230 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei1c" Name="4:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>305 KP</Content>
+								<Content>310 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei1d" Name="5:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>430 KP</Content>
+								<Content>435 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -2389,35 +2336,35 @@
 					<Cell Self="u5dc50i68f8ei1f" Name="1:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>320 KP</Content>
+								<Content>325 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei20" Name="2:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>340 KP</Content>
+								<Content>345 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei21" Name="3:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>385 KP</Content>
+								<Content>390 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei22" Name="4:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>465 KP</Content>
+								<Content>470 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei23" Name="5:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>590 KP</Content>
+								<Content>595 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -2431,35 +2378,35 @@
 					<Cell Self="u5dc50i68f8ei25" Name="1:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>640 KP</Content>
+								<Content>645 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei26" Name="2:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>660 KP</Content>
+								<Content>665 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei27" Name="3:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>705 KP</Content>
+								<Content>710 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei28" Name="4:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>785 KP</Content>
+								<Content>790 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei29" Name="5:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>910 KP</Content>
+								<Content>915 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -2473,35 +2420,35 @@
 					<Cell Self="u5dc50i68f8ei2b" Name="1:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>1280 KP</Content>
+								<Content>1285 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei2c" Name="2:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>1300 KP</Content>
+								<Content>1305 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei2d" Name="3:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>1345 KP</Content>
+								<Content>1350 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei2e" Name="4:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>1425 KP</Content>
+								<Content>1430 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u5dc50i68f8ei2f" Name="5:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkörper">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>1550 KP</Content>
+								<Content>1555 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -3385,7 +3332,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Als “Elektroimpulswaffen” wird eine besondere Form von nicht-tödlichen Plasmawaffen bezeichnet. Eine Elektroimpulswaffe benutzt Niedrigtemperaturplasma, was selbst keinen Schaden anrichten kann. Die Spur, die das initiale Plasmageschoss hinter sich herzieht, dient als Kanal für einen Stromstoß von 3 bis 10mA bei 60 bis 500 kV.</Content>
 				<Br />
-				<Content>Elektrowaffen werden vor allem von Polizei- und Sicherheitskräften, sowie vielen Kopfgeldjägern benutzt, wo sie zur Aufruhrbekämpfung und der Festnahme bewaffneter und gefährlicher Verdächtiger eingesetzt werden.</Content>
+				<Content>Elektrowaffen werden vor allem von Polizei- und Sicherheitskräften, sowie vielen Kopfgeldjägern benutzt, wo sie</Content>
+				<Content> zur Aufruhrbekämpfung und der Festnahme bewaffneter und gefährlicher Verdächtiger eingesetzt werden.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -3772,8 +3720,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>CortAccs (verwirrenderweise genauso ausgesprochen wie Cortex) sind kleine Accessoires, die sich in der breiten Bevölkerung großer Beliebtheit erfreuen. Egal ob ein Ring, Ohrhänger oder sogar Dermalimplantat, ein CortAccs soll ein St</Content>
-				<Content>atment setzen und dabei noch nützlich sein. Entweder selbst mit einem kleinen Holo-Projektor ausgestattet oder mit einem Peripheriegerät verbunden, ist ein CortAccs vor allem für Social Media und generellen Medienkonsum gedacht. Höher entwickelte CortAccs können auch als unauffällige Arbeitscomputer oder Hacker-Tools verwendet werden.</Content>
+				<Content>CortAccs (verwirrenderweise genauso ausgesprochen wie Cortex) sind kleine Accessoires, die sich in der breiten Bevölkerung großer Beliebtheit erfreuen. Egal ob ein Ring, Ohrhänger oder sogar Dermalimplantat, ein CortAccs soll ein Statment setzen und dabei noch nützlich sein. Entweder selbst mit einem kleinen Holo-Projektor ausgestattet oder mit einem Peripheriegerät verbunden, ist ein CortAccs vor allem für Social Media und generellen Medienkonsum gedacht. Höher entwickelte CortAccs können auch als unauffällige Arbeitscomputer oder Hacker-Tools verwendet werden.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -4239,7 +4186,8 @@
 				<Br />
 				<Content>Erfolg: Der Charakter heilt und setzt seine TP auf die Größe des Medkits, falls er vorher weniger hatte.</Content>
 				<Br />
-				<Content>Prozess: Der Charakter stellte alle TP des Patienten wieder her. Alternativ kann er eine </Content>
+				<Content>P</Content>
+				<Content>rozess: Der Charakter stellte alle TP des Patienten wieder her. Alternativ kann er eine </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 				<Content>Entstellungen S. 13</Content>
@@ -4480,8 +4428,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Standardformate%3aNormal">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Werkzeuge sind vielfältige Hilfsmittel, die von einem Hammer bis hin zu 3D-Druckern für verschiedenste Materialien reichen. Werkzeug erlaubt es dem Charakter, Proben auf Technik auszuführe</Content>
-				<Content>n. Werkzeuge werden mit der Technik-Fertigkeit benutzt und können sowohl bei normalen als auch bei Prozesse verwendet werden.</Content>
+				<Content>Werkzeuge sind vielfältige Hilfsmittel, die von einem Hammer bis hin zu 3D-Druckern für verschiedenste Materialien reichen. Werkzeug erlaubt es dem Charakter, Proben auf Technik auszuführen. Werkzeuge werden mit der Technik-Fertigkeit benutzt und können sowohl bei normalen als auch bei Prozesse verwendet werden.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -4608,11 +4555,11 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Wirkstoff: Chems haben eine verbundene Fertigkeit auf die sich auswirken.</Content>
+				<Content>Doping: +1W10 Würfelpoolbonus auf [MK] verschiedene Fertigkeiten oder senkt den Stress des Charakters um die MK. Diese Wirkung hält für [MK] Stunden.</Content>
 				<Br />
-				<Content>Aufputschmittel: Chems geben dem Charakter Routinen oder einen Würfelpool. Je nach Präperat kann sich die Zusammensetzung unterscheiden. Die Summe aus Routinen und Würfeln entspricht der Modulklasse x Größe.</Content>
+				<Content>Sucht: Der SG der Probe für Sucht entspricht 10 + 2 x MK. Für jede zusätzliche Dosis, die zwischen zwei Ruhephasen eingenommen wird, erhöht den SG um die MK der Droge. </Content>
 				<Br />
-				<Content>Drogenpool: Würfel, die durch Chems zur Verfügung gestellt werden, können zu beliebigen Probe auf die verbundene Fertigkeit hinzugefügt werden. Nach [MK] Zeitstufe verfallen alle ungenutzten Würfel.</Content>
+				<Content>Dosierung: 1 Dosis entspricht Größe 0</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -4624,15 +4571,13 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsHeader_L">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<ParagraphDestination Self="ParagraphDestination/Anker 37" Name="Anker 37" Hidden="false" DestinationUniqueKey="18695" />
-				<HyperlinkTextDestination Self="HyperlinkTextDestination/_idTOCAnchor-14 1" Name="_idTOCAnchor-14 1" Hidden="false" DestinationUniqueKey="18624" />
-				<Content>Nebenwirkungen widerstehen</Content>
+				<Content>Abhängigkeit</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld_L">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Aktion: Fitness/KST (10 + MK + Größe)</Content>
+				<Content>Aktion: Willenskraft (10 + 2 x MK)</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -4646,19 +4591,37 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Sucht: In jeder Ruhephase, nachdem der Charakter ein Chem zu sich genommen hat, muss der Charakter ein weiteres Chem mit derselben Modulklasse zu sich nehmen, die Probe bestehen oder er beginn unter einem Entzug zu leiden.</Content>
+				<Content>Sucht: In jeder Ruhephase, nachdem der Charakter ein Chem zu sich genommen hat, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aBold">
+				<Content>muss</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> der Charakter ein weiteres Chem mit derselben Modulklasse zu sich nehmen, die Probe bestehen oder er beginn unter einem Entzug zu leiden.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Entzug: Der Charakter ist mental und physisch nahezu am Ende. Er heilt durch eine Ruhephase keine Belastung.</Content>
+				<Content>Entzug: Der Charakter ist mental und physisch nahezu am Ende. Er erleidet Punte Stress gleich der Modulklasse des Chems und kann während der Ruhephase keinen Stress heilen. Steigt der Stress durch den Entzug auf 10 oder höher, ist der Charakter abhängig.</Content>
 				<Br />
-				<Content>Clean werden: Abhängigkeit wird wie ein Handicap behandelt, wenn es darum geht, clean zu werden.</Content>
+				<Content>Abhänigkeit: Abhängigkeit ist ein allgemeines Handicap (siehe auch </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" />
+			<CrossReferenceSource Self="u83812" AppliedFormat="u9f" Name="Hyperlink 70" Hidden="false" AppliedCharacterStyle="n">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
+					<Content>Handicaps S. </Content>
+				</CharacterStyleRange>
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
+					<TextVariableInstance Self="u83817" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="73" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+				</CharacterStyleRange>
+			</CrossReferenceSource>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>).</Content>
 				<Br />
-				<Content>Erfolg: Der Charakter wird nicht abhängig(er). </Content>
+				<Content>Erfolg: Ein Charakter der noch nicht abhängig ist, bleibt nicht abhängig, egal ob er die Chem während der Ruhephase einnimmt oder nicht. Ein Charakter, der bereits abbhängig ist, kann während der Ruhephase dem Druck wiederstehen, die Chem weiter einzunehmen. Er leidet unter Entzug, verringert aber den durch Entzug verursachten Stress um seine Willenskraft.</Content>
 				<Br />
-				<Content>Misserfolg: Der Charakter wird abhängig und erleidet 1 Punkt Stress.</Content>
+				<Content>Misserfolg: Ein Charakter der noch nicht abhängig war wird es jetzt. Ein Charakter, der bereits abhängig war, muss die Chem zu sich nehmen. Da beim Versuch, der Abhängig zu widerstehen, davon ausgegangen wird, dass die Chem längere Zeit nicht eingenommen wurde, verstärkt sich der Stress-Schaden durch den Entzug um das doppelte.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -4676,7 +4639,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Aufnahme: Ein Toxin, dass über den Magen verabreicht wird, muss aktiv vom Ziel gegessen werden. Das Ziel darf eine Konzentration-Probe (10 + 2 x MK) ablegen, um das Gift zu schmecken.</Content>
+				<Content>Aufnahme: Ein Toxin, dass über den Magen verabreicht wird, muss aktiv vom Ziel gegessen werden. Das Ziel darf eine Konzentration-Pr</Content>
+				<Content>obe (10 + 2 x MK) ablegen, um das Gift zu schmecken.</Content>
 				<Br />
 				<Content>Kontakt: Wird ein Kontakt-Gift auf Waffen oder Munition aufgetragen, muss genug Schaden beim Angriff erzeugt werden, um mindestens 1 TP Schaden anrichten zu können. Dann gilt das Gift als appleziert.</Content>
 				<Br />
@@ -4771,8 +4735,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Gezielte Nebenwirkung: Jedes Toxin kann dem Ziel vorrüb</Content>
-				<Content>ergenende Handicaps geben. Jedes Handicap senkt den Schaden um 1W. Alle Handicaps werden übertragen, wenn mindestens 1 TP Schaden durch das Toxin angerichtet wird.</Content>
+				<Content>Gezielte Nebenwirkung: Jedes Toxin kann dem Ziel vorrübergenende Handicaps geben. Jedes Handicap senkt den Schaden um 1W. Alle Handicaps werden übertragen, wenn mindestens 1 TP Schaden durch das Toxin angerichtet wird.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -4868,6 +4831,12 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" />
 	</Story>
+	<Hyperlink Self="u83815" Name="Querverweis 16" Source="u83812" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="18650">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">n</Destination>
+		</Properties>
+	</Hyperlink>
 	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
 		<ColorGroupSwatch Self="u18ColorGroupSwatch6" SwatchItemRef="Color/C=100 M=68 Y=0 K=55" />
 		<ColorGroupSwatch Self="u18ColorGroupSwatchd" SwatchItemRef="Color/OptionaleRegeln" />
