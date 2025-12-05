@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="21.0(6)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="21.0" Self="d">
+	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch3" />
+	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch2" />
+	<Color Self="Color/C=100 M=68 Y=0 K=55" Model="Process" Space="CMYK" ColorValue="100 68 0 55.00000000000001" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=68 Y=0 K=55" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch3" />
+	<Color Self="Color/C=100 M=100 Y=0 K=70" Model="Process" Space="CMYK" ColorValue="100 100 0 70" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=100 Y=0 K=70" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch4" />
+	<Color Self="Color/C=100 M=90 Y=10 K=0" Model="Process" Space="CMYK" ColorValue="100 90 10 0" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=90 Y=10 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch2" />
+	<Color Self="Color/C=70 M=62 Y=0 K=39" Model="Process" Space="CMYK" ColorValue="70 62 0 39" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=70 M=62 Y=0 K=39" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch0" />
+	<Color Self="Color/C=49 M=27 Y=0 K=38" Model="Process" Space="CMYK" ColorValue="49 27 0 38" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=49 M=27 Y=0 K=38" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch1" />
+	<Color Self="Color/Erfolg" Model="Process" Space="CMYK" ColorValue="54 0 100 25" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Erfolg" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c914ColorGroupSwatch0" />
+	<Color Self="Color/Krit" Model="Process" Space="CMYK" ColorValue="100 65 0 0" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Krit" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c914ColorGroupSwatch2" />
+	<Color Self="Color/Misserfolg" Model="Process" Space="CMYK" ColorValue="3 56.00000000000001 100 23" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Misserfolg" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c914ColorGroupSwatch1" />
+	<Color Self="Color/Patzer" Model="Process" Space="CMYK" ColorValue="0 87 76 32" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Patzer" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c914ColorGroupSwatch3" />
+	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="71.5651" ConvertToProcess="false" Frequency="63.2456" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="18.4349" ConvertToProcess="false" Frequency="63.2456" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="66.6667" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70.7107" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
+	<Gradient Self="Gradient/Dunkelblau" Type="Linear" Name="Dunkelblau" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch6">
+		<GradientStop Self="ua5843GradientStop0" StopColor="Color/C=100 M=100 Y=0 K=70" Location="0" />
+		<GradientStop Self="ua5843GradientStop1" StopColor="Color/C=70 M=62 Y=0 K=39" Location="100" Midpoint="50" />
+	</Gradient>
+	<Gradient Self="Gradient/Blau" Type="Linear" Name="Blau" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch5">
+		<GradientStop Self="ua3944GradientStop0" StopColor="Color/C=100 M=100 Y=0 K=70" Location="0" />
+		<GradientStop Self="ua3944GradientStop1" StopColor="Color/C=70 M=62 Y=0 K=39" Location="50" Midpoint="50" />
+		<GradientStop Self="ua3944GradientStop2" StopColor="Color/C=49 M=27 Y=0 K=38" Location="95" Midpoint="50" />
+		<GradientStop Self="ua3944GradientStop3" StopColor="Color/Paper" Location="100" Midpoint="50" />
+	</Gradient>
+	<StrokeStyle Self="StrokeStyle/$ID/Straight Hash" Name="$ID/Straight Hash" />
+	<StrokeStyle Self="StrokeStyle/$ID/Right Slant Hash" Name="$ID/Right Slant Hash" />
+	<StrokeStyle Self="StrokeStyle/$ID/Solid" Name="$ID/Solid" />
+	<FontFamily Self="di3f" Name="Minion Pro">
+		<Font Self="di3fFontnMinion Pro Regular" FontFamily="Minion Pro" Name="Minion Pro Regular" PostScriptName="MinionPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro" FullNameNative="Minion Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="TkD-6817-9d7256bdae0175b7de0b3b2b9a1d4be7ad537ca8" />
+	</FontFamily>
+	<FontFamily Self="di9d" Name="Myriad Pro">
+		<Font Self="di9dFontnMyriad Pro Regular" FontFamily="Myriad Pro" Name="Myriad Pro Regular" PostScriptName="MyriadPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro" FullNameNative="Myriad Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di9dFontnMyriad Pro Italic" FontFamily="Myriad Pro" Name="Myriad Pro Italic" PostScriptName="MyriadPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Italic" FullNameNative="Myriad Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di9dFontnMyriad Pro Bold" FontFamily="Myriad Pro" Name="Myriad Pro Bold" PostScriptName="MyriadPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold" FullNameNative="Myriad Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="TkD-6846-2da85913b42f2168e92b20c788a39f20d13a10eb" />
+		<Font Self="di9dFontnMyriad Pro Bold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Italic" PostScriptName="MyriadPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Italic" FullNameNative="Myriad Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di9dFontnMyriad Pro Black" FontFamily="Myriad Pro" Name="Myriad Pro Black" PostScriptName="MyriadPro-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Black" FullNameNative="Myriad Pro Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 2.115;PS 2.000;hotconv 1.0.81;makeotf.lib2.5.63406" TypekitID="TkD-6844-a41210e07d7370edbeec18ddaf332fee7dcf3f88" />
+		<Font Self="di9dFontnMyriad Pro Black Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Black Condensed" PostScriptName="MyriadPro-BlackCond" Status="Installed" FontStyleName="Black Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Black Condensed" FullNameNative="Myriad Pro Black Condensed" FontStyleNameNative="Black Condensed" PlatformName="$ID/" Version="Version 2.115;PS 2.000;hotconv 1.0.81;makeotf.lib2.5.63406" TypekitID="TkD-6807-e3ecfc1f10503fb72a3ece4ccdf0baa1b68855a4" />
+		<Font Self="di9dFontnMyriad Pro Black SemiCondensed" FontFamily="Myriad Pro" Name="Myriad Pro Black SemiCondensed" PostScriptName="MyriadPro-BlackSemiCn" Status="Installed" FontStyleName="Black SemiCondensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Black SemiCondensed" FullNameNative="Myriad Pro Black SemiCondensed" FontStyleNameNative="Black SemiCondensed" PlatformName="$ID/" Version="Version 2.115;PS 2.000;hotconv 1.0.81;makeotf.lib2.5.63406" TypekitID="TkD-6800-391b6d18e39e9abfee9e3a958b7ed7726a24dc86" />
+		<Font Self="di9dFontnMyriad Pro Semibold" FontFamily="Myriad Pro" Name="Myriad Pro Semibold" PostScriptName="MyriadPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold" FullNameNative="Myriad Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.115;PS 2.000;hotconv 1.0.81;makeotf.lib2.5.63406" TypekitID="TkD-6852-5334caf4d00a155a8cbd10fd1e6df58d7f3bb016" />
+	</FontFamily>
+	<FontFamily Self="diaa" Name="Kozuka Mincho Pr6N">
+		<Font Self="diaaFontnKozuka Mincho Pr6N R" FontFamily="Kozuka Mincho Pr6N" Name="Kozuka Mincho Pr6N R" PostScriptName="KozMinPr6N-Regular" Status="Installed" FontStyleName="R" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pr6N R" FullNameNative="小塚明朝 Pr6N R" FontStyleNameNative="R" PlatformName="$ID/" Version="Version 7.001;hotconv 1.0.107;makeotfexe 2.5.65593" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di107" Name="Calibri">
+		<Font Self="di107FontnCalibri Light" FontFamily="Calibri" Name="Calibri Light" PostScriptName="Calibri-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Light" FullNameNative="Calibri Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 6.23" TypekitID="$ID/" />
+		<Font Self="di107FontnCalibri Light Italic" FontFamily="Calibri" Name="Calibri Light Italic" PostScriptName="Calibri-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Light Italic" FullNameNative="Calibri Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 6.23" TypekitID="$ID/" />
+		<Font Self="di107FontnCalibri Regular" FontFamily="Calibri" Name="Calibri Regular" PostScriptName="Calibri" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri" FullNameNative="Calibri" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.23" TypekitID="$ID/" />
+		<Font Self="di107FontnCalibri Italic" FontFamily="Calibri" Name="Calibri Italic" PostScriptName="Calibri-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Italic" FullNameNative="Calibri Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.23" TypekitID="$ID/" />
+		<Font Self="di107FontnCalibri Bold" FontFamily="Calibri" Name="Calibri Bold" PostScriptName="Calibri-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Bold" FullNameNative="Calibri Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 6.23" TypekitID="$ID/" />
+		<Font Self="di107FontnCalibri Bold Italic" FontFamily="Calibri" Name="Calibri Bold Italic" PostScriptName="Calibri-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Bold Italic" FullNameNative="Calibri Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 6.23" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di3b38c" Name="Bebas Neue Pro">
+		<Font Self="di3b38cFontnBebas Neue Pro Thin" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Thin" PostScriptName="BebasNeuePro-Thin" Status="Installed" FontStyleName="Thin" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Thin" FullNameNative="Bebas Neue Pro Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44418-130011ee474c32d699ab777d46116a19cafb9668" />
+		<Font Self="di3b38cFontnBebas Neue Pro Thin Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Thin Italic" PostScriptName="BebasNeuePro-ThinItalic" Status="Installed" FontStyleName="Thin Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Thin Italic" FullNameNative="Bebas Neue Pro Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44419-fc51358fd0966439c9725862459057631a95f915" />
+		<Font Self="di3b38cFontnBebas Neue Pro Light" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Light" PostScriptName="BebasNeuePro-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Light" FullNameNative="Bebas Neue Pro Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44420-8f4a33028aae673d2b71de366aaa5ecc24dee80c" />
+		<Font Self="di3b38cFontnBebas Neue Pro Light Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Light Italic" PostScriptName="BebasNeuePro-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Light Italic" FullNameNative="Bebas Neue Pro Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44421-a7eec1844aaf1bd6aec277f38db2599ada3d7e25" />
+		<Font Self="di3b38cFontnBebas Neue Pro Book" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Book" PostScriptName="BebasNeuePro-Book" Status="Installed" FontStyleName="Book" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Book" FullNameNative="Bebas Neue Pro Book" FontStyleNameNative="Book" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44422-fc0d9a26587a5053c6c31e0fefa5ef0cb81dbeda" />
+		<Font Self="di3b38cFontnBebas Neue Pro Book Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Book Italic" PostScriptName="BebasNeuePro-BookItalic" Status="Installed" FontStyleName="Book Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Book Italic" FullNameNative="Bebas Neue Pro Book Italic" FontStyleNameNative="Book Italic" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44423-7a517d7d6e006ba5f2ad58ae1eb69fea3e2d2576" />
+		<Font Self="di3b38cFontnBebas Neue Pro Middle" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Middle" PostScriptName="BebasNeuePro-Middle" Status="Installed" FontStyleName="Middle" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Middle" FullNameNative="Bebas Neue Pro Middle" FontStyleNameNative="Middle" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44424-12129a4fb9b1b9896fc56e5c40260bce0d15fe9e" />
+		<Font Self="di3b38cFontnBebas Neue Pro Middle Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Middle Italic" PostScriptName="BebasNeuePro-MiddleItalic" Status="Installed" FontStyleName="Middle Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Middle Italic" FullNameNative="Bebas Neue Pro Middle Italic" FontStyleNameNative="Middle Italic" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44425-459ebf1fb5c8d64fa086bb697d0f2932d456b2fe" />
+		<Font Self="di3b38cFontnBebas Neue Pro Regular " FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Regular " PostScriptName="BebasNeuePro-Regular" Status="Installed" FontStyleName="Regular " FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Regular" FullNameNative="Bebas Neue Pro Regular" FontStyleNameNative="Regular " PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44427-92debe31dece6cea256dd1e80220eba3375a0f36" />
+		<Font Self="di3b38cFontnBebas Neue Pro Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Italic" PostScriptName="BebasNeuePro-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Italic" FullNameNative="Bebas Neue Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44426-b86cf45ada6e3003d1509a66e6497cb53578e358" />
+		<Font Self="di3b38cFontnBebas Neue Pro Bold" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Bold" PostScriptName="BebasNeuePro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Bold" FullNameNative="Bebas Neue Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44428-0723b8b3a3de3701e8659cb588991b1f6bc9112f" />
+		<Font Self="di3b38cFontnBebas Neue Pro Bold Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Bold Italic" PostScriptName="BebasNeuePro-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Bold Italic" FullNameNative="Bebas Neue Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-44429-bd08be3716d58e1e58792a71434248c8e6efec7b" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Thin" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Thin" PostScriptName="BebasNeuePro-SmETh" Status="Installed" FontStyleName="SemiExpanded Thin" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Thin" FullNameNative="Bebas Neue Pro SemiExpanded Thin" FontStyleNameNative="SemiExpanded Thin" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45057-670a02d1371b6c15422ed568a7b8ed19c83d01f0" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Thin Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Thin Italic" PostScriptName="BebasNeuePro-SmEThIt" Status="Installed" FontStyleName="SemiExpanded Thin Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Thin Italic" FullNameNative="Bebas Neue Pro SemiExpanded Thin Italic" FontStyleNameNative="SemiExpanded Thin Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45058-8d5ea3d6b90ae502822c36d0c15266f646f3ef48" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Light" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Light" PostScriptName="BebasNeuePro-SmELg" Status="Installed" FontStyleName="SemiExpanded Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Light" FullNameNative="Bebas Neue Pro SemiExpanded Light" FontStyleNameNative="SemiExpanded Light" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45059-d4a69f9a590bce7a66ce9af26582a4fa350af2d7" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Light Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Light Italic" PostScriptName="BebasNeuePro-SmELgIt" Status="Installed" FontStyleName="SemiExpanded Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Light Italic" FullNameNative="Bebas Neue Pro SemiExpanded Light Italic" FontStyleNameNative="SemiExpanded Light Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45060-3cdfaf0bb029f78f5d3d5c1ed2297d8687422227" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Book" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Book" PostScriptName="BebasNeuePro-SmEBk" Status="Installed" FontStyleName="SemiExpanded Book" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Book" FullNameNative="Bebas Neue Pro SemiExpanded Book" FontStyleNameNative="SemiExpanded Book" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45061-b8aec98961d06421297e5f719443bd04f60de7ae" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Book Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Book Italic" PostScriptName="BebasNeuePro-SmEBkIt" Status="Installed" FontStyleName="SemiExpanded Book Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Book Italic" FullNameNative="Bebas Neue Pro SemiExpanded Book Italic" FontStyleNameNative="SemiExpanded Book Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45062-454504816cf58959a2baef81185ef4b2e8735a09" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Middle" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Middle" PostScriptName="BebasNeuePro-SmEMd" Status="Installed" FontStyleName="SemiExpanded Middle" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Middle" FullNameNative="Bebas Neue Pro SemiExpanded Middle" FontStyleNameNative="SemiExpanded Middle" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45063-1ca7076fc5b080a72dc97a383c48d0f7b16bae70" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Middle Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Middle Italic" PostScriptName="BebasNeuePro-SmEMdIt" Status="Installed" FontStyleName="SemiExpanded Middle Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Middle Italic" FullNameNative="Bebas Neue Pro SemiExpanded Middle Italic" FontStyleNameNative="SemiExpanded Middle Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45064-383e696d91993039c533762b31b7a8c22daa0406" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Regular" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Regular" PostScriptName="BebasNeuePro-SmERg" Status="Installed" FontStyleName="SemiExpanded Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Regular" FullNameNative="Bebas Neue Pro SemiExpanded Regular" FontStyleNameNative="SemiExpanded Regular" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45066-8705bdeef147e37e63a804f8095380212eb25414" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Italic" PostScriptName="BebasNeuePro-SmEIt" Status="Installed" FontStyleName="SemiExpanded Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Italic" FullNameNative="Bebas Neue Pro SemiExpanded Italic" FontStyleNameNative="SemiExpanded Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45065-e8f6a2392813e6868f3cbee3e681ada1218c0f84" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Bold" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Bold" PostScriptName="BebasNeuePro-SmEBd" Status="Installed" FontStyleName="SemiExpanded Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Bold" FullNameNative="Bebas Neue Pro SemiExpanded Bold" FontStyleNameNative="SemiExpanded Bold" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45067-c343074b0aa78da616ef7cb2211f396e89c03bae" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded Bold Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded Bold Italic" PostScriptName="BebasNeuePro-SmEBdIt" Status="Installed" FontStyleName="SemiExpanded Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded Bold Italic" FullNameNative="Bebas Neue Pro SemiExpanded Bold Italic" FontStyleNameNative="SemiExpanded Bold Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45068-44fb2f3f461091d76b4fb1a3ad88c55a1d25aa36" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded ExtraBold" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded ExtraBold" PostScriptName="BebasNeuePro-SmEEb" Status="Installed" FontStyleName="SemiExpanded ExtraBold" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded ExtraBold" FullNameNative="Bebas Neue Pro SemiExpanded ExtraBold" FontStyleNameNative="SemiExpanded ExtraBold" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45069-aa9a9d20f993f515f899cdba5a538ef0dc51b037" />
+		<Font Self="di3b38cFontnBebas Neue Pro SemiExpanded ExtraBold Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro SemiExpanded ExtraBold Italic" PostScriptName="BebasNeuePro-SmEEbIt" Status="Installed" FontStyleName="SemiExpanded ExtraBold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro SemiExpanded ExtraBold Italic" FullNameNative="Bebas Neue Pro SemiExpanded ExtraBold Italic" FontStyleNameNative="SemiExpanded ExtraBold Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45070-0bf92385c3eadbbaf20efc7c6fea697b7acdd47a" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Thin" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Thin" PostScriptName="BebasNeuePro-ExpTh" Status="Installed" FontStyleName="Expanded Thin" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Thin" FullNameNative="Bebas Neue Pro Expanded Thin" FontStyleNameNative="Expanded Thin" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45071-10a548f649d63cf63997fec1676bbdc3d004bbb1" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Thin Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Thin Italic" PostScriptName="BebasNeuePro-ExpThIt" Status="Installed" FontStyleName="Expanded Thin Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Thin Italic" FullNameNative="Bebas Neue Pro Expanded Thin Italic" FontStyleNameNative="Expanded Thin Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45072-36fdb11a976262353d25d2ce09bb876df8e07d0a" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Light" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Light" PostScriptName="BebasNeuePro-ExpLt" Status="Installed" FontStyleName="Expanded Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Light" FullNameNative="Bebas Neue Pro Expanded Light" FontStyleNameNative="Expanded Light" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45073-0d43cac99c26cf6cc0b75b254ca163d4055a7af8" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Light Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Light Italic" PostScriptName="BebasNeuePro-ExpLtIt" Status="Installed" FontStyleName="Expanded Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Light Italic" FullNameNative="Bebas Neue Pro Expanded Light Italic" FontStyleNameNative="Expanded Light Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45074-2cea7538b9a7b88099339c43de1a0c54fcd72238" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Book" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Book" PostScriptName="BebasNeuePro-ExpBk" Status="Installed" FontStyleName="Expanded Book" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Book" FullNameNative="Bebas Neue Pro Expanded Book" FontStyleNameNative="Expanded Book" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45075-46c44cfc08ecd0eb05d6486896b7a0c2ea0cb3b0" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Book Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Book Italic" PostScriptName="BebasNeuePro-ExpBkIt" Status="Installed" FontStyleName="Expanded Book Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Book Italic" FullNameNative="Bebas Neue Pro Expanded Book Italic" FontStyleNameNative="Expanded Book Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45076-84500d52438b5b8a139bcc1e58e7cd52118aae1d" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Middle" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Middle" PostScriptName="BebasNeuePro-ExpMd" Status="Installed" FontStyleName="Expanded Middle" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Middle" FullNameNative="Bebas Neue Pro Expanded Middle" FontStyleNameNative="Expanded Middle" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45077-a67acbef1cde2adf9c189914e1d3b2964aeccd7d" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Middle Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Middle Italic" PostScriptName="BebasNeuePro-ExpMdIt" Status="Installed" FontStyleName="Expanded Middle Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Middle Italic" FullNameNative="Bebas Neue Pro Expanded Middle Italic" FontStyleNameNative="Expanded Middle Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45078-e3a934cf8e9404cbd34e898dd878f532b6132846" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Regular" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Regular" PostScriptName="BebasNeuePro-ExpRg" Status="Installed" FontStyleName="Expanded Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Regular" FullNameNative="Bebas Neue Pro Expanded Regular" FontStyleNameNative="Expanded Regular" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45080-aca63b544eb53be120f9bba4944e27238ebe83fa" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Italic" PostScriptName="BebasNeuePro-ExpIt" Status="Installed" FontStyleName="Expanded Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Italic" FullNameNative="Bebas Neue Pro Expanded Italic" FontStyleNameNative="Expanded Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45079-1a352c27076b8706e8771538bd37af46ba69045b" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Bold" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Bold" PostScriptName="BebasNeuePro-ExpBd" Status="Installed" FontStyleName="Expanded Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Bold" FullNameNative="Bebas Neue Pro Expanded Bold" FontStyleNameNative="Expanded Bold" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45081-0f2de4a34be5795b8094840dd5e5a6a09204d94b" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded Bold Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded Bold Italic" PostScriptName="BebasNeuePro-ExpBdIt" Status="Installed" FontStyleName="Expanded Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded Bold Italic" FullNameNative="Bebas Neue Pro Expanded Bold Italic" FontStyleNameNative="Expanded Bold Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45082-de6d61fc88bfb06d47e3bee3f17999a109f57729" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded ExtraBold" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded ExtraBold" PostScriptName="BebasNeuePro-ExpEb" Status="Installed" FontStyleName="Expanded ExtraBold" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded ExtraBold" FullNameNative="Bebas Neue Pro Expanded ExtraBold" FontStyleNameNative="Expanded ExtraBold" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45083-dba5d189dd4b0ac570696d58386641ee28f28a5a" />
+		<Font Self="di3b38cFontnBebas Neue Pro Expanded ExtraBold Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded ExtraBold Italic" PostScriptName="BebasNeuePro-ExpEbIt" Status="Installed" FontStyleName="Expanded ExtraBold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded ExtraBold Italic" FullNameNative="Bebas Neue Pro Expanded ExtraBold Italic" FontStyleNameNative="Expanded ExtraBold Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45084-ccd789a9e59c77ff23fc5da70c301ec2c52944f1" />
+	</FontFamily>
+	<FontFamily Self="di984c8" Name="Font Awesome 7 Free">
+		<Font Self="di984c8FontnFont Awesome 7 Free Regular" FontFamily="Font Awesome 7 Free" Name="Font Awesome 7 Free Regular" PostScriptName="FontAwesome7Free-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Font Awesome 7 Free Regular" FullNameNative="Font Awesome 7 Free Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 897.00390625 (Font Awesome version: 7.1.0)" TypekitID="$ID/" />
+		<Font Self="di984c8FontnFont Awesome 7 Free Solid" FontFamily="Font Awesome 7 Free" Name="Font Awesome 7 Free Solid" PostScriptName="FontAwesome7Free-Solid" Status="Installed" FontStyleName="Solid" FontType="OpenTypeCFF" WritingScript="0" FullName="Font Awesome 7 Free Solid" FullNameNative="Font Awesome 7 Free Solid" FontStyleNameNative="Solid" PlatformName="$ID/" Version="Version 897.00390625 (Font Awesome version: 7.1.0)" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="dia0427" Name="Atkinson Hyperlegible">
+		<Font Self="dia0427FontnAtkinson Hyperlegible Regular" FontFamily="Atkinson Hyperlegible" Name="Atkinson Hyperlegible Regular" PostScriptName="AtkinsonHyperlegible-Regular" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Atkinson Hyperlegible Regular" FullNameNative="Atkinson Hyperlegible Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.006; ttfautohint (v1.8.3)" TypekitID="$ID/" />
+		<Font Self="dia0427FontnAtkinson Hyperlegible Italic" FontFamily="Atkinson Hyperlegible" Name="Atkinson Hyperlegible Italic" PostScriptName="AtkinsonHyperlegible-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Atkinson Hyperlegible Italic" FullNameNative="Atkinson Hyperlegible Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.006; ttfautohint (v1.8.3)" TypekitID="$ID/" />
+		<Font Self="dia0427FontnAtkinson Hyperlegible Bold" FontFamily="Atkinson Hyperlegible" Name="Atkinson Hyperlegible Bold" PostScriptName="AtkinsonHyperlegible-Bold" Status="Installed" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Atkinson Hyperlegible Bold" FullNameNative="Atkinson Hyperlegible Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.006; ttfautohint (v1.8.3)" TypekitID="$ID/" />
+		<Font Self="dia0427FontnAtkinson Hyperlegible Bold Italic" FontFamily="Atkinson Hyperlegible" Name="Atkinson Hyperlegible Bold Italic" PostScriptName="AtkinsonHyperlegible-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Atkinson Hyperlegible Bold Italic" FullNameNative="Atkinson Hyperlegible Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.006; ttfautohint (v1.8.3)" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="dia993f" Name="Arial">
+		<Font Self="dia993fFontnArial Narrow" FontFamily="Arial" Name="Arial Narrow" PostScriptName="ArialNarrow" Status="Installed" FontStyleName="Narrow" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Narrow" FullNameNative="Arial Narrow" FontStyleNameNative="Narrow" PlatformName="$ID/" Version="Version 2.40" TypekitID="$ID/" />
+		<Font Self="dia993fFontnArial Narrow Italic" FontFamily="Arial" Name="Arial Narrow Italic" PostScriptName="ArialNarrow-Italic" Status="Installed" FontStyleName="Narrow Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Narrow Italic" FullNameNative="Arial Narrow Italic" FontStyleNameNative="Narrow Italic" PlatformName="$ID/" Version="Version 2.40" TypekitID="$ID/" />
+		<Font Self="dia993fFontnArial Narrow Bold" FontFamily="Arial" Name="Arial Narrow Bold" PostScriptName="ArialNarrow-Bold" Status="Installed" FontStyleName="Narrow Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Narrow Bold" FullNameNative="Arial Narrow Bold" FontStyleNameNative="Narrow Bold" PlatformName="$ID/" Version="Version 2.40" TypekitID="$ID/" />
+		<Font Self="dia993fFontnArial Narrow Bold Italic" FontFamily="Arial" Name="Arial Narrow Bold Italic" PostScriptName="ArialNarrow-BoldItalic" Status="Installed" FontStyleName="Narrow Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Narrow Bold Italic" FullNameNative="Arial Narrow Bold Italic" FontStyleNameNative="Narrow Bold Italic" PlatformName="$ID/" Version="Version 2.40" TypekitID="$ID/" />
+		<Font Self="dia993fFontnArial Regular" FontFamily="Arial" Name="Arial Regular" PostScriptName="ArialMT" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Arial" FullNameNative="Arial" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 7.03" TypekitID="$ID/" />
+		<Font Self="dia993fFontnArial Italic" FontFamily="Arial" Name="Arial Italic" PostScriptName="Arial-ItalicMT" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Italic" FullNameNative="Arial Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 7.03" TypekitID="$ID/" />
+		<Font Self="dia993fFontnArial Bold" FontFamily="Arial" Name="Arial Bold" PostScriptName="Arial-BoldMT" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Bold" FullNameNative="Arial Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 7.03" TypekitID="$ID/" />
+		<Font Self="dia993fFontnArial Bold Italic" FontFamily="Arial" Name="Arial Bold Italic" PostScriptName="Arial-BoldItalicMT" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Bold Italic" FullNameNative="Arial Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 7.03" TypekitID="$ID/" />
+		<Font Self="dia993fFontnArial Black" FontFamily="Arial" Name="Arial Black" PostScriptName="Arial-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Black" FullNameNative="Arial Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 5.23" TypekitID="$ID/" />
+	</FontFamily>
+	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
+		<CompositeFontEntry Self="ua9" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="uab" Name="$ID/Kana" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖゝゞァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺーヽヾ" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="uac" Name="$ID/Punctuation" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="—―‖‘’“”‥…′″∥、。〈〉《》「」『』【】〔〕〜・！（），．／：；？［］｛｝～" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="uad" Name="$ID/Symbols" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="¢£§¨¬°±´¶×÷ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐†‡‰※℃Å←↑→↓⇒⇔∀∂∃∇∈∋−√∝∞∠∧∨∩∪∫∬∴∵∽≒≠≡≦≧≪≫⊂⊃⊆⊇⊥⌒■□▲△▼▽◆◇○◎●◯★☆♀♂♪♭♯〃〆〇〒〓゛゜＃＄％＆＊＋－０１２３４５６７８９＜＝＞＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ＼＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｜￠￡￢￣￥" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="uae" Name="$ID/Alphabetic" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters=" !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¤¥¦©ª«­®¯²³µ·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœŠšŸŽžƒˆˇ˘˙˚˛˜˝–‚„•‹›⁄€™∆∏∑≈≤≥◊ﬀﬁﬂﬃﬄﬅﬆ" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="uaf" Name="$ID/Numbers" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="0123456789" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+	</CompositeFont>
+	<KinsokuTable Self="KinsokuTable/$ID/kHardKinsokuName" Name="$ID/kHardKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/$ID/kSoftKinsokuName" Name="$ID/kSoftKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/$ID/kKoreanKinsokuName" Name="$ID/kKoreanKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/$ID/kSimpChineseKinsokuName" Name="$ID/kSimpChineseKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/$ID/kTradChineseKinsokuName" Name="$ID/kTradChineseKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/Word_Kinsoku" Name="Word_Kinsoku" CantBeginLineChars="" CantEndLineChars="" HangingPunctuationChars="" CantBeSeparatedChars="" />
+	<RootCharacterStyleGroup Self="u7f">
+		<CharacterStyle Self="CharacterStyle/$ID/[No character style]" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" Name="$ID/[No character style]" />
+		<CharacterStyleGroup Self="CharacterStyleGroup/$ID/Standardformate" Name="$ID/Standardformate">
+			<CharacterStyle Self="CharacterStyle/Standardformate%3aItalic" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="6c0191af-cb3c-4b33-9beb-377ae94f3b0e" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" KeyboardShortcut="0 0" Name="Standardformate:Italic" FontStyle="Italic">
+				<Properties>
+					<BasedOn type="string">$ID/[No character style]</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+				</Properties>
+			</CharacterStyle>
+			<CharacterStyle Self="CharacterStyle/Standardformate%3aBold" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="657fea55-319a-42b5-82bb-c2d401503e40" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" KeyboardShortcut="0 0" Name="Standardformate:Bold" FontStyle="Bold" HorizontalScale="100" VerticalScale="100" AppliedLanguage="$ID/de_DE_2006">
+				<Properties>
+					<BasedOn type="string">$ID/[No character style]</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+				</Properties>
+			</CharacterStyle>
+			<CharacterStyle Self="CharacterStyle/Standardformate%3aStichwort" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="8210ce42-b9fc-4f71-98f1-8e64ae984162" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" KeyboardShortcut="0 0" Name="Standardformate:Stichwort" FillColor="Color/C=70 M=62 Y=0 K=39">
+				<Properties>
+					<BasedOn type="object">CharacterStyle/Standardformate%3aBold</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+				</Properties>
+			</CharacterStyle>
+		</CharacterStyleGroup>
+		<CharacterStyle Self="CharacterStyle/Inline-Probe" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="1c7064b7-c895-4921-9948-0325afbc0097" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" KeyboardShortcut="0 0" Name="Inline-Probe" Capitalization="SmallCaps">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyleGroup Self="CharacterStyleGroup/$ID/Erfolgsformate" Name="$ID/Erfolgsformate">
+			<CharacterStyle Self="CharacterStyle/Erfolgsformate%3aErfolg" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="808a71c4-9f6d-42e9-87ed-f5c6a57262b9" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" KeyboardShortcut="0 0" Name="Erfolgsformate:Erfolg" FillColor="Color/Erfolg" FontStyle="Bold" Tracking="50" Capitalization="AllCaps" Underline="false" OverprintFill="false" UnderlineOffset="-3" UnderlineWeight="11">
+				<Properties>
+					<BasedOn type="object">CharacterStyle/Standardformate%3aStichwort</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+					<UnderlineColor type="string">Text Color</UnderlineColor>
+				</Properties>
+			</CharacterStyle>
+			<CharacterStyle Self="CharacterStyle/Erfolgsformate%3aKrit" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="87fa95e7-446a-4b5f-8e93-d7d6dbd5d2a2" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" KeyboardShortcut="0 0" Name="Erfolgsformate:Krit" FillColor="Color/Krit">
+				<Properties>
+					<BasedOn type="object">CharacterStyle/Erfolgsformate%3aErfolg</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+				</Properties>
+			</CharacterStyle>
+			<CharacterStyle Self="CharacterStyle/Erfolgsformate%3aMisserfolg" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="8b2353d3-a1fd-40db-b31b-acc127c3defc" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" KeyboardShortcut="0 0" Name="Erfolgsformate:Misserfolg" FillColor="Color/Misserfolg">
+				<Properties>
+					<BasedOn type="object">CharacterStyle/Erfolgsformate%3aErfolg</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+				</Properties>
+			</CharacterStyle>
+			<CharacterStyle Self="CharacterStyle/Erfolgsformate%3aPatzer" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="9b216528-75f0-4c36-a74a-72733146f8b9" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" KeyboardShortcut="0 0" Name="Erfolgsformate:Patzer" FillColor="Color/Patzer">
+				<Properties>
+					<BasedOn type="object">CharacterStyle/Erfolgsformate%3aMisserfolg</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+				</Properties>
+			</CharacterStyle>
+		</CharacterStyleGroup>
+	</RootCharacterStyleGroup>
+	<RootParagraphStyleGroup Self="u7e">
+		<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Überschriften" Name="$ID/Überschriften">
+			<ParagraphStyle Self="ParagraphStyle/Überschriften%3aHeading 1" Name="Überschriften:Heading 1" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="73b5c8f8-1923-4368-b497-305c5b625c4b" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FillColor="Gradient/Dunkelblau" FontStyle="Expanded ExtraBold" PointSize="50" BaselineShift="-40" Capitalization="AllCaps" Hyphenation="false" SpaceBefore="85.03937007874016" SpaceAfter="85.03937007874016" StartParagraph="NextPage" Justification="AwayFromBindingSide" SpanColumnType="SpanColumns" ParagraphShadingTint="100" ParagraphShadingTopOffset="70.86614173228347" ParagraphShadingBottomOffset="56.69291338582676" ParagraphShadingTopLeftCornerOption="BevelCorner" ParagraphShadingTopRightCornerOption="BevelCorner" ParagraphShadingBottomLeftCornerOption="BevelCorner" ParagraphShadingBottomRightCornerOption="BevelCorner" ParagraphShadingTopLeftCornerRadius="0" ParagraphShadingTopRightCornerRadius="0" ParagraphShadingBottomLeftCornerRadius="85.03937007874016" ParagraphShadingBottomRightCornerRadius="56.69291338582678">
+				<Properties>
+					<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+					<Leading type="unit">46</Leading>
+					<AppliedFont type="string">Bebas Neue Pro</AppliedFont>
+					<ParagraphShadingColor type="object">Gradient/Dunkelblau</ParagraphShadingColor>
+				</Properties>
+			</ParagraphStyle>
+			<ParagraphStyle Self="ParagraphStyle/Überschriften%3aHeading 2" Name="Überschriften:Heading 2" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="313c81b6-34c3-499b-8602-993941aeaa64" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FillColor="Color/Paper" FontStyle="Expanded Regular" PointSize="20" Tracking="50" Capitalization="AllCaps" Hyphenation="false" HyphenateAfterFirst="5" HyphenateBeforeLast="3" HyphenateWordsLongerThan="10" HyphenationZone="21" SpaceBefore="28.34645669291339" SpaceAfter="14.173228346456694" KeepWithNext="5" KeepFirstLines="4" KeepLastLines="4" KeepLinesTogether="true" RuleBelowOffset="8.503937007874017" HyphenateAcrossColumns="false" SpanColumnType="SpanColumns" ParagraphShadingTint="100" ParagraphShadingOn="true" ParagraphShadingLeftOffset="11.338582677165356" ParagraphShadingTopOffset="5.669291338582678" ParagraphShadingBottomOffset="5.669291338582678" ParagraphBorderOn="true" GridAlignment="AlignBaseline" ParagraphBorderLeftOffset="11.338582677165356" ParagraphBorderBottomOffset="2.834645669291339" ParagraphShadingBottomLeftCornerOption="BevelCorner" ParagraphShadingBottomLeftCornerRadius="8.503937007874017" ParagraphBorderTopLineWeight="0" ParagraphBorderBottomLineWeight="0" ParagraphBorderLeftLineWeight="8" ParagraphBorderRightLineWeight="0">
+				<Properties>
+					<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+					<Leading type="unit">14</Leading>
+					<AppliedFont type="string">Bebas Neue Pro</AppliedFont>
+					<AllGREPStyles type="list">
+						<ListItem type="record">
+							<AppliedCharacterStyle type="object">CharacterStyle/Standardformate%3aItalic</AppliedCharacterStyle>
+							<GrepExpression type="string">\w+-Probe \(.*?\)</GrepExpression>
+						</ListItem>
+					</AllGREPStyles>
+					<ParagraphShadingColor type="object">Gradient/Blau</ParagraphShadingColor>
+					<ParagraphBorderColor type="object">Color/Paper</ParagraphBorderColor>
+					<ParagraphBorderType type="object">StrokeStyle/$ID/Straight Hash</ParagraphBorderType>
+				</Properties>
+			</ParagraphStyle>
+			<ParagraphStyle Self="ParagraphStyle/Überschriften%3aHeading 3" Name="Überschriften:Heading 3" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="64ab9e1b-ecdd-4cc3-8d60-010724035080" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FillColor="Color/C=100 M=90 Y=10 K=0" PointSize="16" Tracking="75" LeftIndent="11.338582677165356" SpaceBefore="25.511811023622048" SpaceAfter="8.503937007874017" MinimumGlyphScaling="70" SingleWordJustification="LeftAlign" SpanColumnType="SingleColumn" ParagraphShadingOn="false" ParagraphBorderLeftOffset="-2.5" ParagraphBorderTopLeftCornerOption="BevelCorner" ParagraphBorderTopRightCornerOption="BevelCorner" ParagraphBorderBottomLeftCornerOption="BevelCorner" ParagraphBorderBottomRightCornerOption="BevelCorner" ParagraphBorderBottomLineWeight="2" ParagraphBorderLeftLineWeight="5">
+				<Properties>
+					<BasedOn type="object">ParagraphStyle/Überschriften%3aHeading 2</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+					<Leading type="unit">13</Leading>
+					<ParagraphBorderColor type="object">Color/C=70 M=62 Y=0 K=39</ParagraphBorderColor>
+					<ParagraphBorderType type="object">StrokeStyle/$ID/Solid</ParagraphBorderType>
+				</Properties>
+			</ParagraphStyle>
+		</ParagraphStyleGroup>
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="33cff3f2-c87f-4942-9923-0789b2eeb11f" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" PointSize="9" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">Atkinson Hyperlegible</AppliedFont>
+				<AllGREPStyles type="list">
+					<ListItem type="record">
+						<AppliedCharacterStyle type="object">CharacterStyle/Inline-Probe</AppliedCharacterStyle>
+						<GrepExpression type="string">([\l\u]+)-Probe (\s*\([^)]*\))?</GrepExpression>
+					</ListItem>
+					<ListItem type="record">
+						<AppliedCharacterStyle type="object">CharacterStyle/$ID/[No character style]</AppliedCharacterStyle>
+						<GrepExpression type="string">^[^:]+:</GrepExpression>
+					</ListItem>
+				</AllGREPStyles>
+				<SameParaStyleSpacing type="unit">5.669291338582678</SameParaStyleSpacing>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Regeltexte" Name="$ID/Regeltexte">
+			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aRegelfeld" Name="Regeltexte:Regelfeld" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aRegelfeld" SplitDocument="false" EmitCss="true" StyleUniqueId="44aed8f9-56c8-4cbc-ba80-4e0a0a42c58a" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FillColor="Color/C=100 M=68 Y=0 K=55" LeftIndent="22.67716535433071" SpaceBefore="2.834645669291339" SpaceAfter="2.834645669291339" KeepAllLinesTogether="true" KeepLinesTogether="true" ParagraphShadingTint="10" ParagraphShadingTopOffset="8.503937007874017" ParagraphShadingBottomOffset="8.503937007874017" ParagraphBorderOn="true" ParagraphBorderLeftOffset="-14.173228346456694" ParagraphBorderTopOffset="11.338582677165356" ParagraphBorderBottomOffset="5.669291338582678" ParagraphBorderTopLeftCornerOption="BevelCorner" ParagraphBorderTopRightCornerOption="BevelCorner" ParagraphBorderBottomLeftCornerOption="BevelCorner" ParagraphBorderBottomRightCornerOption="BevelCorner" ParagraphBorderTopLeftCornerRadius="5.669291338582678" ParagraphBorderTopRightCornerRadius="5.669291338582678" ParagraphBorderBottomLeftCornerRadius="5.669291338582678" ParagraphBorderBottomRightCornerRadius="5.669291338582678" ParagraphShadingTopLeftCornerOption="BevelCorner" ParagraphShadingTopRightCornerOption="BevelCorner" ParagraphShadingBottomLeftCornerOption="BevelCorner" ParagraphShadingBottomRightCornerOption="BevelCorner" ParagraphShadingTopLeftCornerRadius="5.669291338582678" ParagraphShadingTopRightCornerRadius="5.669291338582678" ParagraphShadingBottomLeftCornerRadius="5.669291338582678" ParagraphShadingBottomRightCornerRadius="5.669291338582678" ParagraphBorderTopOrigin="BaselineTopOrigin" ParagraphBorderBottomOrigin="BaselineBottomOrigin" ParagraphBorderTopLineWeight="0" ParagraphBorderBottomLineWeight="0" ParagraphBorderLeftLineWeight="5" ParagraphBorderRightLineWeight="0">
+				<Properties>
+					<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+					<AllGREPStyles type="list">
+						<ListItem type="record">
+							<AppliedCharacterStyle type="object">CharacterStyle/Erfolgsformate%3aErfolg</AppliedCharacterStyle>
+							<GrepExpression type="string">Erfolg:</GrepExpression>
+						</ListItem>
+						<ListItem type="record">
+							<AppliedCharacterStyle type="object">CharacterStyle/Erfolgsformate%3aKrit</AppliedCharacterStyle>
+							<GrepExpression type="string">Kritischer Erfolg:</GrepExpression>
+						</ListItem>
+						<ListItem type="record">
+							<AppliedCharacterStyle type="object">CharacterStyle/Erfolgsformate%3aMisserfolg</AppliedCharacterStyle>
+							<GrepExpression type="string">Misserfolg:</GrepExpression>
+						</ListItem>
+						<ListItem type="record">
+							<AppliedCharacterStyle type="object">CharacterStyle/Erfolgsformate%3aPatzer</AppliedCharacterStyle>
+							<GrepExpression type="string">Kollaps:</GrepExpression>
+						</ListItem>
+						<ListItem type="record">
+							<AppliedCharacterStyle type="object">CharacterStyle/Erfolgsformate%3aErfolg</AppliedCharacterStyle>
+							<GrepExpression type="string">Wirkung:</GrepExpression>
+						</ListItem>
+						<ListItem type="record">
+							<AppliedCharacterStyle type="object">CharacterStyle/Inline-Probe</AppliedCharacterStyle>
+							<GrepExpression type="string">([\l\u]+)-Probe (\s*\([^)]*\))?</GrepExpression>
+						</ListItem>
+						<ListItem type="record">
+							<AppliedCharacterStyle type="object">CharacterStyle/Standardformate%3aBold</AppliedCharacterStyle>
+							<GrepExpression type="string">^[^:]+:</GrepExpression>
+						</ListItem>
+					</AllGREPStyles>
+					<ParagraphShadingColor type="object">Color/C=100 M=100 Y=0 K=70</ParagraphShadingColor>
+					<ParagraphBorderColor type="object">Color/C=100 M=68 Y=0 K=55</ParagraphBorderColor>
+					<ParagraphBorderType type="object">StrokeStyle/$ID/Right Slant Hash</ParagraphBorderType>
+				</Properties>
+			</ParagraphStyle>
+			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aHandlungsHeader" Name="Regeltexte:HandlungsHeader" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld" SplitDocument="false" EmitCss="true" StyleUniqueId="ba487ff2-3308-46cf-a88c-6c94b356faf4" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FontStyle="Expanded Book" PointSize="14" LeftIndent="17.007874015748033" SpaceBefore="17.007874015748033" SpaceAfter="0" KeepWithPrevious="false" ParagraphBorderTopLineWeight="1" ParagraphBorderBottomLineWeight="0" ParagraphBorderLeftLineWeight="4" ParagraphBorderRightLineWeight="2">
+				<Properties>
+					<BasedOn type="object">ParagraphStyle/Regeltexte%3aHandlungsfeld</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+					<AppliedFont type="string">Bebas Neue Pro</AppliedFont>
+				</Properties>
+			</ParagraphStyle>
+			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aHandlungsfeld" Name="Regeltexte:Handlungsfeld" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aRegel_Lore" SplitDocument="false" EmitCss="true" StyleUniqueId="cb72623d-5e4b-4324-a147-612675cb599c" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FillColor="Color/C=100 M=68 Y=0 K=55" LeftIndent="19.84251968503937" RightIndent="11.338582677165356" MinimumWordSpacing="70" MinimumGlyphScaling="80" KeepWithNext="2" KeepWithPrevious="true" ParagraphShadingTint="70" ParagraphShadingTopOffset="5.669291338582678" ParagraphShadingBottomOffset="5.669291338582678" ParagraphBorderOn="true" ParagraphBorderLeftOffset="-11.338582677165356" ParagraphBorderTopOffset="5.669291338582678" ParagraphBorderBottomOffset="5.669291338582678" ParagraphBorderTopLeftCornerOption="BevelCorner" ParagraphBorderTopRightCornerOption="BevelCorner" ParagraphBorderBottomLeftCornerOption="BevelCorner" ParagraphBorderBottomRightCornerOption="BevelCorner" ParagraphBorderTopLeftCornerRadius="5.669291338582678" ParagraphBorderTopRightCornerRadius="5.669291338582678" ParagraphBorderBottomLeftCornerRadius="5.669291338582678" ParagraphBorderBottomRightCornerRadius="5.669291338582678" ParagraphShadingTopLeftCornerOption="BevelCorner" ParagraphShadingTopRightCornerOption="BevelCorner" ParagraphShadingBottomLeftCornerOption="BevelCorner" ParagraphShadingBottomRightCornerOption="BevelCorner" ParagraphShadingTopLeftCornerRadius="5.669291338582678" ParagraphShadingTopRightCornerRadius="5.669291338582678" ParagraphShadingBottomLeftCornerRadius="5.669291338582678" ParagraphShadingBottomRightCornerRadius="5.669291338582678" ParagraphBorderTopLineWeight="0" ParagraphBorderRightLineWeight="0">
+				<Properties>
+					<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+					<TabList type="list">
+						<ListItem type="record">
+							<Alignment type="enumeration">RightAlign</Alignment>
+							<AlignmentCharacter type="string">.</AlignmentCharacter>
+							<Leader type="string"></Leader>
+							<Position type="unit">221.10236220472441</Position>
+						</ListItem>
+					</TabList>
+					<AllGREPStyles type="list">
+						<ListItem type="record">
+							<AppliedCharacterStyle type="object">CharacterStyle/Standardformate%3aBold</AppliedCharacterStyle>
+							<GrepExpression type="string">^[^:]+:</GrepExpression>
+						</ListItem>
+						<ListItem type="record">
+							<AppliedCharacterStyle type="object">CharacterStyle/Standardformate%3aBold</AppliedCharacterStyle>
+							<GrepExpression type="string">Automatismus</GrepExpression>
+						</ListItem>
+						<ListItem type="record">
+							<AppliedCharacterStyle type="object">CharacterStyle/Standardformate%3aBold</AppliedCharacterStyle>
+							<GrepExpression type="string">Unterbrechung</GrepExpression>
+						</ListItem>
+					</AllGREPStyles>
+					<ParagraphShadingColor type="object">Color/C=100 M=68 Y=0 K=55</ParagraphShadingColor>
+					<ParagraphBorderColor type="object">Color/C=100 M=68 Y=0 K=55</ParagraphBorderColor>
+					<SameParaStyleSpacing type="unit">0</SameParaStyleSpacing>
+				</Properties>
+			</ParagraphStyle>
+			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aSpecial-Feld" Name="Regeltexte:Special-Feld" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aSpecial-Feld" SplitDocument="false" EmitCss="true" StyleUniqueId="0a13cd68-00c2-428a-8f5c-01fe3ca6f44b" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FillColor="Color/Paper" PointSize="12" RightIndent="11.338582677165356" SpaceBefore="17.007874015748033" SpaceAfter="17.007874015748033" Justification="CenterAlign" ParagraphShadingOn="true" ParagraphShadingBottomOffset="8.503937007874017" ParagraphBorderTopOffset="22.67716535433071" ParagraphBorderBottomOffset="17.007874015748033" ParagraphBorderLeftLineWeight="7">
+				<Properties>
+					<BasedOn type="object">ParagraphStyle/Regeltexte%3aRegelFeldHead</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+					<ParagraphShadingColor type="object">Gradient/Dunkelblau</ParagraphShadingColor>
+					<ParagraphBorderColor type="object">Color/Paper</ParagraphBorderColor>
+					<SameParaStyleSpacing type="unit">0</SameParaStyleSpacing>
+				</Properties>
+			</ParagraphStyle>
+			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aRegel_Lore" Name="Regeltexte:Regel_Lore" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aRegelfeld" SplitDocument="false" EmitCss="true" StyleUniqueId="7697ba6a-ad08-4122-bde7-165a6e5abbd0" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FillColor="Color/Black" LeftIndent="17.007874015748033" ParagraphBorderOn="false">
+				<Properties>
+					<BasedOn type="object">ParagraphStyle/Regeltexte%3aRegelfeld</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+				</Properties>
+			</ParagraphStyle>
+			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aRegelFeldHead" Name="Regeltexte:RegelFeldHead" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aRegelfeld" SplitDocument="false" EmitCss="true" StyleUniqueId="1a335993-54c4-4df9-ae57-bbcd54c48634" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" PointSize="11" HyphenateAfterFirst="3" SpaceAfter="0" KeepWithNext="1" HyphenWeight="10" IgnoreEdgeAlignment="true" ParagraphShadingTint="100" ParagraphShadingBottomOffset="17.007874015748033" ParagraphBorderTopOffset="14.173228346456694" ParagraphBorderBottomOffset="2.834645669291339">
+				<Properties>
+					<BasedOn type="object">ParagraphStyle/Regeltexte%3aRegelfeld</BasedOn>
+					<PreviewColor type="enumeration">Nothing</PreviewColor>
+					<AllGREPStyles type="list">
+						<ListItem type="record">
+							<AppliedCharacterStyle type="object">CharacterStyle/Standardformate%3aItalic</AppliedCharacterStyle>
+							<GrepExpression type="string">\w+-Probe \(.*?\)</GrepExpression>
+						</ListItem>
+						<ListItem type="record">
+							<AppliedCharacterStyle type="object">CharacterStyle/$ID/[No character style]</AppliedCharacterStyle>
+							<GrepExpression type="string">^[^:]+:</GrepExpression>
+						</ListItem>
+					</AllGREPStyles>
+					<ParagraphBorderColor type="object">Color/C=100 M=90 Y=10 K=0</ParagraphBorderColor>
+				</Properties>
+			</ParagraphStyle>
+		</ParagraphStyleGroup>
+	</RootParagraphStyleGroup>
+	<TinDocumentDataObject>
+		<Properties>
+			<GaijiRefMaps><![CDATA[/////wAAAAAAAAAA]]></GaijiRefMaps>
+		</Properties>
+	</TinDocumentDataObject>
+	<CrossReferenceFormat Self="u9e" Name="Vollständiger Absatz und Seitenzahl" AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
+		<BuildingBlock Self="u9eBuildingBlock0" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9eBuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" (S. " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9eBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9eBuildingBlock3" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=")" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9f" Name="Vollständiger Absatz und Seitenzahl (ohne Klammern)" AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
+		<BuildingBlock Self="u9fBuildingBlock0" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9fBuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" S. " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9fBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua0" Name="Absatztext und Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua0BuildingBlock0" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua0BuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" auf Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua0BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua1" Name="Absatztext" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua1BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua1BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua1BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua2" Name="Absatznr. und Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua2BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua2BuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" auf Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua2BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua3" Name="Absatznr." AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua3BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua4" Name="Name des Textankers und Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua4BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua4BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua4BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“ auf Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua4BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua5" Name="Name des Textankers" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua5BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua5BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua5BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua6" Name="Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua6BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua6BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u5c19b" Name="Vollständiger Absatz" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u5c19bBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u5c19bBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u5c19bBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<Story Self="u9a8dc" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="07_Maschinen" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<MetadataPacketPreference>
+			<Properties>
+				<Contents><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 10.0-c000 25.G.ef72e4e, 2025/06/27-18:54:05        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#">
+         <xmp:CreateDate>2024-10-15T12:32:47+02:00</xmp:CreateDate>
+         <xmp:MetadataDate>2024-12-07T04:05:08+01:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2024-12-07T04:05:08+01:00</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe InCopy 20.0 (Windows)</xmp:CreatorTool>
+         <xmp:PageInfo>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpTPg:PageNumber>1</xmpTPg:PageNumber>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:width>512</xmpGImg:width>
+                  <xmpGImg:height>512</xmpGImg:height>
+                  <xmpGImg:image>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&#xA;AIyQmf2z/wCyv/vylaVf+MlBkda/9lf/AH5StS4/xKOHHWv/AGV/9+UrUv8A+Ms+I/bf/sr4/wDo&#xA;SlamP/jJ/wDm6/8AZX/35StS5/xKOOn7a/8AZX/35StTT/8AGhnqrul/tbjHGT6n2b957mbdvr/y&#xA;fFHpam2P8SQj/ln/ANlf/fhC1M2/4lwwe3q4k9ziz/7sJWilf+Mw/wD8uv8A2V/9+UrTT6agpSSl&#xA;JKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUk&#xA;pSSlJKUkpSSlJKUkpSSlJKUkpSSlJKclv/irf/6bmf8An56d+ip1k1SklKSUpJSklKSUpJSklKSU&#xA;pJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSk&#xA;lKSUpJSklKSUpJSklKSU5Lf/ABVv/wDTcz/z89O/RU6yapSSlJKUkpSSlJKUkpSSlJKUkpSSlJKU&#xA;kpSSlJKUkpSSnP6tlZlBw6cF1VduXkegX3Mda1o9K62djLKiT+jj6SdEA3a2RI2arPrA7GwhkZ9L&#xA;7DXbkVZF2O0NqY3HuNBtd6tugOh2gudzEwncFnRHHQ1X/wCclJyhWanUYzLb6bsm8tayccP3lkPJ&#xA;gFmpIHPxge3orj1S9V6pdjYeNk45bjV5FgbZkZVbizHrLHvD7a99REua1urhG7VKMbKZSoI29fdQ&#xA;+vGzMd77Io9bIx9hx2/abHU0uBdaHw5zZ0DonVLgvZHGyt+sWNRdbj24+Q2xhApaQwG+bW4w9IGw&#xA;ED1HgS/aNZ41SGMlPGGFn1mpqZYX4eUH4zHW5dcVbsetk++z9NtcCAS30y4mEvb8Ucfgt1jq+ViX&#xA;XMxbcWluLjsyXuy9G2utdYyupthtqbXuNR9xnkaIwgCqUiE567S3ItpONeGUXVYrr4r9M23mkNa3&#xA;9LvP88CTtjlDg0Tx6oLvrTiVPyGsxcm4YjLLb3ViuGV02XUved9rZg0nQakcDlIYyg5AtZ9Z8ZuS&#xA;W112Ox6sbKybLDW5u8YprafSc/a130nfh2R9s0r3BaUfWKn1K2WYmTUH+iXueKoqbk2Gmh1m24n3&#xA;uHYEj86EPb8VcaMfWnF2h7sXJZXbW67GeRWRkNa+utvp7biQXutbtDw3lH2yr3AxP1lY3Lrqsosp&#xA;ZDmX1WBptqt9bEoZuLLHM2xkhxIJ0+5L29FcerMfWrprmOdWy15a69gY1rdznUPqq9svA/SOvZs8&#xA;dwmEPbKvcCnfWRhPo14WSckC421O9Ieh6Pp7ja71tsRa0jYXEgpe34q4/BudN6lV1CpuzWxtVT7t&#xA;oOxjrGh+zd+9BmOYI8UJRpdGVt1NSpJSklKSUpJSklKSUpJSklKSUpJTkt/8Vb//AE3M/wDPz079&#xA;FTrJqlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKaXU8HIzBjPxbmUXYt3rsdbWbWH9H&#xA;ZUWlrbKjxZ+8nRIC2QJcfO+p9ubR6NmXU5zxcbHWY/qBtl9r7nWY7TcPTPv2/nHb3nVPGWjstOO2&#xA;3kfVfFzK66cuw2VMyMrILQC0k5JscIIdoWGyQfETogMhCTjBbduH1F+Jj115jRlUEF9r6i6u72Or&#xA;cLKm2s0O7do/kD4JoIvZNGnKo+rebVlHHbexuE1mGXk1Ausfj33ZJbXttHptBcBBDtNBwnnIKWiB&#xA;tav6n215ByvtdXqgAssGPD3PbfTkssyHetNpmna76OnG1L3dNle2yzPqpbn2uys3IxsnJtYarH34&#xA;bbWsZLiz7Myy53plu7uXydSEhlrZRx23uqdFuzn3HGyG47cvG+x5IdV6hNXvg1xZXscPVdqQ4eSb&#xA;GdLpRte7orn05TKbxXZfl05tbnM3NY6gY+1rm72lwPoa6jlITUYtej6t2Moz678oWWdRosoe9tWx&#xA;rTbZk2lzW+o7j7TET25ROTbTZAhuwP1aynsdj25jDQMbLxKQ2kh4bllp3Pd6xDizaOGiUvcHZXAe&#xA;6bM+rleX1SrqW6gmttDXerjtusH2d7rB6Njnfo926He0+UFAZKFKMLNuU36u9SzLB03MaGYGHRbR&#xA;ivsZW9rh62PZRuDbnOsEUe4Oazw15T/cA1G63gJ0bzfqmwY9tPq01Oux8iiMbHbRWx2QaS2xlbXn&#xA;6HojlxJPdN93VPtsG/UzGbVkVG7eLsfHpaLKw5ofj+nNj2l3uFno17m+XOqPulXtBsYP1bbhkuFl&#xA;LC6nIqczGx249Q+0GnVlbXOjaKRyST4oHJaRCmx0borOisNGNZNDmVzVtP8APMbsfaCXO+mACR46&#xA;zqUJz4kxjwummLlJKUkpSSlJKUkpSSlJKUkpSSlJKclv/irf/wCm5n/n56d+ip1k1SklKSUpJSkl&#xA;KSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSCvPwbbnY9WRU+1jtjq2vaXBwBO0tBmYadEeEos&#xA;MnZWKzIbiPurbe8bmUlwD3DXUNmT9EpUaVYY352FjML8nIqpa14rc6x7WgPI3BpLiNYMwkASokBb&#xA;9oYHrMx/tNPq2z6dfqN3O2ktdtbMmC0hLhKrCQX0OtNDbGm1sywOG4RtJlvP57fvCFJtIkpG6+lm&#xA;/fY1vpN32SQNrTPud4D2nVKlWzBBEjUFJTG22qip9172111tL3veQ1rWgSS4nQAJAWpkSBqTHA18&#xA;9ElMLMiiolttjGEMNhDnAEMb9J+v5onUo0VWtj5OPl1C/FtZfU6YsrcHtMeDmkhIghQILN1lbHNY&#xA;5wa6wwwEwXEAugeOgQUySUpJSklKSUpJSklKSUpJSklKSUpJSklKSU5Lf/FW/wD9NzP/AD89O/RU&#xA;6yapSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkp56zovWniymvK9Gl2c7I/R3OY&#xA;TTY6x72D06WOafeOXu+IUnHFj4ZLZHRetPGL6V1fqVUVVZNxtsD7TWLJbPpuInfpY0h4k8oicVGM&#xA;klXROqudU+/Oez0sr12sa8XenX6Rr2tffS5znS6NdI1+khxx7J4T3Q5v1f6zk+rbTmiu8tisklzZ&#xA;F+Rawvlm79Gy1u3aR7hroiJxHRBhI9Wq/wCrX1iLLbcfKqpyLLLyCb73kV2egK2+vtZYS0U8+QGo&#xA;lH3II4JJL+g/WStjHYua95bjuFjXZNxLr3NcHOYHaamNsuAHgkJw7KMJd0OV9XPrVkUspbmsbW6p&#xA;9dtdmTkPjda5/wBKBv8A0btnuBSGSA6KMJnq6HVOj9eyLn2YOZsr2zXUbrahudV6TgXVh0NY+tj2&#xA;wNZeDymxnEbhMoyOxVkdA6llYeZg3ZIfXmWsf+lfZaGtF77Xt2uI0dXsZtBA5+aEwCCowJFNKv6t&#xA;/WT1KH5ea3JaPTffW7IvDPVrvZbvYza4QK27dugnXsne5Dsjgl3Ts+r/AF4erVbmi2m7DfS4WW3P&#xA;JtsrLDIeXM27zumN3bhDjj2TwS7ox0L6zNbYxmUxoveLHubkPY8ENuaRNeMxp3b2a7Wxt4MSTxwR&#xA;wSZWfV3reQWuvyofW2WPZk5A22fZfQG0fmxaS6ZlwOuqHuRHRXBIvTtnaN2pjU+aiZV0lKSUpJSk&#xA;lKSUpJSklKSUpJSklKSUpJTkt/8AFW//ANNzP/Pz079FTrJqlJKUkpSSlJKUkpSSlJKUkpSSlJKU&#xA;kpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKcDr2B1izNZmdIYHuFQc/c5rffR6gqa3eHCXfanuBIgFgl&#xA;SQlGtWOYN6NR9X1zso/SbrDaLWPod9lNbW+lWK952e6Xl0gaE/ut0Trx2j1psNv1ueKnZTn1uY5p&#xA;tYfs21+uJ6gGwOOz+e26h0ROsIHgSONhT0rPZ+06/sTSctjmsfZ6T67LTkZFjLXtL5O1trDqJ9se&#xA;CRkNNUCJ10YY31dvw7hRi45bRTk02ssJraS2u1m1odW4Pe1tW6RYNCBtROQFQhT1ShZVJKUkpSSl&#xA;JKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKclv/irf/6bmf8An56d+ip1k1SklKSUpJSklKSUpJSk&#xA;lKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSU&#xA;pJSklKSUpJSklKSUpJSklKSU5Lf/ABVv/wDTcz/z89O/RU6yapSSlJKUkpSSlJKUkpSSlJKUkpSS&#xA;lJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKU&#xA;kpSSlJKUkpSSlJKclv8A4q3/APpuZ/5+enfoqdZNUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJS&#xA;klKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKS&#xA;UpJSklON0+z9oddyOp4wJw68duGy46C2xlj3vNfi1sxu8eE86RpTspilJKUkpSSlJKUkpSSlJKUk&#xA;pSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSl&#xA;JKUkpSSlJKUkpSSlJKUkpyvqt/yBh/1D/wBU5OyfMVOqmqUkpSSlJKUkpSSlJKUkpSSlJKUkpSSl&#xA;JKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUk&#xA;pSSlJKUkpSSnK+q3/IGH/UP/AFTk7J8xU6qapSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUk&#xA;pSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSl&#xA;JKcr6rf8gYf9Q/8AVOTsnzFTqpqlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSl&#xA;JKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpyvqt/yB&#xA;h/1D/wBU5OyfMVOqmqUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUk&#xA;pSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSnK+q3/IGH/UP/AFTk&#xA;7J8xU6qapSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSl&#xA;JKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKcr6rf8gYf9Q/8AVOTsnzFTqpql&#xA;JKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUk&#xA;pSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpyvqt/yBh/1D/wBU5OyfMVOqmqUkpSSlJKUk&#xA;pSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSl&#xA;JKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSnK+q3/IGH/UP/AFTk7J8xU6qapSSlJKUkpSSlJKUkpSSl&#xA;JKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUk&#xA;pSSlJKUkpSSlJKUkpSSlJKcr6rf8gYf9Q/8AVOTsnzFTqpqlJKUkpSSlJKUkpSSlJKUkpSSlJKUk&#xA;pSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSl&#xA;JKUkpSSlJKUkpyvqt/yBh/1D/wBU5OyfMVOqmqUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSl&#xA;JKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUk&#xA;pSSnK+q3/IGH/UP/AFTk7J8xU6qapSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUk&#xA;pSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKcr6rf8&#xA;gYf9Q/8AVOTsnzFTqpqlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSl&#xA;JKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpyvqt/yBh/1D/wBU&#xA;5OyfMVOqmqUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUk&#xA;pSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSnH+ql1b+i00td+kxi+m5h0dXY&#xA;1zpa5p1BT8nzKdhMUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJS&#xA;klKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklON1XpeVXk/tvom1ue0&#xA;AXUOO2vLrb/g3+Dx+Y/twdE6MtKKm50rquL1jF+0425pa413U2DbZVY36VdjezghIUpuoKUkpSSl&#xA;JKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUk&#xA;pSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSnG6N/yz1//wAN0f8Atpip0tgp2U1SklKSUpJSklKS&#xA;UpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJS&#xA;klKSUpJSklKSUpJSklKSUpJSklKSU43Rv+Wev/8Ahuj/ANtMVOlsFOymqUkpSSlJKUkpSSlJKUkp&#xA;SSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJ&#xA;KUkpSSlJKUkpSSlJKUkpSSnG6N/yz1//AMN0f+2mKnS2CnZTVKSUpJSklKSUpJSklKSUpJSklKSU&#xA;pJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSk&#xA;lKSUpJSklKSUpJTjdG/5Z6//AOG6P/bTFTpbBTspqlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJK&#xA;UkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpS&#xA;SlJKUkpxujf8s9f/APDdH/tpip0tgp2U1SklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSkl&#xA;KSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSU4&#xA;3Rv+Wev/APhuj/20xU6WwU7KapSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSS&#xA;lJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKcbo3/ACz1&#xA;/wD8N0f+2mKnS2CnZTVKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklK&#xA;SUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJTjdG/wCWev8A/huj&#xA;/wBtMVOlsFOymqUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSl&#xA;JKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSnG6N/yz1//wAN0f8Atpip&#xA;0tgp2U1SklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKS&#xA;UpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklI8jIoxKLMnJsbVTU0vsseYDWjkkpAW&#xA;p4g/XnpP1fyM3qHUa7wer3svxsatrTcKK6aqG3WMe9mwPNctBMx2UvtmWiaW/wDHj+rH/cXP/wC2&#xA;6v8A3oS9iSqV/wCPH9WP+4uf/wBt1f8AvQl7ElU94okKSUpJSklKSUpJSklKSUpJSklKSUpJSklK&#xA;SUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUjv&#xA;vpxqX5GQ8V1VtLnvcYAA7lIC1PnP1y+t7GNZdkM3AxZ07p1n5/7uXlt/d7119+Sp4QSHzDLy8nPy&#xA;bMzMsddfc4vsseZLiVOBSUSSlJKfp5UVqklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklK&#xA;SUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklPJfXnOsxKbb4F&#xA;rMLFOXXQ/wDm3XerXUx1g/ODN8hvEqXGFdXxPLy8nPybMzMsddfc4vsseZLiVZApc3hltf8AVt2G&#xA;51YczMrexoaxthaa7tznFoD3AEjmYQrVXVzEVKSU/TyorVJKUkpSSlJKUkpSSlJKUkpSSlJKUkpS&#xA;SlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJK&#xA;eK/xi/0DqH/puH/tzQpcX7VDd8WVlcpJSklKSU//2Q==</xmpGImg:image>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpTPg:PageNumber>2</xmpTPg:PageNumber>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:width>512</xmpGImg:width>
+                  <xmpGImg:height>512</xmpGImg:height>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4AE0Fkb2JlAGQAAAAAAQUAAklE/9sAhAAMCAgICAgMCAgMEAsLCxAUDg0NDhQY&#xA;EhMTExIYFBIUFBQUEhQUGx4eHhsUJCcnJyckMjU1NTI7Ozs7Ozs7Ozs7AQ0LCxAOECIYGCIyKCEo&#xA;MjsyMjIyOzs7Ozs7Ozs7Ozs7Ozs7OztAQEBAQDtAQEBAQEBAQEBAQEBAQEBAQEBAQED/wAARCAIA&#xA;AWkDAREAAhEBAxEB/8QBQgAAAQUBAQEBAQEAAAAAAAAAAwABAgQFBgcICQoLAQABBQEBAQEBAQAA&#xA;AAAAAAABAAIDBAUGBwgJCgsQAAEEAQMCBAIFBwYIBQMMMwEAAhEDBCESMQVBUWETInGBMgYUkaGx&#xA;QiMkFVLBYjM0coLRQwclklPw4fFjczUWorKDJkSTVGRFwqN0NhfSVeJl8rOEw9N14/NGJ5SkhbSV&#xA;xNTk9KW1xdXl9VZmdoaWprbG1ub2N0dXZ3eHl6e3x9fn9xEAAgIBAgQEAwQFBgcHBgI7AQACEQMh&#xA;MRIEQVFhcSITBTKBkRShsUIjwVLR8DMkYuFygpJDUxVjczTxJQYWorKDByY1wtJEk1SjF2RFVTZ0&#xA;ZeLys4TD03Xj80aUpIW0lcTU5PSltcXV5fVWZnaGlqa2xtbm9ic3R1dnd4eXp7fH1+f3/9oADAMB&#xA;AAIRAxEAPwD1VJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSU&#xA;pJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJTgdY+tfRaekZ1uB1XD&#xA;OXXjXOxwy+p7vVDHFm1m5247o0hOETeynjGf4xsynpGTVndQceqWOxPs9mLTVbVXS9lVlzwHBgNs&#xA;bhY1xjcQGwJh/t6qdPp31zzOs3YeUepYfTKxVjPy8e3IqraXDIyGZAa23Hte4vqqBDfUZt3DUzKB&#xA;hSmnjfWzPs6L0fNu+sG3Mzc5mPnURhj0cd1lrXW7Dj7mQ1rTudpqjwizopj07649WOB0rOzes1ep&#xA;k9QppyqC/GkY5faLX21DFrfUAGN93qHQzpokYCzop3+s/XHAqF4xeuYraw+hoGPX6lzGerii97bX&#xA;Pursiu10AVePJY5NjA9lOLf9cLsHOzMHo/WW9QxcXplpZbnPrY4ZVbtg9K0Yo9d+0AtBkPk+5O4L&#xA;GoU13f4yM+m812ZbXtd0wNa5lbC1mW7FquZcXND9zzeXVuZDWt080fbCnU/bOfULbcr6z4ux1+JX&#xA;j1Y1+He9tdlrK8l1rnYVU7Wu3NIbp34Q4R2Ujd9Ys8Y11zPrBQS3KNFAOThh76/tYoDn1fs87G+j&#xA;L94c797bGiXCOymOH9aq+o9Lz6Ot9axsehznUX49lYyMoU2D0XCq/GGPU8khzgWVPDQQTKJhR0Cn&#xA;zvo91eP1bCyLrXY9dWTU99zAHOra17SXtaWvBLQJ+ifgpjsh90/5y/Vz/wAtcH/2Iq/8mqvBLslX&#xA;/OX6uf8Alrhf+xFX/k0uCXZSv+cv1c/8tcL/ANiKv/JpcEuylf8AOX6uf+WuF/7EVf8Ak0uCXZSv&#xA;+cv1c/8ALXC/9iKv/JpcEuylf85fq7/5a4X/ALEVf+TS4JdlK/5yfV3/AMtcL/2Iq/8AJpcEuylf&#xA;85Pq7/5aYX/sRV/5NLgl2Ur/AJyfV3/y0wv/AGIq/wDJpcEuyl/+cn1d/wDLTC/9iKv/ACaXBLsp&#xA;X/OP6vf+WmF/7EVf+TS4JdlK/wCcf1e/8tML/wBiKv8AyaXBLspX/OP6vf8Alphf+xFX/k0uCXZS&#xA;v+cf1e/8tML/ANiKv/JpcEuyk2L1bpefYacHMx8mxrdxZTayxwaCBMMcdNUDEjopjj9a6Pl3Nx8X&#xA;Pxr7XztrquY9xgSYa1xPASMZDopX7a6P9o+yfbsb7Rv9L0fWZv3zt2bN07p0hLhPZSsjrPR8S52P&#xA;lZ2NRayN1dlzGOEiRLXOB4KQjI9FMP8AnF9X/wDyzw//AGIr/wDJo8Euylf84egf+WeH/wCxFf8A&#xA;5NLgl2Ur/nD0D/yzw/8At+v/AMmlwS7KV/zh6B/5Z4f/AG/X/wCTS4JdlK/5w9A/8ssP/t+v/wAm&#xA;lwS7KV/zg6D/AOWWH/2/X/5NLgl2Ur/nB0H/AMssP/t+v/yaXBLspX/ODoP/AJZYn/b9f/k0uCXZ&#xA;S/8Azg6D/wCWWJ/2/X/5NLgl2Ur9v9C/8ssT/t+v/wAklwS7KtX7f6F/5ZYn/b9f/kkuCXZVq/b/&#xA;AEL/AMscT/t+v/ySXBLsq0+Ln4Odu+xZNOT6cb/Re1+2ZidpMTCBiRupsIKUkpSSn506RiV5/VcL&#xA;BuLm15ORVS8sgODbHtYdsgiYKsk0FPdP+oHQvtORjY2P1fK+yvFVllVuG1m91dd0D1nVu+jYOyj9&#xA;wqed/wDG9+t//cD/AMGo/wDSqf7kVK/8b363/wDcD/waj/0ql7kVPS43+L/oN2Y3Bvq6riWWVPuY&#xA;brMRzXNqdWx/8z6us2t5TPcNKfOlMpSKF0kqSQpJSkVLpKXSUpFK6SlJKXSUukpdJS6Sl0lLooXC&#xA;SVJIXSU6XQuhZ31hzvsGBsDwx1r32u2ta1sCTAceXAaBNlMRFlT0VuQyz0fqP9T3Mebpqzeow2s5&#xA;Jbve8b26+kwF3iSNBI+lHX6UlKyOof8ANTBd9V+g2faerZTwM7LoEljz7Bj0EDcXDiexJiHH2oDj&#xA;PEdlLsyG/UDBtorcy36wZzG+oAGvbhVn3Bpdrue6Zjjg8AblXuHwU8jZZZdY665zrLLHFz3uJLnO&#xA;Jkkk8kqYKYjhJS6SGSSl0lKSU3OlWdOqz6rOq1PvxBu9Wusw4y1wbEOZ+dHdCV1op26sz6h1kB2F&#xA;mWtjX1D7pAY0EFmSwR7XE+3k6QBCjIy906JmdL6GLrB+zOrvs3iz0TR7WVOt3Bu0Wh+rGFm4u8Ty&#xA;lxS7hTKjC+r9lLarukdR+0ONz5xWveANzm+mPVc2TTva1x2/Sb3HIJl3Cl7aPquy+vGd0jqdbgfW&#xA;cCCLHNdYGV17HPPsJdtkQdAJJKQM63CEX7N6VX1DFdZg5rai14swrKLWW5D/AHndj7bH6M3CQXiG&#xA;jlxJR4pVupsOxvq7k3UnE6L1EVBgtsDGPeXseQay0eqdHbHe6eJgTDmi5jchTo/4smPqf1Wq1pY9&#xA;hoa5rhBBHrgggocx0SHulXSpJSklPzfg5dmBm4+dSGusxrWXMD5LS6tweN0EGJCskWFPqn1Tz+o/&#xA;WT6vdYzAWY+dmXW11vqLmMZYMaiqtwMvcI2gyoZARIU3fq59Ycy64dB+slX2TrNTA8A7duTXE+pW&#xA;WEt3ae4DzjuGiUeoUv1v6x3PyB0H6slmV1W7cH2Ah1WI1p2vsuI3Dc0/m+PI4a4xj1Kmh9fPrBmf&#xA;VvM6bnYLKrLLKsqki4Oc3a52K/8AMezX2I44iQKnylTqe5+pX1Krurb9YPrA1teFW31aabYa17Wj&#xA;d6tu7iscgH6XJ9v0o8mToFPQfXL6nY/1hbZndLLG9Ux4ZY0EAWw1rhXZ+6/a4bSe0A6QQyE+HdT5&#xA;TZXZTY6m5rq7K3Fr2OBa5rmmCCDwQrCG30jpGd1vOZ0/p7N9r9XOOjWNHL3nWGif4DVCUhEKfWem&#xA;fVn6v9H6aOgX+lc/qDT63rENsyXMG5xa2d0M5aG/R551VczkTaXzf60fVLO+rNzDY77RiWwK8lrd&#xA;o3RJY9su2u8NdR84nhMSU4aehSKV0lKSUukpdJS6Sl0lLpKXRQuEkqSQ6XROgdU+sGQcfptW/ZtN&#xA;tjjtZWHGJc4/kEnQwE2UxHdT0WRb6jXfU/6jU+uXsH7RzajtOSa27Xw97yGVT/KgkwND7ox+9JLH&#xA;Kysf6q0DoHQA2/rl7fQz8+jc5zXOcT9nx5J92oaS0DgabvokDj1OyFv1f6iY/wCZf9ZL2eT2YDHj&#xA;5h1rgf8AVv01rkPgp5Wyyy6x91znWWWOLnvcSXOcTJJJ5JUqlklKHCSl0kMklLpKUkpdJTqdE6Vh&#xA;9UNgy8+vADC0A2bIIcHkn321aDYBpPITZyMeig9W7e9/2W36zYLqnB9jZx8ZwLn7m3bhO0Fwt8Zd&#xA;LtOVD/glKSy7Mx8ex2L9aMN72h9jKm1YrA95l8TvgFzjqUKBPyqabhZZcepX/WLF+2MqY1wdVS/b&#xA;SLfVaBsL2Osbs3Q0E7oExBTvDhU3G5XU3VOJ+tGI25o0aWY2xztoOjw4u27jEls+SFD91SEPyXGm&#xA;236yYlV9thFrmV4+4Fo3T6lTtWu9Bn0tsiAdfajp+6pL/iv/AO9P/rH/AKOS5joqL3arpUkpSSn5&#xA;pVpT6D/i++r/AO1ejXZH7S6hhbcp9fp4d/pVmGVO3Fux3u93KiySoqb56bX1jrfSaelOd1DF6Na2&#xA;3K63bYLrHO3OyG43qTW2wDTjdt3DjXcLoFTL0fsfUeofV3Me/o2R1jKsy8HqmKY+07nOcymx7tQ5&#xA;hePa0tnj86XrcWp5r689D6j0X7F9v6rd1X1/V2evu/R7PSnbvtt+luH3KTHIHop53p2VThZ1GXkY&#xA;7Myql4e/HtkNeB2Mf7R4gjROIsKfY8V/Tfrl03DzXWOfjtcLL8Jrga3XNAPpZALA5wrdqBoHaEgi&#xA;FXNwKkfQ+nZePj1dc67a7F6kKrG9RIdU2q5jHP8ASdeGAsmtkQ5pBjQmNEZEbBT5p9buuUde6xbl&#xA;Y1FVdbHGtlzA4PuY32sfZujXTT2ggaGYCnhHhCnpP8Wv1g6Xi7ui5FTMfJyH7q8n/Tn82p5JMOE+&#xA;zsf630mZYk6qeqzen578zCyzW/Jy+nPdXi5AdW2pzMpvp2W5FZLHF1TWyWsjcYiJIZGCKU4n176/&#xA;gdP6aegWFvVM+xpLn5DayaA8Oiw+mxjRZtf7IAjk/wAp2KJJtT5mrCFIpXSUpJS6Sl0lLpKXSUuk&#xA;pdFC4SSpJD1v1XzMXO6PlfVSuxvTM7OdNWYPo5J7Y17juc0GYG2J8JkPimCDxKX+rOXX0LKz+gdW&#xA;Duk5uW30G9SEepjuPDXFxLfTdodzY8Z4c1THEARqlj0V/wDzK+sVmL17H9Nz2GuvNrG91IfLRkUb&#xA;mua5p7+2e37zSpfrI6Icv6xdGzukZxOVZ9qrypux81p3NyGu93qbpd7vd7tfvBBL4SEgpzE5S6Sl&#xA;DhJS6SGSSl0lO7g/Uzruea3U1sbRYxjxkPdtZFlbbRpG8/SjRpEphyxCaT2/ULrldvo1ux73hhe8&#xA;V2QWCHbNwsaw+8tIb2nmEBniqkP/ADfzOldXxcbM+z22+/JNDnwx1VBe/wB73s2AWCoxP9qEfcEo&#xA;6Ieiswc/E9S3/m7huYKQ4vtsxiwWbG7rLJrrgN26tZsbO46yCIhIH9JKLDxA1tb8PoeLfWH+nsfk&#xA;VWPtc9tl7WNddVxW1x15cNpDnMEkk95KTDpueLr7W/VysC8QK/Wwyyt21rd9e7HJB9swSWzOiHEP&#xA;3vzUxyqRWWMs6bhYb/V9N4f6T4bbW6/e6MB0Mra1zWvBgOad24ApA+P8vtUnOJlObZS76uYGWw/o&#xA;/WxbaqmyGhlgaXNDwQ8O8COO0kWP3iph/iv/AO9P/rH/AKOTuY6Ki92q6VJKUkp+duiY9OX1nAxM&#xA;hu+m/KpqsbJEse9rXCWweCrJ0Cn1LCq+rXSqetfVy3Kp6fj23GttVl7W2Cu/Exg5zfWc48udBMqE&#xA;2aKnR6d1P6pdKw68DA6hhVY9W7Yz7Ux0bnF51fY48uPdAiRUj6vmfU/rmC/p/UOo4T6n6tcMioOY&#xA;4fRew7jDhP8AA6JASBU1+o0fV3619ZwsS2ynqNNGLlWltF07Hb8RrS40vB4LuURcQp8eVhTq/Vz6&#xA;xZ31bzhl4h31PhuRjuMNtaPvhwn2u7fCQRKIkEOn9c/rm76yurxMSt1OBS4WAWAeo+yCNzoLoA3E&#xA;AA+Z8m48fCl5hSIUkp7LE/xldUx+hvwbG+tntiujMfrDCDLrGn6T29j35dx7ozhBKXkLLLLrH3XO&#xA;dZZY4ue9xLnOc4ySSeSVKhZJSkUrpKUkpdJS6Sl0lLpKXSUuihcJJUkhdJT1uFmYv1yxa+j9YsbT&#xA;1iluzp/UH8XDtj5B7k/mu/jIfEQYGxspWJlV31n6nfXEOxn4ztmFmvgvxHkCGPM+6l2neIjWILUR&#xA;Xqipei+zoVlv1Q+t9TrOm2O3V2NkuocSduTjOjVp1kR46TuaURxeqO6nH670LK6Fktqtc2/Hvb6m&#xA;LlV613VmCHNIJ11Eifwgl8JiQU5ycpQ4SUukhkkpdJSklLpKSsvvrqsorse2q6PVY1xDX7TLdzeD&#xA;B4SoKYJKXSUukpdJC6Kn1D6jfV/L6LiXZGY4B+cKnioAh1bWhzofuDfd+kgiNI5VTNMSOi4B6dRJ&#xA;UkpSSn5vwcuzAzcfOpDXWY1rLmB8lpdW4PG6CDEhWSLCnrv/AB1vrF/3Hwv8y3/0ume0FPGKRT1P&#xA;1W+p31hzcvH6hiCjHfQKc6huYXtFjN7vTdtra47Saj4SNRoU2UgAp9C+z/4xfHon/s0ovR4qeN/8&#xA;aP6yf9ycH/ty3/0gpPeClf8AjR/WT/uTg/8Ablv/AKQS96Klf+NH9ZP+5OD/ANuW/wDpBL3oqX/8&#xA;aT6yf9ycH/ty3/0gj70VK/8AGk+sn/cnB/7ct/8ASCXvRUr/AMaT6yf9ycH/ALct/wDSCXvRUr/x&#xA;pPrH/wBycH/ty3/0gl70VL/+NL9Y/wDuTg/9uW/+kEvfipX/AI0v1j/7k4X/AG5b/wCkEvfipX/j&#xA;S/WP/uThf59v/pBH34qV/wCNL9Y/+5OF/n2/+kEvfipf/wAab6x/9ycL/Pt/9IJe/FS//jT/AFi/&#xA;7k4X+fb/AOkEvfipX/jT/WL/ALk4X+fb/wCkEvfipf8A8aj6xf8AcjC/z7f/AEgl78VL/wDjU/WL&#xA;/uRhf59v/pBL34qV/wCNT9Yv+5GF/n2/+kEvfipf/wAar6w/9yML/Pt/9IJe/FSv/Gq+sP8A3Iwv&#xA;8+3/ANIJe/FSv/Gq+sP/AHIwv8+3/wBIJe/FC/8A41f1h/7kYX+fb/6QS9+KXoMr6l9U610cY/XL&#xA;cd/U8Ru3Dz6nPc6xmp9LJ3VtkfytT38dzBlETpspWJ9S+qZfRz0T6xW491eO2en5dLnuvx3aD04f&#xA;WzdX5T5fu7UcoBsKY9G+pnWKcGzoXXX42X0q2XsFb3+tj26kWUF1IHJ1HH4hyllF2N0OLZ/it64L&#xA;HCnKxHVhx2Oc6xri2dCWip0Hykp45iKqW/8AGu+sH/cjD/z7P/SKXvxVS/8A41/X/wDuRh/59n/p&#xA;FL34qpX/AI1/X/8AuRh/59n/AKRS9+KqX/8AGw6//wByMP8Az7P/AEij94iqlf8AjYdf/wC5GH/n&#xA;2f8ApFL7xFVL/wDjY9e/7kYf+fZ/6RS+8RVSv/Gx69/3Iw/8+z/0il94iql//Gy69/p8T/Ps/wDS&#xA;KX3iKqX/APGz69/p8T/Ps/8ASKX3iKqV/wCNn13/AE+J/n2f+kUvvEUUv/42nXf9Pif59n/pFL7x&#xA;FVO99VfqR+x735vVHU5F4gUMYN7GQWu9SbGA75GkcfPSPJm4tAkB61QpUkpSSlJKfmlWlKSU+hf4&#xA;v/8AF/8AbvT6712v9V0fi4rx/PdxZYD/AIPwH539X6Uc51oFPoFX/imyf/COP/59ylH+gp1E1Skl&#xA;KSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUp&#xA;JSklKSUpJSklKSUpJSklKSUpJSklKSU/NKtKUkp+llVU5dX/AIpsn/wjj/8An3KTv0FOD9ZPrl1P&#xA;o/1w6V9X8aqh+Nn/AGf1X2NebB6176XbS2xrfot0kJ0IAxJSA0/r79fusfVbrFPT+n041lVmM28m&#xA;9r3O3OfayBstYIhg7I48YkFAOl1L645GJ9RaPrPSyp2XfXTFbg41eq9wbYIDw6BDo9yAhc6VSL/F&#xA;79cep/Wz7f8AtGqir7J6Pp/Z2vbPq+ru3b7LP9GEssBFRDzfTv8AGT9e+rep+zOl42X6O31PRpuf&#xA;t3TtmL++0qQ4oDcqp3ehf4w7+r9L6s6/FZjdS6Xi3ZIrO41v9NruWkhwhwAcJ+aZLFRCqcXE/wAY&#xA;317zsZ+didKx8jGpJFtlVNzmt2gOcCReeAU84oDqqnpOifXk9b+rPU+q10tpzemU2WPqJLqy5tb7&#xA;K3fmnadvCjlj4ZAIeewP8YH1+6pScjp3ScfJqa4sc+qi5wDgAdsi/mHBPOKA3KXpnfW3P6V9Uh13&#xA;6w4no5peam4jQ6rc4uIYPeXke0SUzgBlQQ883/GX9ZcRtHUerdJYzpuUf0VjA9jiOfa97nNOmo0E&#xA;p/sxOgKXe+tf17r6HVh19NpGbk9QrbdS0yGit/0HQ3Ulx4CZDHxbocrG/wAYfXendRowvrZ0xuHX&#xA;kkbbKw9ha0mN0PdZuA76pxxRI9JU6f1h+t3Uuk/W3pnQcauh2PnfZ/VfY1xsHrXPqdtLbGjhumib&#xA;DGDElS/1h+tvUuk/WzpnQcauh2Pneh6r7GuNg9a59TtpbY0cN00ShjBiSpy/rf8A4wes9A67d0zD&#xA;pxX1VtrcHWseXe9ocZLbWjv4J2PEJRtTu9f+tNvTPqpT1/EbW+7JbQam2Alk2gPMgOafoz3TYwuV&#xA;Ka31D+tvUfrR9u/aFdFf2X0dnoNc2fU9Wd2+x/7gRy4xCqU9aolKSUpJSklKSUpJSklKSUpJSklK&#xA;SUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJT80q0pSSn6WVVTl1f+KbJ/8ACOP/AOfcpO/QU8J9&#xA;ev8A8pv1e/8AQL/27tUuP+bKRsg/xlYf7Q+vXTcGJOTh11DuZfbktEfNHEagVDZz8bLPVvqj9Xvq&#xA;9JJt6s6lw/ktLXGfIfagiRUifBLsf4lf+9n/ANBf/dhNz9EFwv8AF79cOmfVP9oftGq+37X6Pp+g&#xA;1jo9L1d27fYz98J2WBlSi2/q2y/qdn1v+sjanV4uRgZ4G79+8m7aHcEtDdUp6cIUt9Svr5076r9B&#xA;yen5GPdfk2Xvvq2BvpQ6upgD3F4dyzX2pZMZkVEN/wCpHTLMb6j/AFj6k9zS3NxbWMa1wcQKabvp&#xA;bZg/pOChkNzAU5n1N+v9P1V6Xb0+zDdkmy91+9tgYAHMrZtgtd+4jkxcRU939celZH1t+qVTsFn6&#xA;wfSzaaSRqSwyydBO2wqLHLgkh5To31vwXY+N9Vfrt08elhllddtjSPTLGmtnq1nXRpjcPuUksZ3i&#xA;Uul/jA+rnUGXdN6/9Xqi9vTKq6m10jca2UO9Sl7Wa7midU3FMagoR9K+ufQfrbk43TfrX0+puS0l&#xA;lFxk1F79oLYOrC7aPFGWOUNQVMfrr/8AlH6D/wCgf/t1Ylj/AJsqX+uv/wCUfoP/AKB/+3ViWP8A&#xA;mypzPrphnP8Arzl4wEn7I+xo8XVYr7W/ixOxmoKZOy/219Xvqt0Odzrct1drewbU8Vtn+xalXDKR&#xA;U6X+J7/vW/8AQb/3YTeY6KfR1ApSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpS&#xA;SlJKUkpSSlJKfmlWlKSU/Syqqcur/wAU2T/4Rx//AD7lJ36CnhPr1/8AlN+r3/oF/wC3dqlx/wA2&#xA;UjZL9cP/AMqPQP8Ai8b/AM/3oQ/myobOP9VulvZ/jKd050+j0/Kyrmt8AAWsd8/YnzP6tJ2dT/Er&#xA;/wB7P/oL/wC7Cbn6IKD/ABP4GDm/tb7bj1ZGz7Ns9VjX7Z+0TG4GJhHOSKUXv/rHVXT9Vuq1UsbW&#xA;xuBkw1oDQP0T+AFDD5gh5D/Fb0jpfU/qxljqGJTkF2ZZXusY1zg30qNA4iRypM0iJJLj/UCx5+q3&#xA;1tqJ9jcIuDewLqcoE/8ARCfl+aKkn1B+u/Rfq10e7A6iLjbZkuub6TA4bXMqZyXN1lhQy4zI6Kdz&#xA;60/XLqp6FhfWH6rl1eHZZbVkG2prnAgtawkHfAlrk2GMXRQ8/wDXn61dF+teJg09LxrHdQ9QEucw&#xA;bmtc0j0QRJdLiPuT8cDA6pdz6wde+sn1QHQg4zgNxserNaGNcXW1R6zd5BgubwmRjGdoef8Arb1T&#xA;pv1u6309v1Zx3jLcdtluzY57nFuyQP3IJLv7k+ETAG1Ov/jIFvTfrV0f6wWVufjU+lO3u7HudcWz&#xA;4lrtE3DrEhTUyOqV/XP6/wDS8vpNVno4noF7rBB20WOve4gEwPdCIjwQNqdDJY23/G5XW8S19Tmu&#xA;HiDiWAoD+aU4v1E6fd/zzZg3EuZ0t+RYWns5v6Gf87anZT6FOx/ie/71v/Qb/wB2E3mOin0dQKUk&#xA;pSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSn5pVpSklP0sqqnLq/&#xA;8U2T/wCEcf8A8+5Sd+gptX9K6ZlZVebk4dF2TTt9K+ypj7GbDubte5pcIcZEIAkKXu6Z03Iyq87I&#xA;xKLcqkAVXvra6xgaS4bXlpcIJSsqVX03p1OW/Ppxaa8q0RZkNraLXAxo54G48DulZpS2F0vpnTd/&#xA;7OxKMT1Y9T7PUyrdtnbu2NExJSJJUrC6X0zpu/8AZ2JRierHqfZ6mVbts7d2xomJKRJKk9tVV9T6&#xA;bmNsrsaWPY8BzXNcILXA6EEIKR4eBg9OqNPT8erFrc7eWUMbW0uIA3EMAEwAiSSpFR0bo+M25mNg&#xA;41LclpZe2uljRY0zLX7WjcNe6XESpB/zY+rX/lTg/wDsNV/5BHjl3U3KMHCxcf7JjY9VOPr+hrY1&#xA;jPdz7GgDVAklSLG6P0nDtN+JhY9Fp5sqqYx2v8prQUjIlTZuppyKzTexttbtHMeA5p+IKCkGJ0vp&#xA;mAS7BxKMYu+kaa2Vz8djQiZEqTX49GVU6jJrZdW76TLGhzT8Q6QgDSkeJ0/A6e0swManFa7kU1tr&#xA;B+OwBEklSx6d085g6icWk5Y0GT6bfVGm3+cjd9HTlKzVKVT03p2Nk2ZmPi01ZF0+rdXW1tj9x3O3&#xA;PaATJ1SJJUrD6b07p2/9n4tGL6kb/QrbXu2zG7YBMSUiSd1NlBSklKSUpJSklKSUpJSklKSUpJSk&#xA;lKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSU/NKtKdHoPRMv6wdUp6ZiNcTY4G2xo3CqoEb7XSWi&#xA;Gg+Op05KEjQU/QqrKcur/wAU2T/4Rx//AD7lJ36CnUTVKSUpJSklKSUpJSklKSUpJSklKSUpJSkl&#xA;KSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUp&#xA;JT88/V/o9vX+sY3SKrG0uyHEGxwJDWsa6x5gcna0wPHwVmRoKfcfq19XsT6s9LZ03Fc6wlxtutdo&#xA;bLXBoc7bJDRDQAPDxOqrylxFTqoKcur/AMU2T/4Rx/8Az7lJ36CnUTVKSUpJSklKSUpJSklKSUpJ&#xA;SklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklK&#xA;SUpJSklKSUpJT4d/i3/8WnTv+v8A/ni5T5PlU+4qBSklOXV/4psn/wAI4/8A59yk79BTqJqlJKUk&#xA;pSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSl&#xA;JKUkpSSlJKUkpSSlJKUkpSSlJKUkp8O/xb/+LTp3/X//ADxcp8nyqfcVApSSnLq/8U2T/wCEcf8A&#xA;8+5Sd+gp1E1SklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJS&#xA;klKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSU+Hf4t//ABadO/6//wCeLlPk+VT7ioFK&#xA;SU+U/wCMP6w9c6L9Z7X9Lzvs4NFNZra0F0De/wDOrIiXnurGKIMdUh5sf4w/rl/5Z2f5lf8A6TT/&#xA;AGo9k0uP8YX1y/8ALOz/ADK//SaXtR7KpkP8YP1x/wDLKz/Mr/8ASaXtR7Ipcf4wPrh/5ZWf5lf/&#xA;AKTS9qPZS/8Az/8Arh/5ZWf5lf8A6TS9qPZTIfX763/+WT/8yv8A8gl7Ueylx9fvrf8A+WT/APMr&#xA;/wDIJe1Dshl/z9+t3/li/wDzK/8AyCXtR7KXH18+tv8A5Yv/AMyv/wAgl7UOymQ+vf1t/wDLF/8A&#xA;mV/+QR9qHZTIfXr62f8Ali//ADK//IJe1DshkPrz9a//ACwf/mV/+QS9qHZS4+vH1q/8sH/5lf8A&#xA;5BL2odlMh9d/rV/5YP8A82v/AMgl7UOymQ+u31p/7nv/AM1n/kEvah2VbIfXX60f9z3/AOaz/wAg&#xA;l7UOyLZD66fWf/ue/wDzWf8AkEvah2VbIfXP6zf9zn/5rP8AyCXtQ7KtkPrl9Zv+5z/81n/kEvah&#xA;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&#xA;KUkpy6v/ABTZP/hHH/8APuUnfoKc6zowzer5l2H1rZe97H5OPQYdX6db66Gu9O5rgBv3ODtHHsE1&#xA;TQH1NzMrDuqxvrBa9778e19te5wmobzva++0Fz5rfPkB9EpKSu+qeRd16/rnTursxxnuZeG0sLjb&#xA;UGVthzmXs3NH5p41SUyr+rWQ9zen2/WCzIysetz9X2+uxzi9zLNv2vhvqjlpPbdtMJKegyOtdHxL&#xA;nY+Vn41FrC1rq7bmMcDYCWAtc4GXAaeKSm6kpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSnl7Pq&#xA;ZkPcXftW+BkW5VbP0m1jrGuDNoF4ja55cS2CZ7HVJTRs/wAXebZ1G7qP7bvFluLXjEw+XFoa1/qu&#xA;F4e5hgkN3TrqT3Sm4fqb1J9FtFnW7y1xBoaBYG07bMe1kNGRrtFBA4jcdsJKT9R+rfWsrOqycfrV&#xA;9dQGyxhL2wNtnvaKbKmOduc2AWxprOoclNe36o9ffg24zfrDkC57Q1t4FrXM/SGw7f1kjUHbJBMD&#xA;Q8ylNy/oHV7MrFur6veWVej6+4ubu9E2uO1lTq2Hf6gB3A6DXckpo/8ANLr2T07HxsvrLq76XvsL&#xA;2etd7y5jq3B1t7ZLNnt3AgSfKEp3+iYOV03pePg5uU/PvpaQ/Jt1e+XEjcTJMAxKSm8kpSSlJKUk&#xA;pSSlJKUkpSSlJKUkpSSlJKUkpSSlJKcz6sf+JrpP/hHG/wDPTEZbqdNBSklOXV/4psn/AMI4/wD5&#xA;9yk79BTynVsH6udV6vn4T39S+0NysZ9ran1tr3usbU11W9zXBofaA7zE67U1TTyMP6pTVQ6vqWMT&#xA;bhZO5px2bttZZVJY4Tt27Y53H2ykptM6H9UcC+zBy7M1gqdcwX3Moe179tDbHj0qXkekAx0uaAOd&#xA;YSU1LMT/ABf9Q6d6WJ1LOyGD02D0WuDzPptbucaK5j7P+c6G6+KSnWrp+rH1u6p62H1W6+whl1LW&#xA;VACsVb6nbLbMeQ52pndu4PACSntklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSk&#xA;lKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklOZ9WP8AxNdJ/wDCON/56YjLdTpo&#xA;KafU+qY3Ssb7RkS4ucGU1MG6y2x30a6293FGMbKkHScPNFtvVOqEDLymtZ6LDLKKmFzmVA/nGXku&#xA;d48IyI2Cm39gwfWsyPs1XrXFhss2N3PNRDqy50SdpA2+CapHV0bpNNr7qsKhllhY5zm1tBJqM1nj&#xA;lpGiSmX7L6abbLziUercZts9Nm55gt9ztsnQwkpBX9XegVN2M6biABzX/wAxX9Jv0XfR5E6FJSbE&#xA;6T0vAIOFiUY5aCAa62tIBJMSBx7ikptpKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkp&#xA;SSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKaPQsa7D6H07DyW7LsfEoqtZ&#xA;IO17K2tcJaSOQid1N5BTkdUAPXeiz2fk/wDnlydH5Sp101SklKSUpJSklKSUpJSklKSUpJSklKSU&#xA;pJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSk&#xA;lKSUpJSklKSU5HU/+Xei/wBfJ/8APLk6PylTz/1u/wAYeZ9WOquwGdNGRS1jHeu57mDc8Tt+g4fi&#xA;nwxcQtIDh/8Aj0ZX/lVX/wBvn/0mnex4qpf/AMefJ/8AKqv/ALeP/pNL2PFVLj/HNk/+Vdf/AG8f&#xA;/SaPseKqX/8AHkyf/Kuv/t4/+k0vY8VUv/48eT/5V1/9vH/0mh7Hiql//Hiyf/Ktn/bx/wDSaPse&#xA;KFx/jhyf/Kxn/bx/9Jpfd/FS/wD47+T/AOVjP+3j/wCk0vu/ipf/AMd7J/8AKxn/AG8f/SaX3fxU&#xA;v/47uT/5WM/7eP8A6TS+7+Kl/wDx28j/AMrWf9vH/wBJpfd/FS4/xtZH/laz/t4/+k0vu/ii2Q/x&#xA;sZH/AJWs/wC3j/6TS+7+KrXH+NbI/wDK5n/bp/8ASaX3fxVa/wD46uR/5XM/7dP/AKTS+7+KrXH+&#xA;NPIP/ecz/t0/+QS+7+KrZD/GjkH/ALz2f9un/wAgl938VWuP8aF//lez/t0/+QS+7+KrXH+M6/8A&#xA;8r2f9un/AMgl938UcS//AI5t/wD3AZ/26f8AyCX3fxVxL/8AjmX/APcBn/bp/wDIJfd/FXEv/wCO&#xA;Xf8A9wGf9un/AMgl938VcS//AI5V/wD3AZ/26f8AyCX3fxVxL/8Ajk3/APcBn/bp/wDIJfd/FHEv&#xA;/wCORf8A9wWf9uH/AMgl938Vca//AI41/wD3BZ/24f8AyCXseKuNX/ji3f8AcFv/AG4f/IJex4q4&#xA;1/8AxxLv+4Lf+3D/AOQQ9jxVxr/+OHd/3Bb/ANuH/wAgl7HirjX/APHCu/7hN/7cP/kEvY8Ue4v/&#xA;AOODd/3Cb/24f/IJex4q9xcfX+7/ALhN/wC3D/5BL2PFXuL/APP67/uE3/tw/wDkEvY8Ve4v/wA/&#xA;bv8AuG3/ALcP/kEvY8Ve4v8A8/Lv+4bf+3D/AOQS9nxV7jYxvrjbkGDitb/bJ/76gcPioZHZxOpu&#xA;yomsNnzn+CYYUvBtvpiVJKUkpSSlJKUkpSSnI6n/AMu9F/r5P/nlydH5Sp82/wAbGLc3rL8s49gq&#xA;cKmDINT/AEydrvaLd2ydONsqfCfSkOfhfV7puV07oOYKXnebburua4waGWZLmkS72n0sSwaR27o8&#xA;RsptH1Tp/S+l3vtrw2XMr6zn4XpWvt2mmkY4qaSy1jvZ6hMzJ7yjEk/YhNb0vpeZ13qXTacSvCo6&#xA;flsrdZW+15bjsyTjWvcLLX7nEWtJj93SNZQJoFTF3SOljKspbjvFbqeqZmO97nS6iup5xNAY9j6X&#xA;Ge/BSs0pl1fpGDj9JbezGqpLcPCuruquNl1lt7KXW+tSb37Ge5xB2N1gd0okkqbeX9XOnYX1mxel&#xA;upbbjZvUjWCyx7hXSyzZ9m3Nf9Pa8OfOo9uoMoCRMbQ18Hp3TczNzqOoYuPhirB3UnDvddW2+y6i&#xA;mq11n2i8QDb7hu47SiSQApnkdP6Z0rEyci7AryLKq+lj07n3NDX5ONZbef0VtZkvZ8kgSTv3Umze&#xA;i4XTsLONGJj5Jx+oZmN6uXkGqxtVLKXV+mwZFAe73nhrvgkJEkKeWCkQyCSmQSUzCSmQSUzCSGQS&#xA;UzCSmQSQzCSlwkpkEkLpKZBJTIJIXCCmQSUyCSGQSUuElMgkhcIKZBJTIJKZBBS6SHR6byECkPXd&#xA;J/NUM2QO4ol6klKSUpJSklKSUpJTkdT/AOXei/18n/zy5Oj8pU8H/jb6Day0dfZusZaWVP21DbUG&#xA;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&#xA;WBtpa1hNTZeJLwNWpKS19f6HYNzc/HHv9OH2NYd0uG3a8g67DHj2SU6CSlJKUkpSSlJKUkpSSlJK&#xA;UkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKcjqf/LvRf6+T/wCeXJ0flKnXTVPC&#xA;9fp+p9nUsrN6lh5r8hj3b/TsMZIpr2XMY319GNrt3PnZIHcSElMzj/4unZt7341jLspj32W7cpvq&#xA;NaC95BaZGjvLdptlJTPL6D9QfsuL1CzFsczqNlWHXd6l7XmXl49T1bWuADme4nVJTXFP1AfnDMLs&#xA;q+vOY011ubkCmqQcaWt2MsDrN0d/HQapKT5HUf8AFr1m6/MuuGRZlVn1S37UNzTtxTDGQJMBugng&#xA;pKbFmX9TujOzui5FV2PQ2wX5L7PWfUX1DCczY/e92nr1gNboIMgCJSnPsq/xWdPssseDj+kbnWEf&#xA;aw3dYW02kHiZIGnHbhJSNjP8W1L8i/M9bFrNj8Z9WS+703vymQ57NrnbjstImfbzpykpu4nQ/wDF&#xA;11FlleJhm0UznuYRk1gl21+8eqWNPA07DyKSmtUf8W2VU+7JosxzbS++yqx97t1Ww4pf+gttrdDJ&#xA;AgkjXgykpv5eX9UcDBwsXJx7Rhs/mmueduM1hGK2z3Xzy3TZudye5KSljb9QMfJptcX1W49deQ3c&#xA;MtrWMx3Gut9odDRsc0j3/wAUlNCnI/xVv6f9gxr2jFos+3Guv7QI9UCkkw3dEODSO3dJTf6bh/U6&#xA;zKc3Bxcmu/p9D3+p6t7TWwOMtZYbuTu/NPBg+CSkOJ1X6i9QwbcBwvrx8ltDHYVvruJNDKrWhran&#xA;WEPbva10GSWxqAkpsYOB9Q8nIxm4NbxZka4rmnLrY/0Her+jcS1h9NzZ0PtI8UlOp/zP+rgrbV9k&#xA;9jGMqaPVt0ZU82sH852cZSUuz6o/V9l78puKfVtkvebbXE7g9p5sPax33pKdhJSklKSUpJSklKSU&#xA;pJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklOR1P/l3ov8AXyf/ADy5Oj8p&#xA;U66ap4jq2d1PD6p1Gfq1T1DFYPV9ZlEOyS3ZAdY4OBj12e6D9B+mmiUr9r/b8G2//mq6xmx9T2Ma&#xA;RbtDzjvqaRjt9426hroA/OkGEpN03L9boFzqfq+MHIZU44mHdW7INgYzHrsJllYj3NaPfLo8jCUt&#xA;XmXY94pyPqwz7Vjux6GZVOOTX+ka60uZsqshtdjGyA8gH85JTWoyTRitdd9UK7HE21D0sctOxtoI&#xA;9jsd5DSHBw92pB4SU2/rBd1L7XnVt6Fi51LRZ6N1uM+82O2dO/nGtY7cHbnN9szsHAYSkpej7Nl/&#xA;bm5X1fox3lj2U7sVxORZXvt9zvSZ7XemCBPzlJTWN+U2wY2X9VqrbbQMm++vHLWOLXlrGnYy79Js&#xA;cPzz380lM67L8fOblD6uMbkPsa21zG3ua2pnq4jfT/QbA1tJ1iHEcMPKSkfUM7KPWs/Fv+rVHU8X&#xA;GrNVLhjEP9KqoXhhtey1jg5whjQBqkpR6rd1GrHOd9Ut1YfNTbK3vbU2xtNj3HZi2SC95Jga7eJS&#xA;Undm3VuyLr/qtXc95y/UsqqIdbXSZxwQ/Glxs05PaR4BKaDOpWvxw531PZ6MOPouxy9zqjim8sD/&#xA;AESz+eY1pc7nQBpMwlOpiWtzej5PWMfoVPTur1VWZNOPZjuse+GW1tDyyugk2e9oaHHQz3hJSJ+T&#xA;dg2Pc76sU5N9T7jXfj0Fm8VWGusj9Xt2uc1u76XHBJIakpgzqduJlsvq+qllWRS6+tr8YWBkMqa5&#xA;jpbjMDt+rBI9vblJT1+JdZkYtORbWaX21se+ozLHOAJadzWHTzASUmSUpJSklKSUpJSklKSUpJSk&#xA;lKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklOR1P/l3ov8AXyf/ADy5Oj8pU66a&#xA;p5fJyfrrR1bK+xY32vEdbUKRcaa62VH+cLNr22E+bnf2UlImZv8AjFGIyMHFN7KSXersJfYC0Bv6&#xA;PLa33N1LtBOkQASlN77d9bK8vdbg1Ow2W37xXtNrqmlvoenOTEmSZI1/db3SkeVZ9c8bLuswq682&#xA;i68trqsFbPRpa1sODhbW525xPPEJKWOd9dKrqW24mM6t9/ovcxjiQwvawW+3IfA2uL4PG2JkhJTO&#xA;3I+uVeXccfGpsx35DTULCwltAcanNG22sgkM9STu+lH8kJTQzOof4wK9tVeJUbMmp7GurrDmV2tf&#xA;YGuk5DgyWFpl5cJ0jlJSTKs/xgnKNuPXUK6g+KQKhVbsrc6sy619gNlntOo2iOZJCU2sXK+t+Z0q&#xA;9mXjMwuouFRodSGOraCKvUn1bXy6S/QgQAkpqW5P+ML7bfTVjUHHxdKLhsnJho1sa6wbZIn2xEx5&#xA;pKS51n16fmYL8GutmO6rFOY0+kNtvquOSAHPsdGyBo4/yTKSml9s/wAZOMymyvCZlOcXi2vIdQ0N&#xA;Bu9h/V3zu9Pw01k8JKb/AFS766W9NxXdLpbXnglmY0iptc2UwH1+pZbLarLAefdsPYpKXrv+vFkV&#xA;WUUUtbE2wxz3EXVtjTILdatzido10AGhKUxsyPry7pIsrx6xn13UH0j6TPVqDA69rneva0Fz5aIj&#xA;sUlIa7f8YVWM6p9Vd1zfs5Za5tPvIZR9oD9t9Ya3eH8NcTOm3QpKb/Rcv615PU7m9Zw68TCr9ZtJ&#xA;rc0l/up9Ev8Ae8zt3/R08eySneSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSU&#xA;pJSklKSUpJSklKSUpJSklOR1P/l3ov8AXyf/ADy5Oj8pU66ap57N+u3TMLKycN9GRZbivFbhWK/c&#xA;50QGbrmk/S4+PYOhKatH+MbpF+Vj0DGy2szH1VUWOq1LrbLqSXtmWta6mJ58tElMLPr/AOjlZ1F/&#xA;TbWt6c4ttsa8HcBa2ma9zGAz7+/bzkJTPJ/xidKw7zj5OJltfNga1jWPJ9Gttj90W7Rqdo1j5JKb&#xA;+b9bun4Oc7p1lN7sisgPawVnaDV6+4zaNNs/MGElNI/Xuh+LRm0YpNWRljEHqWAEAsreHO9NlrWn&#xA;9JEFwjuQkpa3/GN0Sqi3JNGU6qmplrnMbW6TY8VisAXTvBOvYeKSnpcXJpzMavKoM12tDm+OvY+B&#xA;HcJKSpKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSS&#xA;lJKUkpSSlJKUkpSSlJKUkpSSnG6644mX07qtjXOxcKy37S9gk1strNYsLedoJ90cDVPjqCFOw1zX&#xA;tDmkOa4SCNQQUxTlWfWv6vU59nTLs1lWTVJsbYHMawND3Eue5oYBFZ1J/KElMv8AnH9X3WvqszsZ&#xA;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&#xA;9prDmsLfbptDiB4SkpGOh9FAsDcDGb6zBXZtpYNzBw10N4CSmNvQOh5Dq334GNaaqm0V+pU1wbW2&#xA;drAHA6DcY+KSmTeh9FaQ5vT8UFrnPBFNYIc+A8j28ujVJTcrrrprbVU0MrYA1jGgBrWgQAAOAElM&#xA;klKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKS&#xA;UpJTS63/AMjZ/wD4Vu/6hyMdwpJ07/k/F/4mv/qQlLdTZQUpJSklKSUpJSklKSUpJSklKSUpJSkl&#xA;KSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUp&#xA;JSklKSUpJTS63/yNn/8AhW7/AKhyMdwpJ07/AJPxf+Jr/wCpCUt1NlBSklKSUpJSklKSUpJSklKS&#xA;UpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJS&#xA;klKSUpJSklKSUpJSklNLrf8AyNn/APhW7/qHIx3CknTv+T8X/ia/+pCUt1NlBSklKSUpJSklKSUp&#xA;JSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSkl&#xA;KSUpJSklKSUpJSklKSUpJSklNLrf/I2f/wCFbv8AqHIx3CknTv8Ak/F/4mv/AKkJS3U2UFKSUpJS&#xA;klKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKS&#xA;UpJSklKSUpJSklKSUpJSklKSUpJSklKSU0ut/wDI2f8A+Fbv+ocjHcKSdO/5Pxf+Jr/6kJS3U2UF&#xA;KSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUp&#xA;JSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSU0ut/8jZ//AIVu/wCocjHcKSdO/wCT8X/ia/8A&#xA;qQlLdTZQUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJS&#xA;klKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJTS63/AMjZ/wD4Vu/6hyMdwpJ07/k/&#xA;F/4mv/qQlLdTZQUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSkl&#xA;KSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJTS63/yNn/8AhW7/AKhyMdwp&#xA;J07/AJPxf+Jr/wCpCUt1NlBSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKS&#xA;UpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklNLrf8AyNn/APhW&#xA;7/qHIx3CknTv+T8X/ia/+pCUt1NlBSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUp&#xA;JSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklOf8AWC6q&#xA;jomc61wYHY9jGz3c9pa1o8yTATofMFNnAa5mDjseC1zamBwOhBDRogd1J0FKSUpJSklKSUpJSklK&#xA;SUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJ&#xA;SklKSUpJSklKSUpJSklNfOzsXpuLZm5tgqpqEucdSSdA1oGpJOgA5RAtTm4OFldTyWdY6xWahWd2&#xA;Dgu19EH/AAtvY3Ef5vA1kok0KCnaTVKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJS&#xA;klKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSU431m/m+&#xA;m/8ApzxP+rTodVOymqUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUk&#xA;pSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSnG+s38303/wBOeJ/1&#xA;adDqp2U1SklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklK&#xA;SUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSU431m/m+m/+nPE/6tOh1U7KapSS&#xA;lJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKU&#xA;kpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKcb6zfzfTf/Tnif9WnQ6qdlNUpJSklKSUpJSkl&#xA;KSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUp&#xA;JSklKSUpJSklKSUpJSklKSUpJSklON9Zv5vpv/pzxP8Aq06HVTspqlJKUkpSSlJKUkpSSlJKUkpS&#xA;SlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJK&#xA;UkpSSlJKUkpSSlJKUkpxvrN/N9N/9OeJ/wBWnQ6qdlNUpJSklKSUpJSklKSUpJSklKSUpJSklKSU&#xA;pJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSk&#xA;lKSUpJSklON9Zv5vpv8A6c8T/q06HVTspqlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJ&#xA;KUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkp&#xA;xvrN/N9N/wDTnif9WnQ6qdlNUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJS&#xA;klKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklON9Zv5vpv/&#xA;AKc8T/q06HVTspqlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUk&#xA;pSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKeD/wDHj+rH/cXP/wC26v8A&#xA;3oUvsSTSLJ/xhdG+sZx8bptOSMnFyacttNzWMdc2l259dO2x4Nm3UNMTwNURiMd1U9zgZ+J1PErz&#xA;sGwW0WiWuH4gjkEdwoiCChsIKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkp&#xA;SSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKfmFXly7XOY4OaS1&#xA;zTII0IISU+g/Ur65ZDcmD78uzXIx+BmAf4WvsMkDkf4T+tzDPGgh9Vws3G6hjV5mG8WU2iWuH4gj&#xA;sR3CgIIKE6ClJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSl&#xA;JKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkp+YVeXO/9UnZOPddmU5FFbKtosxbsinH&#xA;+1AyRU717K91Rj9IJ+SbOlFwQ5zHh7Ttc0yC0xBHgnKfXv8AF11PMzasbKuf78t2RVkgfRsfQ2pz&#xA;LiO1hD4cR9Lk6qvlAWnd79QqUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpS&#xA;SlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSn5hV5cpJSklPqv+K/8A&#xA;oPT/APwxnf8AnvGUGXqtO76SoFKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKS&#xA;UpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJT/9k=</xmpGImg:image>
+               </rdf:li>
+            </rdf:Seq>
+         </xmp:PageInfo>
+         <xmpMM:InstanceID>xmp.iid:ea99121b-39c6-7c43-a040-8307d70ee2d2</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:a1e83d40-423a-834a-8ded-9efdb950dddb</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:a1e83d40-423a-834a-8ded-9efdb950dddb</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>created</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:a1e83d40-423a-834a-8ded-9efdb950dddb</stEvt:instanceID>
+                  <stEvt:when>2024-10-15T12:32:47+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy 19.5 (Windows)</stEvt:softwareAgent>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:87700999-2bd0-5045-b22f-b9d26965dedc</stEvt:instanceID>
+                  <stEvt:when>2024-10-15T12:33:07+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy 19.5 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6371f224-d191-fd41-9146-b877852a2504</stEvt:instanceID>
+                  <stEvt:when>2024-10-15T12:33:07+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy 19.5 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:0116e84c-69e6-6242-ba38-550fa428f676</stEvt:instanceID>
+                  <stEvt:when>2024-10-15T15:20:53+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy 19.5 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:ea99121b-39c6-7c43-a040-8307d70ee2d2</stEvt:instanceID>
+                  <stEvt:when>2024-12-07T04:05:08+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy 20.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <dc:format>application/x-incopy</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">07_Maschinen</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <xmpTPg:Colorants>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Papier</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>0</xmpG:cyan>
+                  <xmpG:magenta>0</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>0</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Passermarken</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>100</xmpG:cyan>
+                  <xmpG:magenta>100</xmpG:magenta>
+                  <xmpG:yellow>100</xmpG:yellow>
+                  <xmpG:black>100</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Schwarz</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>0</xmpG:cyan>
+                  <xmpG:magenta>0</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>100</xmpG:black>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:Colorants>
+         <xmpTPg:Fonts>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>AtkinsonHyperlegible-Regular</stFnt:fontName>
+                  <stFnt:fontFamily>Atkinson Hyperlegible</stFnt:fontFamily>
+                  <stFnt:fontFace>Regular</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>AtkinsonHyperlegible-RegularVersion 1.006; ttfautohint (v1.8.3)</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>AtkinsonHyperlegible-Regular.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>AtkinsonHyperlegible-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>Atkinson Hyperlegible</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>AtkinsonHyperlegible-BoldVersion 1.006; ttfautohint (v1.8.3)</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>AtkinsonHyperlegible-Bold.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>AtkinsonHyperlegible-Italic</stFnt:fontName>
+                  <stFnt:fontFamily>Atkinson Hyperlegible</stFnt:fontFamily>
+                  <stFnt:fontFace>Italic</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>AtkinsonHyperlegible-ItalicVersion 1.006; ttfautohint (v1.8.3)</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>AtkinsonHyperlegible-Italic.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>BebasNeuePro-ExpEb</stFnt:fontName>
+                  <stFnt:fontFamily>Bebas Neue Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Expanded ExtraBold</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>BebasNeuePro-ExpEbVersion 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>BebasNeuePro-ExpRg</stFnt:fontName>
+                  <stFnt:fontFamily>Bebas Neue Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Expanded Regular</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>BebasNeuePro-ExpRgVersion 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>BebasNeuePro-ExpBk</stFnt:fontName>
+                  <stFnt:fontFamily>Bebas Neue Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Expanded Book</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>BebasNeuePro-ExpBkVersion 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+               </rdf:li>
+            </rdf:Bag>
+         </xmpTPg:Fonts>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>]]></Contents>
+			</Properties>
+		</MetadataPacketPreference>
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 1">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<ParagraphDestination Self="ParagraphDestination/Anker 96" Name="Anker 96" Hidden="false" DestinationUniqueKey="18544" />
+				<Content>Maschinen</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>In vielen Fällen sind Fahrzeuge für die Charaktere ein Mittel, um schnell von A nach B zu kommen. Ein Fahrzeug kann aber auch zu einem festen Teil der Spielrunde werden. Für manche kann ein Raumschiff ein Zuhause oder eine Drohne ein Teil seiner Wahlfamilie werden.</Content>
+				<Br />
+				<Content>Drohnen und Fahrzeuge werden in diesem Kapitel gebündelt als Maschinen bezeichnet, da sie regeltechnisch genau gleichbehandelt werden.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Spielwerte von Maschinen</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Als Maschinen werden Gegenstände bezeichnet, die sich Bewegen können oder zur Bewegung gedacht sind. Kurzum: Maschinen sind Drohnen, Fahrzeuge, Flugzeuge, Roboter aber auch kybernetische Körper und Körperteile, die sich in irgendeiner Form bewegen können.</Content>
+				<Br />
+				<Content>Von Maschinen werden, wie von Charakteren manchmal Proben verlangt. Maschinen werden dabei ähnlich behandelt wie Nebencharaktere, sie haben ihre Modulklasse und Größe als wichtigste Steuergrößen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Würfelpools: Maschinen verwenden ihre Modulklasse als Würfelpool für Proben auf Fertigkeiten der Begabung Geschick und Größe als Würfelpool für Proben auf Fertigkeiten der Begabung Konstitution.</Content>
+				<Br />
+				<Content>Fertigkeiten: Maschinen haben keine Fertigkeiten. </Content>
+				<Br />
+				<Content>Mods: Maschinen können allgemeine und technische Mods erhalten.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Maschinen-Handlungen</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsHeader">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Heben</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Bewegen | Kraft	Offen</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Black">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Hydraulik: Die Maschine hebt problemlos ein Gewicht von [Größe] x 100 kg.</Content>
+				<Br />
+				<Content>Wirkung: Die Maschine hebt ein Gewicht von [Größe] x [Ergebnis] x 10 kg.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsHeader">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<ParagraphDestination Self="ParagraphDestination/Anker 55" Name="Anker 55" Hidden="false" DestinationUniqueKey="21892" />
+				<Content>Rammen</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Steuerung | Manövrieren 	Angriff</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Black">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Mindestgeschwindigkeit: Damit ein Rammangriff wirkungsvoll ist, muss die Maschine mindestens eine Leistung von 1 haben.</Content>
+				<Br />
+				<Content>Erfolg: Die Maschine richtet Schaden gleich ihrer Größe x Leistung an.</Content>
+				<Br />
+				<Content>Kritischer Erfolg: Der Schaden am Ziel wird verdoppelt.</Content>
+				<Br />
+				<Content>Misserfolg: Das Ziel wird verfehlt.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsHeader">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Zerdrücken</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Modifizieren | Kraft	Angriff</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Erfolg: Die Maschine erwischt das Ziel und beginnt, es zu zerdrücken. Das Ziel erleidet [Servos] TP Schaden.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsHeader">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Zielerfassung</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Angriff: Sensoren (10 + MK x 2)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Ein erfasstes Ziel ist leichter zu treffen, da die KI dessen Geschwindigkeit und Richtung bestimmt und darauf die wahrscheinlichste, nächste Position ermittelt.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Ziel verloren: Eine Zielerfassung endet automatisch, wenn jede Sichtlinie zum Ziel unterbrochen wird, oder eine neue Zielerfassung vorgenommen wird. </Content>
+				<Br />
+				<Content>Erfolg: Alle Angriffe der Maschine auf das erfasste Ziel werden als vereinfachte Proben durchgeführt.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Maschinen kaufen</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Eine Maschine, die nicht den Einsatz von KP vom Charakter selbst entworfen wird, muss beim Kauf trotzdem Begabungen erhalten.</Content>
+				<Br />
+				<Content>Daher werden bei einem Kauf durch Einkommen und Material zuerst die Spielwerte bestimmt und daraus die KP ermittelt, die die Maschine hat.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Begabungen festlegen: Beim Kauf der Maschine können die verfügbaren Punkte entsprechend der Stufe der MK auf alle Begabungen verteilt werden.</Content>
+				<Br />
+				<Content>KP bestimmten: </Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Alltäglicher Verkehr</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Führerscheine und Fluglizenzen sind auf unterschiedlichen Welten unterschiedlich wichtig. In dicht bebauen Städten mit eng gestrickten öffentlichen Verkehrsmitteln oder selbstfahrenden Fahrzeugen ist es vermutlich nicht unüblich, eine weile nach jemanden mit Führerschein zu suchen.</Content>
+				<Br />
+				<Content>Auf einer Raumstation mit wenig Personal aber hohem erwarteten Gewinn ist eine Pilotenlizenz dagegen gleichbedeutend mit einer Aufenthaltsgenehmigung. </Content>
+				<Br />
+				<Content>Schlussendlich ist beides nur ein Dokument ohne wirklich Aussage, wie gut jemand ein Fahrzeug lenken kann, sondern eher ob die Person Anweisungen folgen kann.</Content>
+				<Br />
+				<Content>Man bewegt sich durch den alltäglichen Verkehrt, gemäß den lokalen Bestimmungen zu Geschwindigkeit und Flugkorridoren, was eventuelles Starten und Landen miteinschließt. Es müssen keine Proben oder Handlungen durchgeführt werden.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Verkehrsteilnehmer: Der Charakter stellt seine Fahr- und Flugkünste durch eine Spezialisierung für die passende Größe und MK für Maschinen dar.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Passiere und Fracht</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Ob und wieviele Passagiere ein Fahrzeug aufnehmen kann, ist abhängig von seiner Größe und Zweck. Busse könnte z.B. 30 bis 60 Fahrgäste aufnehmen, ein LKW, die ebenso groß ist jedoch nur 1 Fahrer und maximal 2 Beifahrer. Die angaben in der folgenden Tabelle basieren daher auf der annahme, dass jeder verfügbare Platz für den Transport von Passagieren genutzt wird.</Content>
+				<Br />
+				<Content>Das gleiche gilt beim Thema Fracht. So wie nicht jedes Fahrzeug und nicht jedes Schiff Passagierquartiere hat, so ist auch nicht jede Maschine drauf ausgelegt, Fracht aufzunehmen. </Content>
+				<Br />
+				<Content>Die Größe der Fracht darf maximal um 1 kleiner sein, als die Größe der Maschine.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aSpecial-Feld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Fracht = [Größe] x [Servos] x [Kraft] x 100 kg</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Gemischte Ladung: Jeder Passagier belegt effektiv 3t Fracht. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Black" FontStyle="Italic">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Interstellarer Verkehr</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Das Reisen zwischen den Sternen ist weit verbreitet genug, um alltäglich zu wirken. Dank der Navigationssysteme an Bord von Raumbrücken kommen die meisten Schiffe auch ohne einen eigenen Navigator aus.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
+		<ColorGroupSwatch Self="u18ColorGroupSwatch3" SwatchItemRef="Color/Black" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch6" SwatchItemRef="Gradient/Dunkelblau" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch2" SwatchItemRef="Color/Paper" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch5" SwatchItemRef="Gradient/Blau" />
+	</ColorGroup>
+	<ColorGroup Self="ColorGroup/Basisfarben" Name="Basisfarben" IsRootColorGroup="false">
+		<ColorGroupSwatch Self="u9c916ColorGroupSwatch3" SwatchItemRef="Color/C=100 M=68 Y=0 K=55" />
+		<ColorGroupSwatch Self="u9c916ColorGroupSwatch4" SwatchItemRef="Color/C=100 M=100 Y=0 K=70" />
+		<ColorGroupSwatch Self="u9c916ColorGroupSwatch2" SwatchItemRef="Color/C=100 M=90 Y=10 K=0" />
+		<ColorGroupSwatch Self="u9c916ColorGroupSwatch0" SwatchItemRef="Color/C=70 M=62 Y=0 K=39" />
+		<ColorGroupSwatch Self="u9c916ColorGroupSwatch1" SwatchItemRef="Color/C=49 M=27 Y=0 K=38" />
+	</ColorGroup>
+	<ColorGroup Self="ColorGroup/Ergebnisse" Name="Ergebnisse" IsRootColorGroup="false">
+		<ColorGroupSwatch Self="u9c914ColorGroupSwatch0" SwatchItemRef="Color/Erfolg" />
+		<ColorGroupSwatch Self="u9c914ColorGroupSwatch2" SwatchItemRef="Color/Krit" />
+		<ColorGroupSwatch Self="u9c914ColorGroupSwatch1" SwatchItemRef="Color/Misserfolg" />
+		<ColorGroupSwatch Self="u9c914ColorGroupSwatch3" SwatchItemRef="Color/Patzer" />
+	</ColorGroup>
+</Document>
