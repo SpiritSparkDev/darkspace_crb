@@ -715,6 +715,10 @@
                   <stEvt:action>converted</stEvt:action>
                   <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <xmpMM:DerivedFrom rdf:parseType="Resource">
@@ -3700,7 +3704,7 @@
 					<Content>Stress (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub4619" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="23" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub4619" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="22" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -4813,71 +4817,163 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Brecher</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Die Archetypen verkörpern verschiedene Konzepte und Rollen, die den Spielern als Inspiration dienen können.</Content>
+				<Content>Rolle im Spiel: Türöffner, Gefahrensucher, Protektor</Content>
 				<Br />
-				<Content>Sie ermöglichen es neuen Spielern, sich anhand dieser Archetypen zu orientieren und eigene einzigartige Charaktere zu erstellen. </Content>
+				<Content>Rolle im Kampf: Nahbereichs-Durchbruch / Bindung</Content>
+				<Br />
+				<Content>Betritt Räume zuerst, zieht Feuer auf sich und schafft Öffnungen für das Team.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Die bezahlte Waffe</Content>
+				<Content>Späher</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Ein kampferprobter Söldner, der sich auf den Einsatz von  und Nahkampfwaffen spezialisiert hat. Seine Stärke liegt in der direkten Konfrontation mit Feinden und er ist bereit, jedes Risiko einzugehen, um seine Mission zu erfüllen.</Content>
+				<Content>Rolle im Spiel: Informationsgewinnung, Schleichen, Orientierung</Content>
+				<Br />
+				<Content>Rolle im Kampf: Erste Salve / Positionierungs-Vorteile</Content>
+				<Br />
+				<Content>Ein leiser Profi der Voraufklärung, der Konflikte entscheidet, bevor sie beginnen.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Die synthetische Diebin</Content>
+				<Content>Koordinator</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Eine geschickte und flinke Diebin, die sich auf Schleichen, Taschendiebstahl und Hacking spezialisiert hat. Sie ist Meisterin der Täuschung und versteht es, sich in den Schatten zu bewegen und Informationen um sie herum zu manipulieren, um ihre Ziele zu erreichen.</Content>
+				<Content>Rolle im Spiel: Planung, Kommunikation, Risikoanalyse</Content>
+				<Br />
+				<Content>Rolle im Kampf: Unterstützer / Buff- und Kontrollrolle</Content>
+				<Br />
+				<Content>Denkt zwei Züge voraus und macht andere besser – oft der Grund, warum Missionen gelingen.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Das technische Genie</Content>
+				<Content>Feldingenieur</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Ein begabter Techniker und Ingenieur, der sich mit der Reparatur und dem Umgang mit technologischen Geräten auskennt. Er ist in der Lage, Hightech-Waffen und Ausrüstung zu modifizieren und zu verbessern, um im Kampf einen Vorteil zu erlangen.</Content>
+				<Content>Rolle im Spiel: Bauen, Reparieren, Improvisieren</Content>
+				<Br />
+				<Content>Rolle im Kampf: Support / Feldmodifikationen</Content>
+				<Br />
+				<Content>Kann in Sekunden eine Waffe flicken oder eine Tür zu einer Falle umbauen.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Die Überlebenskünstlerin</Content>
+				<Content>Operator</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Eine mutige und widerstandsfähige Kämpferin, die in extremen Umgebungen überleben kann. Sie beherrscht das Handwerk des Überlebens und hat eine ausgeprägte Widerstandsfähigkeit gegen Gift, Krankheiten und extreme Temperaturen.</Content>
+				<Content>Rolle im Spiel: Datenanalyse, Netzwerkkontrolle, De-/Verschlüsselung</Content>
+				<Br />
+				<Content>Rolle im Kampf: Elektronische Sabotage / Debuffs</Content>
+				<Br />
+				<Content>Nicht im Fokus der Schießerei, aber der Grund, warum Gegner nicht treffen, nicht sehen oder nicht funken.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Der schattenhafte Informant</Content>
+				<Content>Verteidiger</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Ein Meister der Informationsbeschaffung und der Spionage. Er ist gut vernetzt und hat Zugang zu geheimen Informationen und Kontakten. Seine Stärke liegt in der Manipulation und dem Einfluss auf andere, um seine Ziele zu erreichen.</Content>
+				<Content>Rolle im Spiel: Schutz, Diplomatie, Standfestigkeit</Content>
+				<Br />
+				<Content>Rolle im Kampf: Tank / Schadensreduktion / Wegblocker</Content>
+				<Br />
+				<Content>Bleibt stehen, auch wenn alles andere fällt.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Präzisionsschütze</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Rolle im Spiel: Beobachtung, taktisches Feuer</Content>
+				<Br />
+				<Content>Rolle im Kampf: Distanzspezialist / kontrollierte Kills</Content>
+				<Br />
+				<Content>Entscheidet den Kampf mit einer einzigen gut gewählten Kugel.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Runner („Mobilist“)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Rolle im Spiel: Kurier, Überbringer, Bergung</Content>
+				<Br />
+				<Content>Rolle im Kampf: Bewegungs-orientierter Opportunist</Content>
+				<Br />
+				<Content>Bringt Dinge dorthin, wo sie hin müssen – auch unter Feuer.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Disruptor</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Rolle im Spiel: Zerstört, beschädigt, manipuliert Maschinen</Content>
+				<Br />
+				<Content>Rolle im Kampf: Anti-Tech-Kontermittel</Content>
+				<Br />
+				<Content>Der Albtraum aller Drohnen, Exoskelette und Autotürme.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Logistiker</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Rolle im Spiel: Beschaffung, Ausrüstung, Logistik</Content>
+				<Br />
+				<Content>Rolle im Kampf: Allrounder / sekundäre Unterstützung</Content>
+				<Br />
+				<Content>Kennt jede Kiste, jede Batterie, jedes Ersatzteil und trägt immer das, was gerade fehlt.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -4930,22 +5026,24 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Die Begriffe Routine, Aktion, Angriff und Unterbrechung sind drei Arten von Handlungen. Besonders wichtig werden sie während einer Konfrontationen und sind daher auch nochmal genauer unter </Content>
+				<Content>Die Begriffe Routine, Aktion, Angriff und Unterbrechung sind drei Arten von </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" />
-			<CrossReferenceSource Self="ub4646" AppliedFormat="u9e" Name="Hyperlink 299" Hidden="false" AppliedCharacterStyle="n">
+			<CrossReferenceSource Self="ubc5e5" AppliedFormat="u9e" Name="Hyperlink 299" Hidden="false" AppliedCharacterStyle="n">
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>Handlungen (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub4645" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="97" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ubc5e6" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="97" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
 				</CharacterStyleRange>
 			</CrossReferenceSource>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> beschrieben.</Content>
+				<Content>. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aBold">
@@ -4973,7 +5071,8 @@
 				<Content>Unterbrechungen</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> sind Handlungen, die häufig keine Probe erfordern und nur ausgeführt werden dürfen, wenn der Charakter das Ziel einer anderen Handlung wird. Sie sind daher vollkommen passiv, können dem Charakter aber Ärger ersparen oder sogar das Leben retten.</Content>
+				<Content> sind Handlungen, die häufig keine Probe erfordern und nur ausgeführt werden dürfen, wenn der Charakter das Ziel einer anderen Handlung wird. Sie sind daher vo</Content>
+				<Content>llkommen passiv, können dem Charakter aber Ärger ersparen oder sogar das Leben retten.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -5135,8 +5234,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Vorteile sind Punkte, die ein Charakter ausgeben kann, um Mods zu aktivieren oder andere</Content>
-				<Content> Effekte auszulösen, die dem Charakter aus der Klemme helfen können. </Content>
+				<Content>Vorteile sind Punkte, die ein Charakter ausgeben kann, um Mods zu aktivieren oder andere Effekte auszulösen, die dem Charakter aus der Klemme helfen können. </Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -5254,7 +5352,7 @@
 					<Content>Einkaufen (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub4667" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="117" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub4667" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="118" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -5299,7 +5397,7 @@
 				<Content>Sterling-Platin (SP):</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> Währung der Zentralbank des Sol-Systems, älteren Kolonien und einiger Adelshäuser. Schwer nachvollziehbar. Sterling-Platin existiert auch phyische als platinbedampfte Kunststoffstreifen. Eine der wenigen instellaren Währungen mit phyischem Geld.</Content>
+				<Content> Währung der Zentralbank des Sol-Systems, älteren Kolonien und einiger Adelshäuser. Schwer nachvollziehbar. Sterling-Platin existiert auch phyisch, als platinbedampfte Kunststoffstreifen. Eine der wenigen instellaren Währungen mit phyischem Geld.</Content>
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aBold">
@@ -5352,7 +5450,7 @@
 			<Destination type="object">n</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="ub4671" Name="Querverweis 121" Source="ub4646" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="21529">
+	<Hyperlink Self="ubc5e7" Name="Querverweis 121" Source="ubc5e5" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="21529">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">n</Destination>

@@ -708,6 +708,10 @@
                   <stEvt:action>converted</stEvt:action>
                   <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <xmpMM:DerivedFrom rdf:parseType="Resource">
@@ -1840,9 +1844,6 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" ParagraphBreakType="NextColumn">
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Br />
-			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -1914,8 +1915,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Mathematisch genau: Die e</Content>
-				<Content>xkte Formel zum berechnen von KP lautet:</Content>
+				<Content>Mathematisch genau: Die ex</Content>
+				<Content>kte Formel zum berechnen von KP lautet:</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -3761,8 +3762,8 @@
 				<Br />
 				<Content>ADS P-Delta-9 „Needleframe“: Arasys Dynamics wollte ursprünglich ein chirurgisches Gerät entwickeln. Die Marketingabteilung bestand jedoch darauf, dass es „mehr nach Waffe klingt“. Das Ergebnis ist eine präzise Handfeuerwaffe, mit der Ästhetik eines medizinischen Instrumentes.</Content>
 				<Br />
-				<Content>TPW KP-7 „Was</Content>
-				<Content>pline“: Eine experimentelle Pistole mit mehr freien Kabeln als nötig. TPW behauptet, das sei „Teil der Charakteristik“ und „vereinfache die Wartung und Reparaturen“. Nutzer berichten, dass sich das Gerät bei Dauerfeuer leicht selbst motiviert anhört.</Content>
+				<Content>TPW KP-7 „Wasp</Content>
+				<Content>line“: Eine experimentelle Pistole mit mehr freien Kabeln als nötig. TPW behauptet, das sei „Teil der Charakteristik“ und „vereinfache die Wartung und Reparaturen“. Nutzer berichten, dass sich das Gerät bei Dauerfeuer leicht selbst motiviert anhört.</Content>
 				<Br />
 				<Content>KF M2 „Breachling“: Kronos Forge gießt jede Waffe wie ein Ritualgegenstand. Die M2 ist so schwer und kantig, dass einige Soldaten sie als improvisierten Hammer zweckentfremden — mit überraschend guten Ergebnissen.</Content>
 				<Br />
@@ -3811,7 +3812,7 @@
 					<Content>Energiewaffe (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ubb575" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="54" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ubb575" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="55" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -4265,8 +4266,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Wo Datapads nicht ausreichen, kommen Terminals zum Einsatz. Ein Terminal ist ein Cortex-Arbe</Content>
-				<Content>itsplatz, in seiner Größe vergleichbar mit (und auch hervorgegangen aus) einem Desktop-PC des 21. Jahrhunderts.</Content>
+				<Content>Wo Datapads nicht ausreichen, kommen Terminals zum Einsatz. Ein Terminal ist ein Cortex-Arbei</Content>
+				<Content>tsplatz, in seiner Größe vergleichbar mit (und auch hervorgegangen aus) einem Desktop-PC des 21. Jahrhunderts.</Content>
 				<Br />
 				<Content>Terminals haben im Schnitt mehr Rechenleistung und sind einfacher an ihre Hauptaufgaben anzupassen und zu warten. Programmierfirmen bis zu KI-Laboren verwenden für den Großteil ihrer Arbeit Terminals.</Content>
 				<Br />
@@ -5146,8 +5147,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Der Charakter baut etwas aus Einzelteilen, die er zur Verfügung hat. Die Spielleitung kann festlegen, dass der Charakter für sein Projekt Baupläne braucht, falls er etwas bauen möchte, das eine Liz</Content>
-				<Content>enz erfordert oder verboten ist. Bei frei verfügbaren Gegenständen wird davon ausgegangen, dass es irgendwo im Cortex brauchbare DIY-Tutorials für Bastler gibt.</Content>
+				<Content>Der Charakter baut etwas aus Einzelteilen, die er zur Verfügung hat. Die Spielleitung kann festlegen, dass der Charakter für sein Projekt Baupläne braucht, falls er etwas bauen möchte, das eine Lize</Content>
+				<Content>nz erfordert oder verboten ist. Bei frei verfügbaren Gegenständen wird davon ausgegangen, dass es irgendwo im Cortex brauchbare DIY-Tutorials für Bastler gibt.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -5432,8 +5433,8 @@
 				<Br />
 				<Content>Chemische Zündung: Sobald der Sprengstoff mit einer festgelegten Chemikalie (die mindestens dieselbe MK haben muss, wie der Sprengstoff), explodiert sie.</Content>
 				<Br />
-				<Content>Elektronisch</Content>
-				<Content>e Zündung: Wird einem Gerät, das mit dem Sprengstoff verbunden ist, via Cortex ein Befehl geben, explodiert er.</Content>
+				<Content>Elektronische</Content>
+				<Content> Zündung: Wird einem Gerät, das mit dem Sprengstoff verbunden ist, via Cortex ein Befehl geben, explodiert er.</Content>
 				<Br />
 				<Content>Mechanische Zündung: Sobald der Sprengstoff droht Schaden zu nehmen oder ein Mechanismus mit einem Routine bedient wird, explodiert er.</Content>
 				<Br />

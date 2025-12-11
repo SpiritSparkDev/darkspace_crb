@@ -661,6 +661,14 @@
                   <stEvt:action>converted</stEvt:action>
                   <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <xmpMM:DerivedFrom rdf:parseType="Resource">
@@ -935,6 +943,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Entstellungen: Durch eine ##Entstellung kann der Charakter Handicaps erleiden.</Content>
 				<Br />
+				<Content>Trauma: Erreicht ein Charakter ein Stress-Level von 10, wird er traumatisiert. Zu Beginn der nächsten Ruhephase muss er sein Trauma unter 5 senken, oder erhält ein Handicap.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1122,7 +1131,20 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicapText">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Während einer Ruhephase kann der Charakter seinen Stress minimal auf 5 verringern.</Content>
+				<Content>Während einer Ruhephase kann der Charakter seinen Stress minimal</Content>
+				<Content> auf 5 verringern.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicap">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Oberflächlich</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicapText">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Der Charakter darf für eine Probe maximal 3W verwenden.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1140,14 +1162,25 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicap">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Ungeduldig</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicapText">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Pro Ruhephase sind maximal 3 Prozesse verfügbar.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicap">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Zögerlich</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicapText">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Der Charakter kann in einer Handlungsphase nicht mehrmals dieselbe </Content>
-				<Content>Handlung durchführen.</Content>
+				<Content>Der Charakter kann in einer Handlungsphase nicht mehrmals dieselbe Handlung durchführen.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1445,6 +1478,18 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicap">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Fehlkalibrierung</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicapText">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Proben mit dem Gegenstand dürfen keine Regel der Zehn auslösen (10 zählt nur als normale 10).</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicap">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Harter Impuls</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -1482,6 +1527,30 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicap">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Störanfällig</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicapText">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Bei jeder Probe wird der niedrigste Würfel der Probe vom Ergebnis abgezogen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicap">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Überhitzung</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicapText">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Wenn der Gegenstand in einer Handlungsphase genutzt wird, darf er in der darauffolgenden Handlungsphase nicht genutzt werden.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicap">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<ParagraphDestination Self="ParagraphDestination/Anker 172" Name="Anker 172" Hidden="false" DestinationUniqueKey="18642" />
 				<Content>Unhandlich</Content>
 				<Br />
@@ -1506,6 +1575,20 @@
 				<Content>Der Gegenstand senkt den gewählten Wert um 1, wenn er erfolgreich angewendet wird. </Content>
 				<Br />
 				<Content>Sinkt einer der Werte auf oder unter 0, wird der Gegenstand zerstört bzw. ist verbraucht.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicap">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Wartungsintensiv</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicapText">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Während jeder Ruhephase muss die Aktion durchgeführt werden. Andernfalls wird dem Gegenstand ein weiteres Handicap hinzugefügt.</Content>
+				<Br />
+				<Content>Übersteigt die Anzahl der Handicaps des Gegenstandes seine Modulklasse, gilt er als zerstört.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1839,7 +1922,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aEigenschaftText">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Pro Aktivierung wird die ideale Reichweite um eine Kategorie erhöht.</Content>
+				<Content>Pro Aktivierung wird die ideale Reichweite um eine Kategorie </Content>
+				<Content>erhöht.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1929,8 +2013,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicapText">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Vor einem Angriff muss eine Routine zum Laden der Waffe durchgeführt werden. Erreicht die Probe für den Angriff nich</Content>
-				<Content>t mindestens ein Ergebnis von 14, hat die Waffe Ladehemmung. </Content>
+				<Content>Vor einem Angriff muss eine Routine zum Laden der Waffe durchgeführt werden. Erreicht die Probe für den Angriff nicht mindestens ein Ergebnis von 10, hat die Waffe Ladehemmung. </Content>
 				<Br />
 				<Content>Eine Ladehemmung muss mit einer Aktivierung und einer Routine beseitigt werden.</Content>
 				<Br />
@@ -1956,7 +2039,9 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicapText">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Die Reichweite von Fernkampfwaffen wird halbiert. Bei Nahkampfwaffen gilt die Waffe für den Vergleich der Waffengröße immer kleiner als die des Gegners.</Content>
+				<Content>Die Reichweite von Fernkampfwaffen wird um eine Kategorie reduziert.</Content>
+				<Br />
+				<Content>Bei Nahkampfwaffen gilt die Waffe für den Vergleich der Waffengröße immer kleiner als die des Gegners.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
