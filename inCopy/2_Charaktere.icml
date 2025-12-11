@@ -719,6 +719,10 @@
                   <stEvt:action>converted</stEvt:action>
                   <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <xmpMM:DerivedFrom rdf:parseType="Resource">
@@ -3227,7 +3231,7 @@
 					<Cell Self="u998c6ib45e9i8" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Startpunkte</Content>
+								<Content>Start-EP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -3303,18 +3307,20 @@
 				<Content>Der Spielende darf seine </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aBold">
-				<Content>Startpunkte</Content>
+				<Content>Start-Erfahrungspunkte</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content> frei verteilen.</Content>
 				<Br />
-				<Content>Begabungen: Alle Begabungen beginnen mit einer Stufe von 2 und haben ein natürliches Maximum von 5. Als Begabungen zählen Aufmerksamkeit, Ausstrahlung, Geschick, Konstitution, Intelligenz, Intuition, Anomalie, Konzentration, Ressourcen.</Content>
+				<Content>Begabungen: Alle Begabungen beginnen mit einer Stufe von 2 und haben ein natürliches Maximum von 5. Als Begabungen zählen Ausstrahlung, Geschick, Konstitution, Konzentration, Intelligenz und Intuition.</Content>
 				<Br />
 				<Content>Fertigkeiten: Fertigkeiten beginnen bei einer Stufe von 0 und haben ein Maximum von 5. Fertigkeiten sind Begabungen zugeordnet.</Content>
 				<Br />
 				<Content>Mods: Eine Mod hat einen festen Preis von 100 EP.</Content>
 				<Br />
 				<Content>Spezialisierungen: Spezialisieriungen werden</Content>
+				<Br />
+				<Content>Sonstiges: Eingie Spielwerte können auch zur Charaktererstellung nicht mit Start-EP gekauft werden. Anstatt von Start-EP, erhält der Charakter 4 Punkte, die zwischen Einkommen und Einfluss frei verteilt werden können.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -3711,7 +3717,7 @@
 				</CharacterStyleRange>
 			</CrossReferenceSource>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> (Punkte, die ausgegeben werden können und sich langsam regenerieren) aktiviert werden.</Content>
+				<Content> aktiviert werden. In der Regel nimmt ein Charakter für die Ativierung einer Mod 1 Punkt Stress auf sich. Mehr Stress kann jedoch für stärkere Effekte sorgen. Mehr zur Aktivierung von Mods und ##Mods.</Content>
 				<Br />
 				<Content>Schwerer Start: Der Charakter darf bis zu 2 Handicaps erhalten und für jedes Handicap erhält er 100 EP für die Charaktererstellung. </Content>
 			</CharacterStyleRange>
@@ -3728,38 +3734,7 @@
 				</CharacterStyleRange>
 			</CrossReferenceSource>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> werden ebenfalls einer Fertigkeit zugeordnet und belegen alle Aktionen dieser Fertigkeit mit einem Nachteil, der mit Stress unterdrückt werden muss.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Übersicht über Mods</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Diese Liste an Basis-Mods ist ein Überblick über Mods, die der Charakter während der Erstellung von seinen Start-Erfahrungspunkten kaufen kann.</Content>
-				<Br />
-				<Content>Eine vollständige Liste aller Mods mit detailierten Regeln findet sich ab </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" />
-			<CrossReferenceSource Self="ub4620" AppliedFormat="u9e" Name="Hyperlink 306" Hidden="false" AppliedCharacterStyle="n">
-				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
-					<Content>Basis-Mods (S. </Content>
-				</CharacterStyleRange>
-				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub461f" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="51" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
-				</CharacterStyleRange>
-				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
-					<Content>)</Content>
-				</CharacterStyleRange>
-			</CrossReferenceSource>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
-				<Content>.</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=100 M=68 Y=0 K=55">
+				<Content> belegen alle Aktionen mit einem Nachteil, der mit Stress unterdrückt werden muss. Der Charakter nimmt 1 Punkt Stress auf sich, um ein Handicap für eine Szene zu unterdrücken.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -3807,10 +3782,10 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Der Charakter beginnt das Spiel mit Startausrüstung. Das beinhaltet persönliche Gegenstände, Artifizierungen, Waffen, Fahrzeuge und Ausrüstung. Ausrüstung wird mit Konstruktionspunkten erstellt. </Content>
+				<Content>Der Charakter beginnt das Spiel mit Startausrüstung. Das beinhaltet persönliche Gegenstände, Artifizierungen, Waffen, Fahrzeuge und Ausrüstung. Ausrüstung wird mit Konstruktionspunk</Content>
+				<Content>ten erstellt. </Content>
 				<Br />
-				<Content>Zum Spielbeginn wird die Startausrüstung sowohl gekauft, als </Content>
-				<Content>auch mit Erfahrungspunkten bezahlt werden. </Content>
+				<Content>Zum Spielbeginn wird die Startausrüstung sowohl gekauft, als auch mit Erfahrungspunkten bezahlt werden. </Content>
 				<Br />
 				<Content>Im späteren Spiel werden für Ausrüstung und Maschinen </Content>
 			</CharacterStyleRange>
@@ -4530,75 +4505,8 @@
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Ein nahezu vollständig synthetischer Körper mit einem Interface für ein lebendes, menschliches Gehirn. Jeder Körper kann nach den Spezifikationen des zukünftigen Trägers gebaut und nachträglich modifiziert werden.</Content>
-				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabelle Span">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Spezialisierungen</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Spezialisierungen repräsentieren die Expertise eines Charakters im Umgang mit bestimmten Arten von Ausrüstung. Ob ein Sanitäter, der mit Medkits arbeitet, oder ein Söldner, der sich mit einer Waffe auskennt – die Spezialisierung zeigt, dass der Charakter eine spezielle Ausbildung oder viel Erfahrung mit einem spezifischen Gegenstandstyp hat. Spezialisierungen heben den Charakter von anderen ab, indem sie ihn im Umgang mit dieser Ausrüstung effizienter und effektiver machen. Sie erlauben es dem Charakter, komplexere Aufgaben mit der spezialisierten Ausrüstung auszuführen und diese Aufgaben präziser oder schneller zu erledigen.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Erwerb von Spezialisierungen</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Spezialisierungen beziehen sich auf eine spezifische Variante eines Gegenstands. Diese Varianten werden durch Modulklasse (MK) und Masse bestimmt. Zum Beispiel kann sich ein Charakter auf Medkits spezialisieren, die MK 2 und Masse 2 haben – dies sind tragbare, einfache Modelle oder aber MK 2 Masse 5, was die Arbeit an einer stationären medizinischen Station darstellen würde.  </Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Kosten für den Erwerb einer Spezialisierung: Eine neu erworbene Spezialisierung kostet 100 EP und bezieht sich auf eine spezifische Kombination aus Modulklasse und Größe. Ein Charakter beginnt also zum Beispiel mit der Spezialisierung auf Medkits der MK 2 und Größe 2. Eine Spezialisierung startet bei Stufe 1.</Content>
-				<Br />
-				<Content>Spielwerte von Spezialisierungen: Spezialisierungen haben drei Kennwerte: Modulklasse, Größe und Stufe. Die Modulklasse und Größe beginnt bei einem beliebigen Wert und kann durch Erweiterung der Spezialisierung weitere Werte umfassen. Diese Werte müssen nicht aneinander angrenzen. Ein Charakter könnte seine Medkit-Spezialisierung etwa so erweitern, dass er auf Medkits MK 2 mit den Größen 2 und 5 spezialisiert ist. </Content>
-				<Br />
-				<Content>Erweiterung von Spezialisierungen: Spezialisierungen können erweitert werden, sodass sie für verschiedene Varianten eines Gegenstands gelten. Jede Erweiterung kostet 50 EP. Es kann entweder eine Modulklassenstufe oder eine Größe hinzugefügt werden.</Content>
-				<Br />
-				<Content>Verbessern von Spezialisierungen: Spezialisierungen haben Stufen, die den Grad der Expertise des Charakters in Bezug auf die spezialisierte Ausrüstung darstellen. Die Stufe</Content>
-				<Content>n reichen von 0 bis 5. Die Kosten für das Erhöhen der Stufen sind [Neue Stufe]² x 3 EP.</Content>
-				<Br />
-				<Content>Verfügbarkeit und Einschränkungen: Ein Charakter kann Spezialisierungen in einer Vielzahl von Ausrüstungen erlangen, aber die spezialisierte Ausrüstung muss immer spezifische Voraussetzungen in Bezug auf Modulklasse und Größe erfüllen. Der Charakter profitiert nur dann von seiner Spezialisierung, wenn er mit einer Ausrüstung arbeitet, die seiner Spezialisierung entspricht.</Content>
-				<Br />
-				<Content>Nutzung ohne Spezialisierung: Jeder Charakter kann Ausrüstung auch ohne Spezialisierung benutzen. Allerdings können in diesem Fall können keine Prozesse durchgeführt werden.  </Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Beispiele%3aBeispiel">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Beispiel Erweiterung: Hat der Charakter bereits die Spezialisierung auf Medkits MK 4 und Größe 2, kann er der Spezialisierung die MK 1, 2, 3 oder 5 hinzufügen.  Er kann alterntiv die Größe 1, 3, oder höher hinzufügen. </Content>
-				<Br />
-				<Content>Beispiel Stufenerhöhung: Um die Stufe von 1 auf 2 zu erhöhen, kostet es 2² x 3 EP = 12 EP. Um die Stufe von 2 auf 3 zu erhöhen, kostet es 3² x 3 EP = 27 EP.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Wirkung der Spezialisierung</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Prozesse: Die Nutzung einer Spezialisierung ermöglicht es dem Charakter, Prozesse durchzuführen. Prozesse sind langfristige und komplexe Handlungen, die über mehrere Phasen oder eine längere Zeitspanne stattfinden. Diese sind nur möglich, wenn der Charakter über eine passende Spezialisierung verfügt.</Content>
-				<Br />
-				<Content>Geübte Aktivierung: Ein Charakter kann Gegenstände, auf die er spezialisiert ist kostenlos aktivieren. Die Anzahl der kostenlosen Aktivierungen entspricht der Stufe der Spezialisierung.</Content>
-				<Br />
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=100 M=68 Y=0 K=55">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -4648,7 +4556,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Bioroiden sind einem Menschen noch sehr ähnlich, aber anders genug, um als Lebensform zweiter Klasse zu gelten - dafür wurden sie letztendlich auch geschaffen: Komplexe, künstliche Menschen, die Tätigkeiten ausführen sollen, bei denen ein Mensch am besten geeignet ist, aber trotzdem so gefährlich oder so spezifisch, dass der Einsatz eines „echten“ Menschen als nicht vorteilhaft betrachtet wird.</Content>
 				<Br />
-				<Content>Bioroiden findet man am meisten im Einsatz von Adligen, wo sie als Leibdiener oder Privatarmee geschaffen wurden. Bioroiden werden von Einigen als absolut ersetzbar angesehen, auch wenn die Wissenschaft sich einig darüber ist, dass ein Bioroide dieselben Erfahrungen sammelt und dieselben Gefühle hat wie ein Mensch. </Content>
+				<Content>Bioroiden findet man am meisten im Einsatz von Adligen, wo sie als Leibdiener oder Privatarmee geschaffen wurden. Bioroiden werden von Einigen als absolut ersetzbar angesehen, auch wenn die Wissenschaft sich einig d</Content>
+				<Content>arüber ist, dass ein Bioroide dieselben Erfahrungen sammelt und dieselben Gefühle hat wie ein Mensch. </Content>
 				<Br />
 				<Content>Anders als Klone werden Bioroiden aus vorhandenen Organen und Artifizierungen gebaut. Ein Bioroid hat daher kein Konzept von Kindheit oder dem, mit dem heranwachsenden Reifeprozess verbundenen, sozialen, mentalen und hormonellen Veränderungen. </Content>
 				<Br />
@@ -4696,8 +4605,7 @@
 				<Br />
 				<Content>Der Drang nach Verbindungen beschränkt sich nicht nur auf den Cortex. KIs sind überaus soziale Wesen, die sich schnell kulturelle Eigenheiten aneignen können. Das Lernen von Sprache, Mimik und Gestik kostet eine KIs nicht sonderlich viel Zeit. Viele KIs knüpfen enge Freundschaften mit Menschen, deren chaotische Natur eine praktisch unerschöpfliche Quelle an neuen Erfahrungen bietet.</Content>
 				<Br />
-				<Content>Eine KI zu isolieren ist für sie extrem traumatisch und kann zu schweren Schäden in ihren Programmen und damit verbunden ihrer Psyche führen. Derartige Experimente werden immer wieder aufs Neue vorgenommen. Die so isolierten KIs degenerieren dabei rapide. Einige werden völlig passiv, andere</Content>
-				<Content>, im Versuch der selbststimulation, manisch oder duplizieren sich, um nicht mehr allein zu sein.</Content>
+				<Content>Eine KI zu isolieren ist für sie extrem traumatisch und kann zu schweren Schäden in ihren Programmen und damit verbunden ihrer Psyche führen. Derartige Experimente werden immer wieder aufs Neue vorgenommen. Die so isolierten KIs degenerieren dabei rapide. Einige werden völlig passiv, andere, im Versuch der selbststimulation, manisch oder duplizieren sich, um nicht mehr allein zu sein.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -4803,7 +4711,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Unvollständig: Mit den empfohlenen 2000 Start-Erfahrungspunkten ist eine gute Darstellung eines Adeligen schwierig. Jedoch können damit junge Adelige mit wenig Erfahrung nicht unvollständig aktivierten genetischen Verbesserungen dargestellt werden.</Content>
 				<Br />
-				<Content>Biologische Reinheit: Adelige lassen sich gemeinhin keine gewöhnlichen Artifizierungen einsetzen. Artifizierungen, die der Charakter erhält, stellen frisch aktivierte genetische Ausprägungen dar, die der Charakter von Geburt an trägt. Mit Zustimmung des Spielleiters kann der Charakter die Probe für </Content>
+				<Content>Biologische Reinheit: Adelige lassen sich gemeinhin keine gewöhnlichen Artifizierungen einsetzen. Artifizierungen, die der Charakter erhält, stellen frisch aktivierte genetische Ausprägungen dar, die der Charakter von Geburt an trägt. Mit Zustimmung des Spielleiters kan</Content>
+				<Content>n der Charakter die Probe für </Content>
 				<HyperlinkTextSource Self="ub4640" Name="Hyperlink 274" Hidden="false" AppliedCharacterStyle="n">
 					<Content>Einkauf</Content>
 				</HyperlinkTextSource>
@@ -5071,8 +4980,7 @@
 				<Content>Unterbrechungen</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> sind Handlungen, die häufig keine Probe erfordern und nur ausgeführt werden dürfen, wenn der Charakter das Ziel einer anderen Handlung wird. Sie sind daher vo</Content>
-				<Content>llkommen passiv, können dem Charakter aber Ärger ersparen oder sogar das Leben retten.</Content>
+				<Content> sind Handlungen, die häufig keine Probe erfordern und nur ausgeführt werden dürfen, wenn der Charakter das Ziel einer anderen Handlung wird. Sie sind daher vollkommen passiv, können dem Charakter aber Ärger ersparen oder sogar das Leben retten.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -5234,7 +5142,6 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Vorteile sind Punkte, die ein Charakter ausgeben kann, um Mods zu aktivieren oder andere Effekte auszulösen, die dem Charakter aus der Klemme helfen können. </Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -5248,80 +5155,19 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<ParagraphDestination Self="ParagraphDestination/Anker 182" Name="Anker 182" Hidden="false" DestinationUniqueKey="18652" />
-				<Content>Gefallen</Content>
+				<Content>Einfluss</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Gefallen sind ein abstraktes Maß für eine Art Karma. Tut der Charakter etwas für andere, so gewinnt er Gefallen, bittet er andere darum, etwas für ihn zu tun, gibt er Gefallen aus. Im Spiel sind Gefallen nicht an bestimmte Charaktere oder Nebencharaktere gebunden.</Content>
+				<Content>Einfluss ist ein abstraktes Maß für eine Art Karma. Tut der Charakter etwas für andere, so gewinnt er Einfluss, bittet er andere darum, etwas für ihn zu tun, gibt er Einfluss aus. Im Spiel sind Gefallen nicht an bestimmte Charaktere oder Nebencharaktere gebunden.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Gefallen für Nebencharaktere: Immer, wenn der Charakter einem Nebencharakter einen Dienst tut, erhält er dafür (neben vereinbarten Belohnungen) auch Gefallen. Für die Anzahl kann die Spielleitung die folgende Tabelle konsultieren.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenüberschrift">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Einsatz von Gefallen</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabelle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Table Self="u998c6ib4659" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="2" ColumnCount="2" AppliedTableStyle="TableStyle/Standardtabelle" TableDirection="LeftToRightDirection">
-					<Row Self="u998c6ib4659Row0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleRowHeight="24.25" MinimumHeight="24.25" AutoGrow="true" />
-					<Row Self="u998c6ib4659Row1" Name="1" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="38.14997253417968" MinimumHeight="24.25" AutoGrow="true" />
-					<Row Self="u998c6ib4659Row2" Name="2" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="48.94997253417968" MinimumHeight="3" AutoGrow="true" />
-					<Column Self="u998c6ib4659Column0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="155.90551181102364" />
-					<Column Self="u998c6ib4659Column1" Name="1" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="79.37007874015748" />
-					<Cell Self="u998c6ib4659i4" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" ClipContentToCell="false">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf">
-							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Wirkung</Content>
-							</CharacterStyleRange>
-						</ParagraphStyleRange>
-					</Cell>
-					<Cell Self="u998c6ib4659i5" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" ClipContentToCell="false">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf">
-							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Kosten</Content>
-							</CharacterStyleRange>
-						</ParagraphStyleRange>
-					</Cell>
-					<Cell Self="u998c6ib4659i0" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Kleinen Gefallen: Ein einfacher Dienst, der niemanden in Gefahr bringt.</Content>
-							</CharacterStyleRange>
-						</ParagraphStyleRange>
-					</Cell>
-					<Cell Self="u998c6ib4659i1" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>1 Gefallen</Content>
-							</CharacterStyleRange>
-						</ParagraphStyleRange>
-					</Cell>
-					<Cell Self="u998c6ib4659i2" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Großen Gefallen: Ein beliebig schwieriger Dienst, bei dem der Ressourcen und die eigene Gesundheit aufs Spiel setzt.</Content>
-							</CharacterStyleRange>
-						</ParagraphStyleRange>
-					</Cell>
-					<Cell Self="u998c6ib4659i3" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>3 Gefallen</Content>
-							</CharacterStyleRange>
-						</ParagraphStyleRange>
-					</Cell>
-				</Table>
+				<Content>Einfluss für Nebencharaktere: Immer, wenn der Charakter einem Nebencharakter einen Dienst tut, erhält er dafür (neben vereinbarten Belohnungen) auch Einfluss. Mehr zu Einfluss unter ##Nebencharaktere</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -5421,12 +5267,6 @@
 		</Properties>
 	</Hyperlink>
 	<Hyperlink Self="ub466c" Name="Querverweis 132" Source="ub461d" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="18650">
-		<Properties>
-			<BorderColor type="enumeration">Black</BorderColor>
-			<Destination type="object">n</Destination>
-		</Properties>
-	</Hyperlink>
-	<Hyperlink Self="ub466d" Name="Querverweis 127" Source="ub4620" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="18648">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">n</Destination>
