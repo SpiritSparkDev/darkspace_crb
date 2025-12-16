@@ -6,10 +6,10 @@
 	<Color Self="Color/C=100 M=100 Y=0 K=70" Model="Process" Space="CMYK" ColorValue="100 100 0 70" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=100 Y=0 K=70" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch4" />
 	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch2" />
 	<Color Self="Color/Patzer" Model="Process" Space="CMYK" ColorValue="0 87 76 32" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Patzer" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c914ColorGroupSwatch3" />
+	<Color Self="Color/C=49 M=27 Y=0 K=38" Model="Process" Space="CMYK" ColorValue="49 27 0 38" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=49 M=27 Y=0 K=38" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch1" />
 	<Color Self="Color/Erfolg" Model="Process" Space="CMYK" ColorValue="54 0 100 25" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Erfolg" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c914ColorGroupSwatch0" />
 	<Color Self="Color/Krit" Model="Process" Space="CMYK" ColorValue="100 65 0 0" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Krit" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c914ColorGroupSwatch2" />
 	<Color Self="Color/Misserfolg" Model="Process" Space="CMYK" ColorValue="3 56.00000000000001 100 23" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Misserfolg" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c914ColorGroupSwatch1" />
-	<Color Self="Color/C=49 M=27 Y=0 K=38" Model="Process" Space="CMYK" ColorValue="49 27 0 38" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=49 M=27 Y=0 K=38" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch1" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch3" />
 	<Color Self="Color/C=70 M=62 Y=0 K=39" Model="Process" Space="CMYK" ColorValue="70 62 0 39" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=70 M=62 Y=0 K=39" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch0" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="71.5651" ConvertToProcess="false" Frequency="63.2456" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
@@ -627,6 +627,14 @@
                   <stEvt:action>converted</stEvt:action>
                   <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <dc:format>application/x-incopy</dc:format>
@@ -1060,7 +1068,7 @@
 					<Content>Seite </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub447d" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="28" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub447d" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="29" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 			</CrossReferenceSource>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
@@ -1598,13 +1606,7 @@
 				<Br />
 				<Content>Anstatt für jeden Gegenstand oder Mod einzeln aufzulisten, welche spezifischen Aktionen er betrifft, verweisen Regeltexte einfach auf eine Aktionskategorie.</Content>
 				<Br />
-				<Content>Ein kybernetisches Implantat könnte beispielsweise „Bonus auf alle Steuern-Aktionen mit kybernetischen Fertigkeiten“ gewähren, was </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>alle Steuerungs-Handlungen und damit auch </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>automatisch die Kontrolle über das Implantat selbst mit einschließt.</Content>
+				<Content>Ein kybernetisches Implantat könnte beispielsweise „Bonus auf alle Steuern-Aktionen mit kybernetischen Fertigkeiten“ gewähren, was alle Steuerungs-Handlungen und damit auch automatisch die Kontrolle über das Implantat selbst mit einschließt.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1621,39 +1623,33 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>Zweck:</Content>
-			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> Informationen über ein Ziel sammeln, seinen Zustand analysieren oder verborgene Details aufdecken.</Content>
+				<Content>Informationen über ein Ziel sammeln, seinen Zustand analysieren oder verborgene Details aufdecken.</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Anwendung:</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content> Nutze die passende Fertigkeit, um mehr über ein Ziel herauszufinden. Das Ziel muss nicht wissen, dass es untersucht wird – es kann sich auch selbst untersuchen wollen.</Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>Fertigkeitswahl:</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> Die Wahl der Fertigkeit hängt davon ab:</Content>
+				<Content>Fertigkeitswahl: Die Wahl der Fertigkeit hängt davon ab:</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>WAS wird untersucht?</Content>
-			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> (Technik, Personen, Gegenstände, Umgebung, Daten, soziale Situationen)</Content>
+				<Content>WAS wird untersucht? (Technik, Personen, Gegenstände, Umgebung, Daten, soziale Situationen)</Content>
+				<Br />
+				<Content>WIE wird untersucht? (theoretisch durch Wissen, praktisch durch Tests, sozial durch Befragung, technisch durch Diagnose)</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>WIE wird untersucht?</Content>
-			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Beispiele%3aBeispiel">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> (theoretisch durch Wissen, praktisch durch Tests, sozial durch Befragung, technisch durch Diagnose)</Content>
+				<Content>Diagnostizieren eines Geräts, Analysieren einer Situation, Befragen einer Person, Durchsuchen eines Raums.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1664,46 +1660,32 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>Zweck:</Content>
-			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> Den Charakter selbst, eine andere Person, einen Gegenstand oder eine Datei von Punkt A nach Punkt B bewegen – entweder durch eigenen Antrieb, äußeren Einfluss oder unfreiwillig.</Content>
+				<Content>Den Charakter selbst, eine andere Person, einen Gegenstand oder eine Datei von Punkt A nach Punkt B bewegen – entweder durch eigenen Antrieb, äußeren Einfluss oder unfreiwillig.</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>Anwendung:</Content>
-			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> Nutze die passende Fertigkeit, um dich oder etwas anderes physisch, sozial oder digital zu bewegen.</Content>
+				<Content>Anwendung: Nutze die passende Fertigkeit, um dich oder etwas anderes physisch, sozial oder digital zu bewegen.</Content>
+				<Br />
+				<Content>Fertigkeitswahl: Bewegungsproben basieren auf der Fertigkeit, die die Art der Bewegung am besten repräsentiert.</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>Fertigkeitswahl:</Content>
-			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> Die Wahl der Fertigkeit hängt davon ab:</Content>
+				<Content>WAS wird bewegt?: der eigene Körper, andere Personen, Objekte, Fahrzeuge, Aufmerksamkeit</Content>
+				<Br />
+				<Content>WIE erfolgt die Bewegung?: schnell, kraftvoll, präzise, ausdauernd, sozial</Content>
+				<Br />
+				<Content>In welchem Medium?: zu Fuß, kletternd, per Fahrzeug, in sozialen Räumen</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>WAS wird bewegt?</Content>
-			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Beispiele%3aBeispiel">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> (der eigene Körper, andere Personen, Objekte, Fahrzeuge, Aufmerksamkeit)</Content>
-				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>WIE erfolgt die Bewegung?</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> (schnell, kraftvoll, präzise, ausdauernd, sozial)</Content>
-				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>In welchem Medium?</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> (zu Fuß, kletternd, per Fahrzeug, in sozialen Räumen)</Content>
+				<Content>Rennen, Klettern, Schleichen, Transportieren von Gegenständen, Verschieben von Dateien.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1714,39 +1696,40 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>Zweck:</Content>
-			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> Aktive Kontrolle über das Ziel ausüben – sei es eine Person, eine Maschine, ein Implantat oder eine Situation. Die Steuerung kann direkt durch elektrische Signale oder indirekt durch Manipulation erfolgen.</Content>
+				<Content>Aktive Kontrolle über das Ziel ausüben – sei es eine Person, eine Maschine, ein Implantat oder eine Situation. Die Steuerung kann direkt durch elektrische Signale oder indirekt durch Manipulation erfolgen.</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>Anwendung:</Content>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Anwendung: Nutze die passende Fertigkeit, um das Ziel nach deinem Willen zu lenken oder zu beeinflussen.</Content>
+				<Br />
+				<Content>Fertigkeitswahl: </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> Nutze die passende Fertigkeit, um das Ziel nach deinem Willen zu lenken oder zu beeinflussen.</Content>
+				<Content> Steuerungsproben basieren auf der Fertigkeit, die die Art der Kontrolle am besten repräsentiert.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>Fertigkeitswahl:</Content>
-			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> Die Wahl der Fertigkeit hängt davon ab:</Content>
+				<Content>WAS wird gesteuert? (Personen, Maschinen, Implantate, Situationen, Gespräche)</Content>
+				<Br />
+				<Content>Über welchen Kanal? (direkt-technisch, ferngesteuert, sozial-manipulativ, mental)</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>WAS wird gesteuert?</Content>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Beispiele%3aBeispiel">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>L</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> (Personen, Maschinen, Implantate, Situationen, Gespräche)</Content>
-				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold" AppliedLanguage="$ID/Arabic">
-				<Content>Über welchen Kanal?</Content>
+				<Content>enken eines Fahrzeugs, Manipulieren eines Gesprächs, Fernsteuerung eines Geräts.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> (direkt-technisch, ferngesteuert, sozial-manipulativ, mental)</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1757,39 +1740,30 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>Zweck:</Content>
-			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> Den Zustand des Ziels verändern – ob Charakter, Gegenstand oder Datei. Die Veränderung kann kurzfristig oder permanent sein, rein kosmetisch oder spielwerttechnisch relevant. Hierunter fallen auch Ressourcen, Trefferpunkte und andere Spielwerte.</Content>
+				<Content>Den Zustand des Ziels verändern – ob Charakter, Gegenstand oder Datei. Die Veränderung kann kurzfristig oder permanent sein, rein kosmetisch oder spielwerttechnisch relevant, positiv oder negativ. Hierunter fallen auch Ressourcen, Trefferpunkte und andere Spielwerte.</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>Anwendung:</Content>
-			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> Nutze die passende Fertigkeit, um das Ziel zu beschädigen, zu reparieren, zu verbessern oder anderweitig zu verändern.</Content>
+				<Content>Anwendung: Nutze die passende Fertigkeit, um das Ziel zu beschädigen, zu reparieren, zu verbessern oder anderweitig zu verändern.</Content>
+				<Br />
+				<Content>Fertigkeitswahl: Die Fertigkeit basiert auf dem Objekt, das verändert werden soll und der Art der Veränderung:</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>Fertigkeitswahl:</Content>
-			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> Die Wahl der Fertigkeit hängt davon ab:</Content>
+				<Content>WAS wird modifiziert?: Objekte, Lebewesen, Daten, Beziehungen, Meinungen</Content>
+				<Br />
+				<Content>WIE erfolgt die Modifikation?: durch Gewalt, Konstruktion, Reparatur, Überzeugung, soziale Beeinflussung</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>WAS wird modifiziert?</Content>
-			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Beispiele%3aBeispiel">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> (Objekte, Lebewesen, Daten, Beziehungen, Meinungen)</Content>
-				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>WIE erfolgt die Modifikation?</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> (durch Gewalt, Konstruktion, Reparatur, Überzeugung, soziale Beeinflussung)</Content>
+				<Content>Reparieren eines beschädigten Geräts, Heilen eines Charakters mit einem MedKit, Hacking eines Systems, Modifikation von Beziehungen oder Meinungen.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1800,39 +1774,30 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>Zweck:</Content>
-			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> Dem Ziel aus dem Weg gehen oder Interaktionen verhindern. Wachen werden umgangen, Überwachungskameras ausgetrickst, Angriffen wird ausgewichen. Man vermeidet aber auch Strahlung, Toxine, übermäßige Hitze oder Kälte sowie soziale Konfrontationen.</Content>
+				<Content>Dem Ziel aus dem Weg gehen oder Interaktionen verhindern. Wachen werden umgangen, Überwachungskameras ausgetrickst, Angriffen wird ausgewichen. Man vermeidet aber auch Strahlung, Toxine, übermäßige Hitze oder Kälte sowie soziale Konfrontationen.</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>Anwendung:</Content>
-			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> Nutze die passende Fertigkeit, um negativen Auswirkungen zu entgehen oder Begegnungen zu verhindern.</Content>
+				<Content>Anwendung: Nutze die passende Fertigkeit, um negativen Auswirkungen zu entgehen oder Begegnungen zu verhindern.</Content>
+				<Br />
+				<Content>Fertigkeitswahl: Die Wahl der Fertigkeit hängt davon ab:</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>Fertigkeitswahl:</Content>
-			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> Die Wahl der Fertigkeit hängt davon ab:</Content>
+				<Content>WAS wird vermieden?: Angriffe, Entdeckung, Manipulation, Umweltgefahren, soziale Probleme</Content>
+				<Br />
+				<Content>WIE wird vermieden?: ausweichen, widerstehen, umgehen, abschirmen</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>WAS wird vermieden?</Content>
-			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Beispiele%3aBeispiel">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> (Angriffe, Entdeckung, Manipulation, Umweltgefahren, soziale Probleme)</Content>
-				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Bold">
-				<Content>WIE wird vermieden?</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> (ausweichen, widerstehen, umgehen, abschirmen)</Content>
+				<Content>Gefahren ausweichen, Umgehen von Überwachungskameras, Widerstehen von Toxinen.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2731,7 +2696,7 @@
 					<Content>Prozesse (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub44c6" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="28" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub44c6" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="29" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -2786,7 +2751,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Nach Plan: Bei einem Erfolg passiert, was auch immer der Spielende bezwecken wollte. Der Spielende kann relativ frei beschreiben, wie die Probe erfolgreich abgeschlossen wird.</Content>
+				<Content>Nach Plan: Bei einem Erfolg passiert, was auch immer der Spielende bezwecken wollte. Der Spielende kann rela</Content>
+				<Content>tiv frei beschreiben, wie die Probe erfolgreich abgeschlossen wird.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2822,8 +2788,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Die genauen Effekte eines kritischen Erfolges können vom Spielenden beschrieben werden. Dabei darf ruhig etwas über die Stränge geschlagen werden, dafür ist es ein kritischer Erfolg. Spielmechanisch kann d</Content>
-				<Content>ie Spielleitung die folgenden Punkte als Inspiration verwenden.</Content>
+				<Content>Die genauen Effekte eines kritischen Erfolges können vom Spielenden beschrieben werden. Dabei darf ruhig etwas über die Stränge geschlagen werden, dafür ist es ein kritischer Erfolg. Spielmechanisch kann die Spielleitung die folgenden Punkte als Inspiration verwenden.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2852,7 +2817,7 @@
 					<Content>Zeitstufe (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub44cb" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="29" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub44cb" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="30" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -3549,7 +3514,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>In den Regeln wird von drei Arten von Modifikatoren gesprochen: Würfelpoolmodifkatoren, einer Modifikation des Ergebnisses oder einer Modifikation des Schwierigkeitsgrades.</Content>
+				<Content>In den Regeln wird von drei Arten von Modifikatoren gesprochen: Würfelpoolmodifkatoren, einer Modifikation de</Content>
+				<Content>s Ergebnisses oder einer Modifikation des Schwierigkeitsgrades.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -3559,8 +3525,7 @@
 				<Br />
 				<Content>Ergebnismodifiaktoren: Wird eine Notation verwendet wie “Ergebnis +2” oder “verringert das Ergebnis um 3” wird in diesen Beispielen das Ergebnis einer Probe (also Summe der zwei höchsten Würfel plus Fertigkeit) um 2 erhöht oder um 3 gesenkt. </Content>
 				<Br />
-				<Content>Schwierigkeitsmodifikatoren: Wird von “der Schwierigkeitsgrad erhöht sich um 3” wird eine Probe um 3 schwerer zu bestehe</Content>
-				<Content>n. </Content>
+				<Content>Schwierigkeitsmodifikatoren: Wird von “der Schwierigkeitsgrad erhöht sich um 3” wird eine Probe um 3 schwerer zu bestehen. </Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>

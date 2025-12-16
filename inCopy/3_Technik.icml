@@ -2,12 +2,12 @@
 <?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="21.0(2)" ?>
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="21.0" Self="d">
+	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch3" />
 	<Color Self="Color/C=100 M=68 Y=0 K=55" Model="Process" Space="CMYK" ColorValue="100 68 0 55.00000000000001" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=68 Y=0 K=55" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch3" />
 	<Color Self="Color/OptionaleRegeln" Model="Process" Space="CMYK" ColorValue="0 56.00000000000001 100 50" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="OptionaleRegeln" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch4" />
 	<Color Self="Color/C=100 M=100 Y=0 K=70" Model="Process" Space="CMYK" ColorValue="100 100 0 70" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=100 Y=0 K=70" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch4" />
 	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch2" />
 	<Color Self="Color/C=49 M=27 Y=0 K=38" Model="Process" Space="CMYK" ColorValue="49 27 0 38" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=49 M=27 Y=0 K=38" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch1" />
-	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch3" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="71.5651" ConvertToProcess="false" Frequency="63.2456" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="18.4349" ConvertToProcess="false" Frequency="63.2456" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="66.6667" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
@@ -712,6 +712,14 @@
                   <stEvt:action>converted</stEvt:action>
                   <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <xmpMM:DerivedFrom rdf:parseType="Resource">
@@ -729,15 +737,6 @@
          <xmpTPg:Colorants>
             <rdf:Seq>
                <rdf:li rdf:parseType="Resource">
-                  <xmpG:swatchName>Schwarz</xmpG:swatchName>
-                  <xmpG:mode>CMYK</xmpG:mode>
-                  <xmpG:type>Process</xmpG:type>
-                  <xmpG:cyan>0</xmpG:cyan>
-                  <xmpG:magenta>0</xmpG:magenta>
-                  <xmpG:yellow>0</xmpG:yellow>
-                  <xmpG:black>100</xmpG:black>
-               </rdf:li>
-               <rdf:li rdf:parseType="Resource">
                   <xmpG:swatchName>Papier</xmpG:swatchName>
                   <xmpG:mode>CMYK</xmpG:mode>
                   <xmpG:type>Process</xmpG:type>
@@ -753,6 +752,15 @@
                   <xmpG:cyan>100</xmpG:cyan>
                   <xmpG:magenta>100</xmpG:magenta>
                   <xmpG:yellow>100</xmpG:yellow>
+                  <xmpG:black>100</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Schwarz</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>0</xmpG:cyan>
+                  <xmpG:magenta>0</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
                   <xmpG:black>100</xmpG:black>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
@@ -2383,13 +2391,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Waffen haben neben einer Modulklasse und einer Größe zusätzlich noch den Spielwert „Durchschlag“ und (im Falle von Fernkampfwaffen) „Reichweite“.</Content>
-				<Br />
-				<Content>Durchschlag entspricht der doppelten Größe plus der Modulklasse und könnte für jeden beliebigen Gegenstand berechnet werden.</Content>
-				<Br />
-				<Content>Ob etwas als Waffe zählt, bestimmt die KernMod eines Gegenstandes. Gegenstände, die einen WaffenMod als KernMod erhalten, gelten als Waffen und haben daher immer auch einen Durchschlag. </Content>
-				<Br />
-				<Content>Ob eine Waffe auch eine Reichweite hat und damit zu einer Fernkampfwaffe wird, kann frei bei der Erstellung der Waffe festgelegt werden, danach aber nicht mehr geändert werden. Eine Pistole bleit eben eine Pistole.</Content>
+				<Content>Waffen haben neben einer Modulklasse und einer Größe zusätzlich noch den Spielwert Schaden, Durchschlag und (im Falle von Fernkampfwaffen) Reichweite.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2726,7 +2728,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabelle Span">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Table Self="u9a217ibba1d" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="7" ColumnCount="6" AppliedTableStyle="TableStyle/Standardtabelle" TableDirection="LeftToRightDirection">
+				<Table Self="u9a217ibba1d" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="7" ColumnCount="7" AppliedTableStyle="TableStyle/Standardtabelle" TableDirection="LeftToRightDirection">
 					<Row Self="u9a217ibba1dRow0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleRowHeight="19.888555211345043" />
 					<Row Self="u9a217ibba1dRow1" Name="1" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
 					<Row Self="u9a217ibba1dRow2" Name="2" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
@@ -2735,12 +2737,13 @@
 					<Row Self="u9a217ibba1dRow5" Name="5" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
 					<Row Self="u9a217ibba1dRow6" Name="6" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
 					<Row Self="u9a217ibba1dRow7" Name="7" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
-					<Column Self="u9a217ibba1dColumn0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="216.37795275572438" />
+					<Column Self="u9a217ibba1dColumn0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="164.40944881889766" />
 					<Column Self="u9a217ibba1dColumn1" Name="1" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="53.070866141702105" />
 					<Column Self="u9a217ibba1dColumn2" Name="2" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="53.070866141702105" />
 					<Column Self="u9a217ibba1dColumn3" Name="3" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="53.070866141702105" />
 					<Column Self="u9a217ibba1dColumn4" Name="4" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="53.070866141702105" />
 					<Column Self="u9a217ibba1dColumn5" Name="5" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="53.070866141702105" />
+					<Column Self="u9a217ibba1dColumn6" Name="6" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="53.070866141702105" />
 					<Cell Self="u9a217ibba1di0" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -2783,16 +2786,23 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
+					<Cell Self="u9a217ibba1di11" Name="6:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
 					<Cell Self="u9a217ibba1di6" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Tanto-11</Content>
+								<Content>Plast-Messer</Content>
 								<Br />
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenregeln">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Mods: Unkompliziert</Content>
+								<Content>Mods: -</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -2831,16 +2841,23 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
+					<Cell Self="u9a217ibba1di10" Name="6:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>5 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
 					<Cell Self="u9a217ibba1di12" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>MFD Baton</Content>
+								<Content>Elektro-Baton</Content>
 								<Br />
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenregeln">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Mods: Nicht-Tödlich</Content>
+								<Content>Mods: Schock</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -2879,6 +2896,13 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
+					<Cell Self="u9a217ibba1dif" Name="6:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>145 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
 					<Cell Self="u9a217ibba1di41" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -2902,14 +2926,14 @@
 					<Cell Self="u9a217ibba1di3f" Name="2:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>3</Content>
+								<Content>2</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u9a217ibba1di3e" Name="3:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>5</Content>
+								<Content>4</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -2924,6 +2948,13 @@
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 								<Content>1</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibba1die" Name="6:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>265 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -2975,6 +3006,13 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
+					<Cell Self="u9a217ibba1did" Name="6:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>185 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
 					<Cell Self="u9a217ibba1di35" Name="0:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -3020,6 +3058,13 @@
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibba1dic" Name="6:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>350 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -3071,6 +3116,13 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
+					<Cell Self="u9a217ibba1di23" Name="6:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>285 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
 					<Cell Self="u9a217ibba1di29" Name="0:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -3080,7 +3132,7 @@
 						</ParagraphStyleRange>
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenregeln">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Mods: Hochtechnologie, Ausklinken, Verstärkt</Content>
+								<Content>Mods: Ausklinken, Verstärkt</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -3119,81 +3171,34 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
+					<Cell Self="u9a217ibba1di22" Name="6:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>510 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
 				</Table>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Beispiele%3aBeispiel">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Tanto-11: Ein schlichtes Fabrikmesser aus einer Billigserie, die eigentlich für Küchenbedarf gedacht war. Die ersten Chargen hatten derart schlechte Griffe, dass Straßenkids sie als „Einwegstahl“ verspotteten – ironischerweise machte genau dieser Ruf sie später beliebt, weil niemand sie je einem Profi zutraute.</Content>
+				<Content>Plast-Messer: Ein schlichtes Fabrikmesser aus einer Billigserie, die eigentlich für Küchenbedarf gedacht war. Die ersten Chargen hatten derart schlechte Griffe, dass Straßenkids sie als „Einwegstahl“ verspotteten.</Content>
 				<Br />
-				<Content>MFD Baton: Ein modularer Schlagstock der Sicherheitsfirma MFD – ursprünglich als nicht-tödliches Werkzeug für übermüdete U-Bahn-Wachen konzipiert. Die frühen Modelle hatten eine nervige Sprachansage („Bitte beruhigen Sie sich!“), die heute deaktiviert ist… meistens.</Content>
+				<Content>Baton: Ein Schlagstock und das „nicht-tödliche“ Werkzeug für firmeninternes Wachpersonal und Polizeikräfte. </Content>
 				<Br />
-				<Content>LCM Tomahawk: Leicht, faltbar und absurd scharf. Eigentlich als Werkzeug für Kletterteams entwickelt – aber die ersten Käufer nutzten ihn vor allem, um Türen aufzubrechen oder Getränkeautomaten zu zerlegen. LCM behauptet bis heute, das Faltgelenk sei „unzerstörbar“, was jeder Tomahawk-Besitzer widerlegen kann.</Content>
+				<Content>LCM Tomahawk: Leicht, faltbar und scharf. Eigentlich als Werkzeug für Kletterteams entwickelt, nutzten die ersten Käufer ihn vor allem, um Türen aufzubrechen oder Getränkeautomaten zu zerlegen. LCM behauptet bis heute, das Faltgelenk sei „unzerstörbar“, was jeder Tomahawk-Besitzer widerlegen kann.</Content>
 				<Br />
-				<Content>Brute Hammer MK2: Ein viel zu schwerer Vorschlaghammer aus der Brute-Serie, die beim Transport sogar Förderbänder überlastete. Der Hersteller bewarb ihn als „Werkzeug für extreme Situationen“, was viele Schlägerbanden als persönliche Einladung verstanden.</Content>
+				<Content>Brute Hammer MK2: Ein Vorschlaghammer aus der Brute-Serie, die beim Transport sogar Förderbänder überlastete. Der Hersteller bewarb ihn als „Werkzeug für extreme Situationen“, was viele Schlägerbanden als persönliche Einladung verstanden.</Content>
 				<Br />
 				<Content>Chainblade Seca: Ein handlicher Kettenklingen-Hybrid, dessen Motor beim Start ein schrilles „Siiiiiika!“ von sich gibt – daher der Name. Die Zielgruppe waren angeblich Techniker für Bergungsarbeiten, aber 80% der Käufe stammen von Leuten, die das Ding einfach cool fanden.</Content>
 				<Br />
 				<Content>Goliath Speer: Ein langer Verbundwerkstoffspeer, ursprünglich für Tierkontrollteams gedacht. Der Hersteller unterschätzte völlig, wie beliebt er beim städtischen Ritualkampf-Sport werden würde – heute ist der Speer mehr Sportgerät als Waffe.</Content>
 				<Br />
 				<Content>Mono-Greatsaw: Ein gigantisches Sägeblatt mit monomolekularer Schneide. Die Produktion ist so teuer, dass jede einzelne Waffe handnummeriert ist. Manche Modelle erzeugen beim Durchtrennen von Metall einen leisen, pfeifenden Ton, der Sammler schwören lässt, der Sound sei „glücklich“.</Content>
-				<Br />
-				<Content>Aegis Breacher: Kombinierter Rammbock und Schild, entworfen für Rettungseinheiten. Ironischerweise ist er bei Einbrechergruppen noch beliebter – anscheinend funktioniert er bei Türen in beide Richtungen gleich gut.</Content>
-				<Br />
-				<Content>Titan Maul: Eine monumentale Kriegskeule, die ursprünglich als industrieller Zerkleinerer für Bauschutt geplant war. Die Ingenieure hatten nie vorgesehen, dass Menschen das Ding schwingen – bis ein schwer gepanzerter Bodybuilder ein Video postete, wie er es doch tat. Seitdem ist es Kult.</Content>
-				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 4">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Kampfmesser</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Ein Kampfmesser mit einer Klingenlänge von ca. 20cm ist ein gängiges Werkzeug und Notfallwaffe bei jedem Soldaten und Survival-Enthusiasten.</Content>
-				<Br />
-				<Content>Die Klinge besteht aus einer hochwertigen, rostfreien Stahllegierung, der Griff aus ergonomisch geformtem Kunststoff. Kurzum: Ein klassisches, funktionales Design.</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Italic">
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 4">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Machete</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Bei einer Machete handelt es sich um eine 40cm lange, einseitig geschliffene Klinge. Über dem Griff befindet sich eine kleine Parierstange, die hauptsächlich dazu dient, die Hand davor zu schützen, abzurutschen.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 4">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Schlagstock</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Der Schlagstock dient vor allem bei Sicherheits- und Polizeikräften als gängige, nicht-tödliche Nahkampfwaffe. Der Kern eines Schlagstockes besteht meist aus einem festen, bruchsicheren Kunststoff, ummantelt von einem etwas weicheren Material.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 4">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Kampfstab</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Der Kampfstab ist eine Waffe, die in verschiedenen Kampfsportarten zum Einsatz kommt. Einige Version sind nur 1,5m lang, andere reichen bis 2m Länge. Je nach Kampfkunst bestehen Kampfstäbe aus Kunststoff, Metall oder auch ganz traditionell Holz.</Content>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Black" FontStyle="Regular">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -3212,7 +3217,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabelle Span">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Table Self="u9a217ibb952" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="10" ColumnCount="6" AppliedTableStyle="TableStyle/Standardtabelle" TableDirection="LeftToRightDirection">
+				<Table Self="u9a217ibb952" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="10" ColumnCount="7" AppliedTableStyle="TableStyle/Standardtabelle" TableDirection="LeftToRightDirection">
 					<Row Self="u9a217ibb952Row0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleRowHeight="19.888555211345043" />
 					<Row Self="u9a217ibb952Row1" Name="1" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
 					<Row Self="u9a217ibb952Row2" Name="2" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
@@ -3220,16 +3225,17 @@
 					<Row Self="u9a217ibb952Row4" Name="4" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
 					<Row Self="u9a217ibb952Row5" Name="5" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
 					<Row Self="u9a217ibb952Row6" Name="6" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
-					<Row Self="u9a217ibb952Row7" Name="7" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
+					<Row Self="u9a217ibb952Row7" Name="7" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="43.81926387276236" />
 					<Row Self="u9a217ibb952Row8" Name="8" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
-					<Row Self="u9a217ibb952Row9" Name="9" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
-					<Row Self="u9a217ibb952Rowa" Name="10" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
-					<Column Self="u9a217ibb952Column0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="216.37795275572438" />
+					<Row Self="u9a217ibb952Row9" Name="9" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="43.81926387276236" />
+					<Row Self="u9a217ibb952Rowa" Name="10" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="43.81926387276236" />
+					<Column Self="u9a217ibb952Column0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="164.40944881889766" />
 					<Column Self="u9a217ibb952Column1" Name="1" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="53.070866141702105" />
 					<Column Self="u9a217ibb952Column2" Name="2" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="53.070866141702105" />
 					<Column Self="u9a217ibb952Column3" Name="3" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="53.070866141702105" />
 					<Column Self="u9a217ibb952Column4" Name="4" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="53.070866141702105" />
 					<Column Self="u9a217ibb952Column5" Name="5" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="53.070866141702105" />
+					<Column Self="u9a217ibb952Column6" Name="6" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="53.070866141702105" />
 					<Cell Self="u9a217ibb952i0" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -3272,10 +3278,17 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
+					<Cell Self="u9a217ibb952i42" Name="6:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
 					<Cell Self="u9a217ibb952i6" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>KF M2 „Breachling“</Content>
+								<Content>KF M2</Content>
 								<Br />
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
@@ -3320,10 +3333,17 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
+					<Cell Self="u9a217ibb952i43" Name="6:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>145 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
 					<Cell Self="u9a217ibb952ic" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>MSP „Civic Companion 22“</Content>
+								<Content>Civic Companion 22</Content>
 								<Br />
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
@@ -3368,10 +3388,17 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
+					<Cell Self="u9a217ibb952i44" Name="6:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>165 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
 					<Cell Self="u9a217ibb952i12" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>NS VX-2 „Fluxcaster“</Content>
+								<Content>Nehru VX-2 „Fluxcaster“</Content>
 								<Br />
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
@@ -3416,10 +3443,19 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
+					<Cell Self="u9a217ibb952i45" Name="6:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>210 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
 					<Cell Self="u9a217ibb952i18" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>VT L-40 „Hardbeam“</Content>
+								<Content>VT Hardbeam L-40</Content>
+							</CharacterStyleRange>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 								<Br />
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
@@ -3461,6 +3497,13 @@
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibb952i46" Name="6:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>185 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -3512,10 +3555,17 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
+					<Cell Self="u9a217ibb952i47" Name="6:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>350 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
 					<Cell Self="u9a217ibb952i24" Name="0:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>KF T5 „Storm Maul“</Content>
+								<Content>KF T5</Content>
 								<Br />
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
@@ -3557,6 +3607,13 @@
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibb952i48" Name="6:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>305 KP</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -3608,6 +3665,13 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
+					<Cell Self="u9a217ibb952i49" Name="6:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>510 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
 					<Cell Self="u9a217ibb952i30" Name="0:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -3656,10 +3720,17 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
+					<Cell Self="u9a217ibb952i4a" Name="6:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>430 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
 					<Cell Self="u9a217ibb952i36" Name="0:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Kronos G-77 „Titanfall Pike“</Content>
+								<Content>Kronos G-77</Content>
 								<Br />
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
@@ -3704,10 +3775,19 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
+					<Cell Self="u9a217ibb952i4b" Name="6:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>690 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
 					<Cell Self="u9a217ibb952i3c" Name="0:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>ADS HX-12 „Annihilator Railset“</Content>
+								<Content>ADS Railset Typ 4</Content>
+							</CharacterStyleRange>
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 								<Br />
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
@@ -3752,38 +3832,36 @@
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
+					<Cell Self="u9a217ibb952i4c" Name="6:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" VerticalJustification="CenterAlign">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>795 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
 				</Table>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Beispiele%3aBeispiel">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>VT A-01 „Stinger“: Schlicht, kalt, robust. VAN-TEC fertigt diese Pistole in denselben Fabriken wie ihre Industriemaschinen — angeblich sei genau das der Grund, warum sie auch nach Jahren noch funktioniert, obwohl niemand sich daran erinnert, sie je gereinigt zu haben.</Content>
+				<Content>KF M2: Kronos Forge setzt bei ihren Waffen, Rüstungen und sonsten Equiptment auf Haltbarkeit. Diesem Ideal stellen sie alles andere hinten an. Das hat zu Folge, dass die M2 so schwer und kantig ist, dass einige Soldaten sie als improvisierten Hammer zweckentfremden — mit überraschend guten Ergebnissen.</Content>
 				<Br />
-				<Content>ADS P-Delta-9 „Needleframe“: Arasys Dynamics wollte ursprünglich ein chirurgisches Gerät entwickeln. Die Marketingabteilung bestand jedoch darauf, dass es „mehr nach Waffe klingt“. Das Ergebnis ist eine präzise Handfeuerwaffe, mit der Ästhetik eines medizinischen Instrumentes.</Content>
-				<Br />
-				<Content>TPW KP-7 „Wasp</Content>
-				<Content>line“: Eine experimentelle Pistole mit mehr freien Kabeln als nötig. TPW behauptet, das sei „Teil der Charakteristik“ und „vereinfache die Wartung und Reparaturen“. Nutzer berichten, dass sich das Gerät bei Dauerfeuer leicht selbst motiviert anhört.</Content>
-				<Br />
-				<Content>KF M2 „Breachling“: Kronos Forge gießt jede Waffe wie ein Ritualgegenstand. Die M2 ist so schwer und kantig, dass einige Soldaten sie als improvisierten Hammer zweckentfremden — mit überraschend guten Ergebnissen.</Content>
-				<Br />
-				<Content>MSP „Civic Companion 22“: Mit einer Marketingkampange gerichtet an die untere Mittelschicht in gefährlicheren Ecken von Städten war wie MSP-CC-22 bald eine der meistgekauften Waffen in zivilem Besitz. Die bunte Farbpalette führte letztlich jedoch dazu, dass sie oft in Jugendzentren zu finden war.</Content>
+				<Content>Civic Companion 22: Mit einer Marketingkampange gerichtet an die untere Mittelschicht in gefährlicheren Ecken von Städten war wie Companion-22 bald eine der meistgekauften Waffen in zivilem Besitz. Die bunte Farbpalette führte letztlich jedoch dazu, dass sie oft in Jugendzentren zu finden war.</Content>
 				<Br />
 				<Content>Nehru VX-2 „Fluxcaster“: Nehru Systems verbaute hier aus Versehen ein zu starkes Energiekompressionsmodul. Man entschied sich, es drin zu lassen und den Energiezellen-Port modular zu verbauen, sodass der Fluxcaster auch mit Hochleistungsenergiezellen oder externer Energieversorgung betrieben werden kann.</Content>
 				<Br />
-				<Content>VT L-40 „Hardbeam“: Eine Waffe, die aussieht wie ein Heizkörperrohr mit Griff. Perfekt für enge Räume, aber sie streut so stark, dass VT im Handbuch den Satz eingefügt hat: „Nicht in der Nähe von verbündetem Personal verwenden.“</Content>
+				<Content>VT Hardbeam L-40: Eine Waffe, die aussieht wie ein Heizkörperrohr mit Griff. Perfekt für enge Räume, aber sie streut so stark, dass VT im Handbuch den Satz eingefügt hat: „Nicht in der Nähe von verbündetem Personal verwenden.“</Content>
 				<Br />
-				<Content>ADS R-12 „Glasslance“: Arasys Dynamics behauptet, die R-12 sei „präzise wie Licht selbst“. Sie ist tatsächlich gut – aber bei zu viel Feuchtigkeit läuft das interne Sensorsystem in eine Kalibrierungsschleife und verweigert die Zielhilfe.</Content>
+				<Content>KF T5: Die T5 ist eine der wenigen, auf dem Markt erfolgreichen, Panzerbüchsen für Infantrie. Sie arbeitet auf Basis einer Railgun. Sie ist bei Kolonisten extrem beliebt, um sich gegen Piraten in leicht gepanzerten Schiffen und Fahrzeugen zu verteidigen.</Content>
 				<Br />
-				<Content>KF T5 „Storm Maul“: Diese schwere Donnerwaffe hat einen so brutalen Rückstoß, dass Kronos Forge empfohlen hat, sie „ausschließlich mit dem mitgelieferten, selbstverankerndem Zweibein“ zu führen. Trotzdem ist sie bei Kolonialtruppen extrem beliebt.</Content>
+				<Content>Nehru LX-90 „Longwave Injector“: Ein Präzisionsgerät, das eher wie ein wissenschaftliches Instrument wirkt. Es war ursprünglich als Werkzeug für planetare Bohrsonden gedacht — jetzt ist es ein Liebling für Heckenschützen, die Ziele „viel weiter trifft als moralisch vertretbar“.</Content>
 				<Br />
-				<Content>NS LX-90 „Longwave Injector“: Ein Präzisionsgerät, das eher wie ein wissenschaftliches Instrument wirkt. Es war ursprünglich als Werkzeug für planetare Bohrsonden gedacht — jetzt ist es ein Scharfschützenliebling, der Ziele „viel weiter trifft als moralisch vertretbar“.</Content>
+				<Content>TPW P4X „Prism Arc“: Niemand weiß, warum Tachikoma Pattern Works entschied, eine Waffe für Militärs freizugeben, deren Chassis bei mehrfachen Feuern anfängt zu irisieren. Die Entwickler sagen, es wäre ein Nebeneffekt des Hitzeverteilungssystems, das die Betriebstemperatur regelt. Die Standardvariante der P4X ist daher kaum im Kampfeinsatz zu sehen. Stattdessen brachte TPW einige Jahre später die P4X „Shadow Arc“ auf dem Markt, die exakt die gleiche Bauweise hat, jedoch mit einem zusätzlichen matten Karbon-Finish.</Content>
 				<Br />
-				<Content>TPW P4X „Prism Arc“: Niemand weiß, warum Tachikoma Pattern Works entschied, eine Waffe für Militärs freizugeben, die bei mehrfachen Feuern anfängt zu irisieren. Die Entwickler sagen, es wäre ein Nebeneffekt des Hitzeverteilungssystems, das die Betriebstemperatur regelt. Die Standardvariante der P4X ist daher kaum im Kampfeinsatz zu sehen. Stattdessen brachte TPW einige Jahre später die P4X „Shadow Arc“ auf dem Markt, die exakt die gleiche Bauweise hat, jedoch mit einem zusätzlichen matten Karbon-Finish.</Content>
+				<Content>KF G-77: Eine Panzerbüchse, die man eigentlich mit einer Crew geführt werden sollte. Das Ladesystem ist für eine einzelne Person so unhandlich, dass ohne einen Ladeschützen die angegebene Kadenz von 50 Schüssen pro Minute unmöglich einzuhalten ist. </Content>
 				<Br />
-				<Content>KF G-77 „Titanfall Pike“: Eine Panzerbüchse, die man eigentlich mit einer Crew führen sollte. Das Ladesystem ist für eine einzelne Person so unhandlich, dass ohne einen Ladeschützen die angegebene Kadenz von 50 Schüssen pro Minute unmöglich einzuhalten ist. </Content>
-				<Br />
-				<Content>ADS HX-12 „Annihilator Railset“: ADS wollte beweisen, dass sie die stärkste tragbare Schusswaffe der Welt produzieren können. Sie haben es geschafft – und dabei das Thema Ergonomie völlig außen vorgelassen. Anwender tragen sie wie einen heiligen Gegenstand… oder ein sehr wütendes Musikinstrument.</Content>
+				<Content>ADS Railset Typ 4: ADS wollte beweisen, dass sie die stärkste tragbare Schusswaffe der Welt produzieren können. Sie haben es geschafft – und dabei das Thema Ergonomie völlig außen vorgelassen. Anwender tragen sie wie einen heiligen Gegenstand… oder ein sehr wütendes Musikinstrument.</Content>
 				<Br />
 				<Br />
 			</CharacterStyleRange>
@@ -3796,7 +3874,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Magnetwaffen (kurz „Mags“) sind der aktuelle Standard des Spiralarms. Obwohl die Theorie dahinter verhältnismäßig komplex ist, ist die Herstellung inzwischen so weit optimiert, dass verlässliche Mags für einen geringen Preis industriell gefertigt werden können.</Content>
+				<Content>Magnetwaffen (kurz „Mags“) sind der aktuelle Standard des Spiralarms. Obwohl die Theorie dahinter verhältnismäßig komplex ist, ist die Herstellung inzwischen so weit optimiert, dass verlässl</Content>
+				<Content>iche Mags für einen geringen Preis industriell gefertigt werden können.</Content>
 				<Br />
 				<Content>Eine Mag hat einen Lauf mit mindestens zwei Spulen, zwischen denen ein Magnetfeld aufgebaut wird. Ein Geschoss wird dazwischen beschleunigt und ganz ohne Schießpulver oder bewegliche Teile abgefeuert. Mags verwenden in der Regel Magazine, wie konventionelle .</Content>
 				<Br />
@@ -3812,7 +3891,7 @@
 					<Content>Energiewaffe (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ubb575" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="55" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ubb575" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="54" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -4072,7 +4151,7 @@
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabelle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Table Self="u9a217i9a190" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="5" ColumnCount="3" AppliedTableStyle="TableStyle/Standardtabelle" TableDirection="LeftToRightDirection">
-					<Row Self="u9a217i9a190Row0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleRowHeight="39.08855521134505" MinimumHeight="15" AutoGrow="true" />
+					<Row Self="u9a217i9a190Row0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleRowHeight="19.888555211345043" MinimumHeight="15" AutoGrow="true" />
 					<Row Self="u9a217i9a190Row1" Name="1" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="16.549972534179688" MinimumHeight="15" AutoGrow="true" />
 					<Row Self="u9a217i9a190Row2" Name="2" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="16.549972534179688" MinimumHeight="15" AutoGrow="true" />
 					<Row Self="u9a217i9a190Row3" Name="3" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="16.549972534179688" MinimumHeight="15" AutoGrow="true" />
@@ -4089,12 +4168,9 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u9a217i9a190i15" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" ClipContentToCell="false">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf" Justification="CenterAlign">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Größe </Content>
-							</CharacterStyleRange>
-							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="8">
-								<Content>Schaden AE-Kosten</Content>
+								<Content>Größe</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -4113,7 +4189,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u9a217i9a190i1" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="4" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 								<Content>1</Content>
 							</CharacterStyleRange>
@@ -4134,7 +4210,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u9a217i9a190i5" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 								<Content>2</Content>
 							</CharacterStyleRange>
@@ -4155,7 +4231,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u9a217i9a190i9" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 								<Content>3</Content>
 							</CharacterStyleRange>
@@ -4176,7 +4252,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u9a217i9a190id" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 								<Content>4</Content>
 							</CharacterStyleRange>
@@ -4197,7 +4273,7 @@
 						</ParagraphStyleRange>
 					</Cell>
 					<Cell Self="u9a217i9a190i11" Name="1:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 								<Content>5</Content>
 							</CharacterStyleRange>
@@ -4211,6 +4287,583 @@
 						</ParagraphStyleRange>
 					</Cell>
 				</Table>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenüberschrift span">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Beispiele für digitale Waffen</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabelle Span">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Table Self="u9a217ibd01c" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="10" ColumnCount="6" AppliedTableStyle="TableStyle/Standardtabelle" TableDirection="LeftToRightDirection">
+					<Row Self="u9a217ibd01cRow0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleRowHeight="19.888555211345043" />
+					<Row Self="u9a217ibd01cRow1" Name="1" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
+					<Row Self="u9a217ibd01cRow2" Name="2" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
+					<Row Self="u9a217ibd01cRow3" Name="3" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
+					<Row Self="u9a217ibd01cRow4" Name="4" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
+					<Row Self="u9a217ibd01cRow5" Name="5" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
+					<Row Self="u9a217ibd01cRow6" Name="6" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
+					<Row Self="u9a217ibd01cRow7" Name="7" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
+					<Row Self="u9a217ibd01cRow8" Name="8" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
+					<Row Self="u9a217ibd01cRow9" Name="9" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
+					<Row Self="u9a217ibd01cRowa" Name="10" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="33.019263872762366" />
+					<Column Self="u9a217ibd01cColumn0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="206.22047244094495" />
+					<Column Self="u9a217ibd01cColumn1" Name="1" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="54.957225253412915" />
+					<Column Self="u9a217ibd01cColumn2" Name="2" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="54.957225253412915" />
+					<Column Self="u9a217ibd01cColumn3" Name="3" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="54.957225253412915" />
+					<Column Self="u9a217ibd01cColumn4" Name="4" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="54.957225253412915" />
+					<Column Self="u9a217ibd01cColumn5" Name="5" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleColumnWidth="54.957225253412915" />
+					<Cell Self="u9a217ibd01ci0" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Bezeichnung &amp; Mods</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci1" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Größe</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci2" Name="2:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>MK</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci3" Name="3:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>DS</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci4" Name="4:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>S</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci11" Name="5:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci6" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Synapse Forge Kernelblade X9 </Content>
+								<Br />
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenregeln">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Mods: Dauerangriff</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci7" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>0</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci8" Name="2:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>1</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci9" Name="3:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>1</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01cia" Name="4:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>0</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci10" Name="5:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>115 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci12" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>VoidMesh Dynamics Pro </Content>
+								<Br />
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenregeln">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Mods: Verstärkt</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci13" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>0</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci14" Name="2:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>1</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci15" Name="3:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>1</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci16" Name="4:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>0</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01cif" Name="5:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>115 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci41" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>AegisNet Arms R12C </Content>
+								<Br />
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenregeln">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Mods: Parallelisierung, Synchronisiert</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci40" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>0</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci3f" Name="2:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci3e" Name="3:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci3d" Name="4:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>0</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01cie" Name="5:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>235 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci3b" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Obsidian Protocols Null NP‑7A </Content>
+								<Br />
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenregeln">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Mods: Angepasst, Reflexartig</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci3a" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>1</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci39" Name="2:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci38" Name="3:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>3</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci37" Name="4:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>1</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01cid" Name="5:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>245 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci35" Name="0:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Helix Cryptotek Echoclaw E‑2S </Content>
+								<Br />
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenregeln">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Mods: Panzerbrechend, Reichweitenvorteil</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci34" Name="1:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>1</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci33" Name="2:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci32" Name="3:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>3</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci31" Name="4:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>1</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01cic" Name="5:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>245 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci2f" Name="0:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Meridian Systems Flux Plattform </Content>
+								<Br />
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenregeln">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Mods: Dauerangriff, Gepanzert</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci2e" Name="1:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>1</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci2d" Name="2:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci2c" Name="3:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>3</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci2b" Name="4:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>1</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci23" Name="5:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>245 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci29" Name="0:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Synapse Forge TraceSilencer </Content>
+								<Br />
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenregeln">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Mods: Streuung, Lädieren</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci28" Name="1:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci27" Name="2:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci26" Name="3:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>4</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci25" Name="4:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>1</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci22" Name="5:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>265 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci21" Name="0:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>CryoVector Phase Splicer PZ‑4 </Content>
+								<Br />
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenregeln">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Mods: Bollwerk, Zielsuchend</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci20" Name="1:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci1f" Name="2:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci1e" Name="3:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>4</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci1d" Name="4:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>1</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci1b" Name="5:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>265 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci1a" Name="0:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Cerberus Dynamics G‑X 14 </Content>
+								<Br />
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenregeln">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Mods: Effizient, Routiniert, Detailarbeit</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci19" Name="1:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>3</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci18" Name="2:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>3</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci42" Name="3:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>6</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci43" Name="4:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci45" Name="5:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>450 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci46" Name="0:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Nucleus Pro Package</Content>
+								<Br />
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenregeln">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Mods: Angepasst, Hochtechnologie, Faltsystem</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci47" Name="1:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>3</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci48" Name="2:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>3</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci49" Name="3:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>6</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci4a" Name="4:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>2</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u9a217ibd01ci4c" Name="5:10" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" Justification="CenterAlign">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>450 KP</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+				</Table>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Beispiele%3aBeispiel">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Synapse Forge Kernelblade X9: Das Kernelblade X9 ist ein kompaktes Exploit‑Array, das persistent Prozesse anbohrt und fehlerhafte Threads in eine kontrollierte Endlosschleife zwingt. Im Feld bewährt sich die X9 durch ihren „Dauerangriff“‑Modus: einmal aktiviert, hält sie einen konstanten Injektionsstrom, bis das Ziel zerstört oder die Verbindung unterbrochen wird. Techniker loben die robuste Fehlertoleranz; Sicherheitsdienste kennen sie als stille Systemstörer.</Content>
+				<Br />
+				<Content>VoidMesh Dynamics Pro: Der VMD Pro ist ein taktischer Packet‑Splitter, der gezielte Datenfragmente mit adaptiven Fehlerkorrekturen ausspuckt. Durch die „Verstärkt“‑Mod liefert die VMD Pro aufeinanderfolgende, verstärkte Treffer, die Schutzmaßnahmen schneller überlasten als einfache Flood‑Tools. Betreiber schätzen die modulare Filterbank, die das Gerät für gezielte Sabotageaufträge optimiert.</Content>
+				<Br />
+				<Content>AegisNet Arms R12C: Der R12C ist ein kommerzielles Angriffsarray, das mehrere Payload‑Streams simultan abfeuert und komplexe Ziele simultan belastet. Seine „Parallelisierung“ reduziert die Kosten für Folgeaktionen, während „Synchronisiert“ die Effekte mehrerer Streams auf ein synchrones Ergebnis bündelt — ideal für koordinierte Netzausfälle. Der R12C ist in Sicherheitskreisen wegen seiner Effizienz und Skalierbarkeit berüchtigt.</Content>
+				<Br />
+				<Content>Obsidian Protocolworks Null NP‑7A: Der Null NP‑7A ist ein spezialisiertes Exploit‑Toolkit, das sich dynamisch an Host‑Architekturen anpasst. Mit „Angepasst“ kann das NP‑7A seine Modulklasse on‑the‑fly erhöhen; „Reflexartig“ erlaubt sofortige, reaktive Gegenmaßnahmen gegen Abwehrproben — eine Kombination, die das NP‑7A bei Undercover‑Einsätzen besonders gefährlich macht. Entwickler heben die diskrete Signatur und das geringe Footprint hervor.</Content>
+				<Br />
+				<Content>Helix Cryptotek Echoclaw E‑2S: Die Echoclaw E‑2S ist ein Infiltrationspaket, das gezielt Verteidigungsprotokolle unterminiert. „Panzerbrechend“ reduziert dauerhaft die Ziel‑Defenses, während „Reichweitenvorteil“ die effektive Zielreichweite der Exploits vergrößert — kombiniert ideal gegen stark gehärtete Knoten. Geheimdienste bezeichnen die E‑2S als Waffe gegen geschützte Serverfarmen.</Content>
+				<Br />
+				<Content>Meridian Systems Flux Plattform FP‑ND: Die Flux Plattform ist ein Angriffs‑ und Sprunggerät für längere Kampagnen; „Dauerangriff“ ermöglicht lang andauernde Payload‑Streams, „Gepanzert“ schützt die Plattform gegen Gegenangriffe und Forensik. Feldoperatoren nutzen Flux für Sabotageoperationen, bei denen Persistenz wichtiger ist als Heimlichkeit. Wartungsteams schätzen die austauschbaren Puffer und redundanten Arrays.</Content>
+				<Br />
+				<Br />
+				<Content>Synapse Forge TraceSilencer T‑5: Der TraceSilencer T‑5 ist ein Signature‑Obfuscator mit integriertem Dispersionskern: „Streuung“ verteilt Signaturen über mehrere Kanäle, „Lädieren“ fügt getroffenen Zielen laufende Kompromittierungen hinzu, die deren Wiederherstellungsaufwand erhöhen. Einsatzprofile zeigen, dass T‑5 ideal ist, wenn Spuren verwischt und gleichzeitig langfristiger Schaden angestrebt wird. Compliance‑Offiziere warnen vor hohem forensischem Risiko.</Content>
+				<Br />
+				<Content>CryoVector Industries PhaseSplice PZ‑4: Der PhaseSplice PZ‑4 ist ein defensiv‑orientiertes Tool mit aggressiven Optionen: „Bollwerk“ erzeugt eine schützende Zone, die Reflexabwehr gegen Angreifer stärkt; „Zielsuchend“ macht einzelne Payloads extrem präzise gegen priorisierte Prozesse. Die Kombination erlaubt es dem PZ‑4, sich sowohl selbst zu verteidigen als auch präzise Gegenangriffe zu starten — beliebt bei autoritären Netzadministrationen.</Content>
+				<Br />
+				<Content>Cerberus Dynamics G‑X 14 GateRend: Der GateRend G‑X 14 ist ein vielseitiges Entry‑System: „Effizient“ reduziert Aktionskosten, „Routiniert“ verbessert wiederholte Routine‑Versuche, „Detailarbeit“ erlaubt das konservative Zurückstellen und Verfeinern von Prozessergebnissen. GateRend‑Teams verwenden das G‑X 14 für komplexe Infiltrationen, bei denen präzise, wiederholbare Arbeit mehr zählt als rohe Gewalt. Seine Benutzeroberfläche bietet umfangreiche Taktikmodule.</Content>
+				<Br />
+				<Content>NucleusWorks ZeroLatch ZP‑Pack: Das ZeroLatch‑Paket ist ein Premium‑Suite für langfristige Implantationen: „Angepasst“ erlaubt dynamische MK‑Erhöhungen, „Hochtechnologie“ gewährt temporäre +1‑Vorteile auf kritische Module, und „Faltsystem“ macht die Suite physisch kompakt für verdeckte Einsätze. Auf dem Schwarzmarkt gilt das ZP‑Pack als teures, aber extrem flexibles Toolkit für Agenten, die Stapelbarkeit und Mobilität benötigen.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -4234,7 +4887,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Das digitale Accessoire überhaupt ist das Datapad oder kurz einfach nur ein Pad. Als geistiger Nachfolger des Smartphones hat sich in Sachen Bedienung und Funktionsumfang in der breiten Masse überraschend wenig über die letzten Jahrhunderte geändert. Die meisten nutzen ihr Pad vor allem für soziale Medien und generell als Unterhaltungsmedium. </Content>
+				<Content>Das digitale Accessoire überhaupt ist das Datapad oder kurz einfach nur ein Pad. Als geistiger Nachfolger des Smartphones hat sich in Sachen Bedienung und Funktionsumfang in der breiten Masse überraschend wenig über die letzten Jahrhunderte geändert. Die meisten nutzen ihr Pad vor allem für soziale Medien und generell als Unterhaltungsmediu</Content>
+				<Content>m. </Content>
 				<Br />
 				<Content>In der Wirtschaft dienen Datapads als mobiler Arbeitscomputer, Diagnosetool und sogar Server-Modul. </Content>
 				<Br />
@@ -4266,8 +4920,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Wo Datapads nicht ausreichen, kommen Terminals zum Einsatz. Ein Terminal ist ein Cortex-Arbei</Content>
-				<Content>tsplatz, in seiner Größe vergleichbar mit (und auch hervorgegangen aus) einem Desktop-PC des 21. Jahrhunderts.</Content>
+				<Content>Wo Datapads nicht ausreichen, kommen Terminals zum Einsatz. Ein Terminal ist ein Cortex-Arbeitsplatz, in seiner Größe vergleichbar mit (und auch hervorgegangen aus) einem Desktop-PC des 21. Jahrhunderts.</Content>
 				<Br />
 				<Content>Terminals haben im Schnitt mehr Rechenleistung und sind einfacher an ihre Hauptaufgaben anzupassen und zu warten. Programmierfirmen bis zu KI-Laboren verwenden für den Großteil ihrer Arbeit Terminals.</Content>
 				<Br />
@@ -5110,7 +5763,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Mit einem soliden Grundverständnis in Elektrontechnik, Werkstoffkunde und einer Prise gesundem Menschenverstand kommt man überraschend weit.</Content>
+				<Content>Mit einem soliden Grundverständnis in Elektrontechnik, Werkstoffkunde und einer Prise gesundem Men</Content>
+				<Content>schenverstand kommt man überraschend weit.</Content>
 				<Br />
 				<Content>Improvisieren beschreibt die Tätigkeit, mit Behelfsmitteln an etwas zu arbeiten, um entweder Sicherheitsfunktionen zu umgehen, oder eine vorrübergehende Leistungssteigerung zu erzielen. Solche „Projekte“ sind nicht immer ungefährlich und nicht selten machen Bastler erstmal etwas schlimmer, bevor es besser wird.</Content>
 				<Br />
@@ -5147,8 +5801,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Der Charakter baut etwas aus Einzelteilen, die er zur Verfügung hat. Die Spielleitung kann festlegen, dass der Charakter für sein Projekt Baupläne braucht, falls er etwas bauen möchte, das eine Lize</Content>
-				<Content>nz erfordert oder verboten ist. Bei frei verfügbaren Gegenständen wird davon ausgegangen, dass es irgendwo im Cortex brauchbare DIY-Tutorials für Bastler gibt.</Content>
+				<Content>Der Charakter baut etwas aus Einzelteilen, die er zur Verfügung hat. Die Spielleitung kann festlegen, dass der Charakter für sein Projekt Baupläne braucht, falls er etwas bauen möchte, das eine Lizenz erfordert oder verboten ist. Bei frei verfügbaren Gegenständen wird davon ausgegangen, dass es irgendwo im Cortex brauchbare DIY-Tutorials für Bastler gibt.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -5385,7 +6038,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Gezielte Nebenwirkung: Jedes Toxin kann dem Ziel vorrübergenende Handicaps geben. Jedes Handicap senkt den Schaden um 1W. Alle Handicaps werden übertragen, wenn mindestens 1 TP Schaden durch das Toxin angerichtet wird.</Content>
+				<Content>Gezielte Nebenwirkung: Jedes Toxin kann dem Ziel</Content>
+				<Content> vorrübergenende Handicaps geben. Jedes Handicap senkt den Schaden um 1W. Alle Handicaps werden übertragen, wenn mindestens 1 TP Schaden durch das Toxin angerichtet wird.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -5433,8 +6087,7 @@
 				<Br />
 				<Content>Chemische Zündung: Sobald der Sprengstoff mit einer festgelegten Chemikalie (die mindestens dieselbe MK haben muss, wie der Sprengstoff), explodiert sie.</Content>
 				<Br />
-				<Content>Elektronische</Content>
-				<Content> Zündung: Wird einem Gerät, das mit dem Sprengstoff verbunden ist, via Cortex ein Befehl geben, explodiert er.</Content>
+				<Content>Elektronische Zündung: Wird einem Gerät, das mit dem Sprengstoff verbunden ist, via Cortex ein Befehl geben, explodiert er.</Content>
 				<Br />
 				<Content>Mechanische Zündung: Sobald der Sprengstoff droht Schaden zu nehmen oder ein Mechanismus mit einem Routine bedient wird, explodiert er.</Content>
 				<Br />
@@ -5505,15 +6158,15 @@
 			<Destination type="object">n</Destination>
 		</Properties>
 	</Hyperlink>
+	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
+		<ColorGroupSwatch Self="u18ColorGroupSwatch3" SwatchItemRef="Color/Black" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch4" SwatchItemRef="Color/OptionaleRegeln" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch2" SwatchItemRef="Color/Paper" />
+	</ColorGroup>
 	<ColorGroup Self="ColorGroup/Basisfarben" Name="Basisfarben" IsRootColorGroup="false">
 		<ColorGroupSwatch Self="u9c916ColorGroupSwatch3" SwatchItemRef="Color/C=100 M=68 Y=0 K=55" />
 		<ColorGroupSwatch Self="u9c916ColorGroupSwatch4" SwatchItemRef="Color/C=100 M=100 Y=0 K=70" />
 		<ColorGroupSwatch Self="u9c916ColorGroupSwatch1" SwatchItemRef="Color/C=49 M=27 Y=0 K=38" />
-	</ColorGroup>
-	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
-		<ColorGroupSwatch Self="u18ColorGroupSwatch4" SwatchItemRef="Color/OptionaleRegeln" />
-		<ColorGroupSwatch Self="u18ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
-		<ColorGroupSwatch Self="u18ColorGroupSwatch2" SwatchItemRef="Color/Paper" />
-		<ColorGroupSwatch Self="u18ColorGroupSwatch3" SwatchItemRef="Color/Black" />
 	</ColorGroup>
 </Document>

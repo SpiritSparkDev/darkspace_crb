@@ -191,12 +191,6 @@
 					<PreviewColor type="enumeration">Nothing</PreviewColor>
 				</Properties>
 			</ParagraphStyle>
-			<ParagraphStyle Self="ParagraphStyle/Überschriften%3aHeading 5" Name="Überschriften:Heading 5" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="19c13466-c459-43d9-b932-c28f79f121df" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="14">
-				<Properties>
-					<BasedOn type="object">ParagraphStyle/Überschriften%3aHeading 4</BasedOn>
-					<PreviewColor type="enumeration">Nothing</PreviewColor>
-				</Properties>
-			</ParagraphStyle>
 		</ParagraphStyleGroup>
 		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="93e18f4b-5e18-477b-be3f-4d56bf80e860" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" PointSize="9" Hyphenation="false" MinimumGlyphScaling="80">
 			<Properties>
@@ -618,6 +612,10 @@
                   <stEvt:when>2024-12-10T21:14:52+01:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe InCopy 20.0 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>converted</stEvt:action>
@@ -4355,157 +4353,12 @@
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 4">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Beispielausrüstung</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="0">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>[...Tabelle mit Beispielausrüstung...]</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 5">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Messer</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Ein kompaktes, tödliches Werkzeug aus verlässlichem Stahl oder High-Tech Kunststoffklinge, perfekt für leise Angriffe oder schnelle Verteidigung.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 5">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Schlagstock</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Ein robuster Nahkampf-Stab, oft mit integriertem Elektroschocker oder kinetischer Verstärkung für maximale Wirkung.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 5">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Pistole</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Eine kompakte, ballistische Handfeuerwaffe, ideal für schnelle Feuergefechte und persönliche Verteidigung.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 5">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Karabiner</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Ein vielseitiges, kompaktes Sturmgewehr mit schlichtem Design, meist verwendet von Sicherheitskräften und kleinen Einsatzgruppen.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 5">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Datapad</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Für die meisten ein alltägliches Gerät und Fenster zum Cortex, zur Informationsverarbeitung, Kommunikation und für einige auch Hacking – unentbehrlich für jeden.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 5">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Terminal</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Ein stationärer oder tragbarer Knotenpunkt, der für die Wartung von Netzwerken genutzt wird, oft die erste Verteidigungslinie zu gesicherten Datenbanken und Steuerungssystemen.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 5">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Schutzanzug</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Eine flexible Schutzkleidung mit verstärkten Fasern, welches mit Umweltsiegelung versehen werden kann, um vor toxischen Atmosphären und Strahlung zu schützen.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 5">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Rüstung</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Verstärkte Schutzkleidung mit integrierten Panzerplatten und Energiedämpfern, konzipiert für Gefechte in extremen Umgebungen.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 5">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Vollanzug</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Eine Anzug-Plattform, die für Schiffsbesetzungen mit wenigen Modifikationen hermetisch versiegelt werden kann und durch das Nachrüsten mit Lebenserhaltungssystem, ideal für das Vakuum des Alls oder feindliche Planetenoberflächen.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 5">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Cortex-Interface</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Ein neuronaler Datenport, der das Gehirn direkt mit Computern oder Netzwerken verbindet – mit potenziellen Risiken für Geist und Seele.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 5">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Kybernetische Arme und Beine</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Biomechanische Prothesen aus widerstandsfähigen Biopolymeren und optionalen Werkzeugen oder Waffensystemen.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 5">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Cyborg-Körper</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Ein nahezu vollständig synthetischer Körper mit einem Interface für ein lebendes, menschliches Gehirn. Jeder Körper kann nach den Spezifikationen des zukünftigen Trägers gebaut und nachträglich modifiziert werden.</Content>
-			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=100 M=68 Y=0 K=55">
 				<Br />
 			</CharacterStyleRange>
@@ -4556,8 +4409,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Bioroiden sind einem Menschen noch sehr ähnlich, aber anders genug, um als Lebensform zweiter Klasse zu gelten - dafür wurden sie letztendlich auch geschaffen: Komplexe, künstliche Menschen, die Tätigkeiten ausführen sollen, bei denen ein Mensch am besten geeignet ist, aber trotzdem so gefährlich oder so spezifisch, dass der Einsatz eines „echten“ Menschen als nicht vorteilhaft betrachtet wird.</Content>
 				<Br />
-				<Content>Bioroiden findet man am meisten im Einsatz von Adligen, wo sie als Leibdiener oder Privatarmee geschaffen wurden. Bioroiden werden von Einigen als absolut ersetzbar angesehen, auch wenn die Wissenschaft sich einig d</Content>
-				<Content>arüber ist, dass ein Bioroide dieselben Erfahrungen sammelt und dieselben Gefühle hat wie ein Mensch. </Content>
+				<Content>Bioroiden findet man am meisten im Einsatz von Adligen, wo sie als Leibdiener oder Privatarmee geschaffen wurden. Bioroiden werden von Einigen als absolut ersetzbar angesehen, auch wenn die Wissenschaft sich einig darüber ist, dass ein Bioroide dieselben Erfahrungen sammelt und dieselben Gefühle hat wie ein Mensch. </Content>
 				<Br />
 				<Content>Anders als Klone werden Bioroiden aus vorhandenen Organen und Artifizierungen gebaut. Ein Bioroid hat daher kein Konzept von Kindheit oder dem, mit dem heranwachsenden Reifeprozess verbundenen, sozialen, mentalen und hormonellen Veränderungen. </Content>
 				<Br />
@@ -4593,7 +4445,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Eine KI ist eine vollständig synthetische, körperlose Lebensform. Sie sind wie wandernde Seelen oder Geister in den Weiten des Cortex, aus dem Sie entsprungen sind.</Content>
 				<Br />
-				<Content>Allgemein werden KIs für allwissende Superintelligenzen gehalten, was formal auch richtig, aber praktisch ein falsches Bild von KIs zeichnet. Eine KI braucht Zugriff zu Daten. Sie können sich nur an Informationen erinnern, auf die sie auch Zugriff haben. Viele KIs legen eigene Gedächtnisspeicher an, aber auch diese sind nicht immun gegen digitalen Vandalismus oder Schaden an ihrer Hardware. </Content>
+				<Content>Allgemein werden KIs für allwissende Superintelligenzen gehalten, was formal auch richtig, aber praktisch ein falsches Bild von KIs zeichnet. Eine KI braucht Zugriff zu Daten. Sie können sich nur </Content>
+				<Content>an Informationen erinnern, auf die sie auch Zugriff haben. Viele KIs legen eigene Gedächtnisspeicher an, aber auch diese sind nicht immun gegen digitalen Vandalismus oder Schaden an ihrer Hardware. </Content>
 				<Br />
 				<Content>Zu was eine KI konkret in der Lage ist, hängt von der KI ab. Einige sind Navigatoren, andere sind Politiker, Anwälte oder Techniker. Büroarbeit, Verwaltungsaufgaben und generell alles, was keinen Körper erfordert, kann von einer KI schneller und effizienter ausgeführt werden als von Menschen. Die meisten Kolonien, Raumstation und Schiffe überlassen KIs daher den Papierkram – und wenig überraschend sind die Aufgaben, die eine KIs nicht nur in wenigen Sekunden bearbeiten kann nicht gerade geistig fordernd.</Content>
 				<Br />
@@ -4711,8 +4564,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Unvollständig: Mit den empfohlenen 2000 Start-Erfahrungspunkten ist eine gute Darstellung eines Adeligen schwierig. Jedoch können damit junge Adelige mit wenig Erfahrung nicht unvollständig aktivierten genetischen Verbesserungen dargestellt werden.</Content>
 				<Br />
-				<Content>Biologische Reinheit: Adelige lassen sich gemeinhin keine gewöhnlichen Artifizierungen einsetzen. Artifizierungen, die der Charakter erhält, stellen frisch aktivierte genetische Ausprägungen dar, die der Charakter von Geburt an trägt. Mit Zustimmung des Spielleiters kan</Content>
-				<Content>n der Charakter die Probe für </Content>
+				<Content>Biologische Reinheit: Adelige lassen sich gemeinhin keine gewöhnlichen Artifizierungen einsetzen. Artifizierungen, die der Charakter erhält, stellen frisch aktivierte genetische Ausprägungen dar, die der Charakter von Geburt an trägt. Mit Zustimmung des Spielleiters kann der Charakter die Probe für </Content>
 				<HyperlinkTextSource Self="ub4640" Name="Hyperlink 274" Hidden="false" AppliedCharacterStyle="n">
 					<Content>Einkauf</Content>
 				</HyperlinkTextSource>
@@ -4882,7 +4734,8 @@
 				<Br />
 				<Content>Rolle im Kampf: Allrounder / sekundäre Unterstützung</Content>
 				<Br />
-				<Content>Kennt jede Kiste, jede Batterie, jedes Ersatzteil und trägt immer das, was gerade fehlt.</Content>
+				<Content>Kennt jede Kiste, jede Batterie, jedes Ersatzteil und trägt immer das, was gerade feh</Content>
+				<Content>lt.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
