@@ -681,6 +681,10 @@
                   <stEvt:action>converted</stEvt:action>
                   <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <xmpMM:DerivedFrom rdf:parseType="Resource">
@@ -1074,7 +1078,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aEigenschaftText">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Pro Aktivierung wird die Fertigkeitsstufe der Probe nochmals auf das Ergebnis der Probe addiert.</Content>
+				<Content>Pro Aktivierung wird der Bonus (Fertigkeit oder Modulklasse) der Probe nochmals auf das Ergebnis der Probe addiert.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1123,14 +1127,14 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicapText">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Die aktuelle Handlungen kostet 1 AE mehr.</Content>
+				<Content>Die aktuelle Handlungen kostet </Content>
+				<Content>1 AE mehr.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aHandicap">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Gestress</Content>
-				<Content>t</Content>
+				<Content>Gestresst</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1313,7 +1317,7 @@
 				<Br />
 				<Content>Falls der Gegenstand nicht fest verbaut ist, kann er jeden anderen Gegenstand oder Charakter schützen, zu dem er physischen Kontakt hat (bzw. im selben Netzwerk ist).</Content>
 				<Br />
-				<Content>Erleidet ein gepanzertes Ziel Schaden, senkt der Gegenstand den Schaden um die Anzahl der Aktivierungen.</Content>
+				<Content>Erleidet ein gepanzertes Ziel Schaden, senkt der Gegenstand den Schaden um die Anzahl der Aktivierungen (bis zu einem Maximum gleich der Größe).</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1412,7 +1416,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aEigenschaftText">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Durch zwei Aktivierungen wird das Nebenergebnis der Probe auf das Hauptergebnis gesetzt.</Content>
+				<Content>Das Ergebnis und Wirkung einer Aktion wird auf weiteres Ziel in Reichweite kopiert.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1957,14 +1961,14 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Eigenschaften%3aEigenschaftText">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Durch eine Aktivierung werden alle Würfel auf 6 gesetzt. </Content>
+				<Content>Durch eine Akti</Content>
+				<Content>vierung werden alle Würfel auf 6 gesetzt. </Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Waffen-Hand</Content>
-				<Content>icaps</Content>
+				<Content>Waffen-Handicaps</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>

@@ -3,10 +3,10 @@
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="21.0" Self="d">
 	<Color Self="Color/C=100 M=68 Y=0 K=55" Model="Process" Space="CMYK" ColorValue="100 68 0 55.00000000000001" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=68 Y=0 K=55" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch3" />
+	<Color Self="Color/C=49 M=27 Y=0 K=38" Model="Process" Space="CMYK" ColorValue="49 27 0 38" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=49 M=27 Y=0 K=38" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch1" />
 	<Color Self="Color/C=100 M=100 Y=0 K=70" Model="Process" Space="CMYK" ColorValue="100 100 0 70" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=100 Y=0 K=70" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch4" />
 	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch2" />
 	<Color Self="Color/Patzer" Model="Process" Space="CMYK" ColorValue="0 87 76 32" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Patzer" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c914ColorGroupSwatch3" />
-	<Color Self="Color/C=49 M=27 Y=0 K=38" Model="Process" Space="CMYK" ColorValue="49 27 0 38" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=49 M=27 Y=0 K=38" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch1" />
 	<Color Self="Color/Erfolg" Model="Process" Space="CMYK" ColorValue="54 0 100 25" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Erfolg" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c914ColorGroupSwatch0" />
 	<Color Self="Color/Krit" Model="Process" Space="CMYK" ColorValue="100 65 0 0" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Krit" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c914ColorGroupSwatch2" />
 	<Color Self="Color/Misserfolg" Model="Process" Space="CMYK" ColorValue="3 56.00000000000001 100 23" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Misserfolg" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c914ColorGroupSwatch1" />
@@ -635,6 +635,10 @@
                   <stEvt:action>converted</stEvt:action>
                   <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <dc:format>application/x-incopy</dc:format>
@@ -680,6 +684,15 @@
                   <xmpG:magenta>68</xmpG:magenta>
                   <xmpG:yellow>0</xmpG:yellow>
                   <xmpG:black>55.00000000000001</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>C=49 M=27 Y=0 K=38</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>49</xmpG:cyan>
+                  <xmpG:magenta>27</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>38</xmpG:black>
                </rdf:li>
             </rdf:Seq>
          </xmpTPg:Colorants>
@@ -1613,43 +1626,8 @@
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Nahezu alles, was ein Charakter tun kann, lässt sich in fünf Kategorien einteilen. Gegenstände und Mods machen es oft klar, welche Kategorie zur Anwendung kommt. Sollte es nicht ganz so eindeutig sein, hat wie üblich die Spielleitung das letzte Wort.</Content>
-				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 4">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Untersuchen</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Informationen über ein Ziel sammeln, seinen Zustand analysieren oder verborgene Details aufdecken.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Anwendung:</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> Nutze die passende Fertigkeit, um mehr über ein Ziel herauszufinden. Das Ziel muss nicht wissen, dass es untersucht wird – es kann sich auch selbst untersuchen wollen.</Content>
-				<Br />
-				<Content>Fertigkeitswahl: Die Wahl der Fertigkeit hängt davon ab:</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>WAS wird untersucht? (Technik, Personen, Gegenstände, Umgebung, Daten, soziale Situationen)</Content>
-				<Br />
-				<Content>WIE wird untersucht? (theoretisch durch Wissen, praktisch durch Tests, sozial durch Befragung, technisch durch Diagnose)</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Beispiele%3aBeispiel">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Diagnostizieren eines Geräts, Analysieren einer Situation, Befragen einer Person, Durchsuchen eines Raums.</Content>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=49 M=27 Y=0 K=38" FontStyle="Italic">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1691,50 +1669,6 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 4">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Steuern</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Aktive Kontrolle über das Ziel ausüben – sei es eine Person, eine Maschine, ein Implantat oder eine Situation. Die Steuerung kann direkt durch elektrische Signale oder indirekt durch Manipulation erfolgen.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Anwendung: Nutze die passende Fertigkeit, um das Ziel nach deinem Willen zu lenken oder zu beeinflussen.</Content>
-				<Br />
-				<Content>Fertigkeitswahl: </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> Steuerungsproben basieren auf der Fertigkeit, die die Art der Kontrolle am besten repräsentiert.</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>WAS wird gesteuert? (Personen, Maschinen, Implantate, Situationen, Gespräche)</Content>
-				<Br />
-				<Content>Über welchen Kanal? (direkt-technisch, ferngesteuert, sozial-manipulativ, mental)</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Beispiele%3aBeispiel">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>L</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>enken eines Fahrzeugs, Manipulieren eines Gesprächs, Fernsteuerung eines Geräts.</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 4">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Modifizieren</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -1764,6 +1698,75 @@
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Beispiele%3aBeispiel">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Reparieren eines beschädigten Geräts, Heilen eines Charakters mit einem MedKit, Hacking eines Systems, Modifikation von Beziehungen oder Meinungen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 4">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Steuern</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Aktive Kontrolle über das Ziel ausüben – sei es eine Person, eine Maschine, ein Implantat oder eine Situation. Die Steuerung kann direkt durch elektrische Signale oder indirekt durch Manipulation erfolgen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Anwendung: Nutze die passende Fertigkeit, um das Ziel nach deinem Willen zu lenken oder zu beeinflussen.</Content>
+				<Br />
+				<Content>Fertigkeitswahl:  Steuerungsproben basieren auf der Fertigkeit, die die Art der Kontrolle am besten repräsentiert.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>WAS wird gesteuert? (Personen, Maschinen, Implantate, Situationen, Gespräche)</Content>
+				<Br />
+				<Content>Über welchen Kanal? (direkt-technisch, ferngesteuert, sozial-manipulativ, mental)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Beispiele%3aBeispiel">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Lenken eines Fahrzeugs, Manipulieren eines Gesprächs, Fernsteuerung eines Geräts.</Content>
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 4">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Untersuchen</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Informationen über ein Ziel sammeln, seinen Zustand analysieren oder verborgene Details aufdecken.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Anwendung: Nutze die passende Fertigkeit, um mehr über ein Ziel herauszufinden. Das Ziel muss nicht wissen, dass es untersucht wird – es kann sich auch selbst untersuchen wollen.</Content>
+				<Br />
+				<Content>Fertigkeitswahl: Die Wahl der Fertigkeit hängt davon ab:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>WAS wird untersucht? (Technik, Personen, Gegenstände, Umgebung, Daten, soziale Situationen)</Content>
+				<Br />
+				<Content>WIE wird untersucht? (theoretisch durch Wissen, praktisch durch Tests, sozial durch Befragung, technisch durch Diagnose)</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Beispiele%3aBeispiel">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Diagnostizieren eines Geräts, Analysieren einer Situation, Befragen einer Person, Durchsuchen eines Raums.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2751,8 +2754,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Nach Plan: Bei einem Erfolg passiert, was auch immer der Spielende bezwecken wollte. Der Spielende kann rela</Content>
-				<Content>tiv frei beschreiben, wie die Probe erfolgreich abgeschlossen wird.</Content>
+				<Content>Nach Plan: Bei einem Erfolg passiert, was auch immer der Spielende bezwecken wollte. Der Spielende kann rel</Content>
+				<Content>ativ frei beschreiben, wie die Probe erfolgreich abgeschlossen wird.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2802,7 +2805,7 @@
 					<Content>Aktionseinheiten (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub44c8" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="97" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub44c8" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="98" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -2834,7 +2837,7 @@
 					<Content>Materialien (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub44cd" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="48" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub44cd" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="47" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -3514,8 +3517,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>In den Regeln wird von drei Arten von Modifikatoren gesprochen: Würfelpoolmodifkatoren, einer Modifikation de</Content>
-				<Content>s Ergebnisses oder einer Modifikation des Schwierigkeitsgrades.</Content>
+				<Content>In den Regeln wird von drei Arten von Modifikatoren gesprochen: Würfelpoolmodifkatoren, einer Modifikation d</Content>
+				<Content>es Ergebnisses oder einer Modifikation des Schwierigkeitsgrades.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -3689,8 +3692,8 @@
 	</Hyperlink>
 	<ColorGroup Self="ColorGroup/Basisfarben" Name="Basisfarben" IsRootColorGroup="false">
 		<ColorGroupSwatch Self="u9c916ColorGroupSwatch3" SwatchItemRef="Color/C=100 M=68 Y=0 K=55" />
-		<ColorGroupSwatch Self="u9c916ColorGroupSwatch4" SwatchItemRef="Color/C=100 M=100 Y=0 K=70" />
 		<ColorGroupSwatch Self="u9c916ColorGroupSwatch1" SwatchItemRef="Color/C=49 M=27 Y=0 K=38" />
+		<ColorGroupSwatch Self="u9c916ColorGroupSwatch4" SwatchItemRef="Color/C=100 M=100 Y=0 K=70" />
 		<ColorGroupSwatch Self="u9c916ColorGroupSwatch0" SwatchItemRef="Color/C=70 M=62 Y=0 K=39" />
 	</ColorGroup>
 	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
