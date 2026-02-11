@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="21.0(2)" ?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="21.1(56)" ?>
 <?aid SnippetType="InCopyInterchange"?>
-<Document DOMVersion="21.0" Self="d">
-	<Color Self="Color/C=100 M=68 Y=0 K=55" Model="Process" Space="CMYK" ColorValue="100 68 0 55.00000000000001" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=68 Y=0 K=55" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch3" />
-	<Color Self="Color/C=100 M=100 Y=0 K=70" Model="Process" Space="CMYK" ColorValue="100 100 0 70" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=100 Y=0 K=70" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch4" />
+<Document DOMVersion="21.1" Self="d">
+	<Color Self="Color/C=100 M=68 Y=0 K=55" Model="Process" Space="CMYK" ColorValue="100 68 0 55.00000000000001" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=68 Y=0 K=55" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatchf" />
+	<Color Self="Color/C=100 M=100 Y=0 K=70" Model="Process" Space="CMYK" ColorValue="100 100 0 70" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=100 Y=0 K=70" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch11" />
 	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch2" />
-	<Color Self="Color/C=49 M=27 Y=0 K=38" Model="Process" Space="CMYK" ColorValue="49 27 0 38" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=49 M=27 Y=0 K=38" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch1" />
+	<Color Self="Color/C=49 M=27 Y=0 K=38" Model="Process" Space="CMYK" ColorValue="49 27 0 38" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=49 M=27 Y=0 K=38" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch10" />
 	<Color Self="Color/OptionaleRegeln" Model="Process" Space="CMYK" ColorValue="0 56.00000000000001 100 50" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="OptionaleRegeln" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch4" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch3" />
-	<Color Self="Color/C=100 M=90 Y=10 K=0" Model="Process" Space="CMYK" ColorValue="100 90 10 0" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=90 Y=10 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch2" />
+	<Color Self="Color/C=100 M=90 Y=10 K=0" Model="Process" Space="CMYK" ColorValue="100 90 10 0" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=90 Y=10 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch0" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="71.5651" ConvertToProcess="false" Frequency="63.2456" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="18.4349" ConvertToProcess="false" Frequency="63.2456" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="66.6667" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70.7107" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
 	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch0" />
-	<StrokeStyle Self="StrokeStyle/$ID/Straight Hash" Name="$ID/Straight Hash" />
 	<StrokeStyle Self="StrokeStyle/$ID/Solid" Name="$ID/Solid" />
 	<FontFamily Self="di3f" Name="Minion Pro">
 		<Font Self="di3fFontnMinion Pro Regular" FontFamily="Minion Pro" Name="Minion Pro Regular" PostScriptName="MinionPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro" FullNameNative="Minion Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="TkD-6817-9d7256bdae0175b7de0b3b2b9a1d4be7ad537ca8" />
@@ -103,13 +102,28 @@
 		<Font Self="dia993fFontnArial Bold Italic" FontFamily="Arial" Name="Arial Bold Italic" PostScriptName="Arial-BoldItalicMT" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Bold Italic" FullNameNative="Arial Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 7.03" TypekitID="$ID/" />
 		<Font Self="dia993fFontnArial Black" FontFamily="Arial" Name="Arial Black" PostScriptName="Arial-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Black" FullNameNative="Arial Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 5.23" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="dic053c" Name="Aptos Display">
-		<Font Self="dic053cFontnAptos Display Regular" FontFamily="Aptos Display" Name="Aptos Display Regular" PostScriptName="" Status="NotAvailable" FontStyleName="$ID/Regular" FontType="Unknown" WritingScript="0" FullName="" FullNameNative="" FontStyleNameNative="Aptos Display" PlatformName="$ID/Aptos Display" Version="" TypekitID="$ID/" />
+	<FontFamily Self="dic450f" Name="Symbol">
+		<Font Self="dic450fFontnSymbol Regular" FontFamily="Symbol" Name="Symbol Regular" PostScriptName="SymbolMT" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Symbol" FullNameNative="Symbol" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 5.01" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="dic053d" Name="Aptos">
-		<Font Self="dic053dFontnAptos Regular" FontFamily="Aptos" Name="Aptos Regular" PostScriptName="" Status="NotAvailable" FontStyleName="$ID/Regular" FontType="Unknown" WritingScript="0" FullName="" FullNameNative="" FontStyleNameNative="Aptos" PlatformName="$ID/Aptos" Version="" TypekitID="$ID/" />
-		<Font Self="dic053dFontnAptos Bold" FontFamily="Aptos" Name="Aptos Bold" PostScriptName="" Status="NotAvailable" FontStyleName="$ID/Bold" FontType="Unknown" WritingScript="0" FullName="" FullNameNative="" FontStyleNameNative="Aptos" PlatformName="$ID/Aptos" Version="" TypekitID="$ID/" />
-		<Font Self="dic053dFontnAptos Italic" FontFamily="Aptos" Name="Aptos Italic" PostScriptName="" Status="NotAvailable" FontStyleName="$ID/Italic" FontType="Unknown" WritingScript="0" FullName="" FullNameNative="" FontStyleNameNative="Aptos" PlatformName="$ID/Aptos" Version="" TypekitID="$ID/" />
+	<FontFamily Self="dic8b4d" Name="Montserrat (TT)">
+		<Font Self="dic8b4dFontnMontserrat (TT) Thin" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Thin" PostScriptName="MontserratRoman-Thin" Status="Substituted" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Montserrat Thin" FullNameNative="Montserrat Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="dic8b4dFontnMontserrat (TT) ExtraLight" FontFamily="Montserrat (TT)" Name="Montserrat (TT) ExtraLight" PostScriptName="MontserratRoman-ExtraLight" Status="Substituted" FontStyleName="ExtraLight" FontType="TrueType" WritingScript="0" FullName="Montserrat ExtraLight" FullNameNative="Montserrat ExtraLight" FontStyleNameNative="ExtraLight" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="dic8b4dFontnMontserrat (TT) Light" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Light" PostScriptName="MontserratRoman-Light" Status="Substituted" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Montserrat Light" FullNameNative="Montserrat Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="dic8b4dFontnMontserrat (TT) Regular" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Regular" PostScriptName="MontserratRoman-Regular" Status="Substituted" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Montserrat Regular" FullNameNative="Montserrat Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="dic8b4dFontnMontserrat (TT) Medium" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Medium" PostScriptName="MontserratRoman-Medium" Status="Substituted" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Montserrat Medium" FullNameNative="Montserrat Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="dic8b4dFontnMontserrat (TT) SemiBold" FontFamily="Montserrat (TT)" Name="Montserrat (TT) SemiBold" PostScriptName="MontserratRoman-SemiBold" Status="Substituted" FontStyleName="SemiBold" FontType="TrueType" WritingScript="0" FullName="Montserrat SemiBold" FullNameNative="Montserrat SemiBold" FontStyleNameNative="SemiBold" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="dic8b4dFontnMontserrat (TT) Bold" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Bold" PostScriptName="MontserratRoman-Bold" Status="Substituted" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Montserrat Bold" FullNameNative="Montserrat Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="dic8b4dFontnMontserrat (TT) ExtraBold" FontFamily="Montserrat (TT)" Name="Montserrat (TT) ExtraBold" PostScriptName="MontserratRoman-ExtraBold" Status="Substituted" FontStyleName="ExtraBold" FontType="TrueType" WritingScript="0" FullName="Montserrat ExtraBold" FullNameNative="Montserrat ExtraBold" FontStyleNameNative="ExtraBold" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="dic8b4dFontnMontserrat (TT) Black" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Black" PostScriptName="MontserratRoman-Black" Status="Substituted" FontStyleName="Black" FontType="TrueType" WritingScript="0" FullName="Montserrat Black" FullNameNative="Montserrat Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="dic8b4dFontnMontserrat (TT) Thin Italic" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Thin Italic" PostScriptName="MontserratItalic-Thin" Status="Substituted" FontStyleName="Thin Italic" FontType="TrueType" WritingScript="0" FullName="Montserrat Thin Italic" FullNameNative="Montserrat Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="dic8b4dFontnMontserrat (TT) ExtraLight Italic" FontFamily="Montserrat (TT)" Name="Montserrat (TT) ExtraLight Italic" PostScriptName="MontserratItalic-ExtraLight" Status="Substituted" FontStyleName="ExtraLight Italic" FontType="TrueType" WritingScript="0" FullName="Montserrat ExtraLight Italic" FullNameNative="Montserrat ExtraLight Italic" FontStyleNameNative="ExtraLight Italic" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="dic8b4dFontnMontserrat (TT) Light Italic" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Light Italic" PostScriptName="MontserratItalic-Light" Status="Substituted" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Montserrat Light Italic" FullNameNative="Montserrat Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="dic8b4dFontnMontserrat (TT) Italic" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Italic" PostScriptName="MontserratItalic-Regular" Status="Substituted" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Montserrat Italic" FullNameNative="Montserrat Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="dic8b4dFontnMontserrat (TT) Medium Italic" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Medium Italic" PostScriptName="MontserratItalic-Medium" Status="Substituted" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Montserrat Medium Italic" FullNameNative="Montserrat Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="dic8b4dFontnMontserrat (TT) SemiBold Italic" FontFamily="Montserrat (TT)" Name="Montserrat (TT) SemiBold Italic" PostScriptName="MontserratItalic-SemiBold" Status="Substituted" FontStyleName="SemiBold Italic" FontType="TrueType" WritingScript="0" FullName="Montserrat SemiBold Italic" FullNameNative="Montserrat SemiBold Italic" FontStyleNameNative="SemiBold Italic" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="dic8b4dFontnMontserrat (TT) Bold Italic" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Bold Italic" PostScriptName="MontserratItalic-Bold" Status="Substituted" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Montserrat Bold Italic" FullNameNative="Montserrat Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="dic8b4dFontnMontserrat (TT) ExtraBold Italic" FontFamily="Montserrat (TT)" Name="Montserrat (TT) ExtraBold Italic" PostScriptName="MontserratItalic-ExtraBold" Status="Substituted" FontStyleName="ExtraBold Italic" FontType="TrueType" WritingScript="0" FullName="Montserrat ExtraBold Italic" FullNameNative="Montserrat ExtraBold Italic" FontStyleNameNative="ExtraBold Italic" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
+		<Font Self="dic8b4dFontnMontserrat (TT) Black Italic" FontFamily="Montserrat (TT)" Name="Montserrat (TT) Black Italic" PostScriptName="MontserratItalic-Black" Status="Substituted" FontStyleName="Black Italic" FontType="TrueType" WritingScript="0" FullName="Montserrat Black Italic" FullNameNative="Montserrat Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 8.000" TypekitID="$ID/" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua9" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -239,14 +253,6 @@
 					<SameParaStyleSpacing type="unit">0</SameParaStyleSpacing>
 				</Properties>
 			</ParagraphStyle>
-			<ParagraphStyle Self="ParagraphStyle/Tabellenformate%3aTabellenregeln" Name="Tabellenformate:Tabellenregeln" Imported="false" NextStyle="ParagraphStyle/Tabellenformate%3aTabellenregeln" SplitDocument="false" EmitCss="true" StyleUniqueId="421c57ea-5289-433d-864e-6377e6b4d2b4" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FillColor="Color/C=100 M=100 Y=0 K=70" LeftIndent="11.338582677165356" ParagraphBorderLeftOffset="-5.669291338582678" ParagraphBorderBottomOffset="2.834645669291339">
-				<Properties>
-					<BasedOn type="object">ParagraphStyle/Regeltexte%3aRegelfeld</BasedOn>
-					<PreviewColor type="enumeration">Nothing</PreviewColor>
-					<ParagraphBorderColor type="object">Color/C=100 M=100 Y=0 K=70</ParagraphBorderColor>
-					<ParagraphBorderType type="object">StrokeStyle/$ID/Straight Hash</ParagraphBorderType>
-				</Properties>
-			</ParagraphStyle>
 			<ParagraphStyle Self="ParagraphStyle/Tabellenformate%3aTabellen-Subtext" Name="Tabellenformate:Tabellen-Subtext" Imported="false" NextStyle="ParagraphStyle/Tabellenformate%3aTabellen-Subtext" SplitDocument="false" EmitCss="true" StyleUniqueId="b5045894-8154-4602-b099-b7f61bfe8b1a" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Regular" PointSize="10" Tracking="0" LeftIndent="14.173228346456694" RightIndent="14.173228346456694" SpaceBefore="0">
 				<Properties>
 					<BasedOn type="object">ParagraphStyle/Tabellenformate%3aTabellenüberschrift</BasedOn>
@@ -317,14 +323,14 @@
 			</ParagraphStyle>
 		</ParagraphStyleGroup>
 		<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Regeltexte" Name="$ID/Regeltexte">
-			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aRegelfeld" Name="Regeltexte:Regelfeld" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aRegelfeld" SplitDocument="false" EmitCss="true" StyleUniqueId="cb04de7f-4837-4400-8072-236397dc9287" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FillColor="Color/C=100 M=68 Y=0 K=55" LeftIndent="5.669291338582678" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678">
+			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aRegelfeld" Name="Regeltexte:Regelfeld" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aRegelfeld" SplitDocument="false" EmitCss="true" StyleUniqueId="1204c164-f8db-4fd3-80a2-f69ff4dbdba0" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" FillColor="Color/C=100 M=68 Y=0 K=55" LeftIndent="5.669291338582678" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678">
 				<Properties>
 					<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
 					<PreviewColor type="enumeration">Nothing</PreviewColor>
 					<AllGREPStyles type="list">
 						<ListItem type="record">
 							<AppliedCharacterStyle type="object">CharacterStyle/Inline-Probe</AppliedCharacterStyle>
-							<GrepExpression type="string">([\l\u]+)-Probe (\s*\([^)]*\))?</GrepExpression>
+							<GrepExpression type="string">([\l\u]+)-(Probe|Bewegung|Modifikation|Steuerung|Untersuchung|Vermeidung) (\s*\([^)]*\))?</GrepExpression>
 						</ListItem>
 						<ListItem type="record">
 							<AppliedCharacterStyle type="object">CharacterStyle/Standardformate%3aBold</AppliedCharacterStyle>
@@ -349,13 +355,14 @@
 					<ParagraphBorderColor type="object">Color/OptionaleRegeln</ParagraphBorderColor>
 				</Properties>
 			</ParagraphStyle>
-			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung" Name="Regeltexte:RegelfeldAufzählung" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung" SplitDocument="false" EmitCss="true" StyleUniqueId="16df381f-2ad4-455d-bb53-8593ec143114" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" LeftIndent="42.51968503937008" FirstLineIndent="-14.173228346456694" BulletsAndNumberingListType="BulletList">
+			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung" Name="Regeltexte:RegelfeldAufzählung" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung" SplitDocument="false" EmitCss="true" StyleUniqueId="a547a75b-1ba3-4592-be69-71f62f34f7fd" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" LeftIndent="42.51968503937008" FirstLineIndent="-14.173228346456694" BulletsAndNumberingListType="BulletList">
 				<Properties>
 					<BasedOn type="object">ParagraphStyle/Regeltexte%3aRegelfeld</BasedOn>
 					<PreviewColor type="enumeration">Nothing</PreviewColor>
 					<BulletChar BulletCharacterType="UnicodeWithFont" BulletCharacterValue="9658" />
 					<BulletsFont type="string">Arial</BulletsFont>
 					<BulletsFontStyle type="string">Regular</BulletsFontStyle>
+					<SameParaStyleSpacing type="unit">0</SameParaStyleSpacing>
 				</Properties>
 			</ParagraphStyle>
 			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aRegelFeldHead" Name="Regeltexte:RegelFeldHead" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aRegelfeld" SplitDocument="false" EmitCss="true" StyleUniqueId="2ac925b3-07d1-4c3d-be58-e0ab779102fc" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="false" KeyboardShortcut="0 0" PointSize="11" LeftIndent="0" SpaceBefore="8.503937007874017" SpaceAfter="5.669291338582678">
@@ -733,6 +740,10 @@
                   <stEvt:action>converted</stEvt:action>
                   <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <xmpMM:DerivedFrom rdf:parseType="Resource">
@@ -784,6 +795,15 @@
                   <xmpG:magenta>68</xmpG:magenta>
                   <xmpG:yellow>0</xmpG:yellow>
                   <xmpG:black>55.00000000000001</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>C=100 M=100 Y=0 K=70</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>100</xmpG:cyan>
+                  <xmpG:magenta>100</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>70</xmpG:black>
                </rdf:li>
             </rdf:Seq>
          </xmpTPg:Colorants>
@@ -938,7 +958,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Table Self="u998c6ib4551" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="10" ColumnCount="2" AppliedTableStyle="TableStyle/Standardtabelle" TableDirection="LeftToRightDirection">
 					<Row Self="u998c6ib4551Row0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleRowHeight="19.888555211345043" />
-					<Row Self="u998c6ib4551Row1" Name="1" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="87.01926387276235" />
+					<Row Self="u998c6ib4551Row1" Name="1" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="59.749972534179676" />
 					<Row Self="u998c6ib4551Row2" Name="2" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="59.749972534179676" />
 					<Row Self="u998c6ib4551Row3" Name="3" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="59.749972534179676" />
 					<Row Self="u998c6ib4551Row4" Name="4" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="59.749972534179676" />
@@ -975,12 +995,6 @@
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 								<Content>Konsumorientiert: Die Gesellschaft legt großen Wert auf Konsum und materiellen Wohlstand. Der Besitz von Luxusgütern und das Streben nach materiellen Erfolgen stehen im Mittelpunkt des Lebens. </Content>
-								<Br />
-							</CharacterStyleRange>
-						</ParagraphStyleRange>
-						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenregeln">
-							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Arm und Reich: Abweichung des Einkommens +1</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -1125,7 +1139,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Table Self="u998c6ib455d" HeaderRowCount="1" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="10" ColumnCount="2" AppliedTableStyle="TableStyle/Standardtabelle" TableDirection="LeftToRightDirection">
 					<Row Self="u998c6ib455dRow0" Name="0" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleRowHeight="19.888555211345043" />
-					<Row Self="u998c6ib455dRow1" Name="1" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="70.54997253417967" />
+					<Row Self="u998c6ib455dRow1" Name="1" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="59.749972534179676" />
 					<Row Self="u998c6ib455dRow2" Name="2" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="70.54997253417967" />
 					<Row Self="u998c6ib455dRow3" Name="3" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="81.34997253417967" />
 					<Row Self="u998c6ib455dRow4" Name="4" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" SingleRowHeight="59.749972534179676" />
@@ -1161,7 +1175,7 @@
 					<Cell Self="u998c6ib455di1" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Monotheistisch-Institutionell: Aus deiner Heimat weißt du genau, es gibt eine Kirche bzw. Tempel unter einem Gott. Kirche bzw. Tempel sind dabei der Dreh und Angelpunkt der Gemeinde und das Bindeglied, ohne das alles einfach ohne Ziel und Zweck auseinanderfallen würde.</Content>
+								<Content>Monotheistisch-Institutionell: Es gibt einen Gott. Genau einen Gott. Kirche bzw. Tempel sind dabei der Dreh und Angelpunkt der Gemeinde und das Bindeglied, ohne das alles einfach ohne Ziel und Zweck auseinanderfallen würde.</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -1175,7 +1189,7 @@
 					<Cell Self="u998c6ib455di3" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Monotheistisch-Spirituell: Da draußen ist etwas Großes, viel größer als die Menschheit oder sogar das Universum. Der Versuch, so etwas in menschliche Strukturen zu Bannen und unter Bürokratie und Gesetzen zu ersticken ist fast schon frevelhaft.</Content>
+								<Content>Monotheistisch-Spirituell: Da draußen ist etwas Großes, viel größer als die Menschheit oder sogar das Universum. Der Versuch, so etwas in menschliche Strukturen zu zwängen und unter Bürokratie und Gesetzen zu ersticken ist fast schon frevelhaft.</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -1817,7 +1831,7 @@
 					<Cell Self="u998c6ib4583i11" Name="1:9" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Romantisch: Zarte Stoffe, verspielte Details und feminine Silhouetten verleihen diesem romantischen Stil einen Hauch von Eleganz und Nostalgie.</Content>
+								<Content>Romantisch: Zarte Stoffe, verspielte Details und betonte Silhouetten verleihen diesem romantischen Stil einen Hauch von Eleganz und Nostalgie.</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -3693,7 +3707,7 @@
 					<Content>Mods (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub4617" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="49" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub4617" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="59" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -3720,7 +3734,7 @@
 					<Content>Stress (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub4619" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="23" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub4619" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="33" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -3737,7 +3751,7 @@
 					<Content>Handicaps (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub461c" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="50" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub461c" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="60" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -4284,7 +4298,7 @@
 					<Content>Maschinen (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub4633" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="92" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub4633" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="103" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -4319,7 +4333,7 @@
 					<Content>Artifzierungen (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub4636" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="94" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub4636" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="105" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -4347,8 +4361,6 @@
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Cortex-Monitor: Ein Charakter mit Artifizierungen hat einen Cortex-Monitor.</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -4443,7 +4455,7 @@
 					<Content>Netzwerke S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub463c" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="84" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub463c" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="95" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 			</CrossReferenceSource>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -4765,7 +4777,7 @@
 					<Content>Handlungen (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ubc5e6" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="100" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ubc5e6" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="111" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -5014,7 +5026,7 @@
 					<Content>Einkaufen (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub4667" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="118" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub4667" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="131" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -5076,64 +5088,64 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 	</Story>
-	<Hyperlink Self="ub466a" Name="Querverweis 131" Source="ub4618" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="18651">
+	<Hyperlink Self="ub466a" Name="Querverweis 131" Source="ub4618" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" EpubAriaRole="" HypherlinkAltText="" DestinationUniqueKey="18651">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">n</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="ub466b" Name="Querverweis 134" Source="ub461b" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="21533">
+	<Hyperlink Self="ub466b" Name="Querverweis 134" Source="ub461b" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" EpubAriaRole="" HypherlinkAltText="" DestinationUniqueKey="21533">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">n</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="ub466c" Name="Querverweis 132" Source="ub461d" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="18650">
+	<Hyperlink Self="ub466c" Name="Querverweis 132" Source="ub461d" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" EpubAriaRole="" HypherlinkAltText="" DestinationUniqueKey="18650">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">n</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="ub466e" Name="Maschinen 2" Source="ub4634" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="18544">
+	<Hyperlink Self="ub466e" Name="Maschinen 2" Source="ub4634" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" EpubAriaRole="" HypherlinkAltText="" DestinationUniqueKey="18544">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">n</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="ub466f" Name="hier 1" Source="ub4637" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="18622">
+	<Hyperlink Self="ub466f" Name="hier 1" Source="ub4637" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" EpubAriaRole="" HypherlinkAltText="" DestinationUniqueKey="18622">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">n</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="ub4670" Name="Querverweis 123" Source="ub463d" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="18555">
+	<Hyperlink Self="ub4670" Name="Querverweis 123" Source="ub463d" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" EpubAriaRole="" HypherlinkAltText="" DestinationUniqueKey="18555">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">n</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="ubc5e7" Name="Querverweis 121" Source="ubc5e5" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="21529">
+	<Hyperlink Self="ubc5e7" Name="Querverweis 121" Source="ubc5e5" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" EpubAriaRole="" HypherlinkAltText="" DestinationUniqueKey="21529">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">n</Destination>
 		</Properties>
 	</Hyperlink>
-	<Hyperlink Self="ub4672" Name="Querverweis 116" Source="ub4668" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="21528">
+	<Hyperlink Self="ub4672" Name="Querverweis 116" Source="ub4668" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" EpubAriaRole="" HypherlinkAltText="" DestinationUniqueKey="21528">
 		<Properties>
 			<BorderColor type="enumeration">Black</BorderColor>
 			<Destination type="object">n</Destination>
 		</Properties>
 	</Hyperlink>
-	<ColorGroup Self="ColorGroup/Basisfarben" Name="Basisfarben" IsRootColorGroup="false">
-		<ColorGroupSwatch Self="u9c916ColorGroupSwatch3" SwatchItemRef="Color/C=100 M=68 Y=0 K=55" />
-		<ColorGroupSwatch Self="u9c916ColorGroupSwatch4" SwatchItemRef="Color/C=100 M=100 Y=0 K=70" />
-		<ColorGroupSwatch Self="u9c916ColorGroupSwatch1" SwatchItemRef="Color/C=49 M=27 Y=0 K=38" />
-		<ColorGroupSwatch Self="u9c916ColorGroupSwatch2" SwatchItemRef="Color/C=100 M=90 Y=10 K=0" />
-	</ColorGroup>
 	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
+		<ColorGroupSwatch Self="u18ColorGroupSwatchf" SwatchItemRef="Color/C=100 M=68 Y=0 K=55" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch11" SwatchItemRef="Color/C=100 M=100 Y=0 K=70" />
 		<ColorGroupSwatch Self="u18ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
 		<ColorGroupSwatch Self="u18ColorGroupSwatch2" SwatchItemRef="Color/Paper" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch10" SwatchItemRef="Color/C=49 M=27 Y=0 K=38" />
 		<ColorGroupSwatch Self="u18ColorGroupSwatch4" SwatchItemRef="Color/OptionaleRegeln" />
 		<ColorGroupSwatch Self="u18ColorGroupSwatch3" SwatchItemRef="Color/Black" />
+	</ColorGroup>
+	<ColorGroup Self="ColorGroup/Basisfarben" Name="Basisfarben" IsRootColorGroup="false">
+		<ColorGroupSwatch Self="u9c916ColorGroupSwatch0" SwatchItemRef="Color/C=100 M=90 Y=10 K=0" />
 	</ColorGroup>
 </Document>
