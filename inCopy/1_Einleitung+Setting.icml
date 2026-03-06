@@ -2,7 +2,7 @@
 <?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="21.2(30)" ?>
 <?aid SnippetType="InCopyInterchange"?>
 <Document DOMVersion="21.2" Self="d">
-	<Color Self="Color/C=49 M=27 Y=0 K=38" Model="Process" Space="CMYK" ColorValue="49 27 0 38" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=49 M=27 Y=0 K=38" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatchf" />
+	<Color Self="Color/C=49 M=27 Y=0 K=38" Model="Process" Space="CMYK" ColorValue="49 27 0 38" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=49 M=27 Y=0 K=38" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch12" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="71.5651" ConvertToProcess="false" Frequency="63.2456" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="18.4349" ConvertToProcess="false" Frequency="63.2456" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="66.6667" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
@@ -74,8 +74,8 @@
 		<Font Self="di3b38cFontnBebas Neue Pro Expanded ExtraBold Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded ExtraBold Italic" PostScriptName="BebasNeuePro-ExpEbIt" Status="Installed" FontStyleName="Expanded ExtraBold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded ExtraBold Italic" FullNameNative="Bebas Neue Pro Expanded ExtraBold Italic" FontStyleNameNative="Expanded ExtraBold Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45084-ccd789a9e59c77ff23fc5da70c301ec2c52944f1" />
 	</FontFamily>
 	<FontFamily Self="di984c8" Name="Font Awesome 7 Free">
-		<Font Self="di984c8FontnFont Awesome 7 Free Regular" FontFamily="Font Awesome 7 Free" Name="Font Awesome 7 Free Regular" PostScriptName="FontAwesome7Free-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Font Awesome 7 Free Regular" FullNameNative="Font Awesome 7 Free Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 897.00390625 (Font Awesome version: 7.1.0)" TypekitID="$ID/" />
-		<Font Self="di984c8FontnFont Awesome 7 Free Solid" FontFamily="Font Awesome 7 Free" Name="Font Awesome 7 Free Solid" PostScriptName="FontAwesome7Free-Solid" Status="Installed" FontStyleName="Solid" FontType="OpenTypeCFF" WritingScript="0" FullName="Font Awesome 7 Free Solid" FullNameNative="Font Awesome 7 Free Solid" FontStyleNameNative="Solid" PlatformName="$ID/" Version="Version 897.00390625 (Font Awesome version: 7.1.0)" TypekitID="$ID/" />
+		<Font Self="di984c8FontnFont Awesome 7 Free Regular" FontFamily="Font Awesome 7 Free" Name="Font Awesome 7 Free Regular" PostScriptName="FontAwesome7Free-Regular" Status="Substituted" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Font Awesome 7 Free Regular" FullNameNative="Font Awesome 7 Free Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 897.00390625 (Font Awesome version: 7.1.0)" TypekitID="$ID/" />
+		<Font Self="di984c8FontnFont Awesome 7 Free Solid" FontFamily="Font Awesome 7 Free" Name="Font Awesome 7 Free Solid" PostScriptName="FontAwesome7Free-Solid" Status="Substituted" FontStyleName="Solid" FontType="OpenTypeCFF" WritingScript="0" FullName="Font Awesome 7 Free Solid" FullNameNative="Font Awesome 7 Free Solid" FontStyleNameNative="Solid" PlatformName="$ID/" Version="Version 897.00390625 (Font Awesome version: 7.1.0)" TypekitID="$ID/" />
 	</FontFamily>
 	<FontFamily Self="dia0427" Name="Atkinson Hyperlegible">
 		<Font Self="dia0427FontnAtkinson Hyperlegible Regular" FontFamily="Atkinson Hyperlegible" Name="Atkinson Hyperlegible Regular" PostScriptName="AtkinsonHyperlegible-Regular" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Atkinson Hyperlegible Regular" FullNameNative="Atkinson Hyperlegible Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.006; ttfautohint (v1.8.3)" TypekitID="$ID/" />
@@ -96,6 +96,22 @@
 	</FontFamily>
 	<FontFamily Self="dic450f" Name="Symbol">
 		<Font Self="dic450fFontnSymbol Regular" FontFamily="Symbol" Name="Symbol Regular" PostScriptName="SymbolMT" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Symbol" FullNameNative="Symbol" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 5.01" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="did935d" Name="Calibri (OTF)">
+		<Font Self="did935dFontnCalibri (OTF) Light" FontFamily="Calibri (OTF)" Name="Calibri (OTF) Light" PostScriptName="Calibri-Light" Status="NotAvailable" FontStyleName="Light" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Light" FullNameNative="Calibri Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 6.23" TypekitID="$ID/" />
+		<Font Self="did935dFontnCalibri (OTF) Light Italic" FontFamily="Calibri (OTF)" Name="Calibri (OTF) Light Italic" PostScriptName="Calibri-LightItalic" Status="NotAvailable" FontStyleName="Light Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Light Italic" FullNameNative="Calibri Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 6.23" TypekitID="$ID/" />
+		<Font Self="did935dFontnCalibri (OTF) Regular" FontFamily="Calibri (OTF)" Name="Calibri (OTF) Regular" PostScriptName="Calibri" Status="NotAvailable" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri" FullNameNative="Calibri" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.23" TypekitID="$ID/" />
+		<Font Self="did935dFontnCalibri (OTF) Italic" FontFamily="Calibri (OTF)" Name="Calibri (OTF) Italic" PostScriptName="Calibri-Italic" Status="NotAvailable" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Italic" FullNameNative="Calibri Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 6.23" TypekitID="$ID/" />
+		<Font Self="did935dFontnCalibri (OTF) Bold" FontFamily="Calibri (OTF)" Name="Calibri (OTF) Bold" PostScriptName="Calibri-Bold" Status="NotAvailable" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Bold" FullNameNative="Calibri Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 6.23" TypekitID="$ID/" />
+		<Font Self="did935dFontnCalibri (OTF) Bold Italic" FontFamily="Calibri (OTF)" Name="Calibri (OTF) Bold Italic" PostScriptName="Calibri-BoldItalic" Status="NotAvailable" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Calibri Bold Italic" FullNameNative="Calibri Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 6.23" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="did9682" Name="Aptos Display">
+		<Font Self="did9682FontnAptos Display Regular" FontFamily="Aptos Display" Name="Aptos Display Regular" PostScriptName="" Status="NotAvailable" FontStyleName="$ID/Regular" FontType="Unknown" WritingScript="0" FullName="" FullNameNative="" FontStyleNameNative="Aptos Display" PlatformName="$ID/Aptos Display" Version="" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="did9683" Name="Aptos">
+		<Font Self="did9683FontnAptos Regular" FontFamily="Aptos" Name="Aptos Regular" PostScriptName="" Status="NotAvailable" FontStyleName="$ID/Regular" FontType="Unknown" WritingScript="0" FullName="" FullNameNative="" FontStyleNameNative="Aptos" PlatformName="$ID/Aptos" Version="" TypekitID="$ID/" />
+		<Font Self="did9683FontnAptos Bold" FontFamily="Aptos" Name="Aptos Bold" PostScriptName="" Status="NotAvailable" FontStyleName="$ID/Bold" FontType="Unknown" WritingScript="0" FullName="" FullNameNative="" FontStyleNameNative="Aptos" PlatformName="$ID/Aptos" Version="" TypekitID="$ID/" />
+		<Font Self="did9683FontnAptos Italic" FontFamily="Aptos" Name="Aptos Italic" PostScriptName="" Status="NotAvailable" FontStyleName="$ID/Italic" FontType="Unknown" WritingScript="0" FullName="" FullNameNative="" FontStyleNameNative="Aptos" PlatformName="$ID/Aptos" Version="" TypekitID="$ID/" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua9" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -408,6 +424,10 @@
                   <stEvt:when>2024-10-21T01:23:47+02:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe InCopy 19.5 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>converted</stEvt:action>
@@ -1338,6 +1358,6 @@
 		</ParagraphStyleRange>
 	</Story>
 	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
-		<ColorGroupSwatch Self="u18ColorGroupSwatchf" SwatchItemRef="Color/C=49 M=27 Y=0 K=38" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch12" SwatchItemRef="Color/C=49 M=27 Y=0 K=38" />
 	</ColorGroup>
 </Document>
