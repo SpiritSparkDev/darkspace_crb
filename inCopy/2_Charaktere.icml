@@ -5,7 +5,7 @@
 	<Color Self="Color/C=100 M=68 Y=0 K=55" Model="Process" Space="CMYK" ColorValue="100 68 0 55.00000000000001" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=68 Y=0 K=55" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch1" />
 	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch2" />
 	<Color Self="Color/C=100 M=100 Y=0 K=70" Model="Process" Space="CMYK" ColorValue="100 100 0 70" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=100 Y=0 K=70" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch2" />
-	<Color Self="Color/C=49 M=27 Y=0 K=38" Model="Process" Space="CMYK" ColorValue="49 27 0 38" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=49 M=27 Y=0 K=38" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatchf" />
+	<Color Self="Color/C=49 M=27 Y=0 K=38" Model="Process" Space="CMYK" ColorValue="49 27 0 38" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=49 M=27 Y=0 K=38" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch12" />
 	<Color Self="Color/OptionaleRegeln" Model="Process" Space="CMYK" ColorValue="0 56.00000000000001 100 50" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="OptionaleRegeln" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch4" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch3" />
 	<Color Self="Color/C=100 M=90 Y=10 K=0" Model="Process" Space="CMYK" ColorValue="100 90 10 0" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=90 Y=10 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch0" />
@@ -81,10 +81,6 @@
 		<Font Self="di3b38cFontnBebas Neue Pro Expanded ExtraBold" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded ExtraBold" PostScriptName="BebasNeuePro-ExpEb" Status="Installed" FontStyleName="Expanded ExtraBold" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded ExtraBold" FullNameNative="Bebas Neue Pro Expanded ExtraBold" FontStyleNameNative="Expanded ExtraBold" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45083-dba5d189dd4b0ac570696d58386641ee28f28a5a" />
 		<Font Self="di3b38cFontnBebas Neue Pro Expanded ExtraBold Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded ExtraBold Italic" PostScriptName="BebasNeuePro-ExpEbIt" Status="Installed" FontStyleName="Expanded ExtraBold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded ExtraBold Italic" FullNameNative="Bebas Neue Pro Expanded ExtraBold Italic" FontStyleNameNative="Expanded ExtraBold Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45084-ccd789a9e59c77ff23fc5da70c301ec2c52944f1" />
 	</FontFamily>
-	<FontFamily Self="di984c8" Name="Font Awesome 7 Free">
-		<Font Self="di984c8FontnFont Awesome 7 Free Regular" FontFamily="Font Awesome 7 Free" Name="Font Awesome 7 Free Regular" PostScriptName="FontAwesome7Free-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Font Awesome 7 Free Regular" FullNameNative="Font Awesome 7 Free Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 897.00390625 (Font Awesome version: 7.1.0)" TypekitID="$ID/" />
-		<Font Self="di984c8FontnFont Awesome 7 Free Solid" FontFamily="Font Awesome 7 Free" Name="Font Awesome 7 Free Solid" PostScriptName="FontAwesome7Free-Solid" Status="Installed" FontStyleName="Solid" FontType="OpenTypeCFF" WritingScript="0" FullName="Font Awesome 7 Free Solid" FullNameNative="Font Awesome 7 Free Solid" FontStyleNameNative="Solid" PlatformName="$ID/" Version="Version 897.00390625 (Font Awesome version: 7.1.0)" TypekitID="$ID/" />
-	</FontFamily>
 	<FontFamily Self="dia0427" Name="Atkinson Hyperlegible">
 		<Font Self="dia0427FontnAtkinson Hyperlegible Regular" FontFamily="Atkinson Hyperlegible" Name="Atkinson Hyperlegible Regular" PostScriptName="AtkinsonHyperlegible-Regular" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Atkinson Hyperlegible Regular" FullNameNative="Atkinson Hyperlegible Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.006; ttfautohint (v1.8.3)" TypekitID="$ID/" />
 		<Font Self="dia0427FontnAtkinson Hyperlegible Italic" FontFamily="Atkinson Hyperlegible" Name="Atkinson Hyperlegible Italic" PostScriptName="AtkinsonHyperlegible-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Atkinson Hyperlegible Italic" FullNameNative="Atkinson Hyperlegible Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.006; ttfautohint (v1.8.3)" TypekitID="$ID/" />
@@ -101,9 +97,6 @@
 		<Font Self="dia993fFontnArial Bold" FontFamily="Arial" Name="Arial Bold" PostScriptName="Arial-BoldMT" Status="NotAvailable" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Bold" FullNameNative="Arial Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 7.03" TypekitID="$ID/" />
 		<Font Self="dia993fFontnArial Bold Italic" FontFamily="Arial" Name="Arial Bold Italic" PostScriptName="Arial-BoldItalicMT" Status="NotAvailable" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Bold Italic" FullNameNative="Arial Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 7.03" TypekitID="$ID/" />
 		<Font Self="dia993fFontnArial Black" FontFamily="Arial" Name="Arial Black" PostScriptName="Arial-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Black" FullNameNative="Arial Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 5.23" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="dic450f" Name="Symbol">
-		<Font Self="dic450fFontnSymbol Regular" FontFamily="Symbol" Name="Symbol Regular" PostScriptName="SymbolMT" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Symbol" FullNameNative="Symbol" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 5.01" TypekitID="$ID/" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua9" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -159,6 +152,12 @@
 				</Properties>
 			</CharacterStyle>
 		</CharacterStyleGroup>
+		<CharacterStyle Self="CharacterStyle/Wichtig" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="77928fca-bafa-43be-86a0-ff5789090168" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" KeyboardShortcut="0 0" Name="Wichtig" FontStyle="Bold">
+			<Properties>
+				<BasedOn type="object">CharacterStyle/Inline-Probe</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</CharacterStyle>
 		<CharacterStyle Self="CharacterStyle/Inline-Probe" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="2235e3e8-477c-472b-b600-15c39ab8fc33" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" KeyboardShortcut="0 0" Name="Inline-Probe" FontStyle="Italic">
 			<Properties>
 				<BasedOn type="string">$ID/[No character style]</BasedOn>
@@ -613,6 +612,18 @@
                   <stEvt:when>2024-12-10T21:14:52+01:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe InCopy 20.0 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>converted</stEvt:action>
@@ -3704,7 +3715,7 @@
 					<Content>Mods (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub4617" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="64" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub4617" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="65" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -3748,7 +3759,7 @@
 					<Content>Handicaps (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub461c" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="65" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub461c" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="66" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -4452,7 +4463,7 @@
 					<Content>Netzwerke S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub463c" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="100" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub463c" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="101" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 			</CrossReferenceSource>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -5273,22 +5284,77 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<ParagraphDestination Self="ParagraphDestination/Anker 185" Name="Anker 185" Hidden="false" DestinationUniqueKey="18655" />
-				<Content>Vorteile</Content>
+				<Content>Gen-Klasse</Content>
+				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" Tracking="0">
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Die Gen-Klasse ist ein Spielwert, der die biologische Komplexität und genetische Ausgereiftheit eines Charakters beschreibt. Sie ist das biologische Gegenstück zur Modulklasse von Maschinen und Gegenständen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Normale Menschen beginnen mit GK 1.</Content>
+				<Br />
+				<Content>Adelige beginnen mit GK 4 oder 5, gemäß ihrer Abstammung.</Content>
+				<Br />
+				<Content>Bioroide starten mit einer GK entsprechend ihrer Baureihe.</Content>
+				<Br />
+				<Content>KIs und reine Cyborgs haben keine Gen-Klasse.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Grenzenloses Potenzial: Vorteile haben in der Regel kein Maximum</Content>
-				<Br />
-				<Content>Jederzeit verfügbar: Das Ausgeben von Vorteilen ist keine Handlung.</Content>
+				<Content>Maximale Modulklasse von Artifizierungen: Die Modulklasse einer kybernetischen oder biologischen Artifizierung kann die Gen-Klasse des Charakters nicht überschreiten. Ein Charakter mit GK 1 kann ausschliesslich Artifizierungen mit MK 1 aufnehmen.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Gen-Klasse steigern</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Die Gen-Klasse kann durch Gentherapie erhöht werden. Ein Charakter mit den entsprechenden Kenntnissen sammelt Konstruktionspunkte (KP) nach den normalen Bauen-Regeln und führt den Eingriff als Prozess durch.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=100 M=68 Y=0 K=55">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Werkzeug: Ein geeignetes Labor (kein normales Werkzeug).</Content>
+				<Br />
+				<Content>KP-Kosten: Entsprechen den EP-Kosten zur Steigerung von Begabungen (GK gilt als Begabung für diese Berechnung).</Content>
+				<Br />
+				<Content>Der behandelnde Charakter wendet die KP auf den Patienten an, nicht auf sich selbst.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Vorzüge im Alltag</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Höhere Gen-Klassen bringen darüber hinaus biologische Vorteile mit sich, die keine eigene Spielmechanik haben, aber in der Spielwelt bedeutsam sind. </Content>
+				<Br />
+				<Content>Themen wie Designerkinder, Stoffwechsel-Optimierung, Gene-Splicing und Verjüngungsbehandlungen waren von der ersten Stunde ein kontroverses, aber lukratives Thema. </Content>
+				<Br />
+				<Content>Das diese Elite den Grundstein für den modernen genetischen Adel legen würde, wurde von einigen zwar vermutet aber in seinem Ausmaß absolut unterschätzt.</Content>
+				<Br />
+				<Content>Um Macht anzusammeln und auch auskosten zu können, reichen 100 Jahre jedoch kaum. Personen höherer Gen-Klasse altern langsamer. Jede Genklasse halbiert die Rate des altersbedingten Zellverfalls. Schätzungen besagen, das Adelige dank ihrer genetischen Optimierung 1400 bis 2000 Jahre alt werden könnten. Da es diese Gruppe von Personen aber noch nicht einmal 1000 Jahre lang gibt, kann hier nur spekuliert werden.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Einfluss</Content>
 				<Br />
@@ -5296,7 +5362,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Einfluss ist ein abstraktes Maß für eine Art Karma. Tut der Charakter etwas für andere, so gewinnt er Einfluss, bittet er andere darum, etwas für ihn zu tun, gibt er Einfluss aus. Im Spiel sind Gefallen nicht an bestimmte Charaktere oder Nebencharaktere gebunden.</Content>
+				<Content>Einfluss ist ein abstraktes Maß für eine Art Karma. Tut der Charakter etwas für andere, so gewinnt er Einfluss, bittet er andere darum, etwas für ihn zu tun, gibt er E</Content>
+				<Content>influss aus. Im Spiel sind Gefallen nicht an bestimmte Charaktere oder Nebencharaktere gebunden.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -5310,7 +5377,7 @@
 					<Content>Einfluss und Gefallen auf Seite </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ucf6ec" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="75" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ucf6ec" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="76" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 			</CrossReferenceSource>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -5318,7 +5385,7 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Einkommen</Content>
 				<Br />
@@ -5340,12 +5407,11 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Zeit und Geld: Das Einkommen eines Charakters deckt diese Kosten vorrangig ab. Für jede Zeitstufe wird zunächst 1 Einkommen eingesetzt. Solange Einkommen vorhanden ist, entstehen keine Materialkosten. Übersteigt die Anzahl der Zeitstufen das vorhandene Einkommen, muss für jede nicht gedeckte Zeitstufe 1 Material aufgewendet werden.</Content>
 				<Br />
-				<Content>Bezahlen: Der Charakter kann sich alles Leisten, solange die Modulklasse + Größe eines Gegenstandes gleich oder kleiner ist, als das aktuelle Einkommen des Charakters. Bei teureren Gegenständen</Content>
-				<Content> muss der Charakter die Differenz in Materialien ausgeben, um den Gegenstand zu kaufen.</Content>
+				<Content>Bezahlen: Der Charakter kann sich alles Leisten, solange die Modulklasse + Größe eines Gegenstandes gleich oder kleiner ist, als das aktuelle Einkommen des Charakters. Bei teureren Gegenständen muss der Charakter die Differenz in Materialien ausgeben, um den Gegenstand zu kaufen.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 4">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<ParagraphDestination Self="ParagraphDestination/Anker 52" Name="Anker 52" Hidden="false" DestinationUniqueKey="21890" />
 				<Content>Materialien</Content>
@@ -5372,7 +5438,7 @@
 					<Content>Einkaufen (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub4667" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="137" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub4667" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="141" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -5383,7 +5449,7 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 4">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Geld</Content>
 				<Br />
@@ -5452,7 +5518,7 @@
 					<Content>Monitore und Trefferpunkte auf Seite </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ud81f6" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="121" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ud81f6" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="124" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 			</CrossReferenceSource>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
@@ -5460,77 +5526,49 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Br />
+				<Content>Jeder Charakter, Handlanger, jede Maschine und jedes System hat einen </Content>
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Wichtig">
 				<Content>Vitalmonitor</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> mit mindestens einem Kästchen. Der Vitalmonitor zeigt an, wie „gut“ es dem Charakter oder Gegenstand geht. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=100 M=68 Y=0 K=55">
 				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Jeder Charakter, Handlanger, jede Maschine und jedes System hat einen Vitalmonitor mit mindestens einem Kästchen. Der Vitalmonitor zeigt an, wie „gut“ es dem Charakter oder Gegenstand geht. </Content>
-				<Br />
+				<Content>Der </Content>
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Außer Gefecht: Ist der Vitalmonitor komplett gefüllt können Charaktere und Handlanger keine Handlungen mehr durchführen. Sie schweben in Lebensgefahr und sind kampfunfähig. Maschinen werden zerstört und können nicht repariert werden. Systeme stürzen ab und müssen in einer Ruhephase neu aufgesetzt werden.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Wichtig">
 				<Content>Interaktionsmonitor</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> zeigt an ob der Charakter, Handlanger, die Maschine oder das System noch handlungsfähig ist. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=100 M=68 Y=0 K=55">
 				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Der Interaktionsmonitor zeigt an ob der Charakter, Handlanger, die Maschine oder das System noch handlungsfähig ist. </Content>
-				<Br />
+				<Content>Ein Charakter, Handlanger oder eine Maschine die sich fortbewegen kann muss einen </Content>
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Benommen: Ist der Interaktionsmonitor komplett gefüllt kann keine Proben mehr ausgeführt werden. Damit sind auch keine Aktionen, Angriffe oder Unterbrechungen die eine Probe benötigen mehr möglich.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Wichtig">
 				<Content>Mobilitätsmonitor</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> haben. Maschinen ohne Mobilitätsmonitor sind stationär – statische Abwehranlagen, Ausrüstung oder Gebäudeteile wie Türen.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=100 M=68 Y=0 K=55">
 				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Ein Charakter, Handlanger oder eine Maschine die sich fortbewegen kann muss einen Mobilitätsmonitor haben. Maschinen ohne Mobilitätsmonitor sind stationär – statische Abwehranlagen, Ausrüstung oder Gebäudeteile wie Türen.</Content>
-				<Br />
+				<Content>Der </Content>
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Gelähmt: Ein Charakter, Handlanger oder eine Maschine deren Mobilitätsmonitor komplett gefüllt ist darf keine Bewegungen mehr durchführen.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 3">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Wichtig">
 				<Content>Defensivmonitor</Content>
-				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Der Defensivmonitor repräsentiert die Schutzwirkung von Panzerung und Deckung.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Schutzlos: Ist der Defensivmonitor komplett gefüllt ist die Abwehr komplett durchbrochen. Alle weiteren Angriffe gegen das Ziel erhalten +3 auf ihr Ergebnis.</Content>
+				<Content> repräsentiert die Schutzwirkung von Panzerung und Deckung.</Content>
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 	</Story>
@@ -5596,7 +5634,7 @@
 	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
 		<ColorGroupSwatch Self="u18ColorGroupSwatch2" SwatchItemRef="Color/Paper" />
 		<ColorGroupSwatch Self="u18ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
-		<ColorGroupSwatch Self="u18ColorGroupSwatchf" SwatchItemRef="Color/C=49 M=27 Y=0 K=38" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch12" SwatchItemRef="Color/C=49 M=27 Y=0 K=38" />
 		<ColorGroupSwatch Self="u18ColorGroupSwatch4" SwatchItemRef="Color/OptionaleRegeln" />
 		<ColorGroupSwatch Self="u18ColorGroupSwatch3" SwatchItemRef="Color/Black" />
 	</ColorGroup>
