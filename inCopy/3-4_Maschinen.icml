@@ -469,6 +469,14 @@
                   <stEvt:action>converted</stEvt:action>
                   <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <dc:format>application/x-incopy</dc:format>
@@ -614,7 +622,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Manövrieren 	Steuerung</Content>
+				<Content>Steuerung	Manövrieren</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -699,7 +707,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsHeader">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Modifizierung	10 + MK x 2</Content>
+				<Content>Bearbeitung	10 + MK x 2</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -711,7 +719,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegel_Lore">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Modifizierung bei Maschinen umfasst das aktivieren von Subsystemen, optimieren von System und verändern von Parametern, um die Leistung der Maschine zu verändern.</Content>
+				<Content>Bearbeitung bei Maschinen umfasst das aktivieren von Subsystemen, optimieren von System und verändern von Parametern, um die Leistung der Maschine zu verändern.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -795,7 +803,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Routine	Bewegung</Content>
+				<Content>Routine-Bewegung</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -822,7 +830,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Manövireren 	Steuerung</Content>
+				<Content>Steuerung	Manövireren</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -844,7 +852,7 @@
 					<Content>Angriff (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ud9648" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="77" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ud9648" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="76" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -865,7 +873,7 @@
 					<Content>Sprinten S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ud964c" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="77" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ud964c" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="76" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 			</CrossReferenceSource>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -881,7 +889,12 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Größe 	Modifizierung</Content>
+				<Content>Bearbeitung	</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Größe</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -915,7 +928,7 @@
 					<Content>Angriff (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ud9650" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="77" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ud9650" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="76" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -957,7 +970,12 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Wahrnehmung	Analyse</Content>
+				<Content>Analyse	</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Wahrnehmung</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -988,8 +1006,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Führerscheine und Fluglizenzen sind auf unterschiedlichen Welten unterschiedlich wichtig. I</Content>
-				<Content>n dicht bebauen Städten mit eng gestrickten öffentlichen Verkehrsmitteln oder selbstfahrenden Fahrzeugen ist es vermutlich nicht unüblich, eine weile nach jemanden mit Führerschein zu suchen.</Content>
+				<Content>Führerscheine und Fluglizenzen sind auf unterschiedlichen Welten unterschiedlich wichtig. In dicht b</Content>
+				<Content>ebauen Städten mit eng gestrickten öffentlichen Verkehrsmitteln oder selbstfahrenden Fahrzeugen ist es vermutlich nicht unüblich, eine weile nach jemanden mit Führerschein zu suchen.</Content>
 				<Br />
 				<Content>Auf einer Raumstation mit wenig Personal aber hohem erwarteten Gewinn ist eine Pilotenlizenz dagegen gleichbedeutend mit einer Aufenthaltsgenehmigung. </Content>
 				<Br />

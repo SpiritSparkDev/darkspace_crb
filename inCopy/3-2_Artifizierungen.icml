@@ -601,6 +601,14 @@
                   <stEvt:action>converted</stEvt:action>
                   <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <dc:format>application/x-incopy</dc:format>
@@ -776,7 +784,7 @@
 					<Content>Netzwerke S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ud953d" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="101" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ud953d" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="100" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 			</CrossReferenceSource>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -815,7 +823,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld_L">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Bildung	Modifizierung</Content>
+				<Content>Bildung	Bearbeitung</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -898,8 +906,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Es wird davon ausgegangen, dass Prothesen von außen nach innen transplantier</Content>
-				<Content>t werden. Das heißt, der Charakter beginnt zuerst damit seine Extremitäten zu ersetzen, bevor er mit seinem Torso weitermacht. Würde der Charakter sofort seinen Torso ersetzen, würde Arme und Beine mit ausgetauscht.</Content>
+				<Content>Es wird davon ausgegangen, dass Prothesen von außen nach innen transplantiert </Content>
+				<Content>werden. Das heißt, der Charakter beginnt zuerst damit seine Extremitäten zu ersetzen, bevor er mit seinem Torso weitermacht. Würde der Charakter sofort seinen Torso ersetzen, würde Arme und Beine mit ausgetauscht.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1259,7 +1267,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsHeader">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Modifizierung	10 + MK x 2</Content>
+				<Content>Bearbeitung	10 + MK x 2</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1271,7 +1279,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegel_Lore">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Modifizierung bei Artifizierungen bedeutet das Kalibrieren, Reparieren oder Aufrüsten von Implantaten. Ein Kybernetik-Toolkit ist erforderlich.</Content>
+				<Content>Bearbeitung bei Artifizierungen bedeutet das Kalibrieren, Reparieren oder Aufrüsten von Implantaten. Ein Kybernetik-Toolkit ist erforderlich.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1365,8 +1373,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Die Gen-Klasse der Bio-Artifizierung darf die Gen-Klasse </Content>
-				<Content>des Charakters nicht überschreiten.</Content>
+				<Content>Die Gen-Klasse der Bio-Artifizierung darf die Gen-Klasse des Ch</Content>
+				<Content>arakters nicht überschreiten.</Content>
 				<Br />
 				<Content>Bio-Artifizierungen unterliegen ansonsten denselben Größenregeln wie kybernetische Artifizierungen (</Content>
 			</CharacterStyleRange>
@@ -1376,7 +1384,7 @@
 					<Content>Homo Machina S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ue03a6" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="113" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ue03a6" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="112" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 			</CrossReferenceSource>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">

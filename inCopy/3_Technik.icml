@@ -6,7 +6,7 @@
 	<Color Self="Color/C=100 M=68 Y=0 K=55" Model="Process" Space="CMYK" ColorValue="100 68 0 55.00000000000001" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=68 Y=0 K=55" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch1" />
 	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch2" />
 	<Color Self="Color/C=100 M=100 Y=0 K=70" Model="Process" Space="CMYK" ColorValue="100 100 0 70" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=100 Y=0 K=70" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9c916ColorGroupSwatch2" />
-	<Color Self="Color/C=49 M=27 Y=0 K=38" Model="Process" Space="CMYK" ColorValue="49 27 0 38" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=49 M=27 Y=0 K=38" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatchf" />
+	<Color Self="Color/C=49 M=27 Y=0 K=38" Model="Process" Space="CMYK" ColorValue="49 27 0 38" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=49 M=27 Y=0 K=38" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch12" />
 	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="71.5651" ConvertToProcess="false" Frequency="63.2456" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="18.4349" ConvertToProcess="false" Frequency="63.2456" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
 	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="66.6667" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
@@ -80,10 +80,6 @@
 		<Font Self="di3b38cFontnBebas Neue Pro Expanded ExtraBold" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded ExtraBold" PostScriptName="BebasNeuePro-ExpEb" Status="Installed" FontStyleName="Expanded ExtraBold" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded ExtraBold" FullNameNative="Bebas Neue Pro Expanded ExtraBold" FontStyleNameNative="Expanded ExtraBold" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45083-dba5d189dd4b0ac570696d58386641ee28f28a5a" />
 		<Font Self="di3b38cFontnBebas Neue Pro Expanded ExtraBold Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded ExtraBold Italic" PostScriptName="BebasNeuePro-ExpEbIt" Status="Installed" FontStyleName="Expanded ExtraBold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded ExtraBold Italic" FullNameNative="Bebas Neue Pro Expanded ExtraBold Italic" FontStyleNameNative="Expanded ExtraBold Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45084-ccd789a9e59c77ff23fc5da70c301ec2c52944f1" />
 	</FontFamily>
-	<FontFamily Self="di984c8" Name="Font Awesome 7 Free">
-		<Font Self="di984c8FontnFont Awesome 7 Free Regular" FontFamily="Font Awesome 7 Free" Name="Font Awesome 7 Free Regular" PostScriptName="FontAwesome7Free-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Font Awesome 7 Free Regular" FullNameNative="Font Awesome 7 Free Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 897.00390625 (Font Awesome version: 7.1.0)" TypekitID="$ID/" />
-		<Font Self="di984c8FontnFont Awesome 7 Free Solid" FontFamily="Font Awesome 7 Free" Name="Font Awesome 7 Free Solid" PostScriptName="FontAwesome7Free-Solid" Status="Installed" FontStyleName="Solid" FontType="OpenTypeCFF" WritingScript="0" FullName="Font Awesome 7 Free Solid" FullNameNative="Font Awesome 7 Free Solid" FontStyleNameNative="Solid" PlatformName="$ID/" Version="Version 897.00390625 (Font Awesome version: 7.1.0)" TypekitID="$ID/" />
-	</FontFamily>
 	<FontFamily Self="dia0427" Name="Atkinson Hyperlegible">
 		<Font Self="dia0427FontnAtkinson Hyperlegible Regular" FontFamily="Atkinson Hyperlegible" Name="Atkinson Hyperlegible Regular" PostScriptName="AtkinsonHyperlegible-Regular" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Atkinson Hyperlegible Regular" FullNameNative="Atkinson Hyperlegible Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.006; ttfautohint (v1.8.3)" TypekitID="$ID/" />
 		<Font Self="dia0427FontnAtkinson Hyperlegible Italic" FontFamily="Atkinson Hyperlegible" Name="Atkinson Hyperlegible Italic" PostScriptName="AtkinsonHyperlegible-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Atkinson Hyperlegible Italic" FullNameNative="Atkinson Hyperlegible Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.006; ttfautohint (v1.8.3)" TypekitID="$ID/" />
@@ -100,9 +96,6 @@
 		<Font Self="dia993fFontnArial Bold" FontFamily="Arial" Name="Arial Bold" PostScriptName="Arial-BoldMT" Status="NotAvailable" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Bold" FullNameNative="Arial Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 7.03" TypekitID="$ID/" />
 		<Font Self="dia993fFontnArial Bold Italic" FontFamily="Arial" Name="Arial Bold Italic" PostScriptName="Arial-BoldItalicMT" Status="NotAvailable" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Bold Italic" FullNameNative="Arial Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 7.03" TypekitID="$ID/" />
 		<Font Self="dia993fFontnArial Black" FontFamily="Arial" Name="Arial Black" PostScriptName="Arial-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Black" FullNameNative="Arial Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 5.23" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="dic450f" Name="Symbol">
-		<Font Self="dic450fFontnSymbol Regular" FontFamily="Symbol" Name="Symbol Regular" PostScriptName="SymbolMT" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Symbol" FullNameNative="Symbol" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 5.01" TypekitID="$ID/" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua9" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -294,7 +287,7 @@
 					<SameParaStyleSpacing type="unit">0</SameParaStyleSpacing>
 				</Properties>
 			</ParagraphStyle>
-			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aHandlungsHeader" Name="Regeltexte:HandlungsHeader" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld" SplitDocument="false" EmitCss="true" StyleUniqueId="72f6c2aa-ae0e-4beb-adfe-74bbf9739798" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="false" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="14" SpaceBefore="14.173228346456694" SpaceAfter="0" KeepWithNext="1">
+			<ParagraphStyle Self="ParagraphStyle/Regeltexte%3aHandlungsHeader" Name="Regeltexte:HandlungsHeader" Imported="false" NextStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld" SplitDocument="false" EmitCss="true" StyleUniqueId="fb71b0b6-5c08-44ca-b4e5-0543e299c553" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EpubAriaRole="" EmptyNestedStyles="false" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="14" SpaceBefore="14.173228346456694" SpaceAfter="0" KeepWithNext="2">
 				<Properties>
 					<BasedOn type="object">ParagraphStyle/Regeltexte%3aHandlungsfeld</BasedOn>
 					<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -810,6 +803,14 @@
                   <stEvt:action>converted</stEvt:action>
                   <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <xmpMM:DerivedFrom rdf:parseType="Resource">
@@ -1012,7 +1013,7 @@
 					<Cell Self="u9a217id1a11i0" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Bedienen bis Größe 2</Content>
+								<Content>Steuerung bis Größe 2</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -1026,7 +1027,7 @@
 					<Cell Self="u9a217id1a11i2" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Bedienen ab Größe 3</Content>
+								<Content>Steuerung ab Größe 3</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -1040,7 +1041,7 @@
 					<Cell Self="u9a217id1a11i4" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Bedienen mit Modulklasse</Content>
+								<Content>Steuerung mit Modulklasse</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -1054,7 +1055,7 @@
 					<Cell Self="u9a217id1a11i6" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="4" TopInset="4" RightInset="4" BottomInset="4" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Manipulieren</Content>
+								<Content>Bearbeiten</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -2134,7 +2135,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Baupläne analysieren, Materialqualität prüfen, Konstruktionsfehler finden Voraussetzung: Sensor</Content>
+				<Content>Baupläne analysieren, Materialqualität prüfen, Konstruktionsfehler finden</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2707,7 +2708,7 @@
 					<Content>Panzerung (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ud1a72" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="80" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ud1a72" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="83" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -3385,8 +3386,8 @@
 				<Br />
 				<Content>Brute Hammer MK2: Ein Vorschlaghammer aus der Brute-Serie, die beim Transport sogar Förderbänder überlastete. Der Hersteller bewarb ihn als „Werkzeug für extreme Situationen“, was viele Schlägerbanden als persönliche Einladung verstanden.</Content>
 				<Br />
-				<Content>Goliath Speer: Ein langer Metallspeer</Content>
-				<Content>, ursprünglich als Kleinserie für eine Sekte. Der Hersteller unterschätzte völlig, wie beliebt er beim städtischen Ritualkampf-Sport werden würde – heute ist der Speer mehr Sportgerät als Waffe.</Content>
+				<Content>Goliath Speer: Ein langer Metallspeer, ursprünglich als Kle</Content>
+				<Content>inserie für eine Sekte. Der Hersteller unterschätzte völlig, wie beliebt er beim städtischen Ritualkampf-Sport werden würde – heute ist der Speer mehr Sportgerät als Waffe.</Content>
 				<Br />
 				<Content>Mono-Säge: Ein gigantisches Sägeblatt mit monomolekularer Schneide, entwicklet für Bergungsarbeiten. Manche Modelle erzeugen beim Durchtrennen von Metall einen leisen, pfeifenden Ton, der Sammler schwören lässt, der Sound sei „glücklich“.</Content>
 			</CharacterStyleRange>
@@ -3439,7 +3440,7 @@
 					<Content>Unkompliziert (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ud1aa1" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="65" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ud1aa1" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="68" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -3474,7 +3475,7 @@
 					<Content>Schock (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ud1aa4" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="66" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ud1aa4" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="70" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -4522,8 +4523,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Wo Datapads nicht ausreichen, kommen Terminals zum Einsatz. Ein Terminal ist ein Cortex-Arbeitsplatz, in seiner Größe vergleich</Content>
-				<Content>bar mit (und auch hervorgegangen aus) einem Desktop-PC des 21. Jahrhunderts.</Content>
+				<Content>Wo Datapads nicht ausreichen, kommen Terminals zum Einsatz. Ein Terminal ist ein Cortex-Arbeitsplatz, in seiner Größe vergleichbar mit (und auch herv</Content>
+				<Content>orgegangen aus) einem Desktop-PC des 21. Jahrhunderts.</Content>
 				<Br />
 				<Content>Terminals haben im Schnitt mehr Rechenleistung und sind einfacher an ihre Hauptaufgaben anzupassen und zu warten. Programmierfirmen bis zu KI-Laboren verwenden für den Großteil ihrer Arbeit Terminals.</Content>
 				<Br />
@@ -5156,19 +5157,15 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsHeader">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Technische Modifizierung	10 + MK x 2</Content>
-				<Br />
+				<Content>Technische Bearbeitung	10 + MK x 2</Content>
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>	Werkzeug</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegel_Lore">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Technische Modifizierungen beschreiben das Bauen, Verändern, Reparieren und Demontieren von Gegenständen. Neben Werkzeug wird der Charakter Einzelteile und Baukomponenten benötigten, auf die er in Form von Material zugreifen kann.</Content>
+				<Content>Technische Bearbeitungen beschreiben das Bauen, Verändern, Reparieren und Demontieren von Gegenständen. Neben Werkzeug wird der Charakter Einzelteile und Baukomponenten benötigten, auf die er in Form von Material zugreifen kann.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -5201,12 +5198,6 @@
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsHeader">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Technische Steuerung	10 + MK x 2</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>	Werkzeug (Terminal)</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" HorizontalScale="100">
 				<Br />
@@ -5228,8 +5219,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Mögliche Effekte: Der Gegenstand oder das System führen direkte Anweisungen aus, was auch immer der Charakter gerade möchte. Befehle werden ausgeführt, bis alle Ziele erreicht worden, eine bestimmte Zeit abgelaufen oder der Gegenstand oder das System daran gehindert wird.</Content>
 				<Br />
-				<Content>Mögliche Komplikationen: Direkte S</Content>
-				<Content>teuerung ist ungenau oder unterliegt einer Verzögerung. Der Gegenstand oder das System führen Befehle nicht vollständig oder in einer Weise aus, die vom Charakter nicht vorgesehen sind.</Content>
+				<Content>Mögliche Komplikationen: Direkte Steuerung ist ungenau oder unterliegt einer Verzögerung. D</Content>
+				<Content>er Gegenstand oder das System führen Befehle nicht vollständig oder in einer Weise aus, die vom Charakter nicht vorgesehen sind.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -5421,7 +5412,12 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Technik-Steuerung	Werkzeug</Content>
+				<Content>Steuerung	</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Technik</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="9" HorizontalScale="100">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -5670,7 +5666,10 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Bildung-Modifikation	Werkzeug (Medkit)</Content>
+				<Content>Bearbeitung 	</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Bildung</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -5704,13 +5703,38 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld_L">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Bildung-Modifikation	Werkzeug (Medkit)</Content>
+				<Content>Bearbeitung</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>	Bildung</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegel_Lore">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Durch eine Operation können schwerste immersive Eingriffe in den menschlichen Körper vorgenommen werden. Gewebe kann entfernt oder hinzugefügt werden, schwere Verletzungen wie Knochenbrüche oder beschädigte Organe werden repariert oder es werden kybernetische Komponenten eingepflanzt.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Erfolg: Ein Charakter kann durch eine Operation eine der folgenden Effekte erhalten:</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Gewebereparatur: Für jede Zeitstufe heilt der Charakter 1 Schaden. Erleidet der Charakter erneut Schaden, bevor er vollständig genesen ist, wird dieser Effekt agebrochen.</Content>
+				<Br />
+				<Content>Entstellung korrigieren: Eine Entstellung und alle damit verbundenen Nachteile werden entfernt. Der Charakter erleidet 1 Schaden auf seinem Vitalmonitor.</Content>
+				<Br />
+				<Content>Handicap entfernen: Der Charakter verliert ein beliebiges Handicap. </Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Misserfolg: Der Charakter erhält keinerlei positive Effekte durch die Operation.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -5760,7 +5784,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Grundsubstanz: Ein Chem, das mit KP erzeugt wird, kann mit je 100 EP eine Wirkung erhalten. Für je 100 EP verringert es Stress, erzeugt eine Leistungssteigerung oder verleiht dem Charakter eine Bewussseinserweiterung (siehe unten).</Content>
+				<Content>Grundsubstanz: Ein Chem, das mit KP erzeugt wird, kann mit je 100 EP eine Wirkung erhalten. Für je 100 EP verringert es Stress, e</Content>
+				<Content>rzeugt eine Leistungssteigerung oder verleiht dem Charakter eine Bewussseinserweiterung (siehe unten).</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -5770,8 +5795,7 @@
 				<Br />
 				<Content>Leistungssteigerung: Der Charakter erhält [MK] Würfel, die er während der Wirkung des Chems (eine Szene) zu beliebige Proben hinzufügen darf.</Content>
 				<Br />
-				<Content>Bewusstseinserweiterung: Der Charakter erhält eine Mod, die bei der Erstellung des Chems festgelegt werden muss. Diese Mod darf er </Content>
-				<Content>[MK]mal kostenlos aktivieren und zahlt danach mit Stress nach den normalen Regeln. Die Mod verschwindet nach einer Szene.</Content>
+				<Content>Bewusstseinserweiterung: Der Charakter erhält eine Mod, die bei der Erstellung des Chems festgelegt werden muss. Diese Mod darf er [MK]mal kostenlos aktivieren und zahlt danach mit Stress nach den normalen Regeln. Die Mod verschwindet nach einer Szene.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -5801,7 +5825,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aHandlungsfeld_L">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Willenskraft-Steuerung	</Content>
+				<Content>Willenskraft	Steuerung</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -5837,7 +5861,7 @@
 					<Content>Handicaps S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ud1b28" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="62" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ud1b28" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="65" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 			</CrossReferenceSource>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -6021,10 +6045,10 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Die wichtigsten drei Spielwerte eines neuen Gegenstandes, sind seine Größe, Modulklasse und Kern. In deinem Kopf hat dein neuer Gegenstand vermutlich bereits ein ungefähres Aussehen. Gleiche deine Vorstellung mit der Größentabelle ab und wähle einen passenden Wert.</Content>
+				<Content>Die wichtigsten drei Spielwerte eines neuen Gegenstandes, sind seine Größe, Modulklasse und Kern. In deinem Kopf hat dein neuer Gegenstand vermut</Content>
+				<Content>lich bereits ein ungefähres Aussehen. Gleiche deine Vorstellung mit der Größentabelle ab und wähle einen passenden Wert.</Content>
 				<Br />
-				<Content>Für die Modulklasse kannst du ebenfalls die Modulklasse-Tabelle konsultieren. Dabei ist es wichtig zu verstehen, dass die Modulklasse die Qualität des Gegenstandes relativ zu ähnlichen Gegenständen misst. Ein MK 1 Medkit ist eine Tasche mit Desinfektionsmitteln und Bandagen, ein MK 5 Medkit enthält z.B. medizinische Mini-Drohnen und </Content>
-				<Content>Kunsthaut aus der Sprühdose.</Content>
+				<Content>Für die Modulklasse kannst du ebenfalls die Modulklasse-Tabelle konsultieren. Dabei ist es wichtig zu verstehen, dass die Modulklasse die Qualität des Gegenstandes relativ zu ähnlichen Gegenständen misst. Ein MK 1 Medkit ist eine Tasche mit Desinfektionsmitteln und Bandagen, ein MK 5 Medkit enthält z.B. medizinische Mini-Drohnen und Kunsthaut aus der Sprühdose.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -6552,7 +6576,7 @@
 		<ColorGroupSwatch Self="u18ColorGroupSwatch3" SwatchItemRef="Color/Black" />
 		<ColorGroupSwatch Self="u18ColorGroupSwatch2" SwatchItemRef="Color/Paper" />
 		<ColorGroupSwatch Self="u18ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
-		<ColorGroupSwatch Self="u18ColorGroupSwatchf" SwatchItemRef="Color/C=49 M=27 Y=0 K=38" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch12" SwatchItemRef="Color/C=49 M=27 Y=0 K=38" />
 	</ColorGroup>
 	<ColorGroup Self="ColorGroup/Basisfarben" Name="Basisfarben" IsRootColorGroup="false">
 		<ColorGroupSwatch Self="u9c916ColorGroupSwatch1" SwatchItemRef="Color/C=100 M=68 Y=0 K=55" />

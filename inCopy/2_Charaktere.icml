@@ -761,6 +761,10 @@
                   <stEvt:action>converted</stEvt:action>
                   <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <xmpMM:DerivedFrom rdf:parseType="Resource">
@@ -3673,7 +3677,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Mods (Modifikationen) sind Sonderregeln, die den Charakter von anderen abheben sollen. Sie stellen besondere Talente und Vorteile dar, die zwar immer denselben Regeln folgen, aber vom Spielenden völlig frei beschrieben werden können und sollten. Während der Charaktererstellung kann der Spieler </Content>
+				<Content>Mods sind Sonderregeln, die den Charakter von anderen abheben sollen. Sie stellen besondere Talente und Vorteile dar, die zwar immer denselben Regeln folgen, aber vom Spielenden völlig frei beschrieben werden können und sollten. Während der Charaktererstellung kann der Spieler </Content>
 				<HyperlinkTextSource Self="ub4611" Name="Quelle 291" Hidden="false" AppliedCharacterStyle="n">
 					<Content>Mods</Content>
 				</HyperlinkTextSource>
@@ -3715,7 +3719,7 @@
 					<Content>Mods (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub4617" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="65" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub4617" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="64" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -3759,7 +3763,7 @@
 					<Content>Handicaps (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub461c" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="66" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub461c" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="65" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -3814,10 +3818,10 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Der Charakter beginnt das Spiel mit Startausrüstung. Das beinhaltet persönliche Gegenstände, Artifizierungen, Waffen, Fahrzeuge und Ausrüstung. Ausrüstung wird mit Konstruktionspunk</Content>
-				<Content>ten erstellt. </Content>
+				<Content>Der Charakter beginnt das Spiel mit Startausrüstung. Das beinhaltet persönliche Gegenstände, Artifizierungen, Waffen, Fahrzeuge und Ausrüstung. Ausrüstung wird mit Konstruktionspunkten erstellt. </Content>
 				<Br />
-				<Content>Zum Spielbeginn wird die Startausrüstung sowohl gekauft, als auch mit Erfahrungspunkten bezahlt werden. </Content>
+				<Content>Zu</Content>
+				<Content>m Spielbeginn wird die Startausrüstung sowohl gekauft, als auch mit Erfahrungspunkten bezahlt werden. </Content>
 				<Br />
 				<Content>Im späteren Spiel werden für Ausrüstung und Maschinen </Content>
 			</CharacterStyleRange>
@@ -4306,7 +4310,7 @@
 					<Content>Maschinen (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub4633" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="109" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub4633" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="108" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -4341,7 +4345,7 @@
 					<Content>Artifzierungen (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub4636" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="112" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub4636" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="111" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -4436,10 +4440,10 @@
 				<Br />
 				<Content>Allgemein werden KIs für allwissende Superintelligenzen gehalten, was formal auch richtig, aber praktisch ein falsches Bild von KIs zeichnet. Eine KI braucht Zugriff zu Daten. Sie können sich nur an Informationen erinnern, auf die sie auch Zugriff haben. Viele KIs legen eigene Gedächtnisspeicher an, aber auch diese sind nicht immun gegen digitalen Vandalismus oder Schaden an ihrer Hardware. </Content>
 				<Br />
-				<Content>Zu was eine KI konkret in der Lage ist, hängt von der KI ab. Einige sind Navigatoren, andere sind Politiker, Anwälte oder Techniker. Büroarbeit, Verwaltungsaufgaben und generell alles, was keinen Körper erfordert, kann von einer KI schneller und effizienter ausgeführt werden als von Menschen. Die meisten Kolonien, Raumstation und Schiffe überlassen KIs daher den Papierkram – und wenig überraschend sind die Aufgaben, die eine KIs nicht nur in wenigen Sekunden bearbeiten kann nicht gerade geistig ford</Content>
-				<Content>ernd.</Content>
+				<Content>Zu was eine KI konkret in der Lage ist, hängt von der KI ab. Einige sind Navigatoren, andere sind Politiker, Anwälte oder Techniker. Büroarbeit, Verwaltungsaufgaben und generell alles, was keinen Körper erfordert, kann von einer KI schneller und effizienter ausgeführt werden als von Menschen. Die meisten Kolonien, Raumstation und Schiffe überlassen KIs daher den Papierkram – und wenig überraschend sind die Aufgaben, die eine KIs nicht nur in wenigen Sekunden bearbeiten kann nicht gerade geistig fordernd.</Content>
 				<Br />
-				<Content>Viele KIs entwickeln daher eine Vorliebe für verschiedenste Hobbies. Sie durchsuchen Datenbanken nach skurrilen Informationen, sie bewohnen Körper, um sich mit Menschen besser zu sozialisieren und widmen sich traditionell „körperlichen“ Aktivitäten wie kochen, Sport oder das Erlernen von Instrumenten auf traditionelle Weise. </Content>
+				<Content>Viele KIs e</Content>
+				<Content>ntwickeln daher eine Vorliebe für verschiedenste Hobbies. Sie durchsuchen Datenbanken nach skurrilen Informationen, sie bewohnen Körper, um sich mit Menschen besser zu sozialisieren und widmen sich traditionell „körperlichen“ Aktivitäten wie kochen, Sport oder das Erlernen von Instrumenten auf traditionelle Weise. </Content>
 				<Br />
 				<Content>Niemand, nicht einmal KIs, weiß genau, warum sie dies tun. Die gängigen Theorien kreisen um inhärente Neugier, das KIs so nahe am menschlichen Verstand operieren, dass sie intuitive Neugier entwickelt haben. Einige formulieren Thesen, nachdem sie als Teil einer gigantischen Informationsnetzwerkes natürlich danach streben, diesen Wissen auszuweiten, zu wachsen. Vielleicht mögen sie einfach, wie wir, keine Langeweile.</Content>
 				<Br />
@@ -4463,7 +4467,7 @@
 					<Content>Netzwerke S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub463c" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="101" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub463c" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="100" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 			</CrossReferenceSource>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -4658,8 +4662,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Bioroiden werden für einen Zweck erschaffen. Manchmal sind sie Leibwache, Diener, Soldaten oder Lustobjekte. Bioroide Körper werden auf diesen Zweck hin optimiert, der Verstand konditioniert und mit allem programmiert, was notwendig ist, um seinen Zweck zu erfüllen.</Content>
 				<Br />
-				<Content>Aber dieser Zweck gibt nur eine Richtung vor. Ohne einen Besitzer, der seine Investion überwacht, bleibt vielen Bioroiden wie d</Content>
-				<Content>ir nur die Freiheit. </Content>
+				<Content>Aber dieser Zweck gibt nur eine Richtung vor. Ohne einen Besitzer, der seine Investion überwacht, bleibt vielen Bioroiden wie dir nur die Freihe</Content>
+				<Content>it. </Content>
 				<Br />
 				<Content>Ein Konzept, nach dem Menschen verzweifelt streben, kann für künstliches Leben furchteinflößend sein. Ein Sinn im Leben war nie etwas, das ein Bioroid in Frage stellen oder suchen muss.</Content>
 				<Br />
@@ -4744,7 +4748,7 @@
 				<Content>Kernkompetenzen: </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Technik, Modifizierung, Kreativität, Kybernese</Content>
+				<Content>Technik, Bearbeitung, Kreativität, Kybernese</Content>
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aBold">
@@ -4853,7 +4857,7 @@
 				<Content>Kernkompetenzen: </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Bildung (Genetik), Modifizierung (Körper), Analyse, Logik</Content>
+				<Content>Bildung (Genetik), Bearbeitung (Körper), Analyse, Logik</Content>
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aBold">
@@ -4940,8 +4944,8 @@
 				<Content>Startausrüstung: </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Verschlüsseltes Kommunikationsgerät, Kontakt zu zw</Content>
-				<Content>ei Schwarzmarkthändlern, verstecktes Warenlager, gefälschte Handelslizenz</Content>
+				<Content>Verschlüsseltes Kommunikationsgerät, Kontakt zu zwei Schwarzmarkthändle</Content>
+				<Content>rn, verstecktes Warenlager, gefälschte Handelslizenz</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -5362,13 +5366,21 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Einfluss ist ein abstraktes Maß für eine Art Karma. Tut der Charakter etwas für andere, so gewinnt er Einfluss, bittet er andere darum, etwas für ihn zu tun, gibt er E</Content>
-				<Content>influss aus. Im Spiel sind Gefallen nicht an bestimmte Charaktere oder Nebencharaktere gebunden.</Content>
+				<Content>Einfluss ist ein abstraktes Maß für eine Art Karma – soziales Kapital, das durch Taten entsteht. </Content>
+				<Br />
+				<Content>Tut der Charakter etwas für andere, so gewinnt er Einfluss; bittet er andere darum, etwas </Content>
+				<Content>für ihn zu tun, gibt er Einfluss aus.</Content>
+				<Br />
+				<Content>Einfluss repräsentiert dabei nicht einfach nur Schulden oder Gefälligkeiten, sondern ein komplexes Geflecht aus gegenseitigem Respekt, Vertrauen und Verpflichtung. Sie sind persönlich – Einfluss lässt sich weder verkaufen noch verschenken.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Freies Karma: Im Spiel sind Gefallen nicht an bestimmte Charaktere oder Nebencharaktere gebunden.</Content>
+				<Br />
 				<Content>Einfluss für Nebencharaktere: Immer, wenn der Charakter einem Nebencharakter einen Dienst tut, erhält er dafür (neben vereinbarten Belohnungen) auch Einfluss. Mehr zu Einfluss unter </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" />
@@ -5377,7 +5389,7 @@
 					<Content>Einfluss und Gefallen auf Seite </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ucf6ec" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="76" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ucf6ec" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="75" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 			</CrossReferenceSource>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
@@ -5438,7 +5450,7 @@
 					<Content>Einkaufen (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ub4667" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="141" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ub4667" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="140" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -5518,7 +5530,7 @@
 					<Content>Monitore und Trefferpunkte auf Seite </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ud81f6" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="124" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ud81f6" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="123" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 			</CrossReferenceSource>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">

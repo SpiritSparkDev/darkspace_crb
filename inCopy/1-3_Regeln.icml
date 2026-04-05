@@ -84,10 +84,6 @@
 		<Font Self="di3b38cFontnBebas Neue Pro Expanded ExtraBold" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded ExtraBold" PostScriptName="BebasNeuePro-ExpEb" Status="Installed" FontStyleName="Expanded ExtraBold" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded ExtraBold" FullNameNative="Bebas Neue Pro Expanded ExtraBold" FontStyleNameNative="Expanded ExtraBold" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45083-dba5d189dd4b0ac570696d58386641ee28f28a5a" />
 		<Font Self="di3b38cFontnBebas Neue Pro Expanded ExtraBold Italic" FontFamily="Bebas Neue Pro" Name="Bebas Neue Pro Expanded ExtraBold Italic" PostScriptName="BebasNeuePro-ExpEbIt" Status="Installed" FontStyleName="Expanded ExtraBold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Bebas Neue Pro Expanded ExtraBold Italic" FullNameNative="Bebas Neue Pro Expanded ExtraBold Italic" FontStyleNameNative="Expanded ExtraBold Italic" PlatformName="$ID/" Version="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" TypekitID="TkD-45084-ccd789a9e59c77ff23fc5da70c301ec2c52944f1" />
 	</FontFamily>
-	<FontFamily Self="di984c8" Name="Font Awesome 7 Free">
-		<Font Self="di984c8FontnFont Awesome 7 Free Regular" FontFamily="Font Awesome 7 Free" Name="Font Awesome 7 Free Regular" PostScriptName="FontAwesome7Free-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Font Awesome 7 Free Regular" FullNameNative="Font Awesome 7 Free Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 897.00390625 (Font Awesome version: 7.1.0)" TypekitID="$ID/" />
-		<Font Self="di984c8FontnFont Awesome 7 Free Solid" FontFamily="Font Awesome 7 Free" Name="Font Awesome 7 Free Solid" PostScriptName="FontAwesome7Free-Solid" Status="Installed" FontStyleName="Solid" FontType="OpenTypeCFF" WritingScript="0" FullName="Font Awesome 7 Free Solid" FullNameNative="Font Awesome 7 Free Solid" FontStyleNameNative="Solid" PlatformName="$ID/" Version="Version 897.00390625 (Font Awesome version: 7.1.0)" TypekitID="$ID/" />
-	</FontFamily>
 	<FontFamily Self="dia0427" Name="Atkinson Hyperlegible">
 		<Font Self="dia0427FontnAtkinson Hyperlegible Regular" FontFamily="Atkinson Hyperlegible" Name="Atkinson Hyperlegible Regular" PostScriptName="AtkinsonHyperlegible-Regular" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Atkinson Hyperlegible Regular" FullNameNative="Atkinson Hyperlegible Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.006; ttfautohint (v1.8.3)" TypekitID="$ID/" />
 		<Font Self="dia0427FontnAtkinson Hyperlegible Italic" FontFamily="Atkinson Hyperlegible" Name="Atkinson Hyperlegible Italic" PostScriptName="AtkinsonHyperlegible-Italic" Status="Installed" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Atkinson Hyperlegible Italic" FullNameNative="Atkinson Hyperlegible Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.006; ttfautohint (v1.8.3)" TypekitID="$ID/" />
@@ -104,9 +100,6 @@
 		<Font Self="dia993fFontnArial Bold" FontFamily="Arial" Name="Arial Bold" PostScriptName="Arial-BoldMT" Status="NotAvailable" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Bold" FullNameNative="Arial Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 7.03" TypekitID="$ID/" />
 		<Font Self="dia993fFontnArial Bold Italic" FontFamily="Arial" Name="Arial Bold Italic" PostScriptName="Arial-BoldItalicMT" Status="NotAvailable" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Bold Italic" FullNameNative="Arial Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 7.03" TypekitID="$ID/" />
 		<Font Self="dia993fFontnArial Black" FontFamily="Arial" Name="Arial Black" PostScriptName="Arial-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Arial Black" FullNameNative="Arial Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 5.23" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="dic450f" Name="Symbol">
-		<Font Self="dic450fFontnSymbol Regular" FontFamily="Symbol" Name="Symbol Regular" PostScriptName="SymbolMT" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Symbol" FullNameNative="Symbol" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 5.01" TypekitID="$ID/" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua9" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -578,6 +571,14 @@
                   <stEvt:when>2024-12-10T21:49:29+01:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe InCopy 20.0 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>converted</stEvt:action>
@@ -1778,7 +1779,7 @@
 					<Content>Aktionseinheiten (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ud938c" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="116" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ud938c" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="117" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -1810,7 +1811,7 @@
 					<Content>Materialien (S. </Content>
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic" PageNumberType="TextVariable">
-					<TextVariableInstance Self="ud9391" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="62" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
+					<TextVariableInstance Self="ud9391" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" ResultText="63" AssociatedTextVariable="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" />
 				</CharacterStyleRange>
 				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Standardformate%3aItalic">
 					<Content>)</Content>
@@ -2039,13 +2040,13 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 4">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Modifizierung</Content>
+				<Content>Bearbeitung</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Modifizierung beschreibt jede Aktion, bei der ein Spielwert eines Zielobjekts verändert wird. Dabei ist es gleichgültig ob es sich um einen biologischen Körper, eine Maschine oder ein digitales System handelt – die Mechanik bleibt dieselbe. Modifizierung verändert immer etwas Messbares. Für jede Modifizierung ist ein geeignetes Werkzeug notwendig.</Content>
+				<Content>Bearbeitung beschreibt jede Aktion, bei der ein Spielwert eines Zielobjekts verändert wird. Dabei ist es gleichgültig ob es sich um einen biologischen Körper, eine Maschine oder ein digitales System handelt – die Mechanik bleibt dieselbe. Bearbeitung verändert immer etwas Messbares. Für jede Bearbeitung ist ein geeignetes Werkzeug notwendig.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=100 M=68 Y=0 K=55">
 				<Br />
@@ -2059,7 +2060,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Beispiele für Spielwerte, die durch eine Modifizierung  verändert werden können</Content>
+				<Content>Beispiele für Spielwerte, die durch eine Bearbeitung  verändert werden können</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2083,17 +2084,17 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Spielwerte zur Bestimmung von Schwierigkeiten bei Modifizierungen können z.B sein</Content>
+				<Content>Spielwerte zur Bestimmung von Schwierigkeiten bei Bearbeitungen können z.B sein</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Modulklasse: 10 + 2 x MK für Modifizierungen an Gegenständen.</Content>
+				<Content>Modulklasse: 10 + 2 x MK für Bearbeitungen an Gegenständen.</Content>
 				<Br />
-				<Content>Begabung: 10 + 2 x Konstitution für Modifizierungen an Charakteren.</Content>
+				<Content>Begabung: 10 + 2 x Konstitution für Bearbeitungen an Charakteren.</Content>
 				<Br />
-				<Content>Stress: 10 + Stress für Modifizierungen am Stresswert</Content>
+				<Content>Stress: 10 + Stress für Bearbeitungen am Stresswert</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2105,7 +2106,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Jede Modifizierung erfordert ein zur Situation passendes Werkzeug. Ohne Werkzeug ist keine Modifizierung möglich.</Content>
+				<Content>Jede Bearbeitung erfordert ein zur Situation passendes Werkzeug. Ohne Werkzeug ist keine Bearbeitung möglich.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2129,8 +2130,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeldAufzählung">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Physisch: Die unmittelbare Umgebung nach Gegenständen, Pers</Content>
-				<Content>onen oder Spuren absuchen.</Content>
+				<Content>Physisch: Die unmittelbare Umgebung nach Gegenständen, Personen oder Spuren absuc</Content>
+				<Content>hen.</Content>
 				<Br />
 				<Content>Technisch: Mittels Sensoren oder anderen technischen Hilfsmitteln das elektromagnetische Spektrum, Geräusche und Material in jedem Aggregatszustand untersuchen.</Content>
 				<Br />
@@ -2341,7 +2342,7 @@
 					<Cell Self="u99560id939ei6e" Name="2:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="5.669291338582678" TextLeftInset="5.669291338582678" TextBottomInset="5.669291338582678" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" ClipContentToCell="false">
 						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenformate%3aTabellenkopf">
 							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-								<Content>Modifizieren</Content>
+								<Content>Bearbeitung</Content>
 							</CharacterStyleRange>
 						</ParagraphStyleRange>
 					</Cell>
@@ -3390,34 +3391,15 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Überschriften%3aHeading 2">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Modifikatoren</Content>
+				<Content>Proben anpassen</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>In den Regeln wird von drei Arten von Modifikatoren gesprochen: Würfelpoolmodifkatoren, einer Modifikation des Ergebnisses oder einer Modifikation des Schwierigkeitsgrades.</Content>
-				<Br />
+				<Content>Ob ein Charakter im Vor- oder Nachteil ist, zeigt Dark Space durch Erleichterte, Erschwerte oder Verzweifelte Proben. Würfelpool, Boni und Schwierigkeitsgrade werden dabei nicht verändert.</Content>
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Regeltexte%3aRegelfeld">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Würfelpoolmodifkatoren: Würfelpoolmodifkatoren erhöhen oder verringern die Anzahl an Würfeln, die geworfen werden. Die Notation lautet zum Beispiel +2W (für zwei zusätzliche Würfel) oder -1W (wenn ein Würfel entfernt wird).</Content>
-				<Br />
-				<Content>Ergebnismodifiaktoren: Wird eine Notation verwendet wie “Ergebnis +2” oder “verringert das Ergebnis um 3” wird in diesen Beispielen das Ergebnis einer Probe (also Summe der zwei höchsten Würfel plus Fertigkeit) um 2 erhöht oder um 3 gesenkt. </Content>
-				<Br />
-				<Content>Schwierigkeitsmodifikatoren: Wird von “der Schwierigkeitsgrad erhöht sich um 3” wird eine Probe um 3 schwerer zu bestehen. </Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Obwohl es selten einen Unterschied macht, ob die Schwierigkeit oder das Ergebnis einer Probe verändert wird, handelt es sich um zwei unterschiedliche Bedingungen. Wird der Schwierigkeitsgrad verändert, verändern sich die Umweltbedingunge</Content>
-				<Content>n in einer Weise, die alle Charaktere betrifft.</Content>
-				<Br />
-				<Content>Wird das Ergebnis verändert, ist der Charakter in einer Situation, die den Erfolg absolut wahrscheinlicher bzw. unwahrscheinlicher macht.</Content>
-				<Br />
-				<Content>Wird der Würfelpool verändert, hat nur der betreffende Charakter etwas an sich, das sich auf die Probe auswirkt.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -3477,7 +3459,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
 				<Content>Der höchste Würfel wird ignoriert.</Content>
 				<Br />
-				<Content>Würden dadurch keine Würfel mehr übrig bleiben, wird stattdessen eine verzweifelte Probe (seihe unten) abgelegt.</Content>
+				<Content>Würden dadurch keine Würfel mehr übri</Content>
+				<Content>g bleiben, wird stattdessen eine verzweifelte Probe (seihe unten) abgelegt.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
